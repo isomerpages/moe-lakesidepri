@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff.md
       - School Executive Committee.md
