@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - Our Pride.md
       - From the Principal's Desk.md
       - School Information.md
