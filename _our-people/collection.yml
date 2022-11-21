@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Allied Educators & SEN Officers.md
       - Teaching Staff.md
       - School Executive Committee.md
