@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Letter to Parents.md
       - General Information.md
       - School Rules.md
       - Grading Schemes of Core Examination Subjects.md
