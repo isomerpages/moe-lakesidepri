@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Group Personal Accident Insurance.md
-      - Primary 1 (2023).md
-      - MOE Sexuality Education.md
-      - Letter to Parents.md
       - General Information.md
       - School Rules.md
       - Grading Schemes of Core Examination Subjects.md
       - Calendar of Events.md
+      - Letter to Parents.md
+      - MOE Sexuality Education.md
+      - Primary 1 (2023).md
+      - Group Personal Accident Insurance.md
