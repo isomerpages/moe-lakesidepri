@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - School Rules.md
       - General Information.md
