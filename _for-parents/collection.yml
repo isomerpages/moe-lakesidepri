@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Primary 1 (2023).md
       - MOE Sexuality Education.md
       - Letter to Parents.md
       - General Information.md
