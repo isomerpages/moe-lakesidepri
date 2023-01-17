@@ -3,7 +3,6 @@ title: General Information
 permalink: /for-parents/general-information/
 description: ""
 ---
-
 **GENERAL INFORMATION**
 
 **1.**&nbsp;&nbsp;&nbsp; **SCHOOL HOURS**
@@ -300,7 +299,7 @@ Fri: 12.50pm – 1.30pm
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;">(Open on Monday,12pm-3pm)<b></b></span></p></td></tr></tbody></table>
 
-In the event that Lakeside Primary School Dental Clinic is closed, pupils who require&nbsp;EMERGENCY&nbsp;dental treatment can call any of the buddy clinics (see below) for an appointment.
+In the event that Lakeside Primary School Dental Clinic is closed, pupils who require EMERGENCY dental treatment can call any of the buddy clinics (see below) for an appointment.
 
 <table style="width:626.25pt;margin-left:48.0pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
