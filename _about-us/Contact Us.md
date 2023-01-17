@@ -12,7 +12,7 @@ description: ""
 </div>
   <br>
 	<div>
-	<table style="border: 1px; width: 773px;">
+	<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 	<tr>
 	<td><b>Address</b></td>
 	<td>161 Corporation Walk Singapore 618310</td>
