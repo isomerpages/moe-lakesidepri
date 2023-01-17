@@ -16,7 +16,8 @@ To fulfil our hopes and vision for our students at Lakeside Primary, the commitm
   
 
   
-
+<div><img src="/images/Home/Mrs%20Finella%20Goh.png" style="width: 148px; height: 193px; align= left;"><br>
+</div>
 Mrs Finella Goh
 
 **Principal**
