@@ -3,7 +3,6 @@ title: From the Principal's Desk
 permalink: /about-us/from-the-principals-desk/
 description: ""
 ---
-
 At Lakeside Primary, we strongly believe that “Every Individual **CAN**!” – can **C**ontribute, can **A**chieve, and can be **N**urtured. Thus every child who enters the gates of Lakeside Primary is engaged in a plethora of specially designed programmes and activities in a vibrant learning environment, to provide him/her with opportunities to be curious, to explore and develop holistically.
 
   
