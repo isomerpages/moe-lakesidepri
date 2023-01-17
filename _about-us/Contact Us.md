@@ -14,28 +14,28 @@ description: ""
 	<div>
 	<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 	<tr>
-	<td><b>Address</b></td>
-	<td>161 Corporation Walk Singapore 618310</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><b>Address</b></td>
+	<td style="border: 1px solid rgb(42, 42, 42);">161 Corporation Walk Singapore 618310</td>
 	</tr>
 	<tr>
-	<td><b>Bus</b></td>
-	<td>30, 49, 98, 98M</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><b>Bus</b></td>
+	<td style="border: 1px solid rgb(42, 42, 42);">30, 49, 98, 98M</td>
 	</tr>
 	<tr>
-	<td><b>Nearest MRT Station</b></td>
-	<td>Lakeside</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><b>Nearest MRT Station</b></td>
+	<td style="border: 1px solid rgb(42, 42, 42);">Lakeside</td>
 	</tr>
 	<tr>
-	<td><b>Office</b></td>
-	<td>62620918</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><b>Office</b></td>
+	<td style="border: 1px solid rgb(42, 42, 42);">62620918</td>
 	</tr>
 	<tr>
-	<td><b>Fax</b></td>
-	<td>62621021</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><b>Fax</b></td>
+	<td style="border: 1px solid rgb(42, 42, 42);">62621021</td>
 	</tr>	
 	<tr>
-	<td><b>Email</b></td>
-	<td>lakeside_ps@moe.edu.sg</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><b>Email</b></td>
+	<td style="border: 1px solid rgb(42, 42, 42);">lakeside_ps@moe.edu.sg</td>
 	</tr>	
 	</table>
 	</div>
