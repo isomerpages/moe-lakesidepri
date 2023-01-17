@@ -4,17 +4,10 @@ permalink: /about-us/from-the-principals-desk/
 description: ""
 ---
 <br>
-<div>
-<div><img style="width: 148px; height: 193px;" class="ive_eobj_left" alt="Mrs Finella Goh.png" src="/images/Home/Mrs%20Finella%20Goh.png"><br>
+
+<div><img src="/images/Home/Mrs%20Finella%20Goh.png" alt="Mrs Goh.png" style="width: 148px; height: 193px; float: left; margin-right: 15px;"><br>
 </div>
-<div>
-</div>
-<div><br>
-</div>
-<div><br>
-</div>
-<div><br>
-</div>
+
 <div>At Lakeside Primary, we strongly believe that “Every Individual <b><u>CAN</u></b>!” – can <b><u>C</u></b>ontribute, can <b><u>A</u></b>chieve, and can be <b><u>N</u></b>urtured. Thus every child who enters the gates of Lakeside Primary is engaged in a plethora of specially designed programmes and activities in a vibrant learning environment, to provide him/her with opportunities to be curious, to explore and develop holistically.
 </div>
 <div><br>
