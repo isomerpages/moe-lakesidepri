@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Lakeside Primary School
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/Home/LSPS-Banner 2022.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -39,4 +39,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
