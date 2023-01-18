@@ -119,22 +119,15 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 </tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Bookshop<br>(Mrs Lim)</b></td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P1%202023%20Booklist.pdf" target="_blank">P1</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P2%202023%20Booklist.pdf" target="_blank">P2</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P3%202023%20Booklist.pdf" target="_blank">P3</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P4%202023%20Booklist.pdf" target="_blank">P4</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P5%202023%20Booklist.pdf" target="_blank">P5</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P6%202023%20Booklist.pdf" target="_blank">P6</a></li></ul></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P1%202023%20Booklist.pdf" target="_blank">Primary 1</a><br><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P2%202023%20Booklist.pdf" target="_blank">Primary 2</a><br><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P3%202023%20Booklist.pdf" target="_blank">Primary 3</a><br><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P4%202023%20Booklist.pdf" target="_blank">Primary 4</a><br><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P5%202023%20Booklist.pdf" target="_blank">Primary 5</a><br><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P6%202023%20Booklist.pdf" target="_blank">Primary 6</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6565 5183 /<br>9220 6270 (HP)<br>65651976 (Fax)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td>
 </tr>
 <tr >
 <td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Dental Clinic<br>(Ms Lee Tong Fui and Ms Cindy Chew)<br></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">91149842</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Open on Mon-Thurs, 8am-5pm<br>Open on Fri, 8am-5.30pm<br></span><i><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">(1-2pm lunch break)</span></i><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Open on Mon-Thurs, 8am-5pm<br>Open on Fri, 8am-5.30pm<br><i><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">(1-2pm lunch break)</span></i></td>
 </tr>
 <td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bus Co-ordinator<br>(Ms Vivian Tan)&nbsp;</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9743 9235 (HP) / 6665 0798 (Fax)</td>
