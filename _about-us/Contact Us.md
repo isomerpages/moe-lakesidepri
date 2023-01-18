@@ -35,7 +35,7 @@ description: ""
 	</tr>	
 	<tr>
 	<td style="border: 1px solid rgb(42, 42, 42);"><b>Email</b></td>
-	<td style="border: 1px solid rgb(42, 42, 42);">lakeside_ps@moe.edu.sg</td>
+	<td style="border: 1px solid rgb(42, 42, 42);"><i style="font-size:12pt; color: rgb(237, 125, 49);">lakeside_ps@moe.edu.sg</i></td>
 	</tr>	
 	</table>
 	</div>
