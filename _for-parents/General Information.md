@@ -7,8 +7,10 @@ GENERAL INFORMATION
 
 1.	SCHOOL HOURS
       
-<table style="width:469.95pt;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="627" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.85pt"><td style="width:45.3pt;border:solid windowtext 1.0pt;mso-border-alt:
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr>
+<td style="width:45.3pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="60"></td><td style="width:76.95pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="103"><p style="margin-bottom:0cm;text-align:center;
