@@ -3,7 +3,6 @@ title: Grading Schemes of Core Examination Subjects
 permalink: /for-parents/grading-schemes-of-core-examination-subjects/
 description: ""
 ---
-<br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
@@ -26,6 +25,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<br>
 <br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
