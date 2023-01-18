@@ -69,86 +69,53 @@ From 2021, PSLE will be scored with Achievement Levels (ALs) of 1 to 8 in the st
 <th colspan="2" style="width: 271px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Primary 5 and Primary 6<br>Foundation Subjects</th>
 </tr>
 <tr>
-<td style="text-align: center; width: 60px;"><b>AL</b>
-</td>
-<td style="text-align: center; width: 60px;"><b>Mark Range</b>
-</td>
-<td style="text-align: center; width: 60px;"><b>AL</b>
-</td>
-<td style="text-align: center; width: 60px;"><b>Mark Range</b>
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>AL</b></td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Mark Range</b></td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>AL</b></td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Mark Range</b></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 60px;">1
-</td>
-<td style="text-align: center; width: 60px;"><u>&gt;</u>&nbsp;90
-</td>
-<td style="text-align: center; " colspan="2">-
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>&gt;</u>&nbsp;90</td>
+<td colspan="2" style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">-</td>
 </tr>
 <tr>
-<td style="text-align: center;">2
-</td>
-<td style="text-align: center;">&nbsp;85 - 89
-</td>
-<td colspan="2" style="text-align: center;">-
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">85 - 89</td>
+<td colspan="2" style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">-</td>
 </tr>
 <tr>
-<td style="text-align: center;">3
-</td>
-<td style="text-align: center;">&nbsp;80 - 84
-</td>
-<td colspan="2" style="text-align: center;">-
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">3</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">80 - 84</td>
+<td colspan="2" style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">-</td>
 </tr>
 <tr>
-<td style="text-align: center;">4
-</td>
-<td style="text-align: center;">&nbsp;75 - 79
-</td>
-<td colspan="2" style="text-align: center;">-
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">4</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">75 - 79</td>
+<td colspan="2" style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">-</td>
 </tr>
 <tr>
-<td style="text-align: center;">5
-</td>
-<td style="text-align: center;">&nbsp;65 - 74
-</td>
-<td colspan="2" style="text-align: center; ">-
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">5</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">65 - 74</td>
+<td colspan="2" style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">-</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;6
-</td>
-<td style="text-align: center;">&nbsp;45 - 64
-</td>
-<td style="text-align: center;">&nbsp;A
-</td>
-<td style="text-align: center;">&nbsp;<u>&gt;</u>&nbsp;75
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">45 - 64</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">A</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>&gt;</u>&nbsp;75</td>
 </tr>
 <tr>
-<td style="text-align: center;">7
-</td>
-<td style="text-align: center;">&nbsp;20 - 44
-</td>
-<td style="text-align: center;">&nbsp;B
-</td>
-<td style="text-align: center;">&nbsp;30 - 74
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">7</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">20 - 44</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">B</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">30 - 74</td>
 </tr>
 <tr>
-<td style="text-align: center;">8
-</td>
-<td style="text-align: center;">&nbsp;&lt; 20
-</td>
-<td style="text-align: center;">&nbsp;C
-</td>
-<td style="text-align: center;">&nbsp;&lt; 30
-</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">8</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">&lt; 20</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">C</td>
+<td style="text-align: center; width: 60px; padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">&lt; 30</td>
 </tr>
 </tbody>
-</table><br>
-<br>
-<br>
+</table>
