@@ -14,7 +14,7 @@ description: ""
 </li>
 <li><a href="https://portal.mims.moe.gov.sg" target="_blank">MIMS Portal</a>
 </li>
-<li><a href="https://idm.opal2.moe.edu.sg/" target="_blank">OPAL&nbsp;2.0</a>
+<li><a href="https://idm.opal2.moe.edu.sg/" target="_blank">OPAL 2.0</a>
 </li>
 <li><a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a>
 </li>
