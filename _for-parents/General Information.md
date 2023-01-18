@@ -10,33 +10,15 @@ GENERAL INFORMATION
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
-<td style="width:45.3pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="60"></td><td style="width:76.95pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="103"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Monday</span></b></p></td><td style="width:68.55pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="91"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Tuesday</span></b></p></td><td style="width:98.65pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="132"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Wednesday</span></b></p></td><td style="width:90.2pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="120"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Thursday</span></b></p></td><td style="width:90.2pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt" width="120"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Friday</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:46.15pt"><td style="width:45.3pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:46.15pt" width="60"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Start</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td style="width:424.65pt;border-top:none;border-left:
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">&nbsp;</td>
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Monday</td>
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Tuesday</td>
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Wednesday</td>
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Thursday</td>
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Friday</td>
+</tr>
+<tr>
+<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Start</b></td><td style="width:424.65pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:46.15pt" colspan="5" width="566"><p style="margin-bottom:0cm;text-align:center;
