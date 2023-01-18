@@ -8,20 +8,23 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Lakeside Primary School
-      subtitle: Hero subtitle
+      subtitle: A Life-Long Learner. A Virtuous Leader.
       background: /images/Home/LSPS-Banner 2022.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: ABOUT US
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: OUR PEOPLE
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: OUR LAKESIDE EDUCATION
           description: Page A is important too
           url: /privacy/
+        - title: FOR PARENTS
+          description: Key Highlight description
+          url: ""
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
