@@ -5,7 +5,7 @@ description: ""
 ---
 GENERAL INFORMATION
 
-1.	SCHOOL HOURS
+<span>1. SCHOOL HOURS</span>
       
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
@@ -59,7 +59,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
  ii.&nbsp;No right turn into the school from Corporation Walk
 
 
-2.	SCHOOL RECESS AND LUNCH TIME
+<span>2. SCHOOL RECESS AND LUNCH TIME</span>
          
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
@@ -87,7 +87,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
  2.3 Used crockery and cutlery must be returned to the designated receptacles.<br>
  2.4 Students are to keep the canteen clean and litter-free.
  
- 3.	SCHOOL BAGS AND PERSONAL BELONGINGS
+ <span>3. SCHOOL BAGS AND PERSONAL BELONGINGS</span>
 
 3.1 Students are expected to take responsibility for all their personal belongings. The school shall not be liable for the loss of any personal valuables.<br>
 3.2 Students are advised to pack their bags according to their class timetable to avoid carrying heavy schoolbags. A storybook must be available for Silent Reading every day.<br>
@@ -100,14 +100,14 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 3.5 Non-adherence to the above guidelines may result in the confiscation of the mobile phones and/or any other unauthorised electronic devices. These items may also be subjected to investigations. Any confiscated valuables will be returned to the child or his/ her parent at an appropriate time.
 
 
-4.	VISITORS TO SCHOOLS
+<span>4. VISITORS TO SCHOOLS</span>
 
 4.1 For the safety of our students, all visitors MUST collect a Visitor’s Pass from the security post and report to the General Office.<br>
 4.2 Parents/Guardians dropping off or fetching their children should wait at the Parents’ Waiting Area.<br>
 4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available at our school website.
 
 
-5.	Useful Contact Numbers
+<span>5. Useful Contact Numbers<span>
     
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
@@ -174,6 +174,7 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 </tr>
 </tbody>
 </table>
+<br>
 
-6.	Waitlist <br>
-Click [HERE](https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/P1%202023/Vacancy-Waitlist-APPLICATN-Form_2022.docx) to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
+<span>6. Waitlist</span><br>
+Click <a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/P1%202023/Vacancy-Waitlist-APPLICATN-Form_2022.docx)" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
