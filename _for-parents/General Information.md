@@ -10,85 +10,55 @@ GENERAL INFORMATION
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">&nbsp;</td>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Monday</td>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Tuesday</td>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Wednesday</td>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Thursday</td>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Friday</td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">&nbsp;</td>
+<td width="129" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Monday</td>
+<td width="129" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Tuesday</td>
+<td width="129" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Wednesday</td>
+<td width="129" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Thursday</td>
+<td width="129" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Friday</td>
 </tr>
 <tr>
-<td width="70" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Start</b></td><td style="width:424.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:46.15pt" colspan="5" width="566"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">7.30am</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:36.1pt"><td style="width:45.3pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:36.1pt" width="60"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">End</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:36.1pt" colspan="4"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">1.25pm</span></p></td><td style="width:90.2pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.1pt" width="120"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">1.10pm</span></p></td></tr></tbody></table>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Start</b></td>
+<td width="645" colspan="5" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">7.30am</td>
+</tr>
+<tr>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>End</b></td>
+<td width="516" colspan="4" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1.25pm</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1.10pm</td>
+</tr>
+</tbody>
+</table>
      
 	
 1.1 All students are strongly encouraged to settle down in the assembly area at least 15 minutes before the start of school to get ready for the school day.
 
 
 1.2 Gate Opening Hours
-<table style="width:445.1pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="593" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:36.25pt"><td style="width:106.6pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.25pt" valign="top" width="142"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">School Gates</span></b></p></td><td style="width:184.25pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.25pt" valign="top" width="246"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Main Gate</span></b></p></td><td style="width:154.25pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.25pt" valign="top" width="206"><p style="margin-bottom:7.5pt;text-align:center;
-  line-height:18.0pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Back Gate (Bus-stop)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:39.1pt"><td style="width:106.6pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt" valign="top" width="142"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Opening Hours</span></p></td><td style="width:184.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt" valign="top" width="246"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">6.15am - 6.30pm*</span></p></td><td style="width:154.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:39.1pt" valign="top" width="206"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:48.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level2 lfo1;
-  tab-stops:list 72.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">6.30am - 7.30am</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:48.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level2 lfo1;
-  tab-stops:list 72.0pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Daily Dismissal Time</span></p></td></tr></tbody></table>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr>
+<td width="257" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>School Gates</b></td>
+<td width="258" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Main Gate</b></td>
+<td width="258" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Back Gate (Bus-stop)</b></td>
+</tr>
+<tr>
+<td width="257" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Opening Hours</td>
+<td width="258" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6.15am - 6.30pm*</td>
+<td width="258" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6.30am - 7.30am<br>Daily Dismissal Time</td>
+</tr>
+</tbody>
+</table>
 
-        
-*Main Gate will be closed at the following dismissal times or earlier when the parking spaces are full. Only school buses are allowed into the school.<br>
+<div width="257">        
+*Main Gate will be closed at the following dismissal times or earlier when the parking spaces are full. <br>
+Only school buses are allowed into the school.<br>
 * Mon to Thu: 1.10pm – 1.45pm&nbsp;<br>
 * Fri: 12.50pm – 1.30pm
 
 1.3 For safety reasons and a smoother traffic flow, on weekdays between 7.00am – 7.30am: <br>
   i.&nbsp;&nbsp;Cars coming from Kang Ching Road cannot enter the school main gate. <br>
  ii.&nbsp;No right turn into the school from Corporation Walk
+	<div>
 
 2.	SCHOOL RECESS AND LUNCH TIME
          
