@@ -49,77 +49,38 @@ GENERAL INFORMATION
 </tbody>
 </table>
 
-<div width="257">        
-*Main Gate will be closed at the following dismissal times or earlier when the parking spaces are full. <br>
-Only school buses are allowed into the school.<br>
+ 
+Main Gate will be closed at the following dismissal times or earlier when the parking spaces are full. Only school buses are allowed into the school.<br>
 * Mon to Thu: 1.10pm – 1.45pm&nbsp;<br>
 * Fri: 12.50pm – 1.30pm
 
 1.3 For safety reasons and a smoother traffic flow, on weekdays between 7.00am – 7.30am: <br>
   i.&nbsp;&nbsp;Cars coming from Kang Ching Road cannot enter the school main gate. <br>
  ii.&nbsp;No right turn into the school from Corporation Walk
-	<div>
+
 
 2.	SCHOOL RECESS AND LUNCH TIME
          
-<table style="width:254.9pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="340" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.25pt"><td style="width:99.0pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="132"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">Level</span></b><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p></td><td style="width:155.9pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">Mon-Fri</span></b><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p></td></tr><tr style="mso-yfti-irow:1;height:27.25pt"><td style="width:99.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="132"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">P5-P6</span><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1"></span></p></td><td style="width:155.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">9.10am&nbsp;–&nbsp;9.40am</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1"></span></p></td></tr><tr style="mso-yfti-irow:2;height:27.25pt"><td style="width:99.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="132"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">P1-P2</span><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1"></span></p></td><td style="width:155.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">9.40am&nbsp;– 10.10am</span><span style="font-size:
-  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:27.25pt"><td style="width:99.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="132"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">P3-P4</span><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1"></span></p></td><td style="width:155.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:27.25pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  letter-spacing:-.05pt">10.10am&nbsp;–&nbsp;10.20am</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1"></span></p></td></tr></tbody></table>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Level</b></td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Mon-Fri</b></td>
+</tr>
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P5-P6</td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.10am&nbsp;–&nbsp;9.40am</td>
+</tr>
+<tr >
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P1-P2</td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.40am&nbsp;– 10.10am</td>
+</tr>
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P3-P4</td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">0.10am&nbsp;–&nbsp;10.20am</td>
+</tr>
+</tbody>
+</table>
 	       
  2.1 Food and drinks should only be consumed in the canteen.<br>
  2.2 Students are to queue up in an orderly manner and take turns to purchase their food and drink.<br>
@@ -148,157 +109,71 @@ Only school buses are allowed into the school.<br>
 
 5.	Useful Contact Numbers
     
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="765" style="width:574.1pt;margin-left:73.75pt;border-collapse:collapse;border:none;
- mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
- .5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="179" style="width:134.45pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Contact Person</span></b></p></td><td width="123" style="width:92.1pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">&nbsp;Booklist</span></b></p></td><td width="195" style="width:146.45pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Contact Numbers</span></b></p></td><td width="268" style="width:201.1pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Opening Hours</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="179" style="width:134.45pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Bookshop<br>(Mrs Lim)<b></b></span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;
-       font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P1%202023%20Booklist.pdf" target="_blank"><span style="color:#F5631C">P1</span></a><b></b></span></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;
-       font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P2%202023%20Booklist.pdf" target="_blank"><span style="color:#F5631C">P2</span></a><b></b></span></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;
-       font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P3%202023%20Booklist.pdf" target="_blank"><span style="color:#F5631C">P3</span></a><b></b></span></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;
-       font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P4%202023%20Booklist.pdf" target="_blank"><span style="color:#F5631C">P4</span></a><b></b></span></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;
-       font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P5%202023%20Booklist.pdf" target="_blank"><span style="color:#F5631C">P5</span></a><b></b></span></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
-       l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:12.0pt;
-       font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P6%202023%20Booklist.pdf" target="_blank"><span style="color:#F5631C">P6</span></a><b></b></span></li></ul></td><td width="195" style="width:146.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">6565 5183 /<br>9220 6270 (HP)<br>65651976 (Fax)<b></b></span></p></td><td width="268" style="width:201.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com<b></b></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="302" colspan="2" style="width:226.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Dental Clinic<b><br></b>(Ms Lee Tong Fui and Ms Cindy Chew)<br><b>&nbsp;</b></span></p></td><td width="195" style="width:146.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">91149842<b></b></span></p></td><td width="268" style="width:201.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Open on Mon-Thurs, 8am-5pm<br>Open on Fri, 8am-5.30pm<br></span><i><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr>
+<td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Person</b></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Booklist</b></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Numbers</b></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Opening Hours</b></td>
+</tr>
+<tr>
+<td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Bookshop<br>(Mrs Lim)</b></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
+       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P1%202023%20Booklist.pdf" target="_blank">P1</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
+       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P2%202023%20Booklist.pdf" target="_blank">P2</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
+       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P3%202023%20Booklist.pdf" target="_blank">P3</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
+       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P4%202023%20Booklist.pdf" target="_blank">P4</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
+       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P5%202023%20Booklist.pdf" target="_blank">P5</a></li><li class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-list:
+       l0 level1 lfo1;tab-stops:list 36.0pt"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/BOOKLIST/P6%202023%20Booklist.pdf" target="_blank">P6</a></li></ul></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6565 5183 /<br>9220 6270 (HP)<br>65651976 (Fax)</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td>
+</tr>
+<tr >
+<td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Dental Clinic<br>(Ms Lee Tong Fui and Ms Cindy Chew)<br></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">91149842</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Open on Mon-Thurs, 8am-5pm<br>Open on Fri, 8am-5.30pm<br></span><i><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;">(1-2pm lunch break)</span></i><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:3"><td width="302" colspan="2" style="width:226.55pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Bus Co-ordinator<br>(Ms Vivian Tan)&nbsp;<b>&nbsp;</b></span></p></td><td width="195" style="width:146.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:18.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">9743 9235 (HP) /<b></b></span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:18.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6665 0798 (Fax)<b></b></span></p></td><td width="268" style="width:201.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="179" style="width:134.45pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">&nbsp;</span></b><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">Uniform Supplier<br>(Jeep Sing Fashion)&nbsp;<b></b></span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">&nbsp;</span></b><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/Uniform%20Pamphlet.pdf" target="_blank"><span style="color:#F5631C">Uniform Pamphlet</span></a><b></b></span></p></td><td width="195" style="width:146.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">6456 3198<b></b></span></p></td><td width="268" style="width:201.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">(Open on Monday,12pm-3pm)<b></b></span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;"></span></td>
+</tr>
+<td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bus Co-ordinator<br>(Ms Vivian Tan)&nbsp;</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9743 9235 (HP) / 6665 0798 (Fax)</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"></td>
+</tr>
+<tr>
+<td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Uniform Supplier<br>(Jeep Sing Fashion)&nbsp;</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a href="https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/Uniform%20Pamphlet.pdf" target="_blank">Uniform Pamphlet</a></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6456 3198</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td>
+</tr>
+</tbody>
+</table>
 	
 In the event that Lakeside Primary School Dental Clinic is closed, pupils who require EMERGENCY dental treatment can call any of the buddy clinics (see below) for an appointment.
 
-<table style="width:496.1pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="661" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:201.5pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="269"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Dental Clinic</span></b></p></td><td style="width:141.15pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Telephone</span></b></p></td><td style="width:153.45pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Operating Hours</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:201.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="269"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Boon Lay Garden Primary School<b></b></span></p></td><td style="width:141.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">67957542<b></b></span></p></td><td style="width:153.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Mon, Tues &amp; Fri<b></b></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:201.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="269"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Rulang Primary School<b></b></span></p></td><td style="width:141.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">65617150<b></b></span></p></td><td style="width:153.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Mon, Tues &amp; Wed<b></b></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:201.5pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="269"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Bukit View Primary School<b></b></span></p></td><td style="width:141.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="188"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">65674745<b></b></span></p></td><td style="width:153.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="205"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Wed &amp; Fri<b></b></span></p></td></tr></tbody></table>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Dental Clinic</b></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Telephone</b></td>
+<td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Operating Hours</b></td>
+</tr>
+<tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Boon Lay Garden Primary School</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">67957542</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon, Tues &amp; Fri</td>
+</tr>
+<tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rulang Primary School</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">65617150</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon, Tues &amp; Wed</td>
+</tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bukit View Primary School</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">65674745</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Wed &amp; Fri</td>
+</tr>
+</tbody>
+</table>
 
 6.	Waitlist <br>
 Click [HERE](https://lakesidepri-moe-edu-sg-admin.cwp.sg/qql/slot/u174/Parents/P1%202023/Vacancy-Waitlist-APPLICATN-Form_2022.docx) to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
