@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Lakeside Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -36,3 +36,4 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
