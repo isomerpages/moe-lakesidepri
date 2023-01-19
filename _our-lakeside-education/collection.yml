@@ -4,6 +4,6 @@ collections:
     order:
       - Departments/.keep
       - Departments/English Language.md
-      - Departments/MATHEMATICS.md
+      - Departments/Mathematics.md
       - Departments/SCIENCE.md
       - Signature Programmes.md
