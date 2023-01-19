@@ -11,7 +11,7 @@ We aim to develop students to be effective and confident communicators by cultiv
 <b>Overview:</b>
 <br>
 We make use of STrategies for English Language Learning And Reading (STELLAR) to help our students become proficient users of the English Language. The curriculum is divided into two blocks. A set of strategies is used from Primary One to the first semester of Primary Three while another set is used from the second semester of Primary Three to Primary Six.
-<br><br>
+<br>
 <ul>
 STELLAR Pedagogic Framework (P1 to P3a)<br>
 STELLAR Pedagogic Framework (P3b to P6)</ul>
