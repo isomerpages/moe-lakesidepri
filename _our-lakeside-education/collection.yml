@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Departments/.keep
       - English.md
       - Departments.md
       - Signature Programmes.md
