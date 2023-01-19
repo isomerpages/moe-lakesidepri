@@ -13,18 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: ABOUT US
+        - title: ANNOUNCEMENTS
           description: Important highlight A is important
           url: https://google.com
-        - title: OUR PEOPLE
+        - title: LATEST HAPPENINGS
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: OUR LAKESIDE EDUCATION
-          description: Page A is important too
-          url: /privacy/
-        - title: FOR PARENTS
-          description: Key Highlight description
-          url: ""
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
