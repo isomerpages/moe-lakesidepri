@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Mother Tongue Languages/.keep
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
