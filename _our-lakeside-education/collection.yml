@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Departments/Tamil Language.md
       - Departments/Malay Language.md
       - Departments/Chinese Language.md
       - Departments/.keep
