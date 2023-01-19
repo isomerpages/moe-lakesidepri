@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
+  - title: Our Lakeside Education
+    collection: our-lakeside-education
+  - title: For Parents
+    collection: for-parents
+  - title: Resources
+    collection: resources
