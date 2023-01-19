@@ -14,11 +14,11 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
-          description: Important highlight A is important
-          url: https://google.com
+          description: ""
+          url: ""
         - title: LATEST HAPPENINGS
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: ""
+          url: ""
   - infopic:
       title: Happy Chinese New Year
       alt: Image alt text
