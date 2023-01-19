@@ -2,10 +2,10 @@ collections:
   our-people:
     output: true
     order:
-      - Parent Support Group/.keep
       - School Executive Committee.md
       - Teaching Staff.md
       - Allied Educators & SEN Officers.md
       - Executive & Administrative Staff.md
       - Parent Support Group.md
+      - Parent Support Group/.keep
       - School Advisory Committee.md
