@@ -51,4 +51,7 @@ Overview of our approach
 <td width="128" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rhythm &amp; Beats (non-pitched and pitched instruments)</td><td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tap and Play Keyboard</td>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tap and Play Keyboard, GarageBand</td>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Strum and Play Ukulele</td>
-<td width="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center;">Perform as an interest group / ensemble</td></tr></tbody></table>
+<td width="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center;">Perform as an interest group / ensemble</td>
+</tr>
+</tbody>
+</table>
