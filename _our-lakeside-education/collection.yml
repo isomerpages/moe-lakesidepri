@@ -2,8 +2,8 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Departments/SCIENCE.md
-      - Departments/MATHEMATICS.md
-      - Departments/ENGLISH LANGUAGE.md
       - Departments/.keep
+      - Departments/ENGLISH LANGUAGE.md
+      - Departments/MATHEMATICS.md
+      - Departments/SCIENCE.md
       - Signature Programmes.md
