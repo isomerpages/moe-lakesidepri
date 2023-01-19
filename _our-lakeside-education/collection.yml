@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Departments/Information & Communication Technology (ICT).md
       - Departments/Student Development (Student Leadership).md
       - Departments/Student Development Team.md
       - Departments/Physical Education.md
