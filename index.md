@@ -23,4 +23,8 @@ sections:
       title: Happy Chinese New Year
       alt: Image alt text
       image: /images/Home/Pop Up/CNY 2023.png
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
