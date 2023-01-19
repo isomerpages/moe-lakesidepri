@@ -2,7 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Departments/Co Curricular Activities.md
       - Departments/Physical Education.md
       - Departments/Character And Citizenship Education (NE, SS, VIA, FGTP).md
       - Departments/.keep
