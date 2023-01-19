@@ -2,7 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Departments/STUDENT DEVELOPMENT (STUDENT LEADERSHIP).md
+      - Departments/Student Development (Student Leadership).md
       - Departments/Student Development Team.md
       - Departments/Physical Education.md
       - Departments/Character And Citizenship Education (NE, SS, VIA, FGTP).md
