@@ -2,8 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Departments/Music.md
-      - Departments/Arts.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
@@ -13,6 +11,8 @@ collections:
       - Departments/Tamil Language.md
       - Departments/Character And Citizenship Education (NE, SS, VIA, FGTP).md
       - Departments/Physical Education.md
+      - Departments/Arts.md
+      - Departments/Music.md
       - Departments/Student Development Team.md
       - Departments/Student Development (Student Leadership).md
       - Departments/Information & Communication Technology (ICT).md
