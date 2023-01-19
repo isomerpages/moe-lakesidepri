@@ -2,13 +2,13 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Departments/Information & Communication Technology (ICT).md
-      - Departments/Student Development (Student Leadership).md
-      - Departments/Student Development Team.md
-      - Departments/Physical Education.md
-      - Departments/Character And Citizenship Education (NE, SS, VIA, FGTP).md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
       - Departments/Science.md
+      - Departments/Character And Citizenship Education (NE, SS, VIA, FGTP).md
+      - Departments/Physical Education.md
+      - Departments/Student Development Team.md
+      - Departments/Student Development (Student Leadership).md
+      - Departments/Information & Communication Technology (ICT).md
       - Signature Programmes.md
