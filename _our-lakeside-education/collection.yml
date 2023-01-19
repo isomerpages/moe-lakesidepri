@@ -2,5 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - English.md
       - Departments.md
       - Signature Programmes.md
