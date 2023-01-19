@@ -1,9 +1,9 @@
-title: Title
+title: Lakeside Primary School
 url: https://lakesidepri.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f4e424"
-  secondary-color: "#4372d6"
+  primary-color: "#4a90e2"
+  secondary-color: "#f8e71c"
   media-colors:
     - title: media-color-one
       color: "#f5a623"
