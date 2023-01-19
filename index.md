@@ -20,9 +20,7 @@ sections:
           description: Important highlight B is equally important
           url: https://gmail.com
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Happy Chinese New Year
       alt: Image alt text
+      image: /images/Home/Pop Up/CNY 2023.png
 ---
