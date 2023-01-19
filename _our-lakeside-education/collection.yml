@@ -2,13 +2,13 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Departments/Tamil Language.md
-      - Departments/Malay Language.md
-      - Departments/Chinese Language.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
       - Departments/Science.md
+      - Departments/Chinese Language.md
+      - Departments/Malay Language.md
+      - Departments/Tamil Language.md
       - Departments/Character And Citizenship Education (NE, SS, VIA, FGTP).md
       - Departments/Physical Education.md
       - Departments/Student Development Team.md
