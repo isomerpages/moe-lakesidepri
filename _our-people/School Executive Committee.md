@@ -3,25 +3,26 @@ title: School Executive Committee
 permalink: /our-people/school-executive-committee/
 description: ""
 ---
-<br><br>
-<table border="0" cellpadding="0" cellspacing="0" width="837" style="width: 627pt;" class="ive_eobj_center iveo_table ives_tab_dark"><colgroup><col width="279" span="2" style="width: 209pt;"><col width="279" style="width: 209pt;"></colgroup>
-<tbody>
-<tr height="21" style="height: 16pt;">
-<td colspan="3" height="21" class="xl72" width="837" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-weight: 700; font-family: Arial, sans-serif; vertical-align: bottom; border: none; white-space: nowrap; text-align: center; height: 16pt; width: 627pt;">School Leaders
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+	
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+	
+<tr>
+<td width="773" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>School Leaders</b>
 </td>
 </tr>
-<tr height="23" style="height: 17pt;">
-<td height="23" class="xl68" width="279" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-weight: 700; font-family: Arial, sans-serif; vertical-align: middle; border: 0.5pt solid windowtext; text-align: center; height: 17pt; width: 209pt;">Name
+<tr>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Name</b>
 </td>
-<td class="xl68" width="279" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-weight: 700; font-family: Arial, sans-serif; vertical-align: middle; border-top-width: 0.5pt; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-style: solid solid solid none; border-top-color: windowtext; border-right-color: windowtext; border-bottom-color: windowtext; text-align: center; width: 209pt;">Designation
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Designation</b>
 </td>
-<td class="xl70" width="279" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgba(0, 0, 0, 0.847); font-size: 12pt; font-family: Arial, sans-serif; vertical-align: middle; border-top-width: 0.5pt; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-style: solid solid solid none; border-top-color: windowtext; border-right-color: windowtext; border-bottom-color: windowtext; text-align: center; width: 209pt;">Email Address
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Email Address
 </td>
 </tr>
-<tr height="23" style="height: 17pt;">
-<td height="23" class="xl67" width="279" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: Arial, sans-serif; vertical-align: middle; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-left-width: 0.5pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; text-align: center; height: 17pt; width: 209pt;">Mrs Finella Goh
+<tr>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Finella Goh
 </td>
-<td class="xl67" width="279" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 12pt; font-family: Arial, sans-serif; vertical-align: middle; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-style: none solid solid none; border-right-color: windowtext; border-bottom-color: windowtext; text-align: center; width: 209pt;">School-Principal
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">School-Principal
 </td>
 <td class="xl87" width="279" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(237, 125, 49); font-size: 11pt; font-style: italic; font-family: Arial, sans-serif; vertical-align: middle; border-right-width: 0.5pt; border-bottom-width: 0.5pt; border-style: none solid solid none; border-right-color: windowtext; border-bottom-color: windowtext; text-align: center; width: 209pt;">lakeside_ps@moe.edu.sg
 </td>
