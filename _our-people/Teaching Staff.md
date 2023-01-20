@@ -114,9 +114,7 @@ description: ""
 </table>
 <br><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-	
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-	
 <tr>
 <td width="623" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b style="font-size:14pt;">Primary 3</b></td>
 </tr>
@@ -164,9 +162,7 @@ description: ""
 </table>
 <br><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-	
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-	
 <tr>
 <td width="623" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b style="font-size:14pt;">Primary 4</b></td>
 </tr>
