@@ -20,33 +20,23 @@ STELLAR Pedagogic Framework (P3b to P6)</ul>
 <br><br>
 Here are some of the strategies we adopt for the teaching and learning of skills
 <br><br>
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-<tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Language Area</b></td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Strategies</b></td>
-</tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Strategies</b></td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Reading</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Shared Book Approach, Supported Reading, Know-Want to Know- Learnt (KWL), Retelling</td>
-</tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Shared Book Approach, Supported Reading, Know-Want to Know- Learnt (KWL), Retelling</td></tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Listening</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation and taking down of notes</td>
-</tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation and taking down of notes</td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Speaking</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Respond-Elaboration-Personal Experience-Suggestion (R-E-P-S) for Stimulus-based Conversation</td>
-</tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Respond-Elaboration-Personal Experience-Suggestion (R-E-P-S) for Stimulus-based Conversation</td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Writing</td>
-<td width="386" style="padding: 8px; text-align: left; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>Making Thinking Visible Strategy: “See-Think-Wonder” –</li><ul>For vocabulary generation and generation of ideas. Students look at given pictures and talk about what they see, what the pictures make them think of and what questions arise from the pictures.</ul><li>Making Thinking Visible Strategy: “ChalkTalk” –</li><ul>For exploring and unpacking the given theme. Students are guided to think more about the theme through given questions.</ul><li>Story Mountain as a structure for pre-writing planning</li></td>
-</tr>
+<td width="386" style="padding: 8px; text-align: left; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>Making Thinking Visible Strategy: “See-Think-Wonder” –</li><ul>For vocabulary generation and generation of ideas. Students look at given pictures and talk about what they see, what the pictures make them think of and what questions arise from the pictures.</ul><li>Making Thinking Visible Strategy: “ChalkTalk” –</li><ul>For exploring and unpacking the given theme. Students are guided to think more about the theme through given questions.</ul><li>Story Mountain as a structure for pre-writing planning</li></td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Language Use</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td>
-</tr>
-</tbody>
-</table>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td></tr></table>
 <br><br>
 <b>Key Programmes:</b><br><br>
 <u>P1 & P2 Phonics Infusion Programme</u><br>
