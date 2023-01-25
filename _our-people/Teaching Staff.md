@@ -114,7 +114,7 @@ description: ""
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3F</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Chua Lim Peng<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chua_lim_peng@moe.edu.sg</i></td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Noor Faiezabr><i style="font-size:11pt; color: rgb(237, 125, 49);">noor_faieza_noordin@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Noor Faiezabr<br><i style="font-size:11pt; color: rgb(237, 125, 49);">noor_faieza_noordin@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3G</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Florence Kong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ng_wai_fun_florence@moe.edu.sg</i></td>
