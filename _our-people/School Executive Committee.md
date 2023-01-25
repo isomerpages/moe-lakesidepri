@@ -3,8 +3,7 @@ title: School Executive Committee
 permalink: /our-people/school-executive-committee/
 description: ""
 ---
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="773" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>School Leaders</b></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Name</b></td>
@@ -25,8 +24,7 @@ description: ""
 </table>
 <br><br>
 
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Heads of Departments</b></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Kimberly Walker</td>
