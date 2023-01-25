@@ -122,9 +122,8 @@ description: ""
 <td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Examples:<br><ul>Littering<br>Late coming<br>Improper attire and grooming<br>Not doing assignments<br>Failing to bring classroom materials<br><b>Theft</b><br>Bullying<sup style="color:red;">1</sup><br>Cyberbullying<br>Fighting<br><b>Vandalism</b><br>Use of vulgarities<br>Cheating in tests/examinations<br>Open defiance/Disruptive behaviour<br>Truancy and leaving school grounds without permission</ul></td>
 <td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);"><span style="font-weight: normal;">Includes:<br><ul>Warning (Verbal/Written)<br>Parental involvement<br>Counselling<br>Loss of privileges which may include confiscation of mobile phones for purposes including investigations.<br>Compensation (for damage of public/personal property)<br>Corrective Work Order<br>Recess Detention<br><b>Suspension</b><br>Caning<br>Fair or Poor Conduct Grade<sup style="color:red;">2<br></sup>Referral to external agencies</ul></td></tr></table>
 
-<br><b>
-	
-<i>These lists are non-exhaustive.</i></b>
+<br>
+<b><i>These lists are non-exhaustive.</i></b>
 <br>
 <span style="color:red;"><sup>1 </sup></span>Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical, verbal or relational/social in nature.
 <br>
