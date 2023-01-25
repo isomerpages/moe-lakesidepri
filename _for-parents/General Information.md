@@ -109,64 +109,48 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 
 <span>5. Useful Contact Numbers<span>
     
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-<tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Person</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Booklist</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Numbers</b></td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Opening Hours</b></td>
-</tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Opening Hours</b></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Bookshop<br>(Mrs Lim)</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a href="https://for.edu.sg/erqibw" target="_blank">Primary 1</a><br><a href="https://for.edu.sg/w4urnr" target="_blank">Primary 2</a><br><a href="https://for.edu.sg/4x8gcg" target="_blank">Primary 3</a><br><a href="https://for.edu.sg/qsvmx2" target="_blank">Primary 4</a><br><a href="https://for.edu.sg/wqlpt4" target="_blank">Primary 5</a><br><a href="https://for.edu.sg/2hxnxu" target="_blank">Primary 6</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6565 5183 /<br>9220 6270 (HP)<br>65651976 (Fax)</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td>
-</tr>
-<tr >
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td></tr>
+<tr>
 <td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Dental Clinic<br>(Ms Lee Tong Fui and Ms Cindy Chew)<br></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">91149842</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Open on Mon-Thurs, 8am-5pm<br>Open on Fri, 8am-5.30pm<br><i><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">(1-2pm lunch break)</span></i></td>
-</tr>
+  mso-fareast-font-family:&quot;Times New Roman&quot;">(1-2pm lunch break)</span></i></td></tr>
 <td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bus Co-ordinator<br>(Ms Vivian Tan)&nbsp;</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9743 9235 (HP) / 6665 0798 (Fax)</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"></td>
-</tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Uniform Supplier<br>(Jeep Sing Fashion)&nbsp;</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a href="https://for.edu.sg/ajn2b4" target="_blank">Uniform Pamphlet</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6456 3198</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td>
-</tr>
-</tbody>
-</table>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td></tr></table>
 	
 In the event that Lakeside Primary School Dental Clinic is closed, pupils who require EMERGENCY dental treatment can call any of the buddy clinics (see below) for an appointment.
 
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-<tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Dental Clinic</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Telephone</b></td>
-<td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Operating Hours</b></td>
-</tr>
+<td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Operating Hours</b></td></tr>
 <tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Boon Lay Garden Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">67957542</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon, Tues &amp; Fri</td>
-</tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon, Tues &amp; Fri</td></tr>
 <tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rulang Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">65617150</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon, Tues &amp; Wed</td>
-</tr>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon, Tues &amp; Wed</td></tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bukit View Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">65674745</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Wed &amp; Fri</td>
-</tr>
-</tbody>
-</table>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Wed &amp; Fri</td></tr></table>
+
 <br>
 
 <span>6. Waitlist</span><br>
