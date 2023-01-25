@@ -26,6 +26,7 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Reading</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Shared Book Approach, Supported Reading, Know-Want to Know- Learnt (KWL), Retelling</td></tr>
+<tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Listening</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation and taking down of notes</td></tr>
 <tr>
