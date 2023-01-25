@@ -20,4 +20,8 @@ description: ""
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">1 Responsibility</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Quay Lay Nah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">quay_lay_nah@moe.edu.sg</i></td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Hairozan<br><i style="font-size:11pt; color: rgb(237, 125, 49);"><i style="font-size:11pt; color: rgb(237, 125, 49);">noor_hairozan_jumaat@moe.edu.sg</i></td></tr></table>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Hairozan<br><i style="font-size:11pt; color: rgb(237, 125, 49);"><i style="font-size:11pt; color: rgb(237, 125, 49);">noor_hairozan_jumaat@moe.edu.sg</i></td></tr>
+<tr>
+<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">1 Integrity</td>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Norsuhana<br><i style="font-size:11pt; color: rgb(237, 125, 49);">norsuhana_em@moe.edu.sg</i></td>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Genelle Lee<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lee_jia_yee@moe.edu.sg</i></td></tr></table>
