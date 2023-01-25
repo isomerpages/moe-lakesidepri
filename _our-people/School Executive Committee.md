@@ -24,6 +24,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">lakeside_ps@moe.edu.sg</i></td></tr>
 </table>
 <br>
+
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Heads of Departments</b></td></tr>
