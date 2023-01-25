@@ -3,9 +3,7 @@ title: Allied Educators & SEN Officers
 permalink: /our-people/allied-educators-sen-officers/
 description: ""
 ---
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-<tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Name</b></td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Role</b></td>
 <tr>
@@ -25,6 +23,4 @@ description: ""
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Allied Educator (Teaching & Learning)</td></tr>
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nur Nazihah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nur_nazihah_razali@moe.edu.sg</i></td>
-<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Allied Educator (Teaching & Learning)</td></tr>
-</tbody>
-</table>
+<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Allied Educator (Teaching & Learning)</td></tr></table>
