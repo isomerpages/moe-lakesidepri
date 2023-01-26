@@ -28,7 +28,7 @@ Overview of our approach
 <td width="79" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P6</td></tr>
 <tr>
 <td width="79" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Context</td>
-<td width="79" colspan="2"style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Self and Immediate Environment</td>
+<td width="79" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Self and Immediate Environment</td>
 <td width="79" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Singapore Past, Present and Future</td>
 <td width="79" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">The World and Region We Live in</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td width="79" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Visual Qualities</td>
