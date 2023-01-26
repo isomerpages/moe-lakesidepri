@@ -79,7 +79,7 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Shana D/O Siva (1-Ry)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver</td>
-<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Arissa Nurhumaira Binte Muhammad Haris (2F)<span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></td></tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Arissa Nurhumaira Binte Muhammad Haris (2F)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Halyza Arabelle Thomas (3G)</td></tr>
