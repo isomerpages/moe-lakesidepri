@@ -54,4 +54,20 @@ description: ""
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Honorable Mention</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Damien Tey (5E)</td></tr>
+<tr>
+<td width="208" rowspan="5" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">National Orienteering Race 2022 (Primary)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup>&nbsp; Place (Girls’ Division)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Kwan Qi En, Kaylan (6E)<br>Lim Yong Yun (5E)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup>&nbsp; Place (Girl’s Division)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tan Mer Ling (6B2)<br>Shiphra Ellysia (6E)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup>&nbsp; Place (Boys’ Division)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Audi Anaqi (6B2)<br>Eric Ng Hong Yi (5E)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">nd</sup>&nbsp; Place (Boys’ Division)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tan Xuan Ye (6E) &amp;<br>Callum Wong Joon Thang (4F)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place (Boys’ Division)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Jairus Devan (6E)<br>Mohamed Raiyan Fikry (6B2)</td></tr>
 </table>
