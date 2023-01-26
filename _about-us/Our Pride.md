@@ -93,4 +93,72 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">NRC - WRO ROBOMISSION<br>(PRIMARY CATEGORY)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Judges Award</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yap Zhi Leng (5F)<br>Nur Farzana Binte Shahrulnizam (5D)</td></tr>
+<tr>
+<td width="208" rowspan="9" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">NSG Rope Skipping</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Freestyle (Senior Girls)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ang Yixin, Joelle (6F)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Double Dutch&nbsp;<br>(Senior Boys)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yang Kai Jun Brian (6F)<br>Verrell Wong Shi Xuan (6A)<br>Pun Yi Wei (6D)<br>Feroz Zidane Nizam (6A)<br>Lee Sheng Kai (6A)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">SPSSC Sportsmanship Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lee Yu Xuan, Sandra 6(C)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Speed (Junior Boys)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Verdon Wong Shi Jing (5B)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">7<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Speed (Junior Boys)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Eric Ng Hong Yi (5E)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Double Under (Junior Boys)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Eric Ng Hong Yi (5E)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Team Speed Relay (Junior Boys)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Verdon Wong Shi Jing (5B)<br>Eric Ng Hong Yi (5E)<br>Tey Kai Ze, Damien (5E)<br>Teo Zi Yang, Xalan (4C)<br>Kannan Kishore (5F)<br>Toh Kean Yee (5F)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Speed (Junior Girls)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Velmurugan Haasini Nandhana (4F)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp;  Place for Team Speed Relay (Junior Girls)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lim Yong Yun (5E)<br>Velmurugan Haasini Nandhana (4F)<br>Sun Yutong (4E)<br>Lynn Chiang Xinyun (5F)<br>Estella Tay Ying En (5E)<br>Margaret Gabrielle Matira Ama (5C)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">NSG Volleyball</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Still Pending</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">&nbsp;</td></tr>
+<tr>
+<td width="208" rowspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">‘Our Schools, Our Stories’ 2022 Photo &amp; Video Contest</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Best Photo Story Award for<br>Junior Category<br>(United as One)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Huang Xintong (5E)<br>Rinzen Tan Kai Zhe (5E)<br>Woo Jie En Jayden (5F</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Honorable Mention Award for Junior category<br>(Video: What I go to School for)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ben Yap Zhi Leng (5F)<br>Remata Mahanth Reddy (5F)<br>Woo Jie En Jayden (5F)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Raffles Science Olympiad</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Merit Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Loh Jun Rui 5F</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Singapore Primary Science Olympiad</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Merit Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Suresh Kumar Pranav (5E)<br>Jannah Alisha Isa Gavin (5F)<br>Thirunavukkarasu Khanishka (5F)</td></tr>
+<tr>
+<td width="208" rowspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Singapore Thamizhar Eyakkam Tamilmozhi Vizha 2022.</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">st</sup>&nbsp; Place</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Shanmugam Sailakshmi (6G)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Consolation</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Velmurugan Harshavardhini (6G)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tamil Composition Writing Competition</td><td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Vijayan Akshatha Prathaa (4F)</td></tr>
+<tr>
+<td width="208" rowspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Visual-Spatial Mathlympics</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Leong Guang Yi Mitsuki<br>Wang Li Xuan Sabriel</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chong Hong Xuan</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">SYF Arts Presentation</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Certificate of Participation in SYF Arts Presentation 2022</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Dance<br>Choir<br>Concert Band<br>Guzheng Ensemble<br>Harmonica Ensemble<br>Indian Dance<br>Malay Dance</td></tr>
 </table>
