@@ -44,4 +44,14 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mago Story Telling Competition</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Consolation</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Sana Ram Ananth (5C)</td></tr>
+<tr>
+<td width="208" rowspan="3" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">National Mathematics Olympiad of Singapore (NMOS)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lim Yi Heng (5F)<br>Ooi Theng Hee (5F)<br>Teo Ge Cheong (5F)</td></tr>
+<tr >
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Puah Xuan Rong (5E)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Honorable Mention</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Damien Tey (5E)</td></tr>
 </table>
