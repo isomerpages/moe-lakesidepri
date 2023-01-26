@@ -162,3 +162,38 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Certificate of Participation in SYF Arts Presentation 2022</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Dance<br>Choir<br>Concert Band<br>Guzheng Ensemble<br>Harmonica Ensemble<br>Indian Dance<br>Malay Dance</td></tr>
 </table>
+
+<br>
+<b>Accolades (Staff)</b>
+<br>
+
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<td width="623" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2022</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Award</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Recipients</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Caring Teacher Award</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mrs Anna Chee-Goh Mui Ee<br>Ms Cha Yoo Jin<br>Ms Siti Robita Binte Ahmad Asrori<br>Mdm Oon Sim Sim<br>Ms Isabel Teo Hui Jin<br>Mr Zhao Zhiyong<br>Mr Andy Chow Yuan Feng<br>Mrs Angie Chng</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Caring Staff Award</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mr Nadarajan<br>Mr Balvinder Singh</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">MOE Academy Awards For Professional Development<br>Associate of AST Award 2022 (Education Officer)</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mrs Karen Selvarajan</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">MOE Innergy &amp; Outstanding Innovator Awards</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mdm Ong Yilun Yvonne</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">MOE Service Excellence Award (Platinum)</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Goh Mui Ee</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">MOE Service Excellence Award (Gold)</td><td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Goh Mui Ee<br>Kimberly Walker<br>Lim May Hua<br>Oh Chui Har<br>Ong Yilun Yvonne<br>Winnie Soo</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">MOE Service Excellence Award (Silver)</td><td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Fong Mei Ling<br>Loh Chiow Chien<br>Nina Tan Shi Fei<br>Tai Kah Fong<br>Teo Chen Chen<br>Thennarasi D/O Silverrajoo</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">National Day Awards<br>The Commendation Medal</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mr Chan Kok Hong</td></tr>
+<tr>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">National Day Awards<br>The Long Service Award</td>
+<td width="312" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mdm Ho Siew Ling<br>Mr Tan Hwee Meng David</td></tr></table>
