@@ -22,4 +22,12 @@ description: ""
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze Award (Group)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tung Shi Xin (3B)<br>Liu Yi (3G)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Essay Writing Competition</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Excellence Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yong Yi Lu (4F)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">ICODE Global Hackathon: Blockly Advance South Asia Qualifiers</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ranked 85 out of 2000 Students</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ben Yap Zhi Leng (5F)</td></tr>
 </table>
