@@ -3,7 +3,8 @@ title: Our Pride
 permalink: /about-us/our-pride/
 description: ""
 ---
-**Accolades (Students)**
+<b>Accolades (Students)</b>
+<br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="623" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>2022</b></td></tr>
@@ -162,7 +163,7 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Dance<br>Choir<br>Concert Band<br>Guzheng Ensemble<br>Harmonica Ensemble<br>Indian Dance<br>Malay Dance</td></tr></table>
 <br>
 
-**Accolades (Staff)**
+<b>Accolades (Staff)</b>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="623" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2022</td></tr>
