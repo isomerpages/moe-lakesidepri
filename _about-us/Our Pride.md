@@ -48,7 +48,8 @@ description: ""
 <td width="208" rowspan="3" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">National Mathematics Olympiad of Singapore (NMOS)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze Award</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lim Yi Heng (5F)<br>Ooi Theng Hee (5F)<br>Teo Ge Cheong (5F)</td></tr>
-<tr ><td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver Award</td>
+<tr >
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver Award</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Puah Xuan Rong (5E)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Honorable Mention</td>
@@ -101,15 +102,13 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yang Kai Jun Brian (6F)<br>Verrell Wong Shi Xuan (6A)<br>Pun Yi Wei (6D)<br>Feroz Zidane Nizam (6A)<br>Lee Sheng Kai (6A)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">SPSSC Sportsmanship Award</td>
-<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lee Yu Xuan, Sandra 6(C)</td>
-</tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lee Yu Xuan, Sandra 6(C)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">5<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Speed (Junior Boys)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Verdon Wong Shi Jing (5B)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">7<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Speed (Junior Boys)</td>
-<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Eric Ng Hong Yi (5E)</td>
-</tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Eric Ng Hong Yi (5E)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place for Individual Double Under (Junior Boys)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Eric Ng Hong Yi (5E)</td></tr>
