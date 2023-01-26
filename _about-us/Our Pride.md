@@ -18,8 +18,8 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Lin Zhi Ting (3F)<br>Wang Qian Yu (2B)</td></tr>
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver Award (Group)</td>
-<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yang Zimeng Kaylee (3F)<br>Jiang Yumeng (3G)<br>Zhu Ziyu (3G)</td>
-</tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yang Zimeng Kaylee (3F)<br>Jiang Yumeng (3G)<br>Zhu Ziyu (3G)</td></tr>
+<tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze Award (Group)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tung Shi Xin (3B)<br>Liu Yi (3G)</td></tr>
 <tr>
