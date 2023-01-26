@@ -160,9 +160,10 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">SYF Arts Presentation</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Certificate of Participation in SYF Arts Presentation 2022</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Dance<br>Choir<br>Concert Band<br>Guzheng Ensemble<br>Harmonica Ensemble<br>Indian Dance<br>Malay Dance</td></tr></table>
-<br>
 
+<br>
 <b>Accolades (Staff)</b>
+<br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="623" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2022</td></tr>
