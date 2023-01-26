@@ -70,4 +70,27 @@ description: ""
 <tr>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">4<sup class="" style="margin: 0px; outline: 0px; padding: 0px;">th</sup>&nbsp; Place (Boys’ Division)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Jairus Devan (6E)<br>Mohamed Raiyan Fikry (6B2)</td></tr>
+<tr>
+<td width="208" rowspan="6" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">National Malay Story Telling Competition</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Gold with Honours</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rayna Naqiyyah Binte Muhammad Suffian (1-Lo)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Gold with Honours</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Shana D/O Siva (1-Ry)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Arissa Nurhumaira Binte Muhammad Haris (2F)<span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bronze</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Halyza Arabelle Thomas (3G)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Silver</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mohamed Roskhairunnas Bin Mohamed Roskamil (4C)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Gold with Honours</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Norfaiz Mateen Bin Norfarizal (5D)</td></tr>
+<tr>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">NRC - WRO ROBOMISSION<br>(PRIMARY CATEGORY)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Judges Award</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yap Zhi Leng (5F)<br>Nur Farzana Binte Shahrulnizam (5D)</td></tr>
 </table>
