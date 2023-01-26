@@ -90,7 +90,7 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Gold with Honours</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Norfaiz Mateen Bin Norfarizal (5D)</td></tr>
 <tr>
-<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">NRC - WRO ROBOMISSION<br>(PRIMARY CATEGORY)</td>
+<td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">NRC - WRO ROBOMISSION<br>(Primary Category)</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Judges Award</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Yap Zhi Leng (5F)<br>Nur Farzana Binte Shahrulnizam (5D)</td></tr>
 <tr>
@@ -161,4 +161,3 @@ description: ""
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">SYF Arts Presentation</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Certificate of Participation in SYF Arts Presentation 2022</td>
 <td width="208" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Dance<br>Choir<br>Concert Band<br>Guzheng Ensemble<br>Harmonica Ensemble<br>Indian Dance<br>Malay Dance</td></tr></table>
-
