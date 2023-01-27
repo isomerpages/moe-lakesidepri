@@ -19,10 +19,10 @@ description: ""
 <li>Make responsible decisions for yourself, your family and society; and</li>
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ul>
 </li>
-You may <a href="https://go.gov.sg/moe-sexuality-educationclick">here</a> for more information on MOE Sexuality Education.<br><br>
+You may <a href="https://go.gov.sg/moe-sexuality-educationclick" target="_blank">here</a> for more information on MOE Sexuality Education.<br><br>
 <b>Overview of Lakeside Primary School’s Sexuality Education Programme for 2023</b><br>
 
-<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
 	
 <li>The subjects that incorporate topics on sexuality include:
 <ul><li>Science</li>
@@ -32,4 +32,3 @@ You may <a href="https://go.gov.sg/moe-sexuality-educationclick">here</a> for mo
 
 <li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.	</li>
 </ol>
-
