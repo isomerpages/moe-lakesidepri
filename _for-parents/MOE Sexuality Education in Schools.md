@@ -15,7 +15,7 @@ description: ""
 </ol>
 </li>
 <li>The Key Messages of Sexuality Education are:
-<ol type="i">
+<ol type="a">
 <li>Love and respect yourself as you love and respect others;</li>
 <li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
 <li>Make responsible decisions for yourself, your family and society; and</li>
