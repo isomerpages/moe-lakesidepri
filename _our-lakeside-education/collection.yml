@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Student Development (Student Leadership).md
       - Student Development Team.md
       - Co Curricular Activities.md
       - Physical Education.md
