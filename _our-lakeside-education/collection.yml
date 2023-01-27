@@ -4,7 +4,6 @@ collections:
     order:
       - English Language.md
       - Departments/.keep
-      - Departments/Mathematics.md
       - Departments/Science.md
       - Departments/Chinese Language.md
       - Departments/Malay Language.md
