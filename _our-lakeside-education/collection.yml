@@ -2,19 +2,19 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Information & Communication Technology (ICT).md
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Character And Citizenship Education (NE, SS, VIA, FGTP).md
+      - Physical Education.md
+      - Co Curricular Activities.md
       - Student Development (Student Leadership).md
       - Student Development Team.md
-      - Co Curricular Activities.md
-      - Physical Education.md
-      - Character And Citizenship Education (NE, SS, VIA, FGTP).md
-      - Science.md
-      - Mathematics.md
-      - English Language.md
       - Departments/.keep
       - Departments/Chinese Language.md
       - Departments/Malay Language.md
       - Departments/Tamil Language.md
       - Departments/Arts.md
       - Departments/Music.md
+      - Information & Communication Technology (ICT).md
       - Signature Programmes.md
