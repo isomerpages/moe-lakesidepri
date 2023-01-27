@@ -2,13 +2,13 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Aesthetics/.keep
-      - Mother Tongue Languages/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue Languages/.keep
       - Character And Citizenship Education (NE, SS, VIA, FGTP).md
       - Physical Education.md
+      - Aesthetics/.keep
       - CoCurricular Activities.md
       - Student Development (Student Leadership).md
       - Student Development Team.md
