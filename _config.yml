@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: |-
+  Lakeside Primary School
+  161 Corporation Walk Singapore 618310
 permalink: none
 baseurl: ""
 exclude:
