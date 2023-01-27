@@ -38,8 +38,13 @@ You may <a href="https://go.gov.sg/moe-sexuality-educationclick" target="_blank"
 <b>2023 Sexuality Education Lessons in CCE 2021<br>
 	Primary 5</b></div>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
-	</tr>
-	</table>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>CCE(FTGP) THEME</b></td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>LESSON TITLE / DURATION</b></td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Lesson OVERVIEW</b></td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>TIME PERIOD<br>(e.g. Term 1 Week 2)</b></td>
+</tr>
+	
+</table>
 
 	
 	
