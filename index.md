@@ -12,7 +12,7 @@ sections:
   - hero:
       title: Lakeside Primary School
       subtitle: A Life-Long Learner. A Virtuous Leader.
-      background: /images/Banner/LSPS-Banner OSOS.gif
+      background: /images/Home/LSPS-Banner 2023.png
       url: /contact-us/
       key_highlights:
         - title: ANNOUNCEMENTS
