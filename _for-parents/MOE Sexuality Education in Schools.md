@@ -55,5 +55,12 @@ You may <a href="https://go.gov.sg/moe-sexuality-educationclick" target="_blank"
 <td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>TIME PERIOD<br>(e.g. Term 1 Week 2)</b></td></tr>
 	
 </table>
-	
+<br>
+<b>Please Note:<br>
+	*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</b>
+<br>
+	<b>Information for Parents</b>
+<li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form can be accessed <a href="https://go.gov.sg/lsps-sed2023" target="_blank">here</a>. The completed opt-out form is to be submitted by 20/01/2023.</li>
+<li>Parents can contact the school at 62620918 or email at lakeside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
