@@ -15,12 +15,12 @@ sections:
       background: /images/Banner/LSPS-Banner-OSOS.gif
       url: /contact-us/
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: Appreciate a staff member
           description: ""
-          url: /announcements-and-latest-happenings/announcements/
-        - title: LATEST HAPPENINGS
+          url: https://docs.google.com/forms/d/e/1FAIpQLScduMxkjjNhm7CNWqHyKdTfFis0E7BoILxPVI4V3qnj01pgKg/viewform
+        - title: Your feedback matters
           description: ""
-          url: /announcements-and-latest-happenings/latest-happenings
+          url: https://form.gov.sg/62860cbe1ff1ef001281ab69
   - infopic:
       title: Happy Chinese New Year
       alt: Image alt text
