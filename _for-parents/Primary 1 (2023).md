@@ -8,7 +8,7 @@ Important Information on Upcoming Events in 2022 and 2023
 <b>P1 First Day of School</b>
 <br><br>
 <b>Primary 1 2023 Information for Parents and Students.</b>
-<li><a href="" target="_blank">P1 2023 Letter to Parents]</a></li>  
+<li><a href="/files/P1/Letter%20to%20P1%20Parents.pdf" target="_blank">P1 2023 Letter to Parents]</a></li>  
 <li><a href="" target="_blank">Orientation Booklet</a></li><br>
 <b>Information on Vendors</b>
 <li><a href="" target="_blank">2023 P1 Booklist</a></li>
