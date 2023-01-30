@@ -24,7 +24,7 @@ Important Information on Upcoming Events in 2022 and 2023
 <li><a href="https://go.gov.sg/moe-efas" target="_blank">MOE Financial Assistance Scheme Application Form</a></li>
 <li><a href="https://www.msf.gov.sg/Comcare/Pages/Comcare-Student-Care-Subsidies.aspxStudent" target="_blank"> Care Financial Assistance Scheme (SCFA)</a></li><br>
 <b>Parents Gateway</b>
-<li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a><li><br>
+<li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a></li><br>
 <b>Health Promotion Board (HPB) Child Consent Portal</b>
 <li><a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank">Welcome to HPB Child Consent Portal</a></li><br>
 <b>Parent Support Group</b>
