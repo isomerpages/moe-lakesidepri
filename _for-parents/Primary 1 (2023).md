@@ -13,7 +13,7 @@ Important Information on Upcoming Events in 2022 and 2023
 <b>Information on Vendors</b>
 <li><a href="" target="_blank">2023 P1 Booklist</a></li>
 <li><a href="" target="_blank">2023 P1 Uniform Order</a></li>
-<li><a href="https://forms.gle/jHsryXFj3mQB1LN8A">School Bus Request Form</a></li>
+<li><a href="https://forms.gle/jHsryXFj3mQB1LN8A" target="_blank">School Bus Request Form</a></li>
 <li><a href="https://www.wheecanopus.com/student-registration" target="_blank">Whee!Canopus Student Care Centre@ Lakeside Primary Registration Form</a></li><br>
 <b>Finance-related Information</b>
 <li><a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">Information on School Fees</a></li>
