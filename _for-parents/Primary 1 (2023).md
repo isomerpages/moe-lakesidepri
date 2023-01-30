@@ -33,4 +33,4 @@ Important Information on Upcoming Events in 2022 and 2023
 General Information for Primary One
 *   [Report to School](https://www.moe.gov.sg/primary/p1-registration/report-to-school)
 <br><br>
-Exploring Lakeside Virtually: click [**here**](https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2022/home)
+Exploring Lakeside Virtually: click <a href="https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2022/home" target="_blank">here</a>
