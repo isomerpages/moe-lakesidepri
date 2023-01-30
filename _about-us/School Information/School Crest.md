@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-crest/
 description: ""
 third_nav_title: School Information
 ---
-<img src="/images/Home/School%20Crest.jpg">
+<img src="/images/Home/LSPS%20Crest.png">
 <br>
 The school crest depicts a blue falcon against a yellow background soaring towards five stars which are in orange. The five stars represent the following five domains of development: Academic, Physical, Aesthetics, Moral and Social. The graceful falcon soaring with its magnificent wingspan above the five stars encapsulates the spirit and aspirations of the students and staff of Lakeside Primary to achieve excellence across these five domains of development.
 <br><br>
