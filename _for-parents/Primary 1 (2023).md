@@ -24,13 +24,13 @@ Important Information on Upcoming Events in 2022 and 2023
 *   [MOE Financial Assistance Scheme Application Form](https://go.gov.sg/moe-efas) 
 *   [Student Care Financial Assistance Scheme (SCFA)](https://www.msf.gov.sg/Comcare/Pages/Comcare-Student-Care-Subsidies.aspx)<br><br>
 <b>Parents Gateway</b>
-*   [Parents Gateway (moe.edu.sg)](https://pg.moe.edu.sg/)<br><br>
+<li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a><li><br>
 <b>Health Promotion Board (HPB) Child Consent Portal</b>
-*   [Welcome to HPB Child Consent Portal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal)<br><br>
+<li><a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank">Welcome to HPB Child Consent Portal</a></li><br>
 <b>Parent Support Group</b>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform" target="_blank">Registration Form</a>
-<br><br>
-General Information for Primary One
-*   [Report to School](https://www.moe.gov.sg/primary/p1-registration/report-to-school)
-<br><br>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform" target="_blank">Registration Form</a></li>
+<br>
+<b>General Information for Primary One</b>
+<li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
+<br>
 Exploring Lakeside Virtually: click <a href="https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2022/home" target="_blank">here</a>
