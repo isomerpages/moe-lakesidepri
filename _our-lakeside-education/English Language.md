@@ -3,9 +3,6 @@ title: English Language
 permalink: /our-lakeside-education/english-language/
 description: ""
 ---
-
-
-
 <b>Curricular Goals:</b>
 <br>
 We aim to develop students to be effective and confident communicators by cultivating a rich environment to develop reading, writing, listening and speaking skills.
@@ -36,7 +33,7 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Respond-Elaboration-Personal Experience-Suggestion (R-E-P-S) for Stimulus-based Conversation</td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Writing</td>
-<td width="386" style="padding: 8px; text-align: left; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>Making Thinking Visible Strategy: “See-Think-Wonder” –</li><ul>For vocabulary generation and generation of ideas. Students look at given pictures and talk about what they see, what the pictures make them think of and what questions arise from the pictures.</ul><li>Making Thinking Visible Strategy: “ChalkTalk” –</li><ul>For exploring and unpacking the given theme. Students are guided to think more about the theme through given questions.</ul><li>Story Mountain as a structure for pre-writing planning</li></td></tr>
+<td width="386" style="padding: 8px; text-align: left; vertical-align: middle; border: 1px solid rgb(42, 42, 42); font-size: 12pt;"><li>Making Thinking Visible Strategy: “See-Think-Wonder” –</li><ul>For vocabulary generation and generation of ideas. Students look at given pictures and talk about what they see, what the pictures make them think of and what questions arise from the pictures.</ul><li>Making Thinking Visible Strategy: “ChalkTalk” –</li><ul>For exploring and unpacking the given theme. Students are guided to think more about the theme through given questions.</ul><li>Story Mountain as a structure for pre-writing planning</li></td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Language Use</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td></tr></table>
