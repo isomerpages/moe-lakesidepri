@@ -28,7 +28,7 @@ Important Information on Upcoming Events in 2022 and 2023
 <b>Health Promotion Board (HPB) Child Consent Portal</b>
 *   [Welcome to HPB Child Consent Portal](https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal)<br><br>
 <b>Parent Support Group</b>
-*   [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform) 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform" target="_blank">Registration Form</a>
 <br><br>
 General Information for Primary One
 *   [Report to School](https://www.moe.gov.sg/primary/p1-registration/report-to-school)
