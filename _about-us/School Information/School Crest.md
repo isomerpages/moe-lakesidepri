@@ -13,5 +13,5 @@ The school crest depicts a blue falcon against a yellow background soaring towar
 Blue symbolises creativity and fluidity in the exchange of knowledge and skills among students, teachers and stakeholders.
 <br>
 Orange epitomises the school’s exuberance and vibrant learning environment.
- <br><br>
+ <br>
 The yellow background represents the noble school values of Love, Perseverance, Responsibility, Integrity, Diligence and rEspect.
