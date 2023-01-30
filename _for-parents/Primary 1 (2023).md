@@ -8,21 +8,21 @@ Important Information on Upcoming Events in 2022 and 2023
 <b>P1 First Day of School</b>
 <br><br>
 <b>Primary 1 2023 Information for Parents and Students.</b>
-*   [P1 2023 Letter to Parents](https://lakesidepri.moe.edu.sg/qql/slot/u174/Parents/P1%202023/Letter%20to%20P1%20Parents.pdf)  
-*   [Orientation Booklet](https://lakesidepri.moe.edu.sg/qql/slot/u174/Parents/P1%202023/Orientation%20Booklet%202023.pdf)<br><br>
+<li><a href="" target="_blank">P1 2023 Letter to Parents]</a></li>  
+<li><a href="" target="_blank">Orientation Booklet</a></li><br>
 <b>Information on Vendors</b>
-*   [2023 P1 Booklist](https://lakesidepri.moe.edu.sg/qql/slot/u174/Parents/P1%202023/P1%202023%20Booklist_Lakeside%20Pri.pdf)
-*   [2023 P1 Uniform Order](https://lakesidepri.moe.edu.sg/qql/slot/u174/Parents/P1%202023/Uniform%20Pamphlet.pdf)
-*   [School Bus Request Form](https://forms.gle/jHsryXFj3mQB1LN8A)
-*   [Whee!Canopus Student Care Centre@ Lakeside Primary Registration Form](https://www.wheecanopus.com/student-registration)<br><br>
+<li><a href="" target="_blank">2023 P1 Booklist</a></li>
+<li><a href="" target="_blank">2023 P1 Uniform Order</a></li>
+<li><a href="https://forms.gle/jHsryXFj3mQB1LN8A">School Bus Request Form</a></li>
+<li><a href="https://www.wheecanopus.com/student-registration" target="_blank">Whee!Canopus Student Care Centre@ Lakeside Primary Registration Form</a></li><br>
 <b>Finance-related Information</b>
-*   [Information on School Fees](https://www.moe.gov.sg/financial-matters/fees)
-*   [Steps for OCBC and DBS GIRO Arrangement](https://lakesidepri.moe.edu.sg/qql/slot/u174/Parents/P1%202023/Steps%20for%20OCBC%20and%20DBS%20GIRO%20Arrangement.pdf)
-*   [Other Banks account holders GIRO Application Form](https://lakesidepri.moe.edu.sg/qql/slot/u174/Parents/P1%202022/Giro%20Application%20form%20Oct%202021.pdf)
-*   [For Singapore Citizen Students only – Edusave Standing Order Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59)
-*   [Information on MOE Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
-*   [MOE Financial Assistance Scheme Application Form](https://go.gov.sg/moe-efas) 
-*   [Student Care Financial Assistance Scheme (SCFA)](https://www.msf.gov.sg/Comcare/Pages/Comcare-Student-Care-Subsidies.aspx)<br><br>
+<li><a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">Information on School Fees</a></li>
+<li><a href="" target="_blank">Steps for OCBC and DBS GIRO Arrangement</a></li>
+<li><a href="" target="_blank">Other Banks account holders GIRO Application Form]</a></li>
+<li><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" target="_blank">For Singapore Citizen Students only – Edusave Standing Order Form</a></li>
+<li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">Information on MOE Financial Assistance Scheme (FAS)</a></li>
+<li><a href="https://go.gov.sg/moe-efas" target="_blank">MOE Financial Assistance Scheme Application Form</a></li>
+<li><a href="https://www.msf.gov.sg/Comcare/Pages/Comcare-Student-Care-Subsidies.aspxStudent" target="_blank"> Care Financial Assistance Scheme (SCFA)</a></li><br>
 <b>Parents Gateway</b>
 <li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a><li><br>
 <b>Health Promotion Board (HPB) Child Consent Portal</b>
