@@ -30,6 +30,8 @@ sections:
       description: Click below to read more about our school's announcements
       alt: Image alt text
       image: /images/Home/School Website - Announcements V3.png
+      url: https://lakesidepri.moe.edu.sg/announcements
+      button: Read More
   - infopic:
       title: Latest Happenings
       subtitle: Infopic Subtitle
