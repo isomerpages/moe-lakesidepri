@@ -14,15 +14,16 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%201.jpg" alt="Chinese Dance.jpg">Chinese Dance</td>
 <td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%202.jpg" alt="Chinese Dance.jpg">Wushu</td></tr>
+<tr>	
+<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Students dress up for the celebration</td></tr>
 <tr>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Students dress up for the celebration</td>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Strong support from PSG for recess activities</td></tr>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Strong support from PSG for recess activities</td>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Lion Dance</td></tr>
 <tr>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Lion Dance</td>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Students having hands on activities during recess</td></tr>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Having fun with dragon dance</td>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Students having hands on activities during recess</td>
 <td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Guzheng performance</td></tr>
 <tr>
-<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Lantern drawing</td>
-</tr>
+<td width="773" colspan="2" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Having fun with dragon dance</td></tr>
+<tr>
+<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Lantern drawing</td></tr>
 </table>
