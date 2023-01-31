@@ -12,18 +12,18 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 <br><br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%201.jpg" alt="Chinese Dance.jpg">Chinese Dance</td>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%202.jpg" alt="Chinese Dance.jpg">Wushu</td></tr>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%201.jpg" alt="Photo 1.jpg">Chinese Dance</td>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%202.jpg" alt="Photo 2.jpg">Wushu</td></tr>
 <tr>	
-<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Students dress up for the celebration</td></tr>
+<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%203.jpg" alt="Photo 3.jpg" style="width: 400px; height: 200px;">Students dress up for the celebration</td></tr>
 <tr>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Strong support from PSG for recess activities</td>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Lion Dance</td></tr>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%204.jpg" alt="Photo 4.jpg">Strong support from PSG for recess activities</td>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%205.jpg" alt="Photo 5.jpg">Lion Dance</td></tr>
 <tr>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Students having hands on activities during recess</td>
-<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Guzheng performance</td></tr>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%206.jpg" alt="Photo 6.jpg">Students having hands on activities during recess</td>
+<td width="773" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%207.jpg" alt="Photo 7.jpg">Guzheng performance</td></tr>
 <tr>
-<td width="773" colspan="2" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Having fun with dragon dance</td></tr>
+<td width="773" colspan="2" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%208.jpg" alt="Photo 8.jpg" style="width: 400px; height: 200px;">Having fun with dragon dance</td></tr>
 <tr>
-<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Lantern drawing</td></tr>
+<td width="773" colspan="2"style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%209.jpg" alt="Photo 9.jpg" style="width: 400px; height: 200px;">Lantern drawing</td></tr>
 </table>
