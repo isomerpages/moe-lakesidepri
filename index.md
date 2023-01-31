@@ -29,10 +29,11 @@ sections:
       title: Announcements
       description: Click below to read more about our school's announcements
       alt: Image alt text
-      image: /images/Home/School Website - Announcements V2.png
+      image: /images/Home/School Website - Announcements V3.png
   - infopic:
       title: Latest Happenings
       subtitle: Infopic Subtitle
       description: Infopic description
       alt: Image alt text
+      image: /images/Home/School Website - Latest Happenings.png
 ---
