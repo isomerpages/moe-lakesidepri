@@ -22,6 +22,12 @@ sections:
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
   - infopic:
+      title: Latest Happenings
+      alt: Image alt text
+      image: /images/Home/School Website - Latest Happenings.png
+      url: https://lakesidepri.moe.edu.sg/latest-happenings
+      button: Read More
+  - infopic:
       title: Happy Chinese New Year
       alt: Image alt text
       image: /images/Home/Pop Up/CNY 2023.png
@@ -30,11 +36,5 @@ sections:
       alt: Image alt text
       image: /images/Home/School Website - Announcements V3.png
       url: https://lakesidepri.moe.edu.sg/announcements
-      button: Read More
-  - infopic:
-      title: Latest Happenings
-      alt: Image alt text
-      image: /images/Home/School Website - Latest Happenings.png
-      url: https://lakesidepri.moe.edu.sg/latest-happenings
       button: Read More
 ---
