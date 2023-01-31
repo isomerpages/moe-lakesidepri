@@ -25,4 +25,13 @@ sections:
       title: Happy Chinese New Year
       alt: Image alt text
       image: /images/Home/Pop Up/CNY 2023.png
+  - infopic:
+      title: Announcements
+      description: Click below to read more about our school's announcements
+      alt: Image alt text
+  - infopic:
+      title: Latest Happenings
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      alt: Image alt text
 ---
