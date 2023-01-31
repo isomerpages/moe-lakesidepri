@@ -31,6 +31,9 @@ sections:
       title: Happy Chinese New Year
       alt: Image alt text
       image: /images/Home/Pop Up/CNY 2023.png
+      subtitle: Seasonal Greetings
+      description: to all staff, students, parents, and stakeholders from the
+        Principal & School Management of Lakeside Primary School
   - infopic:
       title: Announcements
       alt: Image alt text
