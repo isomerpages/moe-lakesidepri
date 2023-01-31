@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+For this Year of the Rabbit, students, staff and PSG members of Lakeside Primary were entertained with a variety of activities during the CNY celebrations. During the assembly programme in the hall, everyone was captivated by the Wushu performance, Chinese dance, and the all-time favorite, lion dance. 
+<br><br>
+During recess, students were engaged in hands-on activities, such as: dragon dance, jumping rabbit cards, Chinese calligraphy writing, playing percussion instruments, lantern drawing and making firecrackers. On top of that, students have a closer experience of Wushu and Guzheng performance during recess fringe activities.  
