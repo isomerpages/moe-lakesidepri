@@ -25,7 +25,7 @@ sections:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
-      url: /announcements-and-latest happenings/latest-happenings
+      url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
   - infopic:
       title: Happy Chinese New Year
