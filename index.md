@@ -38,6 +38,6 @@ sections:
       title: Announcements
       alt: Image alt text
       image: /images/Home/School Website - Announcements V3.png
-      url: https://lakesidepri.moe.edu.sg/announcements
+      url: /announcements-and-latest-happenings/announcements
       button: Read More
 ---
