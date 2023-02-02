@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Signature Programmes/Programme For Active Learning.md
       - Signature Programmes/Applied Learning Programme – Thinkers With Heart.md
       - Signature Programmes/Learning For Life Programme – Stars witHeARTs.md
       - Signature Programmes/Learn To Think, Think To Learn.md
