@@ -2,6 +2,7 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Signature Programmes/Learn To Think, Think To Learn.md
       - Signature Programmes/Signature Programmes.md
       - Signature Programmes/.keep
       - English Language.md
