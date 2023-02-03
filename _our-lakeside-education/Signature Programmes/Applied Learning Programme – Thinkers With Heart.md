@@ -22,3 +22,35 @@ The focus at P1 and P2 is on creating awareness of 2 DT phases – Empathy and I
 The following table shows an overview of our ALP focus across the 5 levels. 
 <br><br>
 <div style="text-align: center;"><b>ALP : Thinkers with Heart Programme</b></div>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Level Area</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P1</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P2</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P3</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P4</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P5</b></td></tr>
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Phases</b></td>
+<td width="386" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 1</u><br>Building Awareness</td>
+<td width="386" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 2</u><br>Deepening Application</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 3</u><br>Scaling Up</td></tr>
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Sphere of Influence</b></td>
+<td width="386" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Foundation Building</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the Class</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the School</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the community</td></tr>
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Project Theme & Details</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">My Emotions!</i></b><br>Design a diorama & recognize, express & regulate emotions</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Empathise with Characters</i></b><br>Dramatise a plot & recognise, express & regulate emotions</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Classrooms as We Like It</i></b><br>Redesign learning environment in the classroom</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Our Stories</i></b><br>Creating fractured fairytales and read the stories to the P1 students</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">iChange</i></b><br>Addressing the needs of the community (Collaborate with HDB on Heartland Ambassadors)</td></tr>
+<tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>DTI Phases</b></td>
+<td width="386" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Empathy</b><br>(Interview Skills)<br><b>Ideation</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
+</table>
