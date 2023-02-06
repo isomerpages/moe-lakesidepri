@@ -4,7 +4,6 @@ permalink: /our-people/parent-support-group/about-us/
 description: ""
 third_nav_title: Parent Support Group
 ---
-
 <b>VISION</b>
 <br>
 A community of dedicated and committed parents coming together to support the school in developing our children holistically.
@@ -33,13 +32,12 @@ By giving our time and sharing our skills with the other parents wholeheartedly,
 </tr>
 <tr>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sandy Tan</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Ben Chor</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Goh Ching Yi</td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Win Ng</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Noor Azizah</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Sharon Kundu</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Stefanie Lai</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sulianah Binte Sulaman</td>
 </tr>
 </tbody>
 </table>
 <br><br>
 We are constantly seeking for willing and talented parents to come on board and serve together with us. CONTACT US to explore how you can contribute and make a difference in your child’s primary school learning journey.
-  
