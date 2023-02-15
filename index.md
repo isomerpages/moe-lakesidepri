@@ -12,7 +12,7 @@ sections:
   - hero:
       title: Lakeside Primary School
       subtitle: A Life-Long Learner. A Virtuous Leader.
-      background: /images/Banner/Test-5.gif
+      background: /images/Banner/B1200-400.gif
       url: /contact-us/
       key_highlights:
         - title: Appreciate a staff member
