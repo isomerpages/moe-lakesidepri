@@ -15,7 +15,7 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 <td width="773" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%201.jpg" alt="Photo 1.jpg">Chinese Dance</td>
 <td width="773" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%202.jpg" alt="Photo 2.jpg">Wushu</td></tr>
 <tr>	
-<td width="773" colspan="2"style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%203.jpg" alt="Photo 3.jpg" style="width: 400px; height: 200px;">Students dress up for the celebration</td></tr>
+<td width="773" colspan="2" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%203.jpg" alt="Photo 3.jpg" style="width: 400px; height: 200px;">Students dress up for the celebration</td></tr>
 <tr>
 <td width="773" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%204.jpg" alt="Photo 4.jpg">Strong support from PSG for recess activities</td>
 <td width="773" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%205.jpg" alt="Photo 5.jpg">Lion Dance</td></tr>
