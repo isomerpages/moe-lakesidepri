@@ -25,5 +25,5 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 <tr>
 <td width="773" colspan="2" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%208.jpg" alt="Photo 8.jpg" style="width: 400px; height: 200px;">Having fun with dragon dance</td></tr>
 <tr>
-<td width="773" colspan="2"style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%209.jpg" alt="Photo 9.jpg" style="width: 400px; height: 200px;">Lantern drawing</td></tr>
+<td width="773" colspan="2" style="padding: 5px; text-align: center; vertical-align: middle;"><img src="/images/Happenings/CNY/Photo%209.jpg" alt="Photo 9.jpg" style="width: 400px; height: 200px;">Lantern drawing</td></tr>
 </table>
