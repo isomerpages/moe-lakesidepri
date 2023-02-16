@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-  <style>
+<style>
     html {
       box-sizing: border-box;
     }
@@ -184,5 +183,3 @@ image: ""
       </div>
     </div> 
   </div>
-  
-  
