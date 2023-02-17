@@ -28,7 +28,7 @@ description: ""
 <br>
 <b>Disclaimer of Warranties and Liability</b>
 <li>The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, <b>Lakeside Primary School</b> does not warrant and hereby disclaims any warranty:</li>
-<ul style="font-size:11pt;">
+<ul style="font-size:14pt;">
 <li>as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;</li>
 
 <li>that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.</li></ul>
