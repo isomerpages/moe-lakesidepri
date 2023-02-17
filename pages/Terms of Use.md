@@ -15,7 +15,7 @@ description: ""
 <li>The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by <b>Lakeside Primary School</b> .</li>
 
 <b>Privacy Policy</b>
-<li>Click [here](/privacy/) view this Web Site Privacy Statement.</li>
+<li>Click [here](/privacy-statement/) view this Web Site Privacy Statement.</li>
 
 <b>Restrictions on Use of Materials</b>
 
