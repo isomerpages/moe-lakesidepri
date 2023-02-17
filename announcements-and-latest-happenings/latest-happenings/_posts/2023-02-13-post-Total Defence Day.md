@@ -31,4 +31,3 @@ Our school conducted a variety of activities to create an engaging and meaningfu
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> The Community Policing Unit Officers from Jurong West NPC, Jurong Division sharing with the students about scam and giving some collaterals.  <br><span style="color:blue;">•</span> Staff unite as one by dressing in camouflage prints (green, blue or grey) to commemorate the event. <br><span style="color:blue;">•</span> TDD related posters at the foyer for the students to learn more about the six Total Defence pillars </span>
-<br><br><br>
