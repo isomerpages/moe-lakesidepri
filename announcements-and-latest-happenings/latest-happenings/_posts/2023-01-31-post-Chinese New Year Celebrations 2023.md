@@ -13,7 +13,4 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 
 <img src="/images/Happenings/CNY/CNY1.png">
 
-<ul style="font-size:10pt;">
-<li>Chinese Dance</li> 
-<li>Wushu</li> 
-<li>Students dress up for the celebration</li></ul>
+• Chinese Dance   • Wushu   • Students dress up for the celebration
