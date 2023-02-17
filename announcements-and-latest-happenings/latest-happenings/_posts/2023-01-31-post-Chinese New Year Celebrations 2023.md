@@ -13,12 +13,12 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 
 <img src="/images/Happenings/CNY/CNY1.png">
 <span style="font-size:10pt;">
-• Chinese Dance&nbsp&nbsp&nbsp&nbsp • Wushu&nbsp&nbsp&nbsp&nbsp   • Students dress up for the celebration</span>
+	<span style="color:blue;">•</span> Chinese Dance&nbsp&nbsp&nbsp&nbsp <span style="color:blue;">•</span> Wushu&nbsp&nbsp&nbsp&nbsp  <span style="color:blue;">•</span> Students dress up for the celebration</span>
 <br><br><br>
 <img src="/images/Happenings/CNY/CNY2.png">
 <span style="font-size:10pt;">
-• Having fun with dragon dance&nbsp&nbsp&nbsp&nbsp  • Strong support from PSG for recess activities&nbsp&nbsp&nbsp&nbsp   • Lion Dance</span>
+<span style="color:blue;">•</span> Having fun with dragon dance&nbsp&nbsp&nbsp&nbsp  <span style="color:blue;">•</span> Strong support from PSG for recess activities&nbsp&nbsp&nbsp&nbsp   <span style="color:blue;">•</span> Lion Dance</span>
 <br><br><br>
 <img src="/images/Happenings/CNY/CNY3.png">
 <span style="font-size:10pt;">
-• Lantern drawing&nbsp&nbsp&nbsp&nbsp  • Guzheng performance&nbsp&nbsp&nbsp&nbsp   • Students having hands on activities during recess</span>
+<span style="color:blue;">•</span> Lantern drawing&nbsp&nbsp&nbsp&nbsp  <span style="color:blue;">•</span> Guzheng performance&nbsp&nbsp&nbsp&nbsp   <span style="color:blue;">•</span> Students having hands on activities during recess</span>
