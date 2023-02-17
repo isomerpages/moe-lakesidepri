@@ -1,5 +1,0 @@
-collections:
-  latest-happenings:
-    output: true
-    order:
-      - Example Title.md
