@@ -25,7 +25,7 @@ Our school conducted a variety of activities to create an engaging and meaningfu
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Teachers conducting CCE (FTGP) lessons about Total Defence Day <br><span style="color:blue;">•</span> Students reading the Kindsville Times/A-OK! booklets to know more about the importance of Total Defence Day </span>
-<br><br><br>
+<br><br>
 <br><br>
 <img src="/images/Happenings/TDD/TDD4.png">
 <br>
