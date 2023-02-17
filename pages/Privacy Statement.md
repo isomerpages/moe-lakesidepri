@@ -4,7 +4,7 @@ permalink: /privacy/
 description: ""
 ---
 <ol>
-<li>This is a <b>Lakeside Primary School</b> website. Thank you for examining our privacy statement.
+<li>This is a <b>Lakeside Primary School</b> website. Thank you for examining our privacy statement.</li>
 
 <li>If you are only browsing this website, we do not capture data that allows us to identify you individually.</li>
 
