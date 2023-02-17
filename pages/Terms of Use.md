@@ -26,7 +26,7 @@ description: ""
 <b>Right of Access</b>
 <li><b>Lakeside Primary School</b> reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.</li>
 
-Disclaimer of Warranties and Liability</b>
+<b>Disclaimer of Warranties and Liability</b>
 <li>The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, <b>Lakeside Primary School</b> does not warrant and hereby disclaims any warranty:</li>
 <ul style="font-size:11pt;">
 <li>as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;</li>
