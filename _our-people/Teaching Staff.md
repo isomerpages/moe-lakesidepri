@@ -102,7 +102,7 @@ description: ""
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3C</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Chen Wenquan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chen_wenquan@moe.edu.sg</i></td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Ong Siew Pei<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ong_siew_pei@moe.edu.sg</i><br><br>Mdm Rekha<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Ong Siew Pei<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ong_siew_pei@moe.edu.sg</i><br><br>Mdm Rekha<br><i style="font-size:11pt; color: rgb(237, 125, 49);">jeeva_rekha_selvam@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3D</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Teo Yuan Lin<br><i style="font-size:11pt; color: rgb(237, 125, 49);">teo_yuan_lin@moe.edu.sg</i></td>
