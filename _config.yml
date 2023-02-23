@@ -15,10 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: |-
-  Lakeside Primary School
-  161 Corporation Walk Singapore 618310
-  To Provide Quality Education to Nurture Wholesome Individuals.
+description: To Provide Quality Education to Nurture Wholesome Individuals.
 permalink: none
 baseurl: ""
 exclude:
@@ -55,7 +52,7 @@ plugins:
 staging: https://staging.dxjvqorff0lhe.amplifyapp.com
 prod: https://master.dxjvqorff0lhe.amplifyapp.com
 shareicon: /images/Home/LOGO-GIF 2023.gif
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
