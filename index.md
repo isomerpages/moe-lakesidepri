@@ -1,10 +1,7 @@
 ---
 layout: homepage
 title: Lakeside Primary School
-description: |-
-  Lakeside Primary School
-  161 Corporation Walk Singapore 618310
-  To Provide Quality Education to Nurture Wholesome Individuals.
+description: To Provide Quality Education to Nurture Wholesome Individuals.
 image: /images/Home/LOGO-GIF 2023.gif
 permalink: /
 notification: ""
@@ -41,4 +38,5 @@ sections:
       url: /announcements-and-latest-happenings/announcements
       button: Read More
 ---
+
 
