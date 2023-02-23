@@ -5,7 +5,7 @@ description: |-
   Lakeside Primary School
   161 Corporation Walk Singapore 618310
   To Provide Quality Education to Nurture Wholesome Individuals.
-image: /images/Home/LSPS-Share Icon.jpg
+image: /images/Home/LOGO-GIF 2023.gif
 permalink: /
 notification: ""
 sections:
@@ -41,3 +41,4 @@ sections:
       url: /announcements-and-latest-happenings/announcements
       button: Read More
 ---
+
