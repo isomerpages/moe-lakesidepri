@@ -2,7 +2,7 @@
 layout: homepage
 title: Lakeside Primary School
 description: To Provide Quality Education to Nurture Wholesome Individuals.
-image: /images/Home/LOGO-GIF 2023.gif
+image: /images/Home/shareicon-lsps.png
 permalink: /
 notification: ""
 sections:
@@ -38,5 +38,6 @@ sections:
       url: /announcements-and-latest-happenings/announcements
       button: Read More
 ---
+
 
 
