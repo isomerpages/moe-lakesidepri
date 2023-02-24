@@ -23,4 +23,4 @@ During recess, students were engaged in hands-on activities, such as: dragon dan
 <hr><br>
 <img src="/images/Happenings/CNY/CNY3.png">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Lantern drawing <br><span style="color:blue;">•</span> Guzheng performance <br><span style="color:blue;">•</span> Students having hands on activities during recess</span><hr><br>
+<span style="color:blue;">•</span> Lantern drawing <br><span style="color:blue;">•</span> Guzheng performance <br><span style="color:blue;">•</span> Students having hands on activities during recess</span>
