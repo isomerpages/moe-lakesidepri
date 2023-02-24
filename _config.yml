@@ -3,7 +3,7 @@ url: https://lakesidepri.moe.edu.sg
 favicon: /images/Home/favicon-lsps.png
 colors:
   primary-color: "#2f6cb5"
-  secondary-color: "#fae523"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#f5a623"
