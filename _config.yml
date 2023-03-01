@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#f5a623"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f5a623"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f5a623"
 description: To Provide Quality Education to Nurture Wholesome Individuals.
 permalink: none
 baseurl: ""
