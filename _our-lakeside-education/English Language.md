@@ -10,7 +10,9 @@ Taking reference from the EL Syllabus 2020, we want our students to be empatheti
 <br><br>
 We do this by encouraging them to:
 <ul>
-<li>Listen actively to multiple perspectives</li><li>Read a variety of print and non-print texts</li><li>Communicate effectively and sensitively in both verbal and written form</li><li>Process verbal and written information critically and with discernment</li>
+<li>Listen actively to multiple perspectives</li>
+<li>Read a variety of print and non-print texts</li>
+<li>Communicate effectively and sensitively in both verbal and written form</li><li>Process verbal and written information critically and with discernment</li>
 </ul>
 <br>
 <b>Overview:</b>
@@ -21,12 +23,16 @@ Under STELLAR 2.0, there is a greater emphasis on helping students develop:
 <ul>
 <li>multiliteracies</li> 
 <ul><li>appreciate the changing nature of texts and their purposes</li> 
-<li>raise awareness of text features and text organization for various text types</li></ul> 
+	<li>raise awareness of text features and text organization for various text types</li></ul> 
 <li>metacognition</li> 
-<ul><li>acquire and use information critically</li> 
-<li>monitor and reflect on one’s own thinking</li></ul> 
+<ul>
+<li>acquire and use information critically</li>
+<li>monitor and reflect on one’s own thinking</li>
+</ul> 
 <li>inquiry through dialogue</li> 
-<ul><li>interact, discuss and build on each other’s ideas</li></ul></ul>
+<ul>
+<li>interact, discuss and build on each other’s ideas</li>
+</ul></ul>
 <br>
 <b>Department Strategies</b>
 <br><br>
