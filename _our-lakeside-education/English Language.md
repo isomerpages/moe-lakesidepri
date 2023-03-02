@@ -28,12 +28,11 @@ Under STELLAR 2.0, there is a greater emphasis on helping students develop:
 <li>monitor and reflect on one’s own thinking</li></ul> 
 <li>inquiry through dialogue</li> 
 <ul><li>interact, discuss and build on each other’s ideas</li></ul></ul>
-
-<br><br>
+<br>
 <b>Department Strategies</b>
-<br>
+<br><br>
 Here are some of the strategies we adopt for the teaching and learning of skills
-<br>
+<br><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Language Area</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Strategies</b></td></tr>
