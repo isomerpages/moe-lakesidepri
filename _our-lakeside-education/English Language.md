@@ -9,10 +9,9 @@ We aim to develop students to be effective and confident communicators by cultiv
 Taking reference from the EL Syllabus 2020, we want our students to be empathetic communicators, discerning readers and creative inquirers. 
 <br><br>
 We do this by encouraging them to:
-<ul><li>Listen actively to multiple perspectives</li>
-<li>Read a variety of print and non-print texts</li>
-<li>Communicate effectively and sensitively in both verbal and written form</li>
-<li>Process verbal and written information critically and with discernment</li></ul>
+<ul>
+<li>Listen actively to multiple perspectives</li><li>Read a variety of print and non-print texts</li><li>Communicate effectively and sensitively in both verbal and written form</li><li>Process verbal and written information critically and with discernment</li>
+</ul>
 <br>
 <b>Overview:</b>
 <br>
