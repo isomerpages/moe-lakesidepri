@@ -57,7 +57,7 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 Recognising the pivotal role that phonics instruction plays in helping students acquire reading skills at an early age, all our Lower Primary students are introduced to phonics formally through a structured Phonics Infusion Programme which aims to give them a good foundation in letter-sound association, blending, segmenting and spellings skills.
 <br><br>
 <u>Class Library Programme</u><br>
-Each classroom has a class library cupboard that is stocked with books. The books are rotated between the classes termly so that students have access to a wide variety of books. Class Library activities are also conducted termly. These include getting the students involved in setting up the library in the “Best Class Library” competition and a “Book Spine Poetry” competition.<br>
+Each classroom has a class library cupboard that is stocked with books. The books are rotated between the classes termly so that students have access to a wide variety of books. Class Library activities are also conducted termly. These include getting the students involved in setting up the library in the “Best Class Library” competition and a “Book Spine Poetry” competition.<br><br>
 <img src="/images/Department/01EL/EL1.png">
 <br><br>
 <u>Drop Everything And Read (DEAR)</u><br>
