@@ -14,9 +14,9 @@ We do this by encouraging them to:
 <li>Read a variety of print and non-print texts</li>
 <li>Communicate effectively and sensitively in both verbal and written form</li><li>Process verbal and written information critically and with discernment</li>
 </ul>
-<br>
+<hr><br>
 <b>Overview:</b>
-<br>
+<br><br>
 We make use of STrategies for English Language Learning And Reading (STELLAR) to help our students become proficient users of the English Language. 
 <br><br>
 Under STELLAR 2.0, there is a greater emphasis on helping students develop:
@@ -33,7 +33,7 @@ Under STELLAR 2.0, there is a greater emphasis on helping students develop:
 <ul>
 <li>interact, discuss and build on each other’s ideas</li>
 </ul></ul>
-<br>
+<hr><br>
 <b>Department Strategies</b>
 <br><br>
 Here are some of the strategies we adopt for the teaching and learning of skills
@@ -56,7 +56,7 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Language Use</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td></tr></table>
-<br>
+<hr><br>
 <b>Key Programmes:</b><br><br>
 <u>P1 & P2 Phonics Infusion Programme</u><br>
 Recognising the pivotal role that phonics instruction plays in helping students acquire reading skills at an early age, all our Lower Primary students are introduced to phonics formally through a structured Phonics Infusion Programme which aims to give them a good foundation in letter-sound association, blending, segmenting and spellings skills.
@@ -84,7 +84,7 @@ Learn Through Play encourages students to engage in authentic conversation throu
 <br><br>
 <u>English Week</u><br>
 English Week revolves around a special theme each year. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
-<br><br><br>
+<br><br><br><hr>
 <b>Support Programmes</b><br><br>
 <u>Learning Support Programme (P1 & P2)</u><br>
 The Learning Support Programme aims to support students who need additional help with building their foundational English language skills. It is conducted in small groups by trained teachers.
