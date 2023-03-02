@@ -4,7 +4,7 @@ permalink: /our-lakeside-education/english-language/
 description: ""
 ---
 <b>Curricular Goals:</b>
-<br>
+<br><br>
 We aim to develop students to be effective and confident communicators by cultivating a rich environment to develop reading, writing, listening and speaking skills.<br><br>
 Taking reference from the EL Syllabus 2020, we want our students to be empathetic communicators, discerning readers and creative inquirers. 
 <br><br>
