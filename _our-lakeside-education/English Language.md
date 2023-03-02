@@ -23,7 +23,7 @@ Under STELLAR 2.0, there is a greater emphasis on helping students develop:
 <ul>
 <li>multiliteracies</li> 
 <ul><li>appreciate the changing nature of texts and their purposes</li> 
-	<li>raise awareness of text features and text organization for various text types</li></ul> 
+<li>raise awareness of text features and text organization for various text types</li></ul> 
 <li>metacognition</li> 
 <ul>
 <li>acquire and use information critically</li>
