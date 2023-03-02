@@ -59,6 +59,7 @@ Recognising the pivotal role that phonics instruction plays in helping students 
 <br><br>
 <u>Class Library Programme</u><br>
 Each classroom has a class library cupboard that is stocked with books. The books are rotated between the classes termly so that students have access to a wide variety of books. Class Library activities are also conducted termly. These include getting the students involved in setting up the library in the “Best Class Library” competition and a “Book Spine Poetry” competition.
+<img src="/images/Department/01EL/EL1.png">
 <br><br>
 <u>Drop Everything And Read (DEAR)</u><br>
 1 English period is set aside each week for our students to engage in reading-related activities. The various activities include: reading of storybooks, reading of articles related to the current STELLAR unit, and reading of the ‘Little Red Dot’ publication by Singapore Press Holdings.
