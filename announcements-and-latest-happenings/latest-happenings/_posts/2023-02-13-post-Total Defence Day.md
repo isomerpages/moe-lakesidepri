@@ -10,22 +10,22 @@ We commemorated Total Defence Day (TDD) on 13 February 2023. The theme for TDD t
 <br><br>
 Our school conducted a variety of activities to create an engaging and meaningful experience for students to deepen their understanding of the core message of everyone standing together, with each playing our part to protect Singapore and our shared way of life. 
 <br><br>
-<img src="/images/Happenings/TDD/TDD1.png">
+<img src="/images/Happenings/TDD/TDD11.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our emcees, Cherry (Class 5E) and Wei Yang (Class 5F), facilitating the quiz segment during PAVE session. <br><span style="color:blue;">•</span> Students participating and receiving tokens during quiz segment. </span>
 <hr>
-<img src="/images/Happenings/TDD/TDD2.png">
+<img src="/images/Happenings/TDD/TDD12.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our school male teachers wearing the army uniform to show the importance of one of the pillars of Total Defence, Military Defence. <br><span style="color:blue;">•</span> Assembly show “Mia Amata” in the school hall to illustrate that it is everybody’s role, regardless of gender or age to ensure that we get to live in and can continue to live in a safe environment through the pillars of Total Defence. <br><span style="color:blue;">•</span>  CCE HOD announcing to the school our NS Mark accreditation, a national-level accreditation scheme that recognises organisations with policies and human resource practices that support National Service and Total Defence.</span>
 <hr>
-<img src="/images/Happenings/TDD/TDD3.png">
+<img src="/images/Happenings/TDD/TDD13.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Teachers conducting CCE (FTGP) lessons about Total Defence Day. <br><span style="color:blue;">•</span> Students reading the Kindsville Times/A-OK! booklets to know more about the importance of Total Defence Day. </span>
 <hr>
-<img src="/images/Happenings/TDD/TDD4.png">
+<img src="/images/Happenings/TDD/TDD14.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> The Community Policing Unit Officers from Jurong West NPC, Jurong Division sharing with the students about scam and giving some collaterals.  <br><span style="color:blue;">•</span> Staff unite as one by dressing in camouflage prints (green, blue or grey) to commemorate the event. <br><span style="color:blue;">•</span> TDD related posters at the foyer for the students to learn more about the six Total Defence pillars. </span>
