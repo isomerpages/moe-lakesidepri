@@ -18,7 +18,7 @@ The scope of values, skills and competencies that students will be exposed to th
 The main aim of the ALP is to develop students’ critical and creative thinking skills and reinforce values taught through the use of DT processes for progressively complex problems and situations. The focus at P1 and P2 is on creating awareness of 2 DT phases – Empathy and Ideation. From Primary 3 to 5, students will be introduced to the remaining DT phases – Define, Prototyping and Testing as well as creative thinking protocols such SCAMPER (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse) and Paul’s elements of thoughts. Our P2 to P4 students were involved in the pilot ALP in 2019. In 2020, the ALP will be implemented at all levels.<br>
 The following table shows an overview of our ALP focus across the 5 levels.
 <br><br>
-<div style="text-align: center;"><b>ALP : Thinkers with Heart Programme</b></div>
+<div style="width: 773px; text-align: center;"><b>ALP : Thinkers with Heart Programme</b></div><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="129" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Level Area</b></td>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P1</b></td>
