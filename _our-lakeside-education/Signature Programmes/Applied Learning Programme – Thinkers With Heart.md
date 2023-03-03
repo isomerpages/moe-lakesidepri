@@ -11,7 +11,7 @@ third_nav_title: Signature Programmes
 Our vision and school strategic goals espouse our commitment to prepare our students to be future-ready, imbued with the values, dispositions and 21st century competencies and skills such as Computational Thinking needed to thrive in a VUCA world. We strongly believe the Design Thinking approach and the application of the Principles of VIA Project work with an interdisciplinary focus will help us fulfil our commitment.
 <br><br>
 Through the ALP, the students transfer ideas from one context to another and make creative connections between them, exercise social responsibility, take ownership and effect change. Design Thinking being a human-centred approach to creative and critical problem-solving using real-life contexts and problems will facilitate the development of the requisite attributes in our future-ready Lakers.
-<br><br>
+<hr><br><br>
 <b>Overview:</b>
 <br>
 The scope of values, skills and competencies that students will be exposed to through the ALP will be widened and deepened progressively over the years.
