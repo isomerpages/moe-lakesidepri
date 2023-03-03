@@ -43,17 +43,16 @@ The MOE Edusave Character Award (ECHA) recognises Singaporean students who demon
 <br>
 Similar to the practice for other Edusave awards, ECHA awardees will receive a certificate and an award voucher.  The ECHA award quanta are as follows, depending on the level of study:
 <br><br>
-<table>
-<tr>
-<td>Levels</td>
-<td>Award Quantum</td>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Levels</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Award Quantum</td>
 </tr>
 <tr>
-<td>Primary 1 to 3</td>
-<td>$200</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Primary 1 to 3</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$200</td>
 </tr>
 <tr>
-<td>Primary 4 to 6</td>
-<td>$350</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Primary 4 to 6</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$350</td>
 </tr>
 </table>
