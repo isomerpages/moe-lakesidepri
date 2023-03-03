@@ -57,4 +57,3 @@ Similar to the practice for other Edusave awards, ECHA awardees will receive a c
 <td>$350</td>
 </tr>
 </table>
-
