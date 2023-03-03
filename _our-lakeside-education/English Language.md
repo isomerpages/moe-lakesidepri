@@ -84,7 +84,7 @@ Learn Through Play encourages students to engage in authentic conversation throu
 <br><br>
 <u>English Week</u><br>
 English Week revolves around a special theme each year. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
-<hr><br><br><br>
+<hr><br><br>
 <b>Support Programmes</b><br><br>
 <u>Learning Support Programme (P1 & P2)</u><br>
 The Learning Support Programme aims to support students who need additional help with building their foundational English language skills. It is conducted in small groups by trained teachers.
