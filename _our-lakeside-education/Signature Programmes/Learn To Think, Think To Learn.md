@@ -11,3 +11,5 @@ third_nav_title: Signature Programmes
 <b>Overview:</b>
 <br><br>
 Why do we focus on thinking? Firstly, we believe that learning happens as a result of thinking. We need access to students’ thinking so that we can help them improve in their learning. Secondly, we believe that equipping students with the skills and dispositions to think critically and creatively can help them in the world they will grow up into – for example, the increasing polarisation of views and prevalence of fake news.
+<br>
+<img src="/images/Department/12LTTL/LTTL1.svg">
