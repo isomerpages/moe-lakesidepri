@@ -79,7 +79,7 @@ Our buddy reading programme provides an opportunity for paired reading. Tutees a
 <u>kidsREAD Programme</u><br>
 Our schools utilizes the national reading programme “kidsREAD” to help selected P1 and P2 students develop a love for reading and instill good reading habits. Our teachers collaborate with NLB and student volunteers from Millennia Institute to run the programme on Friday afternoons for our students.
 <br><br>
-<u>Learn Through Play</u>
+<u>Learn Through Play</u><br>
 Learn Through Play encourages students to engage in authentic conversation through play. Classes receive resources like puppets and game sets and are encouraged to make use of time that is set aside to engage in play.
 <br><br>
 <u>English Week</u><br>
