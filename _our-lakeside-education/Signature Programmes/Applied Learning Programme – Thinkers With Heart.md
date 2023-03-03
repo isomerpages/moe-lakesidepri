@@ -45,13 +45,13 @@ The following table shows an overview of our ALP focus across the 5 levels.
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Environment</td></tr>
 <tr>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Project Theme & Details</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">My Emotions!</i></b><br>Design a diorama & recognize, express & regulate emotions</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Empathise with Characters</i></b><br>Dramatise a plot & recognise, express & regulate emotions</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Classrooms as We Like It</i></b><br>Redesign learning environment in the classroom</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Our Stories</i></b><br>Create fractured stories and eBooks for the P1 students</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">iChange</i></b><br>Create Art installations & virtual gallery to deliver messages on building a conducive neighbourhood</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Toys4All</i></b><br>Design a toy for the physically handicapped children</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:14pt;">Reduce Food Wastage</i></b><br>Address food wastage concern </td></tr>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">My Emotions!</i></b><br>Design a diorama & recognize, express & regulate emotions</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Empathise with Characters</i></b><br>Dramatise a plot & recognise, express & regulate emotions</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Classrooms as We Like It</i></b><br>Redesign learning environment in the classroom</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Our Stories</i></b><br>Create fractured stories and eBooks for the P1 students</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">iChange</i></b><br>Create Art installations & virtual gallery to deliver messages on building a conducive neighbourhood</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Toys4All</i></b><br>Design a toy for the physically handicapped children</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Reduce Food Wastage</i></b><br>Address food wastage concern </td></tr>
 <tr>
 <td width="129" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>DTI Phases</b></td>
 <td width="256" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Empathy</b><br>(Interview Skills)<br><b>Ideation</b></td>
