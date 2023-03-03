@@ -26,4 +26,20 @@ To enhance the students’ learning experience and to instil joy of learning, th
 <u>Parents Engagement</u><br>
 Parents are our valuable partners in education. The school holds the Meet-The-Parents (MTP) and Parents’ Connection Session (PCS) in the beginning of the year and Parent-Child-Teacher-Conferencing (PCTC) in May to engage our parents in the holistic development of their child’s educational journey.
 <br><br>
-Meeting the parents at the beginning of the year serves as a platform that allows the teachers to communicate their expectations to the parents. It also enables the parents to meet their child’s teachers and establishes a communication channel between both parents and teachers. The school leaders share with the parents the school vision, mission and values, key MOE initiatives and important information pertaining to the respective levels. 
+Meeting the parents at the beginning of the year serves as a platform that allows the teachers to communicate their expectations to the parents. It also enables the parents to meet their child’s teachers and establishes a communication channel between both parents and teachers. The school leaders share with the parents the school vision, mission and values, key MOE initiatives and important information pertaining to the respective levels.
+<br><br>
+<img src="/images/Department/10SDT/SDT1.png">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> P1 Concert - Showcasing our talents during the P1 Concert. <br><span style="color:blue;">•</span> P2 Jobs In My School - Learning about the different occupations within the school environment. Let’s interview our Operations Manager! </span>
+<hr><br><br>
+<img src="/images/Department/10SDT/SDT2.png">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> P3 - Learning to work together to complete a task  <br><span style="color:blue;">•</span> P4 SRRS - Bonding through playing games  </span>
+<hr><br><br>
+<img src="/images/Department/10SDT/SDT3.png">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Our P5 students involved in kayaking during the P5 Camp.<br><span style="color:blue;">•</span> From print to examining real artefacts –P6 Learning Journey to Asian Civilization Museum  </span>
+<hr><br><br>
+<img src="/images/Department/10SDT/SDT4.png">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Use Your Hands Campaign  <br><span style="color:blue;">•</span> P6 Graduation Ceremony - Dance Performance <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Meet-the-Parents Virtual Session  <span style="color:blue;"><i>(bottom)</i></span></span>
