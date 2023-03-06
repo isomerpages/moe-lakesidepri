@@ -13,7 +13,7 @@ We aim to develop confident Chinese language users who are equipped with 21st ce
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Reading</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Writing</b></td>
 </tr>
-<tr>
+<tr style=" font-size: 11pt;">
 <td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>MTV routines, e.g. See-Think-Wonder, Zoom In, Step Inside, etc.</li><li>DCFS, SOS and 3PE models</li></td>
 <td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>Annotation and Chunking</li>
 <li>MTV routines, e.g. Circle of Viewpoints, Claim-Support-Question, Tug of War, etc.</li><li>FAST model</li></td>
