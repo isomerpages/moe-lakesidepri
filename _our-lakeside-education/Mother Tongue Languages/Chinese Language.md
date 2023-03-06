@@ -20,7 +20,11 @@ We aim to develop confident Chinese language users who are equipped with 21st ce
 <td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li>DATE model</li></td>
 </tr>
 </table
-
+<img src="/images/Departments/04CL/CL1.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students dress up for the celebration <br><span style="color:blue;">•</span> Strong support from PSG for recess activities <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Lion Dance <span style="color:blue;"><i>(bottom)</i></span></span>
+<hr><br>
 <br><br>
 <b>Key Programmes:</b><br>
 To inculcate the love of the Chinese language and culture, we have a series of programmes lined up to provide opportunities for students to get exposure and experience the joy of learning. 
