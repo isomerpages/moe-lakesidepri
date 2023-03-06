@@ -20,7 +20,7 @@ All our Learning Dispositions are undergirded by our school values. Values are a
 School experiences avail students the opportunity to develop their LDs and prepare them to be future-ready. Together with the support of our parents and partners, we trust we can develop the learning dispositions of our students and become life-long learners and virtuous leaders. 
 <br><br>
 <img src="/images/Department/05CCE/CCE1.png">
-<br><hr><br>
+<hr><br><br>
 <b>Values-In-Action</b>
 <br><br>
 Students participate in Values In Action (VIA), both specially catered to their levels as well as school-wide. VIA aims to help students internalise values learnt through real life experiential activities. Through VIA, students learnt to put values into action as well as develop their LDs. 
