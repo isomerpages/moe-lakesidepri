@@ -40,7 +40,7 @@ We aim to develop confident Chinese language users who are equipped with 21st ce
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Student Exchange with Beijing No.1 Experimental Primary School on 11 Nov 2022 <br><span style="color:blue;">•</span> Chinese New Year Celebration </span>
-<hr><br><br>
+<hr><br>
 <b>Key Programmes:</b><br>
 To inculcate the love of the Chinese language and culture, we have a series of programmes lined up to provide opportunities for students to get exposure and experience the joy of learning. 
 <br><br>
