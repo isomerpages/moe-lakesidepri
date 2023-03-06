@@ -19,13 +19,28 @@ We aim to develop confident Chinese language users who are equipped with 21st ce
 <li>MTV routines, e.g. Circle of Viewpoints, Claim-Support-Question, Tug of War, etc.</li><li>FAST model</li></td>
 <td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li>DATE model</li></td>
 </tr>
-</table
+</table>
+<br>
 <img src="/images/Department/04CL/CL1.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students dress up for the celebration <br><span style="color:blue;">•</span> Strong support from PSG for recess activities <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Lion Dance <span style="color:blue;"><i>(bottom)</i></span></span>
+<span style="color:blue;">•</span> Using Virtual Reality to build authentic language environment <br><span style="color:blue;">•</span> Using Google Classroom for self-directed and collaborative learning </span>
 <hr><br>
-<br><br>
+<img src="/images/Department/04CL/CL2.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Class Performance in Mother Tongue Fortnight <br><span style="color:blue;">•</span> Guided Activity in Mother Tongue Fortnight </span>
+<hr><br>
+<img src="/images/Department/04CL/CL3.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Extensive reading programme <br><span style="color:blue;">•</span> National Memory Game Competition for Foundational Chinese Language students </span>
+<hr><br>
+<img src="/images/Department/04CL/CL4.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Student Exchange with Beijing No.1 Experimental Primary School on 11 Nov 2022 <br><span style="color:blue;">•</span> Chinese New Year Celebration </span>
+<hr><br><br>
 <b>Key Programmes:</b><br>
 To inculcate the love of the Chinese language and culture, we have a series of programmes lined up to provide opportunities for students to get exposure and experience the joy of learning. 
 <br><br>
