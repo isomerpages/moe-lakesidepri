@@ -8,7 +8,19 @@ third_nav_title: Mother Tongue Languages
 <br>
 We aim to develop confident Chinese language users who are equipped with 21st century skills and good values. We adopt the “Making Thinking Visible” (MTV) routines and the Paul’s Elements of Reasoning to develop critical thinking skills. We design some of our lessons with ICT tools, such as virtual reality, and curate programmes and competitions to make the language come alive. As our students progress through the levels, they will be equipped with a set of useful strategies to be a critical and creative thinker, as well as a lifelong learner.
 <br><br>
-
+<table>
+<tr>
+<td>Speaking & Listening</td>
+<td>Reading</td>
+<td>Writing</td>
+</tr>
+<tr>
+<td><li>MTV routines, e.g. See-Think-Wonder, Zoom In, Step Inside, etc.</li><li>DCFS, SOS and 3PE models</li></td>
+<td><li>Annotation and Chunking</li>
+<li>MTV routines, e.g. Circle of Viewpoints, Claim-Support-Question, Tug of War, etc.</li><li>FAST model</li></td>
+<td><li>MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li>DATE model</li></td>
+</tr>
+</table
 
 <br><br>
 <b>Key Programmes:</b><br>
@@ -21,4 +33,4 @@ To develop the good habit of reading, students are encouraged to read Chinese la
 Language comes with its own unique culture and values. During the Mother Tongue Fortnight and P4 Cultural Camp, we put together a series of programmes and lessons so that students learn and appreciate the cultural aspects of Chinese Language.
 <br><br>
 <u>Internal and External Competitions</u><br>
-We organize internal competitions and identify key external competitions, including story-telling and story-writing, so that students with various interests get exposure to the different aspects of the Chinese language. 
+We organize internal competitions and identify key external competitions, including story-telling and story-writing, so that students with various interests get exposure to the different aspects of the Chinese language.
