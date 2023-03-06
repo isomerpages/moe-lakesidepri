@@ -8,17 +8,16 @@ third_nav_title: Mother Tongue Languages
 <br>
 We aim to develop confident Chinese language users who are equipped with 21st century skills and good values. We adopt the “Making Thinking Visible” (MTV) routines and the Paul’s Elements of Reasoning to develop critical thinking skills. We design some of our lessons with ICT tools, such as virtual reality, and curate programmes and competitions to make the language come alive. As our students progress through the levels, they will be equipped with a set of useful strategies to be a critical and creative thinker, as well as a lifelong learner.
 <br><br>
-<table>
-<tr>
-<td>Speaking & Listening</td>
-<td>Reading</td>
-<td>Writing</td>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Speaking & Listening</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Reading</b></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Writing</b></td>
 </tr>
 <tr>
-<td><li>MTV routines, e.g. See-Think-Wonder, Zoom In, Step Inside, etc.</li><li>DCFS, SOS and 3PE models</li></td>
-<td><li>Annotation and Chunking</li>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>MTV routines, e.g. See-Think-Wonder, Zoom In, Step Inside, etc.</li><li>DCFS, SOS and 3PE models</li></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>Annotation and Chunking</li>
 <li>MTV routines, e.g. Circle of Viewpoints, Claim-Support-Question, Tug of War, etc.</li><li>FAST model</li></td>
-<td><li>MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li>DATE model</li></td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li>MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li>DATE model</li></td>
 </tr>
 </table
 
