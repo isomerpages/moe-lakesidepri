@@ -8,9 +8,7 @@ third_nav_title: Aesthetics
 dispositions to empower the complete musicians inside them to emerge. This is done through musical experiences in the domains of Listening, Creating and Performing where Lakers;
 <ol style="font-size:14px;">
 <li>gain understanding and appreciation of musical elements and concepts within rich musical contexts across genres and traditions of local and global cultures</li>
-<li>develop awareness and ability for creative expression through music performance and music creation, in both instrumental and vocal settings, individually and in groups</li>
-</ol>
-<br>
+<li>develop awareness and ability for creative expression through music performance and music creation, in both instrumental and vocal settings, individually and in groups</li></ol>
 Music also has the potential to develop extra-musical skills and dispositions, including critical and creative thinking skills, psychomotor skills, social awareness, and moral and cultural values, all of which contribute to the holistic development of a child.
 <hr><br><br>
 <b>Overview of our approach</b>
