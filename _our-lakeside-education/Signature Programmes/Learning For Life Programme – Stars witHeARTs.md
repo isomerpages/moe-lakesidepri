@@ -9,6 +9,7 @@ third_nav_title: Signature Programmes
 <b>STARS witHeARTs</b>-Shine as Thinkers and Responsible Leaders with the Performing ARTs aims to nurture in each student, important values and life-skills through the Performing Arts and to provide opportunities for all to enjoy the Performing Arts, as well as enrich their lives and those of others, through the Performing Arts.  
 <hr><br><br>
 <b>Overview:</b>
+<br><br>
 Developing life-skills and values through students’ learning experiences in Performing Arts is central to the programmes planned in STARS witHeARTs, apart from providing opportunities to enjoy and appreciate various art forms.
 <br><br>
 All student explorers at Tier 1 are provided with Arts Experience, both as audience and participants to create and present. Student explorers are exposed to variety Performing Arts forms through modulars, assembly programmes and WOW at recess. They also get a chance to explore self-directed music making experiences at the Jamming Space and Musical Garden.  
