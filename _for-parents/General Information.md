@@ -116,7 +116,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Opening Hours</b></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bookshop<br>(Mrs Lim)</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a href="https://for.edu.sg/erqibw" target="_blank">Primary 1</a><br><a href="https://for.edu.sg/w4urnr" target="_blank">Primary 2</a><br><a href="https://for.edu.sg/4x8gcg" target="_blank">Primary 3</a><br><a href="https://for.edu.sg/qsvmx2" target="_blank">Primary 4</a><br><a href="https://for.edu.sg/wqlpt4" target="_blank">Primary 5</a><br><a href="https://for.edu.sg/2hxnxu" target="_blank">Primary 6</a></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none"  href="https://for.edu.sg/erqibw" target="_blank">Primary 1</a><br><a style="text-decoration: none"  href="https://for.edu.sg/w4urnr" target="_blank">Primary 2</a><br><a style="text-decoration: none"  href="https://for.edu.sg/4x8gcg" target="_blank">Primary 3</a><br><a style="text-decoration: none"  href="https://for.edu.sg/qsvmx2" target="_blank">Primary 4</a><br><a style="text-decoration: none"  href="https://for.edu.sg/wqlpt4" target="_blank">Primary 5</a><br><a style="text-decoration: none"  href="https://for.edu.sg/2hxnxu" target="_blank">Primary 6</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6565 5183 /<br>9220 6270 (HP)<br>65651976 (Fax)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td></tr>
 <tr>
@@ -130,7 +130,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Uniform Supplier<br>(Jeep Sing Fashion</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a href="https://for.edu.sg/ajn2b4" target="_blank">Uniform Pamphlet</a></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none"  href="https://for.edu.sg/ajn2b4" target="_blank">Uniform Pamphlet</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6456 3198</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td></tr></table>
 	
@@ -156,4 +156,4 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <br>
 
 <span>6. Waitlist</span><br>
-Click <a href="https://for.edu.sg/iqum7p" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
+Click <a style="text-decoration: none"  href="https://for.edu.sg/iqum7p" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
