@@ -10,6 +10,7 @@ third_nav_title: Signature Programmes
 <hr><br><br>
 <b>Overview:</b>
 <br><br>
+<img src="/images/Department/13LLP/LLP1.png">
 Developing life-skills and values through students’ learning experiences in Performing Arts is central to the programmes planned in STARS witHeARTs, apart from providing opportunities to enjoy and appreciate various art forms.
 <br><br>
 All student explorers at Tier 1 are provided with Arts Experience, both as audience and participants to create and present. Student explorers are exposed to variety Performing Arts forms through modulars, assembly programmes and WOW at recess. They also get a chance to explore self-directed music making experiences at the Jamming Space and Musical Garden.  
