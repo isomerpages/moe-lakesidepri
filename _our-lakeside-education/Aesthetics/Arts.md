@@ -14,7 +14,6 @@ Aligned to the syllabus, the Lakers’ Art Curriculum aims to enable every child
 <li>Opportunities to develop confidence in working individually and in a team</li>
 <li>Awareness of and respect for history and culture</li>
 <li>Skills to connect and reflect using the Art Inquiry Model and artful thinking routines</li></ol>
-
 In this manner, students experience that art helps us see things in new ways, influences how we live and tells stories about our world. Students are engaged through art processes using inquiry approaches, promoting a lifelong enjoyment for and an appreciation of artistic works whilst developing visual literacy.
 <br><br>
 <b>Budding Artists in Action!</b>
