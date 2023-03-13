@@ -21,9 +21,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Charmain Han</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Vice-Principal</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">lakeside_ps@moe.edu.sg</i></td></tr></table>
-
 <br>
-
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Heads of Departments</b></td></tr>
 <tr>
@@ -66,9 +64,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Terence Tay</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">School Staff Developer</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">tay_jia_ming_terence@moe.edu.sg</i></td></tr></table>
-
 <br>
-
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Year Heads</b></td></tr>
 <tr>
@@ -83,9 +79,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Low Tan Hung</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">YH/Lower Primary</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">low_tan_hung@moe.edu.sg</i></td></tr></table>
-
 <br>
-
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Assistant Year Heads</b></td></tr>
 <tr>
@@ -100,9 +94,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Joyce Ang</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">AYH/Lower Primary</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">tay_siew_hoon@moe.edu.sg</i></td></tr></table>
-
 <br>
-
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Level Head / Subject Head</b></td></tr>
 <tr>
@@ -149,9 +141,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Ain Lager</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Information &amp; Communications Technology</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">nur_ain_mohamed_amin@moe.edu.sg</i></td></tr></table>
-
 <br>
-
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Lead Teacher / Senior Teachers</b></td></tr>
 <tr>
