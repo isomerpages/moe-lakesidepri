@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 <b>Programme Objectives:</b>
-<br>
+<br><br>
 <b>STARS witHeARTs</b>-Shine as Thinkers and Responsible Leaders with the Performing ARTs aims to nurture in each student, important values and life-skills through the Performing Arts and to provide opportunities for all to enjoy the Performing Arts, as well as enrich their lives and those of others, through the Performing Arts.  
 <hr><br><br>
 <b>Overview:</b>
