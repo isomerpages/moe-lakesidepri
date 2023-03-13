@@ -88,6 +88,10 @@ Our schools utilizes the national reading programme “kidsREAD” to help selec
 <br><br>
 <u>Learn Through Play</u><br>
 Learn Through Play encourages students to engage in authentic conversation through play. Classes receive resources like puppets and game sets and are encouraged to make use of time that is set aside to engage in play.
+<img src="/images/Department/01EL/EL3.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Having fun with puppets at the Lower Primary</span>
 <br><br>
 <u>English Week</u><br>
 English Week revolves around a special theme each year. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
