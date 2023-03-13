@@ -3,49 +3,37 @@ title: Co–Curricular Activities
 permalink: /our-lakeside-education/co-curricular-activities/
 description: ""
 ---
-
-
-
-
-
-
-
 <b>Curricular Goals:</b><br>
-We aim to develop every student to be an active artist and informed audience, who appreciates and communicates confidently through Arts. Our students will be able to enjoy, explore and experience Arts through active engagement in our art and music programmes. Through these programmes, there will be opportunities for students to express passion, creativity, respect and excellence through Art.
-<br><br>
+We aim to develop character, values and competencies that will prepare our students for a rapidly changing world. Through their active involvement in Co-Curricular activities, students discover their interest and talents. <br><br>
+Through their interaction with one another, friendships will be forged among students from diverse backgrounds as they learn and grow together. With this learning experience in an authentic landscape of CCA in action, our students learn to collaborate and deepen their sense of belonging, commitment and sense of responsibility towards the school and spirit of service to the community.
+
+<hr><br><br>
 <b>Overview:</b>
 <br>
-Co-Curricular Activity (CCA) is an integral part of the total curriculum.
+Co-Curricular Activity (CCA) is an integral part of the total curriculum. In our CCA delivery, we not only provide opportunities for students opportunities to acquire knowledge and specific skill sets related to the CCA. More importantly, we place great emphasis on imparting our school values as well as developing the social-emotional competencies.<br><br>
+All Primary 3 to Primary 6 students are strongly encouraged to join a CCA to develop the whole child holistically. Once allocated a CCA, they are expected to fulfil their CCA commitment through Primary 6, to develop their fullest potential in developing their potential and harnessing the 21st century competencies. The three categories of CCAs are as follows:
 <br><br>
-In our CCA delivery, we not only provide opportunities for students to acquire specific skill sets, but more importantly, we place great emphasis on imparting our school values as well as developing the social-emotional competencies.
+The three categories of CCAs are as follows;
 <br><br>
-All Primary 3 to Primary 6 students are strongly encouraged to join a CCA so as to develop the whole child holistically. Once they are allocated a CCA, they are expected to fulfil their CCA commitment through Primary 6, so as to develop their fullest potential in harnessing the 21st century competencies.
-<br><br>
-The five categories of CCAs are as follows;
-<br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Performing Arts</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Visual Arts</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Sports &amp; Games</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Uniform Group</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Clubs</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Clubs and Uniform Groups (UG)</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Performing & Visual Arts</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Sports</td>
 </tr>
 <tr>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Choir<br>Dikir Barat<br>Harmonica<br>Concert Band<br>Guzheng<br>Chinese Dance<br>Malay Dance<br>Indian Dance<br>Speech & Drama
-</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Visual Arts Club</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rope Skipping<br>Volleyball<br>Wushu
-	<br>Football <span style="font-size:10pt;">(Boys only)</span>
-</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Scouts</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">STE3M Club<br>InfoComm Club
-<br>Library</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Infocomm Club<br>Library Club
+<br>STE3M Club<br>Scouts</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Choir<br>Dikir Barat<br>Harmonica Ensemble<br>Concert Band<br>Guzheng Ensemble<br>Chinese Dance<br>Indian Dance<br>Malay Dance<br>Speech & Drama<br> Visual Arts Club</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rope Skipping<br>Football<br>Wushu
+<br>Volleyball</td>
 </tr>
 </tbody>
 </table>
 <br>	
-For Aesthetics and Clubs, we provide various platforms for the students to showcase their talents. Some examples are performances during festivities, community events and Singapore Youth Festival.
+Each CCA has its specific learning objectives. For Performing and Visual Arts, we provide various platforms for the students to communicate, collaborate and work together to share their love for the arts. Some examples are performances during in school celebrations, community events and Singapore Youth Festival.
 <br><br>
 For Sports CCAs, we provide opportunities for students to play in game settings such as inter-school carnivals, zonal and national sport games. Through these platforms, we seek to develop well rounded students who are passionate lifelong learners with values of respect, teamwork and perseverance.
+<br><br>
+In Clubs, students learning are organized by broad themes of learning focus, while UG provide students with authentic learning experiences which will help them develop important qualities such as leadership, teamwork and resilience.
