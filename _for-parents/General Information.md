@@ -156,4 +156,4 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <br>
 
 <span>6. Waitlist</span><br>
-Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
+Click<a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
