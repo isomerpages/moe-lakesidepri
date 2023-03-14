@@ -103,7 +103,7 @@ description: ""
 <ul>
 <li>keeping classrooms clean, tidy and litter-free.</li>
 <li>switching off classroom lights, fans, visualisers, projectors and/or air-conditioners when they are not in use.</li>
-<li>setting all air-conditioners at 25oC.</li>
+<li>setting all air-conditioners at 25<sup>o</sup>C.</li>
 </ul>
 <li>5.3 Students are to ensure that quality assignments are submitted on time</li>
 
