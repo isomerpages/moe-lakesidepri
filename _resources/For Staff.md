@@ -15,6 +15,6 @@ description: ""
 <hr>
 SSOE 2 Service Desk <span style="font-size:10pt; color: red;">(Mon-Fri: 7am-7pm, Sat: 7am-2pm <span style="color:blue;">•</span> exclude Sundays and Public Holidays)</span>
 <br>
-Hotline : 1800-7663 663 (1800-SMOE MOE)<br>
+Hotline : 1800-7663 663<br>
 Overseas Hotline : 65-6559 4318<br>
 Email : help@schools.gov.sg
