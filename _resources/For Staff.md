@@ -12,3 +12,9 @@ description: ""
 <li><a style="text-decoration: none"  href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank">Academy of Singapore Teachers</a></li>
 <li><a style="text-decoration: none"  href="http://singteach.nie.edu.sg/" target="_blank">SINGTEACH</a></li>
 <li><a style="text-decoration: none"  href="https://rbs.avero-tech.com" target="_blank">Resource Booking Service RBS</a></li></ul>
+
+SSOE 2 Service Desk <span style="font-size:10pt; color: red;">(Mon-Fri: 7am-7pm, Sat: 7am-2pm exclude Sundays and Public Holidays)</span>
+<br>
+Hotline : 1800-7663 663 (1800-SMOE MOE)<br>
+Overseas Hotline : 65-6559 4318<br>
+Email : help@schools.gov.sg
