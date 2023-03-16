@@ -134,7 +134,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6456 3198</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td></tr></table>
 	
-In the event that Lakeside Primary School Dental Clinic is closed, pupils who require EMERGENCY dental treatment can call any of the buddy clinics (see below) for an appointment.
+In the event that Lakeside Primary School Dental Clinic is closed, pupils who require <span style="color: red;">EMERGENCY</span> dental treatment can call any of the buddy clinics (see below) for an appointment.
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Dental Clinic</b></td>
