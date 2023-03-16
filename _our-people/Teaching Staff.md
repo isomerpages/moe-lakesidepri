@@ -201,7 +201,7 @@ description: ""
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">6A</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Ang Hwee Fung<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ang_hwee_fung@moe.edu.sg</i></td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sharinah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">sharinah_ahmad@moe.edu.sg</i><br>Mrs Rajan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">karen_selvarajan@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sharinah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">sharinah_ahmad@moe.edu.sg</i><br>Mrs Rajan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">karen_selvarajan@moe.edu.sg</i><br>Mrs Irene Wan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">irene_ferrao@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">6B</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Eugenia Lim<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lim_yun_rui@moe.edu.sg</i></td>
