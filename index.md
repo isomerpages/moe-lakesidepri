@@ -25,12 +25,11 @@ sections:
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
   - infopic:
-      title: Happy Chinese New Year
+      title: Appreciating Our Inspiring Teachers
       alt: Image alt text
-      image: /images/Home/Pop Up/CNY 2023.png
-      subtitle: Seasonal Greetings
-      description: to all staff, students, parents, and stakeholders from the
-        Principal & School Management of Lakeside Primary School
+      image: /images/Announcements/teacher1.png
+      description: We are calling for nominations for inspiring teachers of various
+        subjects.
   - infopic:
       title: Announcements
       alt: Image alt text
