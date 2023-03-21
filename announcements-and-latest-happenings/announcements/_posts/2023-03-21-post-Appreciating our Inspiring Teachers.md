@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Announcements/teacher1.png">
+<img src="/images/Announcements/teacher1.png" style="width: 400px; height: 400px; ">
 
 In Lakeside Primary School, we want to appreciate the excellence of teachers in the teaching and learning of various subjects.
 <br><br>
