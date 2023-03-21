@@ -3,8 +3,6 @@ title: Primary 1 (2023)
 permalink: /for-parents/primary-1-2023/
 description: ""
 ---
-Important Information on Upcoming Events in 2022 and 2023  
-<br>
 <b>P1 First Day of School</b>
 <br><br>
 <b>Primary 1 2023 Information for Parents and Students.</b>
