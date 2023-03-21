@@ -30,6 +30,8 @@ sections:
       image: /images/Announcements/teacher1.png
       description: We are calling for nominations for inspiring teachers of various
         subjects.
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeRfW0fHcm__O2EEZ1z202eF8x8_P0Neak7cBaji7Xg81MaMw/viewform
+      button: nomination form
   - infopic:
       title: Announcements
       alt: Image alt text
