@@ -3,8 +3,6 @@ title: Primary 1 (2023)
 permalink: /for-parents/primary-1-2023/
 description: ""
 ---
-<b>P1 First Day of School</b>
-<br><br>
 <b>Primary 1 2023 Information for Parents and Students.</b>
 <li><a href="/files/Admin%20Forms/Letter%20to%20P1%20Parents.pdf" target="_blank">P1 2023 Letter to Parents</a></li>  
 <li><a href="/files/Admin%20Forms/Orientation%20Booklet%202023.pdf" target="_blank">Orientation Booklet</a></li><br>
