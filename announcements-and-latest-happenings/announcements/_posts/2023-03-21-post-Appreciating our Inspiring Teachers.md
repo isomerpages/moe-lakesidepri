@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+<img src="/images/announcement/inspiring-teacher.png">
 
 In Lakeside Primary School, we want to appreciate the excellence of teachers in the teaching and learning of various subjects.
 <br><br>
