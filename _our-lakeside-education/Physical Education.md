@@ -3,15 +3,12 @@ title: Physical Education
 permalink: /our-lakeside-education/physical-education/
 description: ""
 ---
-
-
-
 <b>Curricular Goals:</b>
 <br>
 We aim to develop in our students an understanding and the application of a range of movement skills, which will enable them to participate in a variety of physical activities. While they enjoy and value the benefits of living a physically active and healthy life, they will also display positive personal and social behaviour through the demonstration of safe practices during physical activities.
-<br><br>
+<hr><br><br>
 <b>Overview:</b>
-<br>
+<br><br>
 In Lakeside Primary, we want to equip every student with the physical skills, practices and values to enjoy a lifetime of active, healthy living. We make use of movement as the primary medium to teach the whole child through;<br>
 <ul><li>education in movement</li>
 <li>education through movement</li>
