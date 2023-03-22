@@ -6,7 +6,7 @@ description: ""
 <b>Curricular Goals:</b>
 <br>
 We aim to develop in our students an understanding and the application of a range of movement skills, which will enable them to participate in a variety of physical activities. While they enjoy and value the benefits of living a physically active and healthy life, they will also display positive personal and social behaviour through the demonstration of safe practices during physical activities.
-<hr><br><br>
+<hr><br>
 <b>Overview:</b>
 <br><br>
 <img src="/images/Department/06PE/PE1.png" style="width: 60%;">
