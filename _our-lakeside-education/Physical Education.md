@@ -38,7 +38,7 @@ The seven learning areas of our PE program are;
 <li>Outdoor Education</li>
 <li>Physical Health and Fitness (previously known as Health Education)</li>
 <li>Swimming</li></ul>
-<hr><br><br>
+<hr><br>
 <b>Key Programmes:</b>
 <br><br>
 <u>Lakers Inter-Class Games</u>
