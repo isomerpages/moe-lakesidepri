@@ -3,9 +3,6 @@ title: Information & Communication Technology (ICT)
 permalink: /our-lakeside-education/information-n-communication-technology-ict/
 description: ""
 ---
-
-
-
 <b>Goals:</b>
 <br>
 We aim to nurture future-ready and responsible digital learners, who are well read and able to work collaboratively with others.
@@ -18,4 +15,4 @@ Information and Communication Technology (ICT) is used productively for quality 
 <b>Key Programmes:</b>
 <br>
 Information and Communication Technology Skills
-The ICT Department exposes students to ICT skills progressively. In Primary 1 and 2, students will be taught basic touch-typing skills. In Primary 3 & 4, students will be exposed to Scratch, a block-based visual programming language developed by the Lifelong Kindergarten group at the Massachusetts Institute of Technology
+The ICT Department exposes students to ICT skills progressively. In Primary 1 and 2, students will be taught basic touch-typing skills. In Primary 3 & 4, students will be exposed to Scratch, a block-based visual programming language developed by the Lifelong Kindergarten group at the Massachusetts Institute of Technology.
