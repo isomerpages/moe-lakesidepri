@@ -57,3 +57,13 @@ We adopt a spiral approach in the for the reinforcement of skills and knowledge 
 </tr>
 </tbody>
 </table>
+<br><br>
+<img src="/images/Department/07MUSIC/MU1.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> P2 Boomwhackers <br><span style="color:blue;">•</span> P3 keyboard </span>
+<hr><br>
+<img src="/images/Department/07MUSIC/MU2.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> P4 Ukulele <br><span style="color:blue;">•</span> P5 Songwriting <br><span style="color:blue;">•</span> P6 post PSLE </span>
