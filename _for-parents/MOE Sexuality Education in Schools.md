@@ -91,6 +91,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <br>
 	<b>Information for Parents</b>
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form can be accessed <a href="https://go.gov.sg/lsps-sed2023" target="_blank">here</a>. The completed opt-out form is to be submitted by 20/01/2023.</li>
+
 <li>Parents can contact the school at 62620918 or email at lakeside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
