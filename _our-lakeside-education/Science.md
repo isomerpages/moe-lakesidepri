@@ -23,3 +23,18 @@ Students are given various opportunities to interact with nature through the env
 <br><br>
 <u>Thinking like a Scientist</u><br>
 Going beyond learning scientific facts, students are equipped with thinking skills like using the framework of CER (Claim-Evidence-Reasoning) to guide them to think like a scientist and to communicate in a scientific way. Students who have strong aptitude in Science are challenge to take up programmes like E2K (Excellence 2000) to extend their learning.
+<br><br>
+<img src="/images/Department/03SCI/SCI1.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Observing specimen slides using a clip-on microscope during a P3 lesson on bacteria and fungi <br><span style="color:blue;">•</span> Students harvesting the vegetables they have planted during the P4 Eco-plot Planting Programme </span>
+<hr><br>
+<img src="/images/Department/03SCI/SCI2.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Working together to create a model of the plant transport system during a P5 Science lesson <br><span style="color:blue;">•</span> Conducting a scientific investigation on elastic potential energy during a P6 lesson </span>
+<hr><br>
+<img src="/images/Department/03SCI/SCI3.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Taking measurements to discover a scientific rule during the E2K Programme <br><span style="color:blue;">•</span> Exploring the heat conductivity of different metals during the Science Centre Enrichment Programme <br><span style="color:blue;">•</span> Students learning about the edible plants in our school garden during a workshop organised for the Environment Monitors </span>
