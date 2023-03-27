@@ -6,12 +6,11 @@ description: ""
 <b>Goals:</b>
 <br>
 We aim to nurture future-ready and responsible digital learners, who are well read and able to work collaboratively with others.
-<br><br>
+<hr><br><br>
 <b>Overview:</b>
 <br>
 Information and Communication Technology (ICT) is used productively for quality learning in support of the total curriculum in Lakeside Primary School. ICT is integrated in our curriculum, assessment and pedagogy to deepen subject mastery and to develop 21st century competencies.
-<br><br>
-<br><br>
+<hr><br><br>
 <b>Key Programmes:</b>
 <br>
 Information and Communication Technology Skills
