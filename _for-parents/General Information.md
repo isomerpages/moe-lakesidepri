@@ -104,7 +104,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 
 4.1 For the safety of our students, all visitors MUST collect a Visitor’s Pass from the security post and report to the General Office.<br>
 4.2 Parents/Guardians dropping off or fetching their children should wait at the Parents’ Waiting Area.<br>
-4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available at our school website.
+4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available <a style="text-decoration: none"  href="https://lakesidepri.moe.edu.sg/our-people/teaching-staff" target="_blank">here</a>.
 
 
 <span>5. Useful Contact Numbers<span>
