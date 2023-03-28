@@ -40,4 +40,4 @@ By giving our time and sharing our skills with the other parents wholeheartedly,
 </tbody>
 </table>
 <br><br>
-We are constantly seeking for willing and talented parents to come on board and serve together with us. <a href="https://lakesidepri.moe.edu.sg/our-people/parent-support-group/contact-us/" target="_blank"> CONTACT US</a> to explore how you can contribute and make a difference in your child’s primary school learning journey. 
+We are constantly seeking for willing and talented parents to come on board and serve together with us. <a style="text-decoration: none"  href="https://lakesidepri.moe.edu.sg/our-people/parent-support-group/contact-us/" target="_blank"> CONTACT US</a> to explore how you can contribute and make a difference in your child’s primary school learning journey.
