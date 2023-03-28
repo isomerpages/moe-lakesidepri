@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - From the Principal's Desk.md
+      - School Information/.keep
+      - School Information/School Philosophy, Vision, Mission & Values.md
+      - School Information/School Crest.md
+      - School Information/School Song.md
+      - Our Pride.md
+      - Contact Us.md
