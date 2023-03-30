@@ -70,8 +70,6 @@ Leadership is a craft, best learnt through experiences. In Lakeside Primary, our
 In their second and third year as student leaders, students leaders will attend a 2-day Student Leaders’ Camp, where they will learn to apply and put into practice the 7 Habits, in their projects and student-led activities held as part the school programmes such as <i>CCA Xperience, Teachers’ Day Celebration, International Friendship Day, Earth Week, e.t.c</i>.
 <br><br>
 <u>The Prefect EXCO and Head Prefect Elections</u><br>
-The Elections running up to the Annual Stdudent Leaders Investiture provides an authentic learning experience, which complements the school’s efforts in cultivating character and life skills through leadership and values education.
+The Elections running up to the Annual Student Leaders Investiture provides an authentic learning experience, which complements the school’s efforts in cultivating character and life skills through leadership and values education.
 <br><br>
 The Prefect EXCO Elections provides Primary 4 and 5 prefect candidates the experience of public speaking and responsible decision-making. During the Elections Campaign Week, identified EXCO candidates will share their leadership experiences, ideas and personal values during school assemblies. Such a platform will allow the head prefect candidates to apply the 3C Leadership Construct of being confident, competent and committed leaders.
-
-
