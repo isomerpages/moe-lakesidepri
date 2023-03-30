@@ -19,8 +19,8 @@ Adopting Restorative Practices (RP) as the discipline approach, the PD-Disciplin
 <li>he healing of relationships that allows student offenders to be re-integrated into their social communities. </li></ul>
 This approach allows students to foster a greater sense of belonging, safety and social responsibility within the school community, enhancing their overall school experiences. <br><br>
 <u>Student Leadership Development (SLD)</u><br>
-Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.<br><br>
-
+Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.
+<br><br>
 Framed to the school-based <b><i>3C Constructs of Leadership</i></b>, leadership development programmes are planned and implemented to maximise the leadership potential of Laker Leaders, growing them to be active contributors and confident voices that promote leadership, positive learning culture and school spirit among students.
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
