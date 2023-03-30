@@ -3,22 +3,27 @@ title: Pupil Development (Student Management and Leadership Development)
 permalink: /our-lakeside-education/pupil-development/
 description: ""
 ---
+<b>Department Goals:</b>
+The Pupil Development (PD) Department aims to maintain the positive school tone that encourages students to develop and exercise self-discipline and leadership. This supports the school’s continuous efforts to strengthen positive school culture and enhance pro-social relationships amongst students, teachers and parents.
+The PD teams plan and implement programmes that develop and stretch leadership in students and differentiated learning experiences that cater to the needs of different student groups.
+<hr><br>
 
-
-
-
-<b>Goals:</b>
+<b>Overview</b>
 <br>
-Every Laker will be given the opportunity to learn and practice leadership and to develop his / her leadership potential.
+<u>Discipline / Student Management</u> <br>
+Adopting Restorative Practices (RP) as the discipline approach, the PD-Discipline team drives positive and proactive discipline to ensure a safe environment that prevent negative behaviors from happening. As opposed to the traditional punitive measures, the school practices discipline with dignity where disciplinary issues are addressed in a restorative manner, focusing on 
+<ul>
+<li>students acknowledging their mistakes; </li>
+<li>students learning to be accountable of their misconduct and be facilitated to repair the harm caused to others;</li>
+<li>he healing of relationships that allows student offenders to be re-integrated into their social communities. </li></ul>
+This approach allows students to foster a greater sense of belonging, safety and social responsibility within the school community, enhancing their overall school experiences. <br><br>
+<u>Student Leadership Development (SLD)</u><br>
+Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.<br><br>
+
+Framed to the school-based <b><i>3C Constructs of Leadership</i></b>, leadership development programmes are planned and implemented to maximise the leadership potential of Laker Leaders, growing them to be active contributors and confident voices that promote leadership, positive learning culture and school spirit among students.
+
 <br><br>
-<b>Overview:</b>
-<br>
-At Lakeside Primary, our drive to nurture leaders has evolved to meet ever-changing needs of today’s society. Aligned in our school values, Lakeside students are introduced to personal leadership and get exposed to Leadership concepts. Through school- and level-wide character and leadership programmes (Grow As a Leader—GALE, assembly sharings, e.t.c.) students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and learning by making positive choices. They also learn to appreciate and recognise the leaders in class and in school.
-<br><br>
-Our student leaders development programmes aim to maximise the leadership potential of all Laker student leaders. We empower them to be active contributors and confident advocates in promoting a positive learning culture, effective leadership and strong school spirit among students. With teachers as mentors, Lakeside student leaders are given opportunities to plan and manage class and/or school activities and be engaged in decision-making.
-<br><br>
-Our student leaders’ training is framed by the school-based 3C Constructs of Leadership. We aim to nurture our student leaders to become confident individuals anchored in values, and with a keen sense of purpose and commitment. With the progressive leaders appointment, our student leaders will be given the opportunity to develop from a confident leader to a competent leader and a committed leader.
-<br><br>
+
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
@@ -26,9 +31,11 @@ Our student leaders’ training is framed by the school-based 3C Constructs of L
 </tr>
 <tr>
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Target<br style="margin: 0px; outline: 0px; padding: 0px;">Leaders</b></td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Class Monitors (P1-P3)<br>Class Monitors (P4-P6)</td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Prefects<br>CCA Leaders (1<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup>/2<sup style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>Yr)</td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Senior Prefects/ CCA Leaders<br>(3<sup style="margin: 0px; outline: 0px; padding: 0px;">rd</sup>/4<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Yr)<br style="margin: 0px; outline: 0px; padding: 0px;">Prefect/ CCA Leader EXCO</td>
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Class EXCO:</b><br>Class Monitors,ICT, Environment, PE, Art, Music Monitors  (P1-P6)
+</td>
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Student Leaders:</b><br>CCA Leaders,Prefects,Peer Support Leaders (PSL)<br>(in their 1<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup>-2<sup style="margin: 0px; outline: 0px; padding: 0px;">nd</sup><span>&nbsp;</span>year of appointment)</td>
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Student EXCO:</b><br>Prefect EXCO;
+Senior CCA Leaders/ Prefects / PSL /<br>(mostly their 3<sup style="margin: 0px; outline: 0px; padding: 0px;">rd</sup>-4<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>year of appointment)<br style="margin: 0px; outline: 0px; padding: 0px;"></td>
 </tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>3C<br style="margin: 0px; outline: 0px; padding: 0px;">Constructs</b></td>
