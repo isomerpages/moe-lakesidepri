@@ -39,9 +39,9 @@ Senior CCA Leaders/ Prefects / PSL /<br>(mostly their 3<sup style="margin: 0px; 
 </tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>3C<br style="margin: 0px; outline: 0px; padding: 0px;">Constructs</b></td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b >Character Development</b></td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competency Building</b></td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Commitment to Growth</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;">
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b >Character</b> Development</td>
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competency</b> Building</td>
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Commitment</b> to Growth</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Leading<br style="margin: 0px; outline: 0px; padding: 0px;">Self</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Confident Leaders<br style="margin: 0px; outline: 0px; padding: 0px;"></b>take charge.</td>
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Competent Leaders<br style="margin: 0px; outline: 0px; padding: 0px;"></b>learn and practise.</td>
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Committed Leaders<br style="margin: 0px; outline: 0px; padding: 0px;"></b>think and grow.</td>
@@ -54,19 +54,24 @@ Senior CCA Leaders/ Prefects / PSL /<br>(mostly their 3<sup style="margin: 0px; 
 </tr>
 </tbody>
 </table>
-<br><br>
-<br><br>
+<hr><br><br>
 <b>Key Programmes:</b>
-<br>
-<u>Student Leadership Education and Student Leaders Development</u><br>
-The school adopted “The Leader in Me” programme, which is adapted from Stephen Covey’s 7 Habits of Highly Effective People, for our leadership development curriculum. All student leaders will attend training sessions to lead themselves and others. In the first year of their appointment, they will be imparted knowledge and hands-on practice based on the 7 Habits of “The Leader in Me” programme.
 <br><br>
-In their second and third year as student leaders, prefects and CCA leaders will attend a 2-day Student Leaders’ Camp. In this camp, they will learn to apply and put into practice the 7 Habits, in their projects and student-led activities held as part the school Open House, the school Carnival, the P5 VIA Project and the Teachers’ Day Celebration.
+<u>ACES and BRRP</u><br>
+<i>The After Curriculum Engagement and Support (ACES)</i> programme caters to identified P4-6 students. It has evolved to provide life-skills coaching and mentoring for its members. Enrichment activities were infused into the ACES experience to strengthen relationships with adults and promote a positive peer culture. The design of ACES aligns to the school’s 3-INs framework: <b>IN</b>TEREST-<b>IN</b>VOLVE-<b>IN</b>ITIATE, i.e. to bring about positive experiences, purposeful engagement and motivation in the students. 
+<br><br>
+<i>BRight Room Recess Play (BRRP)</i> and ACES allows students drop in at the BRight Room during recess and after school to engage in meaningful peer bonding, positive social interaction and learning through recreational activities. Here, students can develop a sense of belonging and being valued; where they share the challenges they are facing while supporting one another. 
+<br><br>
+<u>Student Leaders Development- Leader in Me</u><br>
+The school adopted <i>The Leader in Me (LIM)</i> programme, which is adapted from Stephen Covey’s 7 Habits of Highly Effective People, for our leadership development curriculum. In the first year of their appointment, all student leaders will be imparted knowledge and hands-on practice based on the LIM programme.
+<br><br>
+<u>Student Leaders in action</u><br>
+Leadership is a craft, best learnt through experiences. In Lakeside Primary, our student leaders are provided numerous platforms to grow their leadership skills.
+In their second and third year as student leaders, students leaders will attend a 2-day Student Leaders’ Camp, where they will learn to apply and put into practice the 7 Habits, in their projects and student-led activities held as part the school programmes such as <i>CCA Xperience, Teachers’ Day Celebration, International Friendship Day, Earth Week, e.t.c</i>.
 <br><br>
 <u>The Prefect EXCO and Head Prefect Elections</u><br>
-The Elections running up to the Annual Prefects Investiture provides an authentic learning experience, which complements the school’s efforts in cultivating character and life skills through leadership and values education.
+The Elections running up to the Annual Stdudent Leaders Investiture provides an authentic learning experience, which complements the school’s efforts in cultivating character and life skills through leadership and values education.
 <br><br>
 The Prefect EXCO Elections provides Primary 4 and 5 prefect candidates the experience of public speaking and responsible decision-making. During the Elections Campaign Week, identified EXCO candidates will share their leadership experiences, ideas and personal values during school assemblies. Such a platform will allow the head prefect candidates to apply the 3C Leadership Construct of being confident, competent and committed leaders.
-<br><br>
-<u>Prefects in action</u><br>
-Leadership is a craft, best learnt through experiences. In Lakeside Primary, our student leaders are provided numerous platforms to grow their leadership skills.
+
+
