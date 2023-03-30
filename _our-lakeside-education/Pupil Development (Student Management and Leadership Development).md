@@ -52,7 +52,7 @@ Senior CCA Leaders/ Prefects / PSL /<br>(mostly their 3<sup style="margin: 0px; 
 </tr>
 </tbody>
 </table>
-<hr><br><br>
+<hr><br>
 <b>Key Programmes:</b>
 <br><br>
 <u>ACES and BRRP</u><br>
