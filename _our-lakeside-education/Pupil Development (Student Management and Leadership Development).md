@@ -71,3 +71,28 @@ In their second and third year as student leaders, students leaders will attend 
 The Elections running up to the Annual Student Leaders Investiture provides an authentic learning experience, which complements the school’s efforts in cultivating character and life skills through leadership and values education.
 <br><br>
 The Prefect EXCO Elections provides Primary 4 and 5 prefect candidates the experience of public speaking and responsible decision-making. During the Elections Campaign Week, identified EXCO candidates will share their leadership experiences, ideas and personal values during school assemblies. Such a platform will allow the head prefect candidates to apply the 3C Leadership Construct of being confident, competent and committed leaders.
+<br><br>
+<img src="/images/Department/09PD/PD1.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Leading Self is taking ownership of our attitudes and contributing to the BRight school culture.</span>
+<hr><br>
+<img src="/images/Department/09PD/PD2.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Leadership is Character in Action~J Hunter   <br><span style="color:blue;">•</span> To lead others is to positively impact and influence others.</span>
+<hr><br>
+<img src="/images/Department/09PD/PD3.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Twice a year, the Leaders Appointment Ceremony and Student Leaders Investiture celebrate leadership and recognize different groups of student leaders in Lakeside Primary School.    <br><span style="color:blue;">•</span> Peer Support Leaders are identified and undergo training at  P4, to look out for their peers who need a pair of listening ears and helping hands.</span>
+<hr><br>
+<img src="/images/Department/09PD/PD4.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Led by the Head Prefect, Lakers recite the Laker Leaders Creed as a school.  <br><span style="color:blue;">•</span> The Laker Leaders Creed, launched at the Student Leaders Investiture 2021, signals to all students that everyone plays a leadership role, regardless of appointment</span>
+<hr><br>
+<img src="/images/Department/09PD/PD5.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> The BRight Room provides a safe space where students come together and practise befriending skills.   <br><span style="color:blue;">•</span> BRight Recess Play (BRRP) provides students to lead themselves to play and interact positively with others.</span>
