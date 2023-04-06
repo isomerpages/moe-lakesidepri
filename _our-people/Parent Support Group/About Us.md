@@ -12,7 +12,6 @@ A community of dedicated and committed parents coming together to support the sc
 <br>
 To provide parents an environment to support the school, build friendships and exchange parenting ideas and practices, thereby offering a platform for social contribution and volunteerism.
 <br><br>
-<br><br>
 The Parent Support Group (PSG) comprises of a group of parents, who are interested not only in the academic achievements of our children but also in their holistic development.
 <br><br>
 The PSG serves as a conducive platform for like-minded parents to come together to network and exchange ideas to help improve our parenting skills to bring out the best in our children.
@@ -35,9 +34,10 @@ By giving our time and sharing our skills with the other parents wholeheartedly,
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Goh Ching Yi</td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Win Ng</td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Stefanie Lai</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sulianah Binte Sulaman</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nurhidayah <br> Mr Adrian Lim</td>
+
 </tr>
 </tbody>
 </table>
 <br><br>
-We are constantly seeking for willing and talented parents to come on board and serve together with us. <a style="text-decoration: none"  href="https://lakesidepri.moe.edu.sg/our-people/parent-support-group/contact-us" target="_blank"> CONTACT US</a> to explore how you can contribute and make a difference in your child’s primary school learning journey.
+We are constantly seeking for willing and talented parents to come on board and serve together with us. <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-people/parent-support-group/contact-us/"> CONTACT US</a> to explore how you can contribute and make a difference in your child’s primary school learning journey.
