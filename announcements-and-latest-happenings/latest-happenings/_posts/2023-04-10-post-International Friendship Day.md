@@ -13,5 +13,26 @@ Our school conducted a variety of activities to create an engaging and meaningfu
 <img src="/images/Happenings/IFD/ifd001.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Our emcees, Cherry (Class 5E) and Wei Yang (Class 5F), facilitating the quiz segment during PAVE session <br><span style="color:blue;">•</span> Wushu </span>
+<span style="color:blue;">•</span> Our emcees, Cherry (Class 5E) and Wei Yang (Class 5F), facilitating the quiz segment during PAVE session <br><span style="color:blue;">•</span> Students participating and receiving tokens during quiz segment </span>
 <hr><br>
+<img src="/images/Happenings/IFD/ifd002.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students reading the Kindsville Times/A-OK! booklets to know more about International Friendship Day <br><span style="color:blue;">•</span> Teachers conducting CCE (FTGP) lessons about International Friendship Day </span>
+<hr><br>
+<img src="/images/Happenings/IFD/ifd003.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students designing kites - Flying kite is one of the recreation activities in ASEAN <br><span style="color:blue;">•</span> Students using the cards to learn more about ASEAN </span>
+<hr><br>
+<img src="/images/Happenings/IFD/ifd004.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students designing stamps to 
+share their aspirations for 100 years of ASEAN
+<br><span style="color:blue;">•</span> Students playing traditional games from ASEAN countries </span>
+<hr><br>
+<img src="/images/Happenings/IFD/ifd005.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Staff dressing up in traditional costumes to commemorate the event </span>
