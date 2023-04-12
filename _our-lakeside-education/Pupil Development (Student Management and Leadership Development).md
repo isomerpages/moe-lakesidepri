@@ -16,7 +16,7 @@ Adopting Restorative Practices (RP) as the discipline approach, the PD-Disciplin
 <ul>
 <li>students acknowledging their mistakes; </li>
 <li>students learning to be accountable of their misconduct and be facilitated to repair the harm caused to others;</li>
-<li>he healing of relationships that allows student offenders to be re-integrated into their social communities. </li></ul>
+<li>the healing of relationships that allows student offenders to be re-integrated into their social communities. </li></ul>
 This approach allows students to foster a greater sense of belonging, safety and social responsibility within the school community, enhancing their overall school experiences. <br><br>
 <u>Student Leadership Development (SLD)</u><br>
 Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.
@@ -38,7 +38,7 @@ Senior CCA Leaders/ Prefects / PSL /<br>(mostly their 3<sup style="margin: 0px; 
 </tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>3C<br style="margin: 0px; outline: 0px; padding: 0px;">Constructs</b></td>
-<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b >Character</b> Development</td>
+<td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Character</b> Development</td>
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competency</b> Building</td>
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Commitment</b> to Growth</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Leading<br style="margin: 0px; outline: 0px; padding: 0px;">Self</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Confident Leaders<br style="margin: 0px; outline: 0px; padding: 0px;"></b>take charge.</td>
