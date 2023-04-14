@@ -38,7 +38,7 @@ Under STELLAR 2.0, there is a greater emphasis on helping students develop:
 <br><br>
 Here are some of the strategies we adopt for the teaching and learning of skills
 <br><br>
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Language Area</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Strategies</b></td></tr>
 <tr>
@@ -55,10 +55,10 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 <td width="386" style="padding: 8px; text-align: left; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style="font-size:12pt;">Making Thinking Visible Strategy: “See-Think-Wonder” –</li><ul>For vocabulary generation and generation of ideas. Students look at given pictures and talk about what they see, what the pictures make them think of and what questions arise from the pictures.</ul><li style="font-size:12pt;">Making Thinking Visible Strategy: “ChalkTalk” –</li><ul>For exploring and unpacking the given theme. Students are guided to think more about the theme through given questions.</ul><li style="font-size:12pt;">Story Mountain as a structure for pre-writing planning</li></td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Language Use</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td></tr></table>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td></tr></tbody></table>
 <hr><br>
 <b>Key Programmes:</b><br><br>
-<u>P1 & P2 Phonics Infusion Programme</u><br>
+<u>P1 &amp; P2 Phonics Infusion Programme</u><br>
 Recognising the pivotal role that phonics instruction plays in helping students acquire reading skills at an early age, all our Lower Primary students are introduced to phonics formally through a structured Phonics Infusion Programme which aims to give them a good foundation in letter-sound association, blending, segmenting and spellings skills.
 <br><br>
 <u>Class Library Programme</u><br>
@@ -95,15 +95,17 @@ Learn Through Play encourages students to engage in authentic conversation throu
 <br><br>
 <u>English Week</u><br>
 English Week revolves around a special theme each year. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
+<br><br>
+<img src="/images/Department/01EL/el0004.png">
 <hr><br><br>
 <b>Support Programmes</b><br><br>
-<u>Learning Support Programme (P1 & P2)</u><br>
+<u>Learning Support Programme (P1 &amp; P2)</u><br>
 The Learning Support Programme aims to support students who need additional help with building their foundational English language skills. It is conducted in small groups by trained teachers.
 <br><br>
-<u>School-based Dyslexia Remediation (P3 & P4)</u><br>
+<u>School-based Dyslexia Remediation (P3 &amp; P4)</u><br>
 MOE’s School-based Dyslexia Remediation (SDR) is a two-year intervention programme that is designed by MOE Reading Specialists. The remediation programme adopts a systematic approach to teaching reading and spelling. Students will also learn to read connected text explicitly and repeated practice is built into each lesson to help students better internalize the knowledge and skills. Students are identified for support through a systematic screening process for dyslexia at the end of Primary 2. SDR is conducted in small groups by trained teachers after-school.
 <br><br>
-<u>Reading Remediation Programme (P3 & P4)</u><br>
+<u>Reading Remediation Programme (P3 &amp; P4)</u><br>
 The Reading Remediation Programme (RRP) is a two-year literacy support programme aimed at supporting students with reading difficulties but who do not have dyslexia. RRP strategies tackle the areas of reading and comprehension. RRP is conducted by trained teachers after school on Mondays and Thursdays.
 <br><br>
 <u>GROW Library:</u> <br>
@@ -111,7 +113,7 @@ The School Library’s role is to be the heart of an ecology of learning which i
 <br><br>
 Our School Library is named Garden Of Wonders (GROW) and our GROW activities are guided by 4 principles:
 <ol style="font-size:11pt;">
-<li>Enlivened MINDS: Nurturing a strong reading culture through spaces & programmes</li>
+<li>Enlivened MINDS: Nurturing a strong reading culture through spaces &amp; programmes</li>
 <li>Emboldened VOICES: Promoting Collaboration among our students, emphasing on our students’ voices</li>
 <li>Playful LEARNING: Leveraging on ICT platforms to engage students in reading</li>
 <li>A Place for Every Child: Meeting the needs of different groups of children.</li></ol><br>

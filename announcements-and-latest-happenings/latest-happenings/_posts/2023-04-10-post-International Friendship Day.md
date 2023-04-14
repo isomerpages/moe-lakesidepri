@@ -1,6 +1,6 @@
 ---
 title: International Friendship Day
-permalink: /announcements-and-latest-happenings/latest-happenings/permalink/
+permalink: /announcements-and-latest-happenings/latest-happenings/ifd/
 date: 2023-04-10
 layout: post
 description: ""

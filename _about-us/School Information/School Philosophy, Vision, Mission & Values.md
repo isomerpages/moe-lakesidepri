@@ -1,15 +1,15 @@
 ---
-title: School Philosophy, Vision, Mission & Values
+title: School Philosophy, Vision, Mission &amp; Values
 permalink: /about-us/school-information/school-philosophy-vision-mission-n-values/
 description: ""
 third_nav_title: School Information
 ---
 <span style="font-size:15pt;"><b>SCHOOL PHILOSOPHY</b></span>
 <br>
-Every Individual <b>C</b>.<b>A</b>.<b>N</b>. - <b>C</b>ontribute. <b>A</b>chieve. be <b>N</b>urtured
+Every Individual&nbsp;<b>C</b>.<b>A</b>.<b>N</b>. -&nbsp;<b>C</b>ontribute.&nbsp;<b>A</b>chieve. be&nbsp;<b>N</b>urtured
 <br><br>
 <span style="font-size:15pt;"><b>VISION</b><br></span>
-A Life-Long Learner. A Virtuous Leader.
+A Lifelong Learner. A Virtuous Leader.
 <br><br>
 <span style="font-size:15pt;"><b>MISSION</b></span>
 <br>

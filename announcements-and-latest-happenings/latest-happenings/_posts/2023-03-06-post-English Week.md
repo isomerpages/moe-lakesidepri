@@ -1,6 +1,6 @@
 ---
 title: English Week
-permalink: /announcements-and-latest-happenings/latest-happenings/permalink/
+permalink: /announcements-and-latest-happenings/latest-happenings/elweek/
 date: 2023-03-06
 layout: post
 description: ""
@@ -44,4 +44,3 @@ Here are some highlights from English Week 2023!
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>Dress-up Day rounded up our EL Week with a bang! </span>
-

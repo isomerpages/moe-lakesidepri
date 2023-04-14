@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year Celebrations 2023
-permalink: /announcements-and-latest-happenings/latest-happenings/chinese-new-year-celebrations-2023/
+permalink: /announcements-and-latest-happenings/latest-happenings/cny/
 date: 2023-01-20
 layout: post
 description: ""

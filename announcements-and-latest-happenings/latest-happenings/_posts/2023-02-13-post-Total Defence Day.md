@@ -1,6 +1,6 @@
 ---
 title: Total Defence Day
-permalink: /announcements-and-latest-happenings/latest-happenings/permalink/
+permalink: /announcements-and-latest-happenings/latest-happenings/tdd/
 date: 2023-02-13
 layout: post
 description: ""
