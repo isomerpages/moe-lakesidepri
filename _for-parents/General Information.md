@@ -71,13 +71,13 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P5-P6</td>
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.10am&nbsp;–&nbsp;9.40am</td>
 </tr>
-<tr >
+<tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P1-P2</td>
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.40am&nbsp;– 10.10am</td>
 </tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P3-P4</td>
-<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">0.10am&nbsp;–&nbsp;10.20am</td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.20am</td>
 </tr>
 </tbody>
 </table>
@@ -104,19 +104,19 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 
 4.1 For the safety of our students, all visitors MUST collect a Visitor’s Pass from the security post and report to the General Office.<br>
 4.2 Parents/Guardians dropping off or fetching their children should wait at the Parents’ Waiting Area.<br>
-4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available <a style="text-decoration: none"  href="https://lakesidepri.moe.edu.sg/our-people/teaching-staff">here</a>.
+4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available <a style="text-decoration: none" href="https://lakesidepri.moe.edu.sg/our-people/teaching-staff">here</a>.
 
 
 <span>5. Useful Contact Numbers<span>
     
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Person</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Booklist</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Numbers</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Opening Hours</b></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bookshop<br>(Mrs Lim)</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none"  href="/files/Booklist/P1%202023%20Booklist.pdf" target="_blank">Primary 1</a><br><a style="text-decoration: none"  href="/files/Booklist/P2%202023%20Booklist.pdf" target="_blank">Primary 2</a><br><a style="text-decoration: none"  href="/files/Booklist/P3%202023%20Booklist.pdf" target="_blank">Primary 3</a><br><a style="text-decoration: none"  href="/files/Booklist/P4%202023%20Booklist.pdf" target="_blank">Primary 4</a><br><a style="text-decoration: none"  href="/files/Booklist/P5%202023%20Booklist.pdf" target="_blank">Primary 5</a><br><a style="text-decoration: none"  href="/files/Booklist/P6%202023%20Booklist.pdf" target="_blank">Primary 6</a></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Booklist/P1%202023%20Booklist.pdf" target="_blank">Primary 1</a><br><a style="text-decoration: none" href="/files/Booklist/P2%202023%20Booklist.pdf" target="_blank">Primary 2</a><br><a style="text-decoration: none" href="/files/Booklist/P3%202023%20Booklist.pdf" target="_blank">Primary 3</a><br><a style="text-decoration: none" href="/files/Booklist/P4%202023%20Booklist.pdf" target="_blank">Primary 4</a><br><a style="text-decoration: none" href="/files/Booklist/P5%202023%20Booklist.pdf" target="_blank">Primary 5</a><br><a style="text-decoration: none" href="/files/Booklist/P6%202023%20Booklist.pdf" target="_blank">Primary 6</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6565 5183 /<br>9220 6270 (HP)<br>65651976 (Fax)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td></tr>
 <tr>
@@ -130,13 +130,13 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Uniform Supplier<br>(Jeep Sing Fashion)</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none"  href="/files/Admin%20Forms/Uniform%20Pamphlet.pdf" target="_blank">Uniform Pamphlet</a></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Admin%20Forms/Uniform%20Pamphlet.pdf" target="_blank">Uniform Pamphlet</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6456 3198</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td></tr></table>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td></tr></tbody></table>
 	
 In the event that Lakeside Primary School Dental Clinic is closed, pupils who require <span style="color: red;">EMERGENCY</span> dental treatment can call any of the buddy clinics (see below) for an appointment.
 
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Dental Clinic</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Telephone</b></td>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Operating Hours</b></td></tr>
@@ -151,9 +151,9 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bukit View Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">65674745</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Wed &amp; Fri</td></tr></table>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Wed &amp; Fri</td></tr></tbody></table>
 
 <br>
 
 <span>6. Waitlist</span><br>
-Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.
+Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.</span></span>
