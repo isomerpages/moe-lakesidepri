@@ -25,7 +25,7 @@ sections:
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
   - infopic:
-      title: WE-Stories
+      title: WE-STories
       alt: Image alt text
       image: /images/Announcements/westories2023.png
       description: WE STories is a collection of stories from all the secondary
