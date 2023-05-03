@@ -13,5 +13,5 @@ image: ""
 <li><a style="text-decoration: none" href="/files/EDSA/dsa%20offered%20in%202023%20schools%20near%20lakeside.pdf" target="_blank">DSA offered in 2023 Schools near Lakeside</a></li>	
 <li><a style="text-decoration: none" href="/files/EDSA/dsa%20sec%20application%20template%20for%20students%20in%20moe%20sch.pdf" target="_blank">DSA Sec Application Template for students in MOE school</a></li>	
 </ul>
-<br><hr>
+<br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2wkfnVu6H7Q" height="315" width="560"></iframe>
