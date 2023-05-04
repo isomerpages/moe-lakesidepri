@@ -25,13 +25,13 @@ sections:
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
   - infopic:
-      title: Appreciating Our Inspiring Teachers
+      title: WE-STories
       alt: Image alt text
-      image: /images/Announcements/teacher1.png
-      description: We are calling for nominations for inspiring teachers of various
-        subjects.
-      url: https://docs.google.com/forms/d/e/1FAIpQLSeRfW0fHcm__O2EEZ1z202eF8x8_P0Neak7cBaji7Xg81MaMw/viewform
-      button: nomination form
+      image: /images/Announcements/westories2023.png
+      description: WE STories is a collection of stories from all the secondary
+        schools in the West Zone.
+      url: https://go.gov.sg/westories-official
+      button: read more
   - infopic:
       title: Announcements
       alt: Image alt text
