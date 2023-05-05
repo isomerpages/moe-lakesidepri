@@ -15,7 +15,7 @@ Fax: <b>6665 0798</b>
 
 <b>Price List 2023</b>
 
-| Bus Routes | Rate - 2 ways | Rates - 1 way |
+| Bus Routes | Rates - 2 ways | Rates - 1 way |
 | -------- | -------- | -------- |
 | Taman Jurong Estate     | $80     | $55     |
 | Boon Lay Estate  | $95  | $65  | 
