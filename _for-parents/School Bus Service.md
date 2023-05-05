@@ -10,7 +10,8 @@ Email Address: <b>SinKoonSeng@yahoo.com</b>
 Tel: <b>9743 9235 - Ms Vivian Tan (Bus Co-ordinator)</b>
 <br>
 Fax: <b>6665 0798</b>
-<br><br>
+<li><b><a href="https://forms.gle/jHsryXFj3mQB1LN8A" target="_blank">School Bus Request Form</a></b></li>
+
 
 <b>Price List 2023</b>
 
