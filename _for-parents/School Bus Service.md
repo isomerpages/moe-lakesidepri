@@ -20,7 +20,7 @@ Fax: <b>6665 0798</b>
 | Boon Lay Estate  | $95  | $65  | 
 | Jurong West St 52  |$95  | $65  | 
 | Jurong West Ave 1  | $105  | $75  | 
-|J urong West St 41/42  | $105  | $75  | 
+| Jurong West St 41/42  | $105  | $75  | 
 | Jurong East Ave 1  | $125  | $85  | 
 | Jurong West Central 1/St 64 &amp; 65  | $105  | $75  | 
 | &gt;Jurong West Ave 5  | &gt;$140  | $90  |
