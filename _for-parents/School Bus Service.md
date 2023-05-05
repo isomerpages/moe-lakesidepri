@@ -24,4 +24,4 @@ Fax: <b>6665 0798</b>
 | Jurong West St 41/42  | $105  | $75  | 
 | Jurong East Ave 1  | $125  | $85  | 
 | Jurong West Central 1/St 64 &amp; 65  | $105  | $75  | 
-| &gt;Jurong West Ave 5  | &gt;$140  | $90  |
+| &gt;Jurong West Ave 5  | &gt;$140  | &gt;$90  |
