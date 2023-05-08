@@ -28,3 +28,5 @@ description: ""
 <br>
 <b>General Information for Primary One</b>
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
+<b>Update Student Particulars to MOE</b>
+<li>For updates of student particulars (<i>eg change of address, family contact details</i>), please login to the <a href="https://pg.moe.edu.sg/forms/sdf" target="_blank">Student Data Form (SDF) portal</a></li>
