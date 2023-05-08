@@ -77,7 +77,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 </tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P3-P4</td>
-<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.20am</td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.40am</td>
 </tr>
 </tbody>
 </table>
