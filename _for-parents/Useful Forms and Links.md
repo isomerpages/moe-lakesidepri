@@ -1,6 +1,6 @@
 ---
-title: Primary 1 (2023)
-permalink: /for-parents/primary-1-2023/
+title: Useful Forms and Links
+permalink: /for-parents/forms-links/
 description: ""
 ---
 <b>Primary 1 2023 Information for Parents and Students.</b>
@@ -13,11 +13,10 @@ description: ""
 <li><a href="https://www.wheecanopus.com/student-registration" target="_blank">Whee!Canopus Student Care Centre@ Lakeside Primary Registration Form</a></li><br>
 <b>Finance-related Information</b>
 <li><a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">Information on School Fees</a></li>
-<li><a href="/files/Admin%20Forms/Steps%20for%20OCBC%20and%20DBS%20GIRO%20Arrangement.pdf" target="_blank">Steps for OCBC and DBS GIRO Arrangement</a></li>
-<li><a href="/files/Admin%20Forms/Giro%20Application%20form.pdf" target="_blank">Other Banks account holders GIRO Application Form]</a></li>
 <li><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" target="_blank">For Singapore Citizen Students only – Edusave Standing Order Form</a></li>
 <li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">Information on MOE Financial Assistance Scheme (FAS)</a></li>
 <li><a href="https://go.gov.sg/moe-efas" target="_blank">MOE Financial Assistance Scheme Application Form</a></li>
+<li><a href="https://eservice.imda.gov.sg/das/homepage" target="_blank"> DigitalAccess@HOME - subsidised broadband and laptops/tablets</a></li>
 <li><a href="https://www.msf.gov.sg/Comcare/Pages/Comcare-Student-Care-Subsidies.aspx" target="_blank"> Care Financial Assistance Scheme (SCFA)</a></li><br>
 <b>Parents Gateway</b>
 <li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a></li><br>
@@ -28,3 +27,5 @@ description: ""
 <br>
 <b>General Information for Primary One</b>
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
+<b>Update Student Particulars to MOE</b>
+<li>For updates of student particulars (<i>eg change of address, family contact details</i>), please login to the <a href="https://pg.moe.edu.sg/forms/sdf" target="_blank">Student Data Form (SDF) portal</a></li>
