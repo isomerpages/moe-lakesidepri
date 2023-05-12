@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Lakeside Primary School
-      subtitle: A Lifelong Learner. A Virtuous Leader.
       background: /images/Banner/hero-banner-lsps.gif
       url: /contact-us/
       key_highlights:
