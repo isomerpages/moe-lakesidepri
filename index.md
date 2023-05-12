@@ -16,6 +16,8 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
+      title: Lakeside Primary School
+      subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
       title: Latest Happenings
       alt: Image alt text
