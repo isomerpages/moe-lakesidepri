@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Join us on our virtual open house!
       button: click here
-      url: http://go.gov.sg/cyqkor
+      url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
       alt: Image alt text
       image: /images/Announcements/open house 2023.jpg
   - infopic:
