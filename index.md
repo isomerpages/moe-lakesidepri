@@ -25,6 +25,11 @@ sections:
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
   - infopic:
+      title: Join us on our virtual open house!
+      button: click here
+      url: http://go.gov.sg/cyqkor
+      alt: Image alt text
+  - infopic:
       title: WE-STories
       alt: Image alt text
       image: /images/Announcements/westories2023.png
