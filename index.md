@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Lakeside Primary School
-      subtitle: A Lifelong Learner. A Virtuous Leader.
       background: /images/Banner/hero-banner-lsps.gif
       url: /contact-us/
       key_highlights:
@@ -18,6 +16,14 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
+      title: Lakeside Primary School
+      subtitle: A Lifelong Learner. A Virtuous Leader.
+  - infopic:
+      title: Join us on our virtual open house!
+      button: click here
+      url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
+      alt: Image alt text
+      image: /images/Announcements/open house 2023.jpg
   - infopic:
       title: Latest Happenings
       alt: Image alt text
