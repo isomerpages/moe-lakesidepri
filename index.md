@@ -29,6 +29,7 @@ sections:
       button: click here
       url: http://go.gov.sg/cyqkor
       alt: Image alt text
+      image: /images/Announcements/open house 2023.jpg
   - infopic:
       title: WE-STories
       alt: Image alt text
