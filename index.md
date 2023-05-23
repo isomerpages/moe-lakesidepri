@@ -19,17 +19,17 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Latest Happenings
-      alt: Image alt text
-      image: /images/Home/School Website - Latest Happenings.png
-      url: /announcements-and-latest-happenings/latest-happenings
-      button: Read More
-  - infopic:
       title: Join us on our virtual open house!
       button: click here
       url: http://go.gov.sg/cyqkor
       alt: Image alt text
       image: /images/Announcements/open house 2023.jpg
+  - infopic:
+      title: Latest Happenings
+      alt: Image alt text
+      image: /images/Home/School Website - Latest Happenings.png
+      url: /announcements-and-latest-happenings/latest-happenings
+      button: Read More
   - infopic:
       title: WE-STories
       alt: Image alt text
