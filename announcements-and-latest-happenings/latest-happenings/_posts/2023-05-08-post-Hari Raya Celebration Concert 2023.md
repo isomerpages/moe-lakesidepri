@@ -16,5 +16,9 @@ Beside the concert, our students learned more about Hari Raya and Malay culture 
 <img src="/images/Happenings/HR/hariraya1.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> The Dikir Barat lead singers sang famous Hari Raya songs accompanied by the team members. Clap! Clap! Clap! <br><span style="color:blue;">•</span> The audience were captivated by the graceful movement of the dancer as she strut the stage <br><span style="color:blue;">•</span> The host testing the student’s knowledge of Malay culture</span>
+<span style="color:blue;">•</span> The Dikir Barat lead singers sang famous Hari Raya songs accompanied by the team members. Clap! Clap! Clap! <br><span style="color:blue;">•</span> The audience were captivated by the graceful movement of the dancer as she strut the stage <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> The host testing the student’s knowledge of Malay culture <span style="color:blue;"><i>(bottom)</i></span></span>
 <hr><br>
+<img src="/images/Happenings/HR/hariraya2.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> “I know the answer. That’s easy! <br><span style="color:blue;">•</span> This is the best item of the concert. Encore! </span>
