@@ -33,7 +33,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/Mathematics</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">goh_hwee_kim_cynthia@moe.edu.sg</i></td></tr>
 <tr>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Miss Audrey Cheong</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Audrey Cheong</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/Science</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">cheong_mei_ling_audrey@moe.edu.sg</i></td></tr>
 <tr>
@@ -115,7 +115,7 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">loh_chiow_chien@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Li Shifang</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">LH/Chinese Language (Internal)</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Chinese Language</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">li_shi_fang@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Noraida</td>
@@ -129,6 +129,10 @@ description: ""
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Yvonne Ong</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Aesthetics</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">ong_yilun_yvonne@moe.edu.sg</i></td></tr>
+<tr>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Corinna Lam</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Arts</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">lam_fee_min_corinna@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Linda Lee</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Character &amp; Citizenship Education</td>
@@ -146,13 +150,9 @@ description: ""
 <td width="279" colspan="3" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Lead Teacher / Senior Teachers</b></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Rajan</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">LT/Learning Needs&nbsp;(Educational Support)</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">LT/Special Educational Needs</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">karen_selvarajan@moe.edu.sg</i></td></tr>
-<tr>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Oon Sim Sim</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">ST/Learning Needs&nbsp;(Educational Support)
-</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">oon_sim_sim@moe.edu.sg</i></td></tr>
+
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Ellen Peter</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">ST/English Language</td>
