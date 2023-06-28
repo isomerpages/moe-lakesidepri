@@ -89,7 +89,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available <a style="text-decoration: none" href="https://lakesidepri.moe.edu.sg/our-people/teaching-staff">here</a>.</details>
 <br>
 <details>
-<summary><b>5. Useful Contact Numbers</b></summary>
+<summary><b>5. USEFUL CONTACT NUMBERS</b></summary>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Contact Person</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Booklist</b></td>
@@ -135,6 +135,6 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Wed &amp; Fri</td></tr></tbody></table>
 </details>
 <br>
-<details><summary><b>6. Waitlist</b></summary>
+<details><summary><b>6. WAITLIST</b></summary>
 <br>
 Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.</details>
