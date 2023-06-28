@@ -64,9 +64,9 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.40am</td></tr></tbody>
 </table>
 <br>
-2.1 Food and drinks should only be consumed in the canteen.<br>
-2.2 Students are to queue up in an orderly manner and take turns to purchase their food and drink.<br>
-2.3 Used crockery and cutlery must be returned to the designated receptacles.<br>
+2.1 Food and drinks should only be consumed in the canteen.<br><br>
+2.2 Students are to queue up in an orderly manner and take turns to purchase their food and drink.<br><br>
+2.3 Used crockery and cutlery must be returned to the designated receptacles.<br><br>
 2.4 Students are to keep the canteen clean and litter-free.</details><br>
 <details>
 <summary><b>3. SCHOOL BAGS AND PERSONAL BELONGINGS</b></summary><br>
