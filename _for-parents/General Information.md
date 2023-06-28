@@ -45,7 +45,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <br><br>
 1.3 For safety reasons and a smoother traffic flow, on weekdays between 7.00am – 7.30am: <br>
   i.Cars coming from Kang Ching Road cannot enter the school main gate. <br>
- ii.No right turn into the school from Corporation Walk</details><br>
+ ii.No right turn into the school from Corporation Walk</details>
 <details>
 <summary><b>2. SCHOOL RECESS AND LUNCH TIME</b></summary><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
