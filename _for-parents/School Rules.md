@@ -5,7 +5,7 @@ description: ""
 ---
 <span style="background-color: initial; font-size: 1em;">Students of Lakeside Primary School are expected to exercise good self-discipline and maintain a positive school environment conducive and safe for learning and play.</span>
 	
-<b>1. GENERAL CONDUCT</b>
+<details><summary><b>1. GENERAL CONDUCT</b></summary>
 
 <li>1.1 Lakeside Primary students live up to the School Values of</li>
 
@@ -40,13 +40,13 @@ description: ""
 
 
 <li>1.2 All students are courteous and greet the Principal, Vice-Principals, staff and all visitors to the school with the ‘Lakeside Bow’.</li>
-
-<b>2. ASSEMBLY AND PLEDGE-TAKING</b>
+</details><br>
+<details><summary><b>2. ASSEMBLY AND PLEDGE-TAKING</b></summary>
 
 <li>2.1 Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</li>
 <li>2.2 All students should stand at attention during the singing of the National Anthem and the taking of the Pledge.</li>
-
-<b>3. ATTENDANCE AND PUNCTUALITY</b>
+</details><br>
+<details><summary><b>3. ATTENDANCE AND PUNCTUALITY</b></summary>
 
 
 <li>3.1 Students are expected to be regular in their attendance. Students who are absent must produce a Medical Certificate or a letter of explanation from parents on the day they return to school.
@@ -59,9 +59,9 @@ description: ""
 </li>
 <li>3.5 Parents/Guardians will be contacted by the school if their child is ill and has to be taken home or to the doctor. Parents/Guardians must be present to accompany and sign out their child in order for him/her to leave the school. Prior approval must be obtained at the General Office for leaving school before dismissal time.
 </li>
-<li>3.6 For safety reasons, students are not allowed to leave the school during lunch time unless parents’ letters of request are given to the form teachers. Students are strongly encouraged to eat in the school canteen.
-<br><br>
-<b>4. SCHOOL UNIFORM AND GENERAL APPEARANCE</b>
+<li>3.6 For safety reasons, students are not allowed to leave the school during lunch time unless parents’ letters of request are given to the form teachers. Students are strongly encouraged to eat in the school canteen.</li></details>
+<br>
+<details><summary><b>4. SCHOOL UNIFORM AND GENERAL APPEARANCE</b></summary>
 	
 <li>4.1 Students are to wear the prescribed school uniform. Any modification to the school uniform is not allowed.</li>
 <li>4.2 Students are to observe closely the guidelines on school attire and personal appearance. Regular spot checks will be conducted to ensure compliance</li>
@@ -94,8 +94,8 @@ description: ""
 <li>Use only one pair of small and plain dark blue or black ear studs.</li>
 </ul>
 </ul>
-
-<b>5. CLASSROOM AND HOMEWORK</b>
+</details><br>
+<details><summary><b>5. CLASSROOM AND HOMEWORK</b></summary>
 
 <li>5.1 Students are to wear the Out-of-Class Permission Pass when they are out of the classroom during lessons.</li>
 <li>5.2 Students are to observe care and proper use of school property, which includes:</li>
@@ -106,21 +106,21 @@ description: ""
 <li>setting all air-conditioners at 25<sup>o</sup>C.</li>
 </ul>
 <li>5.3 Students are to ensure that quality assignments are submitted on time</li>
-
-<b>6. PROHIBITED ITEMS</b>
+</details><br>
+<details><summary><b>6. PROHIBITED ITEMS</b></summary>
 	
 <li>6.1 Students are not to bring any recreational items like toys, cards and electronic devices to school. Selling of items to peers is also not allowed.</li>
 <li>6.2 Students are not allowed to have in their possession any weapon. They are also not allowed to bring or to be found in possession of any dangerous or weapon-like items including penknives.</li>
-
-<b>7. OFFENCE AND CONSEQUENCES</b>
+</details><br>
+<details><summary><b>7. OFFENCE AND CONSEQUENCES</b></summary>
 <b><br></b>
 
-<table style="border: 1px solid rgb(42, 42, 42); width: 817px; height: 438px;"><tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 817px; height: 438px;"><tbody><tr>
 <td style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);width: 403px;">OFFENCES</td>
 <td style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);width: 403px;">CONSEQUENCES</td></tr>
 <tr>
 <td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Examples:<br><ul>Littering<br>Late coming<br>Improper attire and grooming<br>Not doing assignments<br>Failing to bring classroom materials<br><b>Theft</b><br>Bullying<sup style="color:red;">1</sup><br>Cyberbullying<br>Fighting<br><b>Vandalism</b><br>Use of vulgarities<br>Cheating in tests/examinations<br>Open defiance/Disruptive behaviour<br>Truancy and leaving school grounds without permission</ul></td>
-<td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Includes:<br><ul>Warning (Verbal/Written)<br>Parental involvement<br>Counselling<br>Loss of privileges which may include confiscation of mobile phones for purposes including investigations.<br>Compensation (for damage of public/personal property)<br>Corrective Work Order<br>Recess Detention<br><b>Suspension</b><br>Caning<br>Fair or Poor Conduct Grade<sup style="color:red;">2<br></sup>Referral to external agencies</ul></td></tr></table>
+<td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Includes:<br><ul>Warning (Verbal/Written)<br>Parental involvement<br>Counselling<br>Loss of privileges which may include confiscation of mobile phones for purposes including investigations.<br>Compensation (for damage of public/personal property)<br>Corrective Work Order<br>Recess Detention<br><b>Suspension</b><br>Caning<br>Fair or Poor Conduct Grade<sup style="color:red;">2<br></sup>Referral to external agencies</ul></td></tr></tbody></table>
 
 <br>
 <b><i>These lists are non-exhaustive.</i></b>
@@ -128,3 +128,4 @@ description: ""
 <span style="color:red;"><sup>1 </sup></span>Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical, verbal or relational/social in nature.
 <br>
 <span style="color:red;"><sup>2 </sup></span> The conduct grade will affect the pupil’s eligibility for awards such as the Edusave Awards at the end of the year.
+<details></details></details>
