@@ -25,7 +25,7 @@ description: ""
 <br>
 1.1 All students are strongly encouraged to settle down in the assembly area at least 15 minutes before the start of school to get ready for the school day.
 <br><br>
-1.2 Gate Opening Hours
+1.2 Gate Opening Hours<br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
@@ -70,9 +70,9 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 2.4 Students are to keep the canteen clean and litter-free.</details><br>
 <details>
 <summary><b>3. SCHOOL BAGS AND PERSONAL BELONGINGS</b></summary><br>
-3.1 Students are expected to take responsibility for all their personal belongings. The school shall not be liable for the loss of any personal valuables.<br>
-3.2 Students are advised to pack their bags according to their class timetable to avoid carrying heavy schoolbags. A storybook must be available for Silent Reading every day.<br>
-3.3 Students are not to bring excessive pocket money or valuables to school.<br>
+3.1 Students are expected to take responsibility for all their personal belongings. The school shall not be liable for the loss of any personal valuables.<br><br>
+3.2 Students are advised to pack their bags according to their class timetable to avoid carrying heavy schoolbags. A storybook must be available for Silent Reading every day.<br><br>
+3.3 Students are not to bring excessive pocket money or valuables to school.<br><br>
 3.4 The school does not encourage students to bring mobile phones and/or unauthorised electronic devices to school. Should any student need to do so, they must adhere to the following guidelines and ensure responsible use. Mobile phones and/or unauthorised electronic devices:<br><br>
 * must be switched off during lessons and/or other school activities<br>
 * can only be used for communicating urgent matters after permission has been granted by a teacher<br>
@@ -84,8 +84,8 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <details>
 <summary><b>4. VISITORS TO SCHOOLS</b></summary>
 <br>
-4.1 For the safety of our students, all visitors MUST collect a Visitor’s Pass from the security post and report to the General Office.<br>
-4.2 Parents/Guardians dropping off or fetching their children should wait at the Parents’ Waiting Area.<br>
+4.1 For the safety of our students, all visitors MUST collect a Visitor’s Pass from the security post and report to the General Office.<br><br>
+4.2 Parents/Guardians dropping off or fetching their children should wait at the Parents’ Waiting Area.<br><br>
 4.3 Parents may email their child’s teacher and make an appointment for a meeting. Parents may also email any feedback to lakeside_ps@moe.edu.sg. More contact information is available <a style="text-decoration: none" href="https://lakesidepri.moe.edu.sg/our-people/teaching-staff">here</a>.</details>
 <br>
 <details>
@@ -114,9 +114,9 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Admin%20Forms/Uniform%20Pamphlet.pdf" target="_blank">Uniform Pamphlet</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">6456 3198</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Monday,12pm-3pm)</td></tr></tbody></table>
-	
+<br>
 In the event that Lakeside Primary School Dental Clinic is closed, pupils who require <span style="color: red;">EMERGENCY</span> dental treatment can call any of the buddy clinics (see below) for an appointment.
-
+<br><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Dental Clinic</b></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Telephone</b></td>
