@@ -3,9 +3,10 @@ title: Useful Forms and Links
 permalink: /for-parents/forms-links/
 description: ""
 ---
-<details><summary><b>Primary 1 2023 Information for Parents and Students.</b></summary>
+<details><summary><b>Primary 1 Information for Parents and Students.</b></summary>
 <li><a href="/files/Admin%20Forms/Letter%20to%20P1%20Parents.pdf" target="_blank">P1 2023 Letter to Parents</a></li>  
 <li><a href="/files/Admin%20Forms/Orientation%20Booklet%202023.pdf" target="_blank">Orientation Booklet</a></li>
+<li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
 <li><a href="/files/Booklist/P1%202023%20Booklist.pdf" target="_blank">2023 P1 Booklist</a></li>
@@ -30,9 +31,11 @@ description: ""
 <details><summary><b>Parent Support Group</b></summary>
 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform" target="_blank">Registration Form</a></li>
 </details><br>
-<details><summary><b>General Information for Primary One</b></summary>
-<li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
-</details><br>
+
 <details><summary><b>Update Student Particulars to MOE</b></summary>
 <li>For updates of student particulars (<i>eg change of address, family contact details</i>), please login to the <a href="https://pg.moe.edu.sg/forms/sdf" target="_blank">Student Data Form (SDF) portal</a></li>
 </details>
+<br>
+<details><summary><b>Waitlist</b></summary>
+<br>
+Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.</details>
