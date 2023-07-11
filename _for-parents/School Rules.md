@@ -128,4 +128,4 @@ description: ""
 <span style="color:red;"><sup>1 </sup></span>Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical, verbal or relational/social in nature.
 <br>
 <span style="color:red;"><sup>2 </sup></span> The conduct grade will affect the pupil’s eligibility for awards such as the Edusave Awards at the end of the year.
-<details></details></details>
+</details>
