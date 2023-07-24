@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Edusave Character Award
+<b>Edusave Character Award</b>
 <br><br>
 The MOE Edusave Character Award (ECHA) recognises Singaporean students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions.  This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports our school’s continuing efforts in nurturing students of good value and character, who are active contributors and concerned citizens.
 <br><br>
