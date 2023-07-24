@@ -40,12 +40,6 @@ sections:
       alt: Image alt text
       image: /images/Announcements/open house 2023.jpg
   - infopic:
-      title: Latest Happenings
-      alt: Image alt text
-      image: /images/Home/School Website - Latest Happenings.png
-      url: /announcements-and-latest-happenings/latest-happenings
-      button: Read More
-  - infopic:
       title: WE-STories
       alt: Image alt text
       image: /images/Announcements/westories2023.png
@@ -53,6 +47,12 @@ sections:
         schools in the West Zone.
       url: https://go.gov.sg/westories-official
       button: read more
+  - infopic:
+      title: Latest Happenings
+      alt: Image alt text
+      image: /images/Home/School Website - Latest Happenings.png
+      url: /announcements-and-latest-happenings/latest-happenings
+      button: Read More
   - infopic:
       title: Announcements
       alt: Image alt text
