@@ -31,7 +31,7 @@ sections:
       title: Caring Teacher & Staff Award 2023
       button: More info here
       url: /announcements-and-latest-happenings/announcements/ctsa
-      image: /images/Announcements/ctsa2023.png
+      image: /images/Announcements/ctsa2023b.png
       alt: Image alt text
   - infopic:
       title: Join us on our virtual open house!
