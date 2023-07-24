@@ -19,6 +19,15 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Edusave Character Award
+      description: The MOE ECHA recognises Singaporean students who demonstrate
+        exemplary character and outstanding personal qualities through their
+        behaviour and actions.
+      button: Click here for more info
+      url: /announcements-and-latest-happenings/announcements/edusave/
+      image: /images/Home/logo-lsps2.gif
+      alt: Image alt text
+  - infopic:
       title: Join us on our virtual open house!
       button: click here
       url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
@@ -44,13 +53,4 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
-  - infopic:
-      title: Edusave Character Award
-      description: The MOE ECHA recognises Singaporean students who demonstrate
-        exemplary character and outstanding personal qualities through their
-        behaviour and actions.
-      button: Click here for more info
-      url: /announcements-and-latest-happenings/announcements/edusave/
-      image: /images/Home/logo-lsps2.gif
-      alt: Image alt text
 ---
