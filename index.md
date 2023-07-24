@@ -53,4 +53,10 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
+  - infopic:
+      title: Caring Teacher & Staff Award 2023
+      button: More info here
+      url: /announcements-and-latest-happenings/announcements/ctsa
+      image: /images/Announcements/ctsa2023.png
+      alt: Image alt text
 ---
