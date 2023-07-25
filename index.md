@@ -39,7 +39,6 @@ sections:
       alt: Image alt text
       image: /images/Home/Pop Up/openhouse2023b.jpg
   - infopic:
-      title: WE-STories
       alt: Image alt text
       image: /images/Home/Pop Up/westories2023.png
       description: WE STories is a collection of stories from all the secondary
