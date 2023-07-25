@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Edusave Character Award
+<b>Edusave Character Award</b>
 <br><br>
 The MOE Edusave Character Award (ECHA) recognises Singaporean students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions.  This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports our school’s continuing efforts in nurturing students of good value and character, who are active contributors and concerned citizens.
 <br><br>
@@ -22,4 +22,4 @@ Similar to the practice for other Edusave awards, ECHA awardees will receive a c
 <td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Primary 4 to 6</td>
 <td width="129" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">$350</td></tr></tbody></table>
 
-We invite you to nominate Singaporean students of Lakeside Primary School whom you identify as deserving of the award. Nomination form for this award can be accessed from <a style="text-decoration: none" href="https://go.gov.sg/lsps-echa2023">here</a>. Nomination period for the award is from 24 to 28 July 2023, 1200h. We look forward to receiving your nomination.
+We invite you to nominate Singaporean students of Lakeside Primary School whom you identify as deserving of the award. Nomination form for this award can be accessed from <a style="text-decoration: none" href="https://go.gov.sg/lsps-echa2023" target="_blank">here</a>. Nomination period for the award is from 24 to 28 July 2023, 1200h. We look forward to receiving your nomination.
