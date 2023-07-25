@@ -41,7 +41,7 @@ sections:
   - infopic:
       title: WE-STories
       alt: Image alt text
-      image: /images/Home/Pop Up/westories2023b.png
+      image: /images/Home/Pop Up/westories2023.png
       description: WE STories is a collection of stories from all the secondary
         schools in the West Zone.
       url: https://go.gov.sg/westories-official
