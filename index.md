@@ -25,24 +25,24 @@ sections:
         behaviour and actions.
       button: Click here for more info
       url: /announcements-and-latest-happenings/announcements/edusave/
-      image: /images/Home/logo-lsps2.gif
+      image: /images/Home/Pop Up/echa2023b.png
       alt: Image alt text
   - infopic:
       title: Caring Teacher & Staff Award 2023
       button: More info here
       url: /announcements-and-latest-happenings/announcements/ctsa
-      image: /images/Announcements/ctsa2023b.png
+      image: /images/Home/Pop Up/ctsa2023b.png
       alt: Image alt text
   - infopic:
       title: Join us on our virtual open house!
       button: click here
       url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
       alt: Image alt text
-      image: /images/Announcements/open house 2023.jpg
+      image: /images/Home/Pop Up/openhouse2023b.jpg
   - infopic:
       title: WE-STories
       alt: Image alt text
-      image: /images/Announcements/westories2023.png
+      image: /images/Home/Pop Up/westories2023b.png
       description: WE STories is a collection of stories from all the secondary
         schools in the West Zone.
       url: https://go.gov.sg/westories-official
