@@ -19,7 +19,6 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Edusave Character Award
       description: The MOE ECHA recognises Singaporean students who demonstrate
         exemplary character and outstanding personal qualities through their
         behaviour and actions.
@@ -31,7 +30,7 @@ sections:
       title: Caring Teacher & Staff Award 2023
       button: More info here
       url: /announcements-and-latest-happenings/announcements/ctsa
-      image: /images/Home/Pop Up/ctsa2023b.png
+      image: /images/Announcements/teacher1.png
       alt: Image alt text
   - infopic:
       title: Join us on our virtual open house!
