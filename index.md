@@ -19,14 +19,6 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      description: The MOE ECHA recognises Singaporean students who demonstrate
-        exemplary character and outstanding personal qualities through their
-        behaviour and actions.
-      button: Click here for more info
-      url: /announcements-and-latest-happenings/announcements/edusave/
-      image: /images/Home/Pop Up/echa2023b.png
-      alt: Image alt text
-  - infopic:
       title: Caring Teacher & Staff Award 2023
       button: More info here
       url: /announcements-and-latest-happenings/announcements/ctsa
