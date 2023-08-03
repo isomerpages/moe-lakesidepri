@@ -19,17 +19,11 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Caring Teacher & Staff Award 2023
-      button: More info here
-      url: /announcements-and-latest-happenings/announcements/ctsa
-      image: /images/Announcements/teacher1.png
-      alt: Image alt text
-  - infopic:
       title: Join us on our virtual open house!
       button: click here
       url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
       alt: Image alt text
-      image: /images/Home/Pop Up/openhouse2023b.jpg
+      image: /images/Home/Pop Up/openhouse2023b.png
   - infopic:
       alt: Image alt text
       image: /images/Home/Pop Up/westories2023.png
