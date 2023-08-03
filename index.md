@@ -23,7 +23,7 @@ sections:
       button: click here
       url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
       alt: Image alt text
-      image: /images/Home/Pop Up/openhouse2023b.jpg
+      image: /images/Home/Pop Up/openhouse2023b.png
   - infopic:
       alt: Image alt text
       image: /images/Home/Pop Up/westories2023.png
