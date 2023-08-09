@@ -19,6 +19,15 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Staff Appreciation & Teachers' Day 2023
+      description: Visits by ex-students will not be permitted this year. You may show
+        your appreciation to our LSPS staff by posting your appreciation notes
+        via the page below.
+      button: Pen down your appreciation notes here
+      url: https://for.edu.sg/lsps-appreciationday-2023
+      image: /images/staff appreciation day announcement for ex-students 2023.png
+      alt: Image alt text
+  - infopic:
       title: Join us on our virtual open house!
       button: click here
       url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
@@ -43,14 +52,4 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
-  - infopic:
-      title: Staff Appreciation & Teachers' Day 2023
-      subtitle: Infopic Subtitle
-      description: "Visits by ex-students will not be permitted this year. You may
-        show your appreciation to our LSPS staff by posting your appreciation
-        notes via the page below. "
-      button: Pen down your appreciation notes here
-      url: https://for.edu.sg/lsps-appreciationday-2023
-      image: /images/staff appreciation day announcement for ex-students 2023.png
-      alt: Image alt text
 ---
