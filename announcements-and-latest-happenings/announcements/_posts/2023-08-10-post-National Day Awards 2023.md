@@ -10,7 +10,7 @@ The Singapore National Day Awards are a means of recognising various forms of me
 <br><br>
 We are proud to announce the following recipients of National Day Awards 2023.
 <br>
-<img src="/images/Announcements/ND/rhd2023a.png">
+<img src="/images/Announcements/ND_Award/rhd2023a.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students looking fabulous in their ethnic attires </span>
