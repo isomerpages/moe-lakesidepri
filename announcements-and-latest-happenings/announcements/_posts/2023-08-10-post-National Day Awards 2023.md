@@ -24,3 +24,5 @@ We are proud to announce the following recipients of National Day Awards 2023.
 <hr><br>
 <img src="/images/Announcements/ND%20Award/nd-award-5.png" style="width: 30%; height: 30%;">
 <center>Mrs Eileen Seet<br>The Long Service Medal</center>
+<br>
+Our heartiest congratulations to them! 
