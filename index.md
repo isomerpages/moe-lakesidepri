@@ -41,10 +41,10 @@ sections:
       button: Read More
   - infopic:
       title: National Day Awards 2023
-      description: "The Singapore National Day Awards are a means of recognising
-        various forms of merit and service to Singapore. "
+      description: The Singapore National Day Awards are a means of recognising
+        various forms of merit and service to Singapore.
       button: Click here to view
-      url: /happenings/announcements/ndaward/
+      url: /announcements-and-latest-happenings/announcements/ndaward/
       image: /images/Announcements/nd-award2023.png
       alt: Image alt text
 ---
