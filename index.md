@@ -19,6 +19,14 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: National Day Awards 2023
+      description: The Singapore National Day Awards are a means of recognising
+        various forms of merit and service to Singapore.
+      button: Click here to view
+      url: /announcements-and-latest-happenings/announcements/ndaward/
+      image: /images/Announcements/nd-award2023.png
+      alt: Image alt text
+  - infopic:
       title: Staff Appreciation & Teachers' Day 2023
       description: Visits by ex-students will not be permitted this year. You may show
         your appreciation to our LSPS staff by posting your appreciation notes
@@ -39,12 +47,4 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
-  - infopic:
-      title: National Day Awards 2023
-      description: The Singapore National Day Awards are a means of recognising
-        various forms of merit and service to Singapore.
-      button: Click here to view
-      url: /announcements-and-latest-happenings/announcements/ndaward/
-      image: /images/Announcements/nd-award2023.png
-      alt: Image alt text
 ---
