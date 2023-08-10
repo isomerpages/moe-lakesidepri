@@ -28,19 +28,6 @@ sections:
       image: /images/staff appreciation day announcement for ex-students 2023.png
       alt: Image alt text
   - infopic:
-      title: Join us on our virtual open house!
-      button: click here
-      url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
-      alt: Image alt text
-      image: /images/Home/Pop Up/openhouse2023b.png
-  - infopic:
-      alt: Image alt text
-      image: /images/Home/Pop Up/westories2023.png
-      description: WE STories is a collection of stories from all the secondary
-        schools in the West Zone.
-      url: https://go.gov.sg/westories-official
-      button: read more
-  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
