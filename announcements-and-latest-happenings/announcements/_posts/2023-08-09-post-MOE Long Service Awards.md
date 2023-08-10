@@ -25,9 +25,5 @@ image: ""
 *  Lim May Hua (Mdm)
 *  Ho Wei Sze (Mr)
 *  Chua Lim Peng (Mdm)
-*  Roslan Bin Sa’ad (Mr)
-*  Eileen Seet (Mrs)
-*  Finella Goh (Mrs)
 
 And congratulations to **Mrs Pauline Lee** for receiving the **MOE Special Appreciation Award**!
-
