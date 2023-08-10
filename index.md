@@ -19,18 +19,22 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Join us on our virtual open house!
-      button: click here
-      url: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
+      title: National Day Awards 2023
+      description: The Singapore National Day Awards are a means of recognising
+        various forms of merit and service to Singapore.
+      button: Click here to view
+      url: /announcements-and-latest-happenings/announcements/ndaward/
+      image: /images/Announcements/nd-award2023.png
       alt: Image alt text
-      image: /images/Home/Pop Up/openhouse2023b.png
   - infopic:
+      title: Teachers' and Staff Appreciation Day 2023
+      description: Visits by ex-students will not be permitted this year. You may show
+        your appreciation to our LSPS staff by posting your appreciation notes
+        via the page below.
+      button: Pen down your appreciation notes here
+      url: https://for.edu.sg/lsps-appreciationday-2023
+      image: /images/staff appreciation day announcement for ex-students 2023.png
       alt: Image alt text
-      image: /images/Home/Pop Up/westories2023.png
-      description: WE STories is a collection of stories from all the secondary
-        schools in the West Zone.
-      url: https://go.gov.sg/westories-official
-      button: read more
   - infopic:
       title: Latest Happenings
       alt: Image alt text

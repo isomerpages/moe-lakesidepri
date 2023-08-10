@@ -17,7 +17,7 @@ description: ""
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Special Educational Needs</td></tr>
 <tr></tr>
 <tr>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Lee Jia Qi<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lee_jiaqi_a@moe.edu.sg</i></td>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Jacelyn Loh<br><i style="font-size:11pt; color: rgb(237, 125, 49);">Loh_Jinfeng@schools.gov.sg</i></td>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">School Counsellor (Adjunct)</td></tr>
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Kalimuthu<br><i style="font-size:11pt; color: rgb(237, 125, 49);">kalimuthu_a@moe.edu.sg</i></td>
