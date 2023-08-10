@@ -27,7 +27,7 @@ sections:
       image: /images/Announcements/nd-award2023.png
       alt: Image alt text
   - infopic:
-      title: Staff Appreciation & Teachers' Day 2023
+      title: Teachers' and Staff Appreciation Day 2023
       description: Visits by ex-students will not be permitted this year. You may show
         your appreciation to our LSPS staff by posting your appreciation notes
         via the page below.
