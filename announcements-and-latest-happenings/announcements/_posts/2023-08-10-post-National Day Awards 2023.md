@@ -12,15 +12,15 @@ We are proud to announce the following recipients of National Day Awards 2023.
 <br>
 <img src="/images/Announcements/ND%20Award/nd-award-1.png" style="width: 30%; height: 30%;">
 <span style="font-size:10pt;"><center>Mrs Finella Goh<br>The Public Administration Medal (Silver) &amp; The Long Service Medal</center></span>
-<br>
+<hr><br>
 <img src="/images/Announcements/ND%20Award/nd-award-2.png" style="width: 30%; height: 30%;">
 <span style="font-size:10pt;"><center>Mrs Yeo-Lim May Hua<br>The Commendation Medal</center></span>
-<br>
+<hr><br>
 <img src="/images/Announcements/ND%20Award/nd-award-3.png" style="width: 30%; height: 30%;">
 <span style="font-size:10pt;"><center>Mr Roslan Bin Sa’ad<br>The Long Service Medal</center></span>
-<br>
+<hr><br>
 <img src="/images/Announcements/ND%20Award/nd-award-4.png" style="width: 30%; height: 30%;">
 <span style="font-size:10pt;"><center>Mdm Chua Lim Peng<br>The Long Service Medal</center></span>
-<br>
+<hr><br>
 <img src="/images/Announcements/ND%20Award/nd-award-5.png" style="width: 30%; height: 30%;">
 <span style="font-size:10pt;"><center>Mrs Eileen Seet<br>The Long Service Medal</center></span>
