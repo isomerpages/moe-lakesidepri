@@ -10,7 +10,13 @@ The Singapore National Day Awards are a means of recognising various forms of me
 <br><br>
 We are proud to announce the following recipients of National Day Awards 2023.
 <br>
+<table>
+<tbody><tr>
+<td>
 <img src="/images/Announcements/ND%20Award/nd-award-1.png" style="width: 30%; height: 30%;">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Mrs Finella Goh</span>
+<span style="color:blue;">•</span> Mrs Finella Goh</span></td></tr>
+<tr>
+	<td></td></tr></tbody></table>
+	
