@@ -6,3 +6,16 @@ layout: post
 description: ""
 image: ""
 ---
+The school celebrated National Day on 8 August. As part of the celebration, staff, parents, and students came to school dressed in red. <br>
+A series of exciting activities (e.g., Observance Ceremony, National Day concert, story-telling sessions, National Day Parade Show for P5 students, inter-class games for the lower primary students) was carried out. <br>
+Through these activities, it is hoped that it will evoke our common Singapore identity and for all Singaporeans to move onward together in building our shared future as one united people. <br><br>
+<img src="/images/Happenings/ND/ndp2023a.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Staff, parents and students dressed in red for the celebration <br><span style="color:blue;">•</span> Parent Support Group celebrating National Day together with the school <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Our lovely emcees hosting the National Day concert <span style="color:blue;"><i>(bottom)</i></span></span>
+<hr><br>
+<img src="/images/Happenings/ND/ndp2023b.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Marching in of the National Flag and our School Flag by our scouts, prefects, school staff and representatives from the Parent Support Group <br><span style="color:blue;">•</span> Students from Chinese Dance dancing to the beats of the National Day song “We are Singapore” <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Students from Speech and Drama performing the skit 'Badang and the Singapore Stone' <span style="color:blue;"><i>(bottom)</i></span></span>
+<hr><br>
