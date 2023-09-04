@@ -13,3 +13,13 @@ third_nav_title: Parent Support Group
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> EL Week </span>
+<hr><br>
+<img src="/images/PSG/psg003.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Racial Harmony Day </span>
+<hr><br>
+<img src="/images/PSG/psg004.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> National Day Celebration </span>
