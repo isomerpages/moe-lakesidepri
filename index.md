@@ -27,15 +27,6 @@ sections:
       image: /images/Announcements/nd-award2023.png
       alt: Image alt text
   - infopic:
-      title: Teachers' and Staff Appreciation Day 2023
-      description: Visits by ex-students will not be permitted this year. You may show
-        your appreciation to our LSPS staff by posting your appreciation notes
-        via the page below.
-      button: Pen down your appreciation notes here
-      url: https://for.edu.sg/lsps-appreciationday-2023
-      image: /images/staff appreciation day announcement for ex-students 2023.png
-      alt: Image alt text
-  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
