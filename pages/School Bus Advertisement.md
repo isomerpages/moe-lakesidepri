@@ -7,7 +7,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <br><br>
 <span style="font-size: 14pt;">
 <b>Service Requirements</b></span><br>
-<ol><li><a download="renamed.docx" style="text-decoration: none" href="https://go.gov.sg/lsps-scbus"> Call for Proposal</a></li>
+<ol><li><a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus"> Call for Proposal</a></li>
 <li><a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus-annexb"> Agreement for Appointment of School Bus Operator</a></li></ol><br>
 <span style="font-size: 14pt;">
 <b>Application Procedure</b></span><br>
