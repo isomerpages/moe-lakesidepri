@@ -8,13 +8,14 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1.	[Call for Proposal]
+
+1.	[Call for Proposal](https://go.gov.sg/lsps-scbus)
  
-2.	[Agreement for Appointment of School Bus Operator]
+2.	[Agreement for Appointment of School Bus Operator](https://go.gov.sg/lsps-scbus-annexb)
 
 **Application Procedure**
 
-1. Complete the [Call for Proposal - Annex A]
+1. Complete the [Call for Proposal - Annex A](https://go.gov.sg/lsps-scbus-annexa)
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 20 September 2023, to the School’s General Office.
 
