@@ -21,7 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <span style="color:blue;">•</span> Contact Person: Ms Veronica Lee; Ms Foo Mei Mei<br>
 <br><br>
 <span style="font-size: 14pt;">
-<b>How to get there?</b></span><br><br>
+<b>How to get there?</b></span><br>
 <span style="color:blue;">•</span>Nearest MRT: Lakeside MRT – 10 minutes walking distance<br>
 <span style="color:blue;">•</span>Bus number: 30, 49, 98, 98M  - 3 minutes walking distance
 <br><br>
