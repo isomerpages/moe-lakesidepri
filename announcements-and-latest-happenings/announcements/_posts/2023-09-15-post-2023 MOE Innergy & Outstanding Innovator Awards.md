@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+We are proud to announce the awardee of the 2023 MOE Outstanding Innovator Award winner. 
+<br><br>
+Our heartiest congratulations to Mr Chan! 
