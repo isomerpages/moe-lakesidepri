@@ -22,12 +22,12 @@ description: ""
 <td style="border: 1px solid rgb(42, 42, 42);">Lakeside</td>
 </tr>
 <tr>
-<td style="border: 1px solid rgb(42, 42, 42);"><b>Office</b></td>
-<td style="border: 1px solid rgb(42, 42, 42);">62620918</td>
+<td style="border: 1px solid rgb(42, 42, 42);"><b>General Office</b></td>
+<td style="border: 1px solid rgb(42, 42, 42);">Opening hours: 7.30am to 5.30pm</td>
 </tr>
 <tr>
-<td style="border: 1px solid rgb(42, 42, 42);"><b>Fax</b></td>
-<td style="border: 1px solid rgb(42, 42, 42);">62621021</td>
+<td style="border: 1px solid rgb(42, 42, 42);"><b>Tel / Fax</b></td>
+<td style="border: 1px solid rgb(42, 42, 42);">Tel: 62620918 / Fax: 62621021</td>
 </tr>	
 <tr>
 <td style="border: 1px solid rgb(42, 42, 42);"><b>Email</b></td>
