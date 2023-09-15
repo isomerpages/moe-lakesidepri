@@ -8,4 +8,7 @@ image: ""
 ---
 We are proud to announce the awardee of the 2023 MOE Outstanding Innovator Award winner. 
 <br><br>
-Our heartiest congratulations to Mr Chan! 
+<img src="/images/Announcements/Innergy/chan%20kok%20hong.jpg" style="width: 90%; height: 90%;">
+<center>Mr Chan Kok Hong<br>HOD ICT</center>
+Our heartiest congratulations to Mr Chan!
+<br>
