@@ -4,5 +4,5 @@ date: 2023-05-23
 layout: link
 description: ""
 image: ""
-external: https://https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
+external: https://sites.google.com/moe.edu.sg/lspsvirtualopenhouse2023/home
 ---

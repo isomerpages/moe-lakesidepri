@@ -4,5 +4,5 @@ date: 2023-05-23
 layout: link
 description: ""
 image: ""
-external: https://https://online.fliphtml5.com/obrr/qkde/#p=1
+external: https://online.fliphtml5.com/obrr/qkde/#p=1
 ---
