@@ -8,8 +8,8 @@ description: ""
 Name of Company/Operator: <b>Beng Tat Transport Service</b>
 <br>
 
-<b>Price List 2024</b>
-
+<b>Not To Exceed Price:</b>
+<br>
 <table style="width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr style="text-align: center;"><td rowspan="2"><b>Distance</b></td><td colspan="2"><b>Up to 15-seater</b></td><td colspan="2"><b>&gt;15 </b></td></tr>
