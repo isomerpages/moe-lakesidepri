@@ -98,7 +98,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bookshop<br>(Mrs Lim)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Booklist/P1%202023%20Booklist.pdf" target="_blank">Primary 1</a><br><a style="text-decoration: none" href="/files/Booklist/P2%202023%20Booklist.pdf" target="_blank">Primary 2</a><br><a style="text-decoration: none" href="/files/Booklist/P3%202023%20Booklist.pdf" target="_blank">Primary 3</a><br><a style="text-decoration: none" href="/files/Booklist/P4%202023%20Booklist.pdf" target="_blank">Primary 4</a><br><a style="text-decoration: none" href="/files/Booklist/P5%202023%20Booklist.pdf" target="_blank">Primary 5</a><br><a style="text-decoration: none" href="/files/Booklist/P6%202023%20Booklist.pdf" target="_blank">Primary 6</a></td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mobile Number: 87577234 (Call/WhatsApp)</td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">87577234 (Call/WhatsApp)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td></tr>
 <tr>
 <td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Dental Clinic<br>(Ms Suhaila Isa and Ms Della)</td>
