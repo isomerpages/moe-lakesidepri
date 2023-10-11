@@ -10,11 +10,26 @@ Name of Company/Operator: <b>Beng Tat Transport Service</b>
 
 <b>Not To Exceed Price:</b>
 <br>
-<table style="width: 773px;">
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-<tr style="text-align: center;"><td rowspan="2"><b>Distance</b></td><td colspan="2"><b>Up to 15-seater</b></td><td colspan="2"><b>&gt;15 </b></td></tr>
-<tr style="text-align: center;"><td>1 Way</td><td>2 Way</td><td>1 Way</td><td>2 Way</td></tr>
-<tr style="text-align: center;"><td>Up to 2km</td><td>$80</td><td>$110</td><td>$80</td><td>$110</td></tr>
-<tr style="text-align: center;"><td>&gt;2 - 4km</td><td>$90</td><td>$130</td><td>$90</td><td>$130</td></tr>
-	
-</tbody></table>
+<tr>
+<td rowspan="2" width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Distance</b></td>
+<td colspan="2" width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Up to 15-seater</b></td>
+<td colspan="2" width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>&gt;15 </b></td></tr>
+<tr>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1 Way</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2 Way</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1 Way</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2 Way</td></tr>
+<tr>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Up to 2km</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$80</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$110</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$80</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$110</td></tr>
+<tr>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">&gt;2 - 4km</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$90</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$130</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$90</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$130</td></tr></tbody></table>
