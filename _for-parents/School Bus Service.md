@@ -3,25 +3,19 @@ title: School Bus Service
 permalink: /for-parents/schoolbusservice/
 description: ""
 ---
-Name of Company/Operator: <b>Sin Koon Seng Enterprise</b>
+<b>School Bus Services engaged for 2024</b>
 <br>
-Email Address: <b>SinKoonSeng@yahoo.com</b>
+Name of Company/Operator: <b>Beng Tat Transport Service</b>
 <br>
-Tel: <b>9743 9235 - Ms Vivian Tan (Bus Co-ordinator)</b>
-<br>
-Fax: <b>6665 0798</b>
-<li><b><a href="https://forms.gle/jHsryXFj3mQB1LN8A" target="_blank">School Bus Request Form</a></b></li>
+
+<b>Price List 2024</b>
+
+<table style="width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr><td><b>Distance</b></td><td><b>Up to 15-seater</b></td><td><b>&gt;15 </b></td></tr>
+<tr><td>1 Way</td><td>2 Way</td><td>1 Way</td><td>2 Way</td></tr>
+</tbody></table>
 
 
-<b>Price List 2023</b>
 
-| Bus Routes | Rates - 2 ways | Rates - 1 way |
-| -------- | -------- | -------- |
-| Taman Jurong Estate     | $80     | $55     |
-| Boon Lay Estate  | $95  | $65  | 
-| Jurong West St 52  |$95  | $65  | 
-| Jurong West Ave 1  | $105  | $75  | 
-| Jurong West St 41/42  | $105  | $75  | 
-| Jurong East Ave 1  | $125  | $85  | 
-| Jurong West Central 1/St 64 &amp; 65  | $105  | $75  | 
-| &gt;Jurong West Ave 5  | &gt;$140  | &gt;$90  |
+
