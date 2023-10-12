@@ -3,25 +3,33 @@ title: School Bus Service
 permalink: /for-parents/schoolbusservice/
 description: ""
 ---
-Name of Company/Operator: <b>Sin Koon Seng Enterprise</b>
+<b>School Bus Services engaged for 2024</b>
 <br>
-Email Address: <b>SinKoonSeng@yahoo.com</b>
+Name of Company/Operator: <b>Beng Tat Transport Service</b>
 <br>
-Tel: <b>9743 9235 - Ms Vivian Tan (Bus Co-ordinator)</b>
+
+Not To Exceed Price:
 <br>
-Fax: <b>6665 0798</b>
-<li><b><a href="https://forms.gle/jHsryXFj3mQB1LN8A" target="_blank">School Bus Request Form</a></b></li>
-
-
-<b>Price List 2023</b>
-
-| Bus Routes | Rates - 2 ways | Rates - 1 way |
-| -------- | -------- | -------- |
-| Taman Jurong Estate     | $80     | $55     |
-| Boon Lay Estate  | $95  | $65  | 
-| Jurong West St 52  |$95  | $65  | 
-| Jurong West Ave 1  | $105  | $75  | 
-| Jurong West St 41/42  | $105  | $75  | 
-| Jurong East Ave 1  | $125  | $85  | 
-| Jurong West Central 1/St 64 &amp; 65  | $105  | $75  | 
-| &gt;Jurong West Ave 5  | &gt;$140  | &gt;$90  |
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tr>
+<td rowspan="2" width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Distance</b></td>
+<td colspan="2" width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Up to 15-seater</b></td>
+<td colspan="2" width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>&gt;15 </b></td></tr>
+<tr>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1 Way</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2 Way</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">1 Way</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">2 Way</td></tr>
+<tr>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Up to 2km</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$80</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$110</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$80</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$110</td></tr>
+<tr>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">&gt;2 - 4km</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$90</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$130</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$90</td>
+<td width="387" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">$130</td></tr></tbody></table>
