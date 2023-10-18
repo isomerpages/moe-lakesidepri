@@ -4,7 +4,7 @@ permalink: /for-parents/forms-links/
 description: ""
 ---
 <details><summary><b>Primary 1 Information for Parents and Students.</b></summary>
-<li><a href="/files/Admin%20Forms/letter%20to%20p1%20parents%202024.pdf" target="_blank">P1 2024 Letter to Parents</a></li>  
+<li><a href="/files/Admin%20Forms/letter%20to%20p1%20parents.pdf" target="_blank">P1 2024 Letter to Parents</a></li>  
 
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
 </details><br>
