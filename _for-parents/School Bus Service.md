@@ -7,10 +7,10 @@ description: ""
 <br>
 Name of Company/Operator: <b>Beng Tat Transport Service</b>
 <br>
-Name of School Bus Coordinator: Sharon Chua<br>
-Mobile: 65 9879 5348<br>
-Email: sharon@bengtatbus.com<br>
-<a href="https://forms.gle/x9rYJG5h5u9jYYgA7" target="_blank">School Bus Registration Form</a>
+Name of School Bus Coordinator: <b>Sharon Chua</b><br>
+Mobile: <b>65 9879 5348</b><br>
+Email: <b>sharon@bengtatbus.com</b><br>
+<a href="https://forms.gle/x9rYJG5h5u9jYYgA7" target="_blank"><b>School Bus Registration Form</b></a>
 <br><br>
 Not To Exceed Price:
 <br>
