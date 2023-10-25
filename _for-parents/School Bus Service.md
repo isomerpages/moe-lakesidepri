@@ -9,11 +9,11 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <br><br>
 <span style="font-size: 14pt;">
 <b>Service Requirements</b></span><br>
-<ol><li><a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus"> Call for Proposal</a></li>
-<li><a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus-annexb"> Agreement for Appointment of School Bus Operator</a></li></ol><br>
+<ol><li><a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus" target="_blank"> Call for Proposal</a></li>
+<li><a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus-annexb" target="_blank"> Agreement for Appointment of School Bus Operator</a></li></ol><br>
 <span style="font-size: 14pt;">
 <b>Application Procedure</b></span><br>
-<ol><li>Complete the <a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus-annexa">Call for Proposal - Annex A</a></li>
+<ol><li>Complete the <a style="text-decoration: none" href="https://go.gov.sg/lsps-scbus-annexa" target="_blank">Call for Proposal - Annex A</a></li>
 	<li>Submit the completed Call for Proposal – Annex A by closing date, <b>3 November 2023</b>, to the School’s General Office.</li></ol>
 <span style="color:blue;">•</span> Address: Lakeside Primary School, 161 Corporation Walk, S(618310)<br>
 <span style="color:blue;">•</span> Contact No: 6262 0918<br>
