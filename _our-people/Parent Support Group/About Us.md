@@ -30,11 +30,11 @@ By giving our time and sharing our skills with the other parents wholeheartedly,
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b> PROJECT COORDINATOR</b></td>
 </tr>
 <tr>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sandy Tan</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Goh Ching Yi</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Win Ng</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nurhidayah Binte Rostan</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Adrian Lim</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Ma Hui Zhu</td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Stefanie Lai</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nurhidayah <br> Mr Adrian Lim</td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Rafida Binte Tahir </td>
 
 </tr>
 </tbody>
