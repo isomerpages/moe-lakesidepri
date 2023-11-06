@@ -19,12 +19,10 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: National Day Awards 2023
-      description: The Singapore National Day Awards are a means of recognising
-        various forms of merit and service to Singapore.
+      title: Happy Deepavali
       button: Click here to view
-      url: /announcements-and-latest-happenings/announcements/ndaward/
-      image: /images/Announcements/nd-award2023.png
+      url: /images/Announcements/deepavali2023.png
+      image: /images/Announcements/deepavali2023.png
       alt: Image alt text
   - infopic:
       title: Latest Happenings
