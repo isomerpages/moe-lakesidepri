@@ -10,8 +10,8 @@ variant: markdown
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
-<li><a href="/files/Booklist/p1%202024%20booklist.pdf" target="_blank">2023 P1 Booklist</a></li>
-<li><a href="/files/Admin%20Forms/uniform%20pamphlet%202024.pdf" target="_blank">2023 P1 Uniform Order</a></li>
+<li><a href="/files/Booklist/p1%202024%20booklist.pdf" target="_blank">2024 P1 Booklist</a></li>
+<li><a href="/files/Admin%20Forms/uniform%20pamphlet%202024.pdf" target="_blank">2024 P1 Uniform Order</a></li>
 <li><a href="https://forms.gle/jHsryXFj3mQB1LN8A" target="_blank">School Bus Request Form</a></li>
 <li><a href="https://www.wheecanopus.com/student-registration" target="_blank">Whee!Canopus Student Care Centre@ Lakeside Primary Registration Form</a></li>
 </details><br>
