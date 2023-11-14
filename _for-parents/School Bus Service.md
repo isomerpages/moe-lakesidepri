@@ -12,13 +12,11 @@ Tel: <b>9743 9235</b>
 <br>
 Email: <b>sinkoonseng@yahoo.com</b>
 <li><b>Please register via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSflr0EtyhyqVCZI2AiIsqKu32s0ZfSGSlns94zSlp8_Pi9eNw/viewform" target="_blank">Online Booking Form </a></b></li>
-
-
+<br>
 <b>NOT-TO-EXCEED PRICE FOR 2024 TO 2025</b>
-
-
+<br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
+<tbody>
 <tr>
 <td width="128" rowspan="2" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Distance</td>
 <td width="129" colspan="2" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Up to 15-seater</td>
