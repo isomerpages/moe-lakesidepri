@@ -4,9 +4,8 @@ permalink: /for-parents/schoolbusservice/
 description: ""
 variant: markdown
 ---
-Name of Company/Operator: <b>Sin Koon Seng Enterprise</b>
-<br>
-Email Address: <b>SinKoonSeng@yahoo.com</b>
+<b>School Bus Operator and Bus Fare</b><br>
+<b>Sin Koon Seng Enterprise</b>
 <br>
 Tel: <b>9743 9235</b>
 <br>
