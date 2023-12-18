@@ -2,6 +2,7 @@
 title: Executive & Administrative Staff
 permalink: /our-people/executive-administrative-staff/
 description: ""
+variant: markdown
 ---
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Name</b></td>
@@ -48,9 +49,7 @@ description: ""
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Rosalind Perumal</td>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Teacher Aide</td></tr>
-<tr>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Catherine</td>
-<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Science Lab Assistant</td></tr>
+
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Tjhaij Kim Njoen</td>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Operations Support Officer</td></tr>
