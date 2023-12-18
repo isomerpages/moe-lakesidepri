@@ -81,7 +81,7 @@ variant: markdown
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">eileen_seet@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Casren Aw</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">YH/Middle Primary (covering)&nbsp;<br></td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">YH/Middle Primary<br></td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">fong_mei_ling@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Low Tan Hung</td>
