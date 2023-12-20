@@ -30,4 +30,9 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
+  - infopic:
+      title: Merry Christmas and a Happy New Year!
+      id: infopic
+      image: /images/Announcements/CHRISTMAS2023.png
+      alt: Image alt text
 ---
