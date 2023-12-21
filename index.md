@@ -19,10 +19,9 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Happy Deepavali
-      button: Click here to view
-      url: /images/Announcements/deepavali2023.png
-      image: /images/Announcements/deepavali2023.png
+      title: Merry Christmas and a Happy New Year!
+      id: infopic
+      image: /images/Announcements/CHRISTMAS2023.png
       alt: Image alt text
   - infopic:
       title: Latest Happenings
