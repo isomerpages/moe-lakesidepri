@@ -50,7 +50,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Ang Jing Ting<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ang_jing_ting@moe.edu.sg</i></td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Junianah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">junianah_shamsudin@moe.edu.sg</i></td>
 </tr>
-</tbody></table><br>
+</tbody></table><br><br>
 <!--............................................................................................................-->	
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
 <tr><td style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;" colspan="3" rowspan="1"><h4><strong>Primary 2</strong></h4></td></tr>	
@@ -98,7 +98,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Hazel Francis<br><i style="font-size:11pt; color: rgb(237, 125, 49);">hazel_martin@moe.edu.sg</i></td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Kendis Poh<br><i style="font-size:11pt; color: rgb(237, 125, 49);">kendis_poh_xin_rui@moe.edu.sg</i></td>
 </tr>
-</tbody></table><br>
+</tbody></table><br><br>
 <!--............................................................................................................-->
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
 <tr><td style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;" colspan="3" rowspan="1"><h4><strong>Primary 3</strong></h4></td></tr>	
@@ -141,7 +141,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Wee Mei Ling<br><i style="font-size:11pt; color: rgb(237, 125, 49);">leo_mei_ling@moe.edu.sg</i></td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Teo Yuan Lin<br><i style="font-size:11pt; color: rgb(237, 125, 49);">teo_yuan_lin@moe.edu.sg</i></td>
 </tr>
-</tbody></table><br>
+</tbody></table><br><br>
 <!--............................................................................................................-->
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
 <tr><td style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;" colspan="3" rowspan="1"><h4><strong>Primary 4</strong></h4></td></tr>	
@@ -184,7 +184,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Genelle Lee<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lee_jia_yee@moe.edu.sg</i></td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Florence Kong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ng_wai_fun_florence@moe.edu.sg</i></td>
 </tr>
-</tbody></table><br>
+</tbody></table><br><br>
 <!--............................................................................................................-->
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
 <tr><td style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;" colspan="3" rowspan="1"><h4><strong>Primary 5</strong></h4></td></tr>	
@@ -227,7 +227,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Ma Danni<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ma_danni@moe.edu.sg</i></td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Omar<br><i style="font-size:11pt; color: rgb(237, 125, 49);">omar_yusop@moe.edu.sg</i></td>
 </tr>
-</tbody></table><br>
+</tbody></table><br><br>
 <!--............................................................................................................-->
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
 <tr><td style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;" colspan="3" rowspan="1"><h4><strong>Primary 6</strong></h4></td></tr>	
