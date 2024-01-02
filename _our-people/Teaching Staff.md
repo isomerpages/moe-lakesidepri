@@ -34,7 +34,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Nina Saw<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nina_tan_shi_fei@moe.edu.sg</i><br>Mdm Junianah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">junianah_shamsudin@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">1 Creativity</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Ang Jing Ting<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ang_jing_ting@moe.edu.sg</i><br>Mdm Vijaya<br><i style="font-size:11pt; color: rgb(237, 125, 49);">vijayalakshmi_sasikumar@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Kang Jing Ting<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ang_jing_ting@moe.edu.sg</i><br>Mdm Vijaya<br><i style="font-size:11pt; color: rgb(237, 125, 49);">vijayalakshmi_sasikumar@moe.edu.sg</i></td></tr>
 </tbody></table><br><br>
 <!--............................................................................................................-->	
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
