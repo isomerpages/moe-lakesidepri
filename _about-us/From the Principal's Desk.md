@@ -17,7 +17,7 @@ We strongly believe that parents and guardians are the foremost and most influen
 With our dedicated staff, excellent resources, and engaged students, I am confident that, with the ongoing support of all stakeholders, we will take our school to greater heights of excellence.
 Let us unite in our endeavour to make Lakeside Primary a beacon of positive change within our community and beyond.<br><br>
 Wishing all a Blessed 2024. 
-<br><br><br><br>
+<br><br><br>
 Warm regards,<br><br>
 Mrs Rina Liang<br>
 Principal, Lakeside Primary
