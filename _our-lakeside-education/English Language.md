@@ -2,6 +2,7 @@
 title: English Language
 permalink: /our-lakeside-education/english-language/
 description: ""
+variant: markdown
 ---
 <b>Curricular Goals:</b>
 <br><br>
@@ -94,7 +95,7 @@ Learn Through Play encourages students to engage in authentic conversation throu
 <span style="color:blue;">•</span> Having fun with puppets at the Lower Primary</span>
 <br><br>
 <u>English Week</u><br>
-English Week revolves around a special theme each year. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
+English Week is held biennially and revolves around a specially chosen theme. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
 <br><br>
 <img src="/images/Department/01EL/el0004.png">
 <hr><br><br>
