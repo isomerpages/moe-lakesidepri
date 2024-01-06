@@ -21,7 +21,8 @@ All our Learning Dispositions are undergirded by our school values. Values are a
 School experiences avail students the opportunity to develop their LDs and prepare them to be future-ready. Together with the support of our parents and partners, we trust we can develop the learning dispositions of our students and become life-long learners and virtuous leaders. 
 <br><br>
 <img src="/images/Department/05CCE/CCE1.png"><br>
-<span style="color:blue;">•</span> Learning Disposition statements can be found in our Student Handbook. We invite Parents to partner us in developing the learning dispositions of our students through frequent conversations at home.  
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Learning Disposition statements can be found in our Student Handbook. We invite Parents to partner us in developing the learning dispositions of our students through frequent conversations at home.</span> 
 <hr><br><br>
 <b>Values-In-Action</b>
 <br><br>
