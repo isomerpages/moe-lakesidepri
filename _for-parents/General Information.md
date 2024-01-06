@@ -62,7 +62,9 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.40am&nbsp;– 10.10am</td></tr>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P2-P3</td>
-<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.40am</td></tr></tbody>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.40am</td></tr>
+<tr><td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Snack Break (P1-P6)</td>
+<td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">12.10pm</td></tr></tbody>
 </table>
 <br>
 2.1 Food and drinks should only be consumed in the canteen.<br><br>
