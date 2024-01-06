@@ -19,7 +19,7 @@ The PSG serves as a conducive platform for like-minded parents to come together 
 <br><br>
 By giving our time and sharing our skills with the other parents wholeheartedly, we role model the spirit of volunteerism and in making positive contributions to our community. Being involved in school activities is also a way for us to show our children that we care about them.
 <br><br>
-<b>OUR EXECUTIVE COMMITTEE 2023 – 2025</b>
+<b>OUR EXECUTIVE COMMITTEE 2024 – 2025</b>
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
