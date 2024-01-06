@@ -48,7 +48,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
   i.Cars coming from Kang Ching Road cannot enter the school main gate. <br>
  ii.No right turn into the school from Corporation Walk</details><br>
 <details>
-<summary><b>2. SCHOOL RECESS AND LUNCH TIME</b></summary><br>
+<summary><b>2. SCHOOL RECESS AND SNACK BREAK</b></summary><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
@@ -58,10 +58,10 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P5-P6</td>
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.10am&nbsp;–&nbsp;9.40am</td></tr>
 <tr>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P1-P2</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P1-P4</td>
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9.40am&nbsp;– 10.10am</td></tr>
 <tr>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P3-P4</td>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">P2-P3</td>
 <td width="387" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">10.10am&nbsp;–&nbsp;10.40am</td></tr></tbody>
 </table>
 <br>
