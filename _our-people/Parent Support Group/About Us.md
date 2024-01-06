@@ -3,6 +3,7 @@ title: About Us
 permalink: /our-people/parent-support-group/about-us/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 <b>VISION</b>
 <br>
@@ -18,7 +19,7 @@ The PSG serves as a conducive platform for like-minded parents to come together 
 <br><br>
 By giving our time and sharing our skills with the other parents wholeheartedly, we role model the spirit of volunteerism and in making positive contributions to our community. Being involved in school activities is also a way for us to show our children that we care about them.
 <br><br>
-<b>OUR EXECUTIVE COMMITTEE 2022 – 2023</b>
+<b>OUR EXECUTIVE COMMITTEE 2023 – 2025</b>
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
@@ -34,7 +35,7 @@ By giving our time and sharing our skills with the other parents wholeheartedly,
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Adrian Lim</td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Ma Hui Zhu</td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Stefanie Lai</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Rafida Binte Tahir </td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Rafida Binte Tahir<br>Mdm Luna Lee</td>
 
 </tr>
 </tbody>
