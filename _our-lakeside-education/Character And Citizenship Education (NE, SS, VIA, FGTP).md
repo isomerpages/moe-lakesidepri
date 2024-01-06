@@ -27,9 +27,9 @@ School experiences avail students the opportunity to develop their LDs and prepa
 <br><br>
 Students participate in Values In Action (VIA), both specially catered to their levels as well as school-wide. VIA aims to help students internalise values learnt through real life experiential activities. Through VIA, students learnt to put values into action as well as develop their LDs. 
 <br><br>
-<img src="/images/Department/05CCE/CCE2.png">
+<img src="/images/Department/05CCE/CCE22024.png">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> P4 students buddying P1 students during their first week of school. This is a VIA project whereby our P4 students took care of and helped transit our new P1 students into the Lakeside family.  <span style="color:blue;"><i>(left)</i></span><br><span style="color:blue;">•</span> Project Gratitude – Our students  wrote heartfelt messages to thank our school non-teaching staff who often work tirelessly behind the scenes to provide the best learning environment for our children. Thank you, Uncles and Aunties!  <span style="color:blue;"><i>(right)</i></span></span>
+<span style="color:blue;">•</span> P4 students buddying P1 students during their first week of school. This is a VIA project whereby our P4 students took care of and helped transit our new P1 students into the Lakeside family.  <span style="color:blue;"><i>(top left)</i></span><br><span style="color:blue;">•</span> Project Gratitude – Our students  wrote heartfelt messages to thank our school non-teaching staff who often work tirelessly behind the scenes to provide the best learning environment for our children. Thank you, Uncles and Aunties!  <span style="color:blue;"><i>(bottom left &amp; right)</i></span></span>
 <hr><br><br>
 <b>National Education</b>
 <br><br>
