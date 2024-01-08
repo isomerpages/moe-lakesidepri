@@ -19,6 +19,6 @@ Let us unite in our endeavour to make Lakeside Primary a beacon of positive chan
 <br><br>
 Wishing all a Blessed 2024. 
 <br><br><br>
-Warm regards,<br><br>
+
 Mrs Rina Liang<br>
 Principal, Lakeside Primary
