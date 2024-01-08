@@ -4,7 +4,7 @@ permalink: /about-us/from-the-principals-desk/
 description: ""
 variant: markdown
 ---
-<div><img src="/images/Home/Mrs_Liang.png" alt="Mrs Goh.png" style="width: 148px; height: 193px; float: left; margin-right: 15px;"></div>
+<div><img src="/images/Home/Mrs_Liang.png" alt="Mrs Goh.png" style="width: 148px; height: 193px; float: right; margin-right: 15px;"></div>
 <br>
 Dear Lakeside Parents and Guardians,
 Welcome to a new academic year at Lakeside! I am really honoured and feel very privileged to serve as the Principal of Lakeside Primary School from 2024.<br><br>
