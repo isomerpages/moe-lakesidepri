@@ -28,7 +28,7 @@ By giving our time and sharing our skills with the other parents wholeheartedly,
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>VICE CHAIRPERSON</b></td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>SECRETARY</b></td>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>TREASURER</b></td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b> PROJECT COORDINATOR</b></td>
+<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b> PROJECT CO-ORDINATOR</b></td>
 </tr>
 <tr>
 <td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nurhidayah Binte Rostan</td>
