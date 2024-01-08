@@ -23,6 +23,6 @@ Wishing all a Blessed 2024.
 
 Mrs Rina Liang<br>
 Principal, Lakeside Primary
-<br><br><br>
+<br>
 <div style="text-align:right;"><span style="font-size:8pt;">Lakeside Primary School Leaders<br>
 <span style="color:blue;">•</span>Ms Chua Leng Leng<span style="color:blue;">•</span> Mrs Rina Liang<span style="color:blue;">•</span>Ms Tan Hui Ping<span style="color:blue;">•</span> Ms Charmain Han</span></div>
