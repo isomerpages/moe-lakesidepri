@@ -16,9 +16,13 @@ With our theme of <b>“Take Charge, Make a Positive Difference”</b>, we will 
 We strongly believe that parents and guardians are the foremost and most influential teachers in their child's life. Your active involvement in your child's education is invaluable and we welcome all parents to actively participate in our school life, <b>taking charge and making a positive difference</b> alongside us at Lakeside Primary.<br><br> 
 With our dedicated staff, excellent resources, and engaged students, I am confident that, with the ongoing support of all stakeholders, we will take our school to greater heights of excellence.
 Let us unite in our endeavour to make Lakeside Primary a beacon of positive change within our community and beyond. Together we can <b>CONTRIBUTE. ACHIEVE. AND BE NURTURED!</b>
-<br><br>
+<br>
+<div><img src="/images/Home/school_leaders2024.png" alt="Mrs Liang.png" style="width: 347px; height: 283px; float: right; margin-right: 10px;"></div><br><br>
 Wishing all a Blessed 2024. 
 <br><br><br>
 
 Mrs Rina Liang<br>
 Principal, Lakeside Primary
+<br><br><br>
+<div style="text-align:right;"><span style="font-size:8pt;">Lakeside Primary School Leaders<br>
+<span style="color:blue;">•</span> Ms Chua Leng Leng<span style="color:blue;">•</span> Mrs Rina Liang<span style="color:blue;">•</span> Ms Tan Hui Ping<span style="color:blue;">•</span> Ms Charmain Han</span></div>
