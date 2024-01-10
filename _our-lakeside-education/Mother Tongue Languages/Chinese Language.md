@@ -3,23 +3,24 @@ title: Chinese Language
 permalink: /our-lakeside-education/mother-tongue-languages/chinese-language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 <b>Overview:</b>
 <br>
-We aim to develop confident Chinese language users who are equipped with 21st century skills and good values. We adopt the “Making Thinking Visible” (MTV) routines and the Paul’s Elements of Reasoning to develop critical thinking skills. We design some of our lessons with ICT tools, such as virtual reality, and curate programmes and competitions to make the language come alive. As our students progress through the levels, they will be equipped with a set of useful strategies to be a critical and creative thinker, as well as a lifelong learner.
+We cultivate confident Chinese language users who possess 21st-century skills and embody strong values. Through the "Making Thinking Visible" routines and Paul's Elements of Reasoning, we foster critical thinking that empowers students to become lifelong learners. By integrating ICT tools like virtual reality and curating engaging programs and competitions, we ignite a passion for language and help students express themselves creatively. As they progress, our students emerge not just with fluency, but with the critical and creative thinking skills to navigate the complexities of the world around them.
 <br><br>
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Speaking & Listening</b></td>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
+<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Speaking &amp; Listening</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Reading</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Writing</b></td>
 </tr>
 <tr>
-<td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style=" font-size:10pt;">MTV routines, e.g. See-Think-Wonder, Zoom In, Step Inside, etc.</li><li style=" font-size:10pt;">DCFS, SOS and 3PE models</li></td>
-<td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style=" font-size:10pt;">Annotation and Chunking</li>
-<li style=" font-size:10pt;">MTV routines, e.g. Circle of Viewpoints, Claim-Support-Question, Tug of War, etc.</li><li style=" font-size:10pt;">FAST model</li></td>
-<td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style=" font-size:10pt;">MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li style=" font-size:10pt;">DATE model</li></td>
+<td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style="font-size:10pt;">MTV routines, e.g. See-Think-Wonder, Zoom In</li><li style="font-size:10pt;">DCFS, SOS and 3PE models</li></td>
+<td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style="font-size:10pt;">Annotation and Chunking</li>
+<li style="font-size:10pt;">MTV routines, e.g. Circle of Viewpoints, Claim-Support-Question, Tug of War</li><li style="font-size:10pt;">FAST model</li></td>
+<td width="386" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><li style="font-size:10pt;">MTV routines, e.g.  Step Inside, See-Think-Wonder</li><li style="font-size:10pt;">DATE model</li></td>
 </tr>
-</table>
+</tbody></table>
 <br>
 <img src="/images/Department/04CL/CL1.png">
 <br>

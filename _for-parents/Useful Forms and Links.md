@@ -8,6 +8,10 @@ variant: markdown
 <li><a href="/files/Admin%20Forms/letter%20to%20p1%20parents.pdf" target="_blank">P1 2024 Letter to Parents</a></li>  
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
 <li><a href="/files/Admin%20Forms/Orientation_Booklet_2024.pdf" target="_blank">Orientation Booklet</a></li>
+<li><a href="/files/P1%20Files/Briefing_Slides_2024.pdf" target="_blank">First Day of School Briefing Slides</a></li>
+<center><b>Cyberwellness for Primary 1 Parents</b></center>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RWIs4gQfKuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
+
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
 <li><a href="/files/Booklist/p1%202024%20booklist.pdf" target="_blank">2024 P1 Booklist</a></li>
