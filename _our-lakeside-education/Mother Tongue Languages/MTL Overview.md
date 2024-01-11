@@ -3,14 +3,14 @@ title: MTL Overview
 permalink: /our-lakeside-education/mtl-overview/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 <b>Curricular Goals:</b>
 <br>
-Bilingual education being one of the cornerstone of Singapore’s education system, has a positive effect on intellectual growth and enhances children’s mental development. We strongly believe that learning MTLs:
-enable our children to have a deeper appreciation of their own culture
-to communicate widely with people and gain broader perspectives
-<br><br>
-The 2015 MOE MTL new curriculum places greater emphasis on teaching and learning of spoken and written interaction skills. The MTL curriculum also include authentic activities to develop them into proficient language users who communicate effectively and confidently. Through these activities, our students also learn about values and culture. The new curriculum also promotes greater use of ICT to better engage our children in learning MTL.
+Bilingual education being one of the cornerstone of Singapore’s education system, has a positive effect on intellectual growth and enhances children’s mental development. We strongly believe that learning MTLs: enable our children to have a deeper appreciation of their own culture to communicate widely with people and gain broader perspectives<br><br>
+The 2015 MOE MTL curriculum places greater emphasis on teaching and learning of spoken and written interaction skills. <br>
+Building on the 2015 curriculum, the refreshed 2024 Primary MTL curriculum will place greater emphasis on developing students' 21st Century Competencies such as intra- and cross-cultural skills, communication skills, as well as critical and inventive thinking. It aims to cultivate students' appreciation of their MTL and to build in them the confidence to learn and use their MTL for life. It will also broaden the use of authentic contexts and materials that relate to students' interests and daily lives. The curriculum will be rolled out progressively, starting from the Primary 1 cohort in 2024.<br><br>
+Teachers will continue to employ multi-modal approaches, including meaningful use of technology, to engage and support students in learning MTL. Students can look forward to more extensive use of gamification and differentiated resources, to sharpen their language skills at their own time and pace beyond the classroom. Parents are encouraged to tap on these resources to support their child's learning of MTL at home.
 <br><br>
 <b>Key Programmes:</b>
 <br>
