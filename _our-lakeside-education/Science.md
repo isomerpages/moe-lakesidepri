@@ -36,18 +36,18 @@ We look forward to a close partnership with parents to support your child in lea
 <li>Do science together. Carry out simple experiments at home or take things apart to learn how they work.</li>  
 <li>Bring your child on learning journeys to zoos, parks and nature reserves to learn more about plants and animals.</li>  
 <li>Help your child to cultivate good work habits such as annotating and revising regularly.</li>  </ul>
-<br><br>
-<img src="/images/Department/03SCI/SCI1.png">
+<br>
+<img src="/images/Department/03SCI/SCI01.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students observing specimen slides using a clip-on microscope during a P3 lesson on Bacteria and Fungi <br><span style="color:blue;">•</span> Students working together to create a model of the plant transport system during a P5 lesson </span>
 <hr><br>
-<img src="/images/Department/03SCI/SCI2.png">
+<img src="/images/Department/03SCI/SCI02.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students harvesting the vegetables they have planted during the P4 Eco-plot Planting Programme <br><span style="color:blue;">•</span> Students conducting hands-on experiment during a Science Centre Enrichment Programme </span>
 <hr><br>
-<img src="/images/Department/03SCI/SCI3.png">
+<img src="/images/Department/03SCI/SCI03.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students engaging in scientific inquiry during the E2K programme <br><span style="color:blue;">•</span> Students learning about the edible plants in our school garden during a workshop organised for the Environment Monitors <br><span style="color:blue;">•</span> Students learning ways to upcycle wooden waste into everyday products during the P6 learning journey to Xcel Industrial Supplies Pte Ltd </span>
+<span style="color:blue;">•</span> Students engaging in scientific inquiry during the E2K programme <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Students learning about the edible plants in our school garden during a workshop organised for the Environment Monitors <span style="color:blue;"><i>(bottom)</i></span><br><span style="color:blue;">•</span> Students learning ways to upcycle wooden waste into everyday products during the P6 learning journey to Xcel Industrial Supplies Pte Ltd <span style="color:blue;"><i>(right)</i></span></span>
