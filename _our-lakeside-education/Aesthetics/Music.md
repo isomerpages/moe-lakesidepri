@@ -3,18 +3,16 @@ title: Music
 permalink: /our-lakeside-education/aesthetics/music/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
+At Lakeside, we are committed to create a vibrant and dynamic environment for Lakers’
+musical exploration and creativity. This includes ensuring there are music spaces and
+opportunities in our school for all Lakers to make music and perform as well as an
+enriching Music curriculum for all.<br><br>
 <b>Overview - Music Curriculum:</b><br>
-dispositions to empower the complete musicians inside them to emerge. This is done through musical experiences in the domains of Listening, Creating and Performing where Lakers;
-<ol style="font-size:14px;">
-<li>gain understanding and appreciation of musical elements and concepts within rich musical contexts across genres and traditions of local and global cultures</li>
-<li>develop awareness and ability for creative expression through music performance and music creation, in both instrumental and vocal settings, individually and in groups</li></ol>
-Music also has the potential to develop extra-musical skills and dispositions, including critical and creative thinking skills, psychomotor skills, social awareness, and moral and cultural values, all of which contribute to the holistic development of a child.
-<hr><br><br>
-<b>Overview of our approach</b>
-<br><br>
-We adopt a spiral approach in the for the reinforcement of skills and knowledge for our students. 
-<br>
+Our curriculum focuses on enriching our Lakers’ musical experiences through a spiral
+approach in the reinforcement of skills and knowledge in the domains of Listening, Creating and Performing.
+
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
@@ -48,7 +46,7 @@ We adopt a spiral approach in the for the reinforcement of skills and knowledge 
 </tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Special Modules</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rhythm & Beats (non-pitched and pitched instruments)</td>
+<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rhythm &amp; Beats (non-pitched and pitched instruments)</td>
 <td width="128" style="padding: 8px;  vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Boomwhackers</td>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Keyboard</td>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ukulele</td>
@@ -60,10 +58,7 @@ We adopt a spiral approach in the for the reinforcement of skills and knowledge 
 <br><br>
 <img src="/images/Department/07MUSIC/MU1.png">
 <br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> P2 Boomwhackers <br><span style="color:blue;">•</span> P3 keyboard </span>
 <hr><br>
 <img src="/images/Department/07MUSIC/MU2.png">
 <br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> P4 Ukulele <br><span style="color:blue;">•</span> P5 Songwriting <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> P6 post PSLE <span style="color:blue;"><i>(bottom)</i></span> </span>
+Music spaces @ Lakeside
