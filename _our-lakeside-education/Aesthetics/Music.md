@@ -63,8 +63,8 @@ approach in the reinforcement of skills and knowledge in the domains of Listenin
 <br>
 <b>Music spaces @ Lakeside</b>
 <hr><br>
-<img src="/images/Department/07MUSIC/MU03.jpg">
-Jamming Spaces
+<img src="/images/Department/07MUSIC/MU03.jpg" style="width: 468px; height: 368px;">
+<center>Jamming Spaces</center>
 <hr><br>
-<img src="/images/Department/07MUSIC/MU04.jpg">
-Musical Garden
+<img src="/images/Department/07MUSIC/MU04.jpg" style="width: 368px; height: 368px;">
+<center>Musical Garden</center>
