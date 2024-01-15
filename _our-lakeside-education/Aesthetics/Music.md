@@ -9,7 +9,7 @@ At Lakeside, we are committed to create a vibrant and dynamic environment for La
 musical exploration and creativity. This includes ensuring there are music spaces and
 opportunities in our school for all Lakers to make music and perform as well as an
 enriching Music curriculum for all.<br><br>
-<b>Overview - Music Curriculum:</b><br>
+<b>Curriculum overview</b><br>
 Our curriculum focuses on enriching our Lakers’ musical experiences through a spiral
 approach in the reinforcement of skills and knowledge in the domains of Listening, Creating and Performing.
 
