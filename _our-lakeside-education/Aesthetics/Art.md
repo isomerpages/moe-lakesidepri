@@ -18,18 +18,17 @@ Concurrently, students are empowered to decipher and appreciate the intricate la
 
 <b>Budding Artists in Action!</b><br>
 When students engage in the act of <b>seeing art</b>, they are encouraged to observe their surroundings closely, analyse visual qualities, and reflect on their experiences. This not only enhances their ability to appreciate art but also develops critical thinking skills and a deeper understanding of the artistic elements at play.<br>
-<img src="/images/Department/07ART/Art02.png">
+<img src="/images/Department/07ART/ART002.png">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students observing a SYF artwork closely and analysing its visual qualities. <br><span style="color:blue;">•</span> Primary 5 students learning to think critically about visual qualities and artist intentions. </span>
 <br><br>
 When students engage in the process of <b>expressing art</b>, they are encouraged to experiment with various visual elements, generate unique ideas, and explore diverse ways to create both 2-D and 3-D artworks. This creative journey involves students utilizing a range of materials and tools to bring their artistic visions to life either individually or collaboratively.<br>
-<img src="/images/Department/07ART/Art03.png">
+<img src="/images/Department/07ART/ART003.png">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Learning experiences that encourage exploration of different media, ideas and the expression of individual as well as collective creative voice.</span>
 <br><br>
 When students engage in the act of <b>appreciating art</b>, the process increases their capacity to discuss and interpret artworks. Acquiring art vocabulary is crucial for students to articulate their thoughts and engage in meaningful conversations about art.<br>
-<img src="/images/Department/07ART/Art04.png">
+<img src="/images/Department/07ART/ART004.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Primary 2 Students appreciating their classmates’ artwork, affirming their efforts and giving constructive feedback. <br><span style="color:blue;">•</span> Primary 5 Students viewing their classmates’ exhibition area in CoSpaces and giving useful feedback. </span>
-
