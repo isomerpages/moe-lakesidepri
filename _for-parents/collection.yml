@@ -1,0 +1,13 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - General Information.md
+      - School Rules.md
+      - Grading Schemes of Core Examination Subjects.md
+      - Calendar of Events.md
+      - Letter to Parents.md
+      - MOE Sexuality Education in Schools.md
+      - Useful Forms and Links.md
+      - School Bus Service.md
+      - Group Personal Accident Insurance.md
