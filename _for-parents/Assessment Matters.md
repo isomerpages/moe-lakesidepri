@@ -55,7 +55,15 @@ allowed to sit for the exam at a later date as make up.</i>
 <ul><li>The principal will have the discretion to decide if a student who is late is allowed
 to sit for an examination. Students who are late for the examination and allowed
 to sit for the examination may not be given any extra time.</li></ul></ol>
-<br><br>
+<br>
+<ul>
+<li><a href="/files/Assessment/Annex_A1_P1_Learning_Outcomes_2024.pdf" target="_blank">Annex A1 P1 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A2_P2_Learning_Outcomes_2024.pdf" target="_blank">Annex A2 P2 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A3_P3_Learning_Outcomes_2024.pdf" target="_blank">Annex A3 P3 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A4_P4_Learning_Outcomes_2024.pdf" target="_blank">Annex A4 P4 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A5_P5_Learning_Outcomes_2024.pdf" target="_blank">Annex A5 P5 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A6_P6_Learning_Outcomes_2024.pdf" target="_blank">Annex A6 P6 Learning Outcomes 2024</a></li></ul>
+
 GRADING SCHEME OF CORE EXAMINATION SUBJECTS
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
