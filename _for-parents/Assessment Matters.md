@@ -4,6 +4,42 @@ permalink: /for-parents/assessment-matters/
 description: ""
 variant: markdown
 ---
+In line with MOE's direction on shifting the focus from academic grades and tests to self-
+directed learning and developing 21st century competencies, our school has removed
+all mid-year examinations so that student will have more space to develop their
+interests, and to focus on their learning and less on marks.<br><br>
+Our assessments for the year will comprise mainly the termly reviews and end-of-year
+examinations for Primary 3 to Primary 5 and preliminary examinations for Primary 6.
+There will be no tests and exams for Primary 1 and Primary 2.
+Please refer to the attached annexes for more details of the learning outcomes/
+assessments for the respective levels.
+<br><br>
+EXAMINATION POLICY (FOR PRIMARY 3 TO 6)
+<br>
+Examination is part of teaching and learning to help the students understand their
+strengths and weaknesses in a subject better. It is important to focus on building on
+their strengths and closing the learning gaps, rather than just the results.<br><br>
+<ol><li>Absence from Examination<br>
+There is no make-up for examinations students missed*.</li>
+<ul><li>In alignment with national examination guidelines, students who are on medical</li>
+leave or are unwell with fever or flu-like symptoms should not sit for any school-
+based examination.
+<li>The table below shows the type of absences in the Report Book should a student
+not take any examination.</li></ul><br><br>
+<br>
+<i>* For purpose of promotion and Subject-based banding, other factors, including
+students’ daily work, termly reviews and teachers’ recommendations would be taken
+into consideration.<br>
+* Students who missed the P6 Preliminary Examination with valid reason may be
+allowed to sit for the exam at a later date as make up.</i>
+<br><br>
+<li>Late-coming</li>
+<ul><li>The principal will have the discretion to decide if a student who is late is allowed
+to sit for an examination. Students who are late for the examination and allowed
+to sit for the examination may not be given any extra time.</li></ul></ol>
+<br><br>
+GRADING SCHEME OF CORE EXAMINATION SUBJECTS
+
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
