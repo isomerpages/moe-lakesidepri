@@ -59,10 +59,10 @@ to sit for the examination may not be given any extra time.</li></ul></ol>
 <ul>
 <li><a href="/files/Assessment/Annex_A1_P1_Learning_Outcomes_2024.pdf" target="_blank">Annex A1 P1 Learning Outcomes 2024</a></li>
 <li><a href="/files/Assessment/Annex_A2_P2_Learning_Outcomes_2024.pdf" target="_blank">Annex A2 P2 Learning Outcomes 2024</a></li>
-<li><a href="/files/Assessment/Annex_A3_P3_Learning_Outcomes_2024.pdf" target="_blank">Annex A3 P3 Learning Outcomes 2024</a></li>
-<li><a href="/files/Assessment/Annex_A4_P4_Learning_Outcomes_2024.pdf" target="_blank">Annex A4 P4 Learning Outcomes 2024</a></li>
-<li><a href="/files/Assessment/Annex_A5_P5_Learning_Outcomes_2024.pdf" target="_blank">Annex A5 P5 Learning Outcomes 2024</a></li>
-<li><a href="/files/Assessment/Annex_A6_P6_Learning_Outcomes_2024.pdf" target="_blank">Annex A6 P6 Learning Outcomes 2024</a></li></ul>
+<li><a href="/files/Assessment/Annex_A3_P3_Learning_Plan_2024.pdf" target="_blank">Annex A3 P3 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A4_P4_Learning_Plan_2024.pdf" target="_blank">Annex A4 P4 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A5_P5_Learning_Plan_2024.pdf" target="_blank">Annex A5 P5 Learning Outcomes 2024</a></li>
+<li><a href="/files/Assessment/Annex_A6_P6_Learning_Plan_2024.pdf" target="_blank">Annex A6 P6 Learning Outcomes 2024</a></li></ul>
 <br><br>
 GRADING SCHEME OF CORE EXAMINATION SUBJECTS
 <br>
