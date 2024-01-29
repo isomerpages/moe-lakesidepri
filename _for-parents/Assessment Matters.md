@@ -63,9 +63,9 @@ to sit for the examination may not be given any extra time.</li></ul></ol>
 <li><a href="/files/Assessment/Annex_A4_P4_Learning_Outcomes_2024.pdf" target="_blank">Annex A4 P4 Learning Outcomes 2024</a></li>
 <li><a href="/files/Assessment/Annex_A5_P5_Learning_Outcomes_2024.pdf" target="_blank">Annex A5 P5 Learning Outcomes 2024</a></li>
 <li><a href="/files/Assessment/Annex_A6_P6_Learning_Outcomes_2024.pdf" target="_blank">Annex A6 P6 Learning Outcomes 2024</a></li></ul>
-
+<br><br>
 GRADING SCHEME OF CORE EXAMINATION SUBJECTS
-
+<br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
