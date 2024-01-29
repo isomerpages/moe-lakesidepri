@@ -31,17 +31,17 @@ not take any examination.</li></ul><br><br>
 <tr><td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Code</b></td>
 <td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Reason for Absence</b></td>
 <td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Implications</b></td></tr>
-<tr><td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">AB</td>
+<tr><td width="282" style="padding: 60px; text-align: center; border: 1px solid rgb(42, 42, 42);">AB</td>
 <td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Student does not have a valid medical certificate.</td>
 <td width="282" style="padding: 5px; text-align: left; border: 1px solid rgb(42, 42, 42);">•	Student will get ‘0’ mark for the paper/component.<br>
 •	He/She will not be considered for any academic-based awards.
 </td></tr>
-<tr><td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">MC</td>
+<tr><td width="282" style="padding: 60px; text-align: center; border: 1px solid rgb(42, 42, 42);">MC</td>
 <td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Student has a valid medical certificate.</td>
 <td width="282" rowspan="2" style="padding: 5px; text-align: left; border: 1px solid rgb(42, 42, 42);">•	The component/paper missed will not be used for the computation of overall marks.<br>
 •	Even though marks are not considered, students will take the paper/component when they return to school and feedback on their performance will be given.
 </td></tr>
-<tr><td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">VR</td>
+<tr><td width="282" style="padding: 60px; text-align: center; border: 1px solid rgb(42, 42, 42);">VR</td>
 <td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Student has a valid reason (with official supporting documents) approved by the principal.</td></tr>
 </tbody></table>
 <br>
