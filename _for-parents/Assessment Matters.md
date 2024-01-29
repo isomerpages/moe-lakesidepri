@@ -25,7 +25,7 @@ There is no make-up for examinations students missed*.</li>
 leave or are unwell with fever or flu-like symptoms should not sit for any school-
 based examination.
 <li>The table below shows the type of absences in the Report Book should a student
-not take any examination.</li></ul><br><br>
+not take any examination.</li></ul><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr><td width="282" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b>Code</b></td>
