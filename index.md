@@ -19,6 +19,11 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Happy Chinese New Year
+      id: infopic
+      image: /images/Home/Pop Up/CY2024.png
+      alt: Image alt text
+  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
