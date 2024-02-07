@@ -29,6 +29,7 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
+      description: School Exchange Programme with Namwon Elementary School
   - infopic:
       title: Announcements
       alt: Image alt text
