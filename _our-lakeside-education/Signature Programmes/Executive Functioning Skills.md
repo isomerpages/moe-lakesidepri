@@ -13,4 +13,7 @@ These skills are important to our students as they constantly need to remember i
 At Lakeside Primary School, EF skills are introduced and practised at every level to equip students with these skills that are crucial for learning and development. At least 2 skills are taught at each level at the beginning of each semester. These skills are inculcated during lessons, CCAs and other teachable moments in their primary school journey. 
 The table below shows the EF skills that we introduce to our students and an example of the accompanying guiding questions students can use. More information can be found on Pg 16 and 17 of our Student Handbook.
 <br><br>
-We have also come up with some mascots to help our students better remember the various EF skills! 
+We have also come up with some mascots to help our students better remember the various EF skills!
+<br><br>
+Do watch the video to get to know our mascots! 
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MyKzufsmiJs?si=pZ7hv6FyyyzUh5np" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
