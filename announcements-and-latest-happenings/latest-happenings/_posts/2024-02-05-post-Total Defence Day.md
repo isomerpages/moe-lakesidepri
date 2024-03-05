@@ -13,3 +13,9 @@ As part of our commemoration of TD40 this year, besides conducting assembly talk
 <br><br>
 Through the experience, students deepened their understanding of the core message of everyone standing together, with each playing their part to protect Singapore and their shared way of life. 
 <br><br>
+<br><br>
+<img src="/images/Happenings/TDD/TDD2024_1.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Our emcees, Le Xuan (Class 4G) and Vishwa (Class 4F), facilitating the quiz segment during PAVE session</span>
+<hr><br>
