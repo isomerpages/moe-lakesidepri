@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-We commemorated Total Defence Day (TDD) on 5 February 2024. The theme for TDD this year is Together We Keep Singapore Strong. The theme is maintained to encourage students to play a greater role in Total Defence and to highlight the different ways they can contribute. 
+We commemorated Total Defence Day (TDD) on 15 February 2024. The theme for TDD this year is Together We Keep Singapore Strong. The theme is maintained to encourage students to play a greater role in Total Defence and to highlight the different ways they can contribute. 
 <br><br>
 As part of our commemoration of TD40 this year, besides conducting assembly talk and engaging the Community Policing Unit officers to do sharing with our students, they also experienced an energy disruption simulation in school on 16 February 2024. 
 <br><br>
