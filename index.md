@@ -19,17 +19,13 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Happy Chinese New Year
-      id: infopic
-      image: /images/Home/Pop Up/CY2024.png
-      alt: Image alt text
-  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: School Exchange Programme with Namwon Elementary School
+      description: We commemorated Total Defence Day (TDD) on 15 February 2024. The
+        theme for TDD this year is Together We Keep Singapore Strong.
   - infopic:
       title: Announcements
       alt: Image alt text
