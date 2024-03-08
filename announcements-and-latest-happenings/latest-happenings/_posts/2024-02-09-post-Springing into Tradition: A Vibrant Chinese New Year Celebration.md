@@ -27,7 +27,7 @@ Chinese New Year, also known as the Spring Festival, is a momentous occasion cel
 <span style="color:blue;">•</span> The dancers invites the audience to join them to embrace the beauty and significance of bai nian with every graceful step and emotive gesture. <i style="color:blue;">(left)</i><br>
 <span style="color:blue;">•</span> Teachers sing together with choir members to perform a grand chorus of "Gong Xi Gong Xi," bringing the festive New Year atmosphere to the school. <i style="color:blue;">(right)</i></span>
 <hr><br>
-<img src="/images/Happenings/CNY/CNY2024_4.png">
+<img src="/images/Happenings/CNY/CNY2024_4.png" style="width: 50%; height: 50%;">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students enjoying lion dance interactions</span>
