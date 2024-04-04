@@ -19,6 +19,12 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Selamat Hari Raya Aidilfitri
+      subtitle: Add an image and text
+      id: infopic
+      image: /images/Announcements/hari_raya_2024.png
+      alt: Image alt text
+  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
