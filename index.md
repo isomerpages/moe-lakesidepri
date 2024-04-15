@@ -30,8 +30,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: We commemorated Total Defence Day (TDD) on 15 February 2024. The
-        theme for TDD this year is Together We Keep Singapore Strong.
+      description: We commemorate International Friendship Day (IFD) on 8 April 2024.
+        The theme for IFD this year is Singapore in Asia.
   - infopic:
       title: Announcements
       alt: Image alt text
