@@ -19,8 +19,8 @@ As the ceremony concluded, the Class EXCO took their pledge to serve their class
 <img src="/images/Happenings/CLASS%20EXCO/C_EXCO_2.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Our Emcees Joann Cheung (5-RE), Adam Rizqi(4G) and Lim Le Xuan (4G) (left)<br>
-<span style="color:blue;">•</span> Our Emcees Haris Syafi (6B), Bernice Hing (6E) and Dheevashini (4F) (right)</span>
+<span style="color:blue;">•</span> Our Emcees Joann Cheung (5-RE), Adam Rizqi(4G) and Lim Le Xuan (4G) <i style="color:blue;"> (left)</i><br>
+<span style="color:blue;">•</span> Our Emcees Haris Syafi (6B), Bernice Hing (6E) and Dheevashini (4F)<i style="color:blue;"> (right)</i></span>
 <hr><br>
 <img src="/images/Happenings/CLASS%20EXCO/C_EXCO_3.png">
 <br>
