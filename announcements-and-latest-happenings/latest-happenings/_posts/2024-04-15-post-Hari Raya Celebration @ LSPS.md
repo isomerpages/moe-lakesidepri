@@ -19,6 +19,11 @@ The Hari Raya celebration at our school was nothing short of electrifying! Kicki
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Dancers from Sri Warisan performed a beautiful dance</span>
 <hr><br>
+<img src="/images/Happenings/HR/hari_raya_3.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students tried on the sarong and danced on stage</span>
+<hr><br>
 <img src="/images/Happenings/HR/hari_raya_4.png">
 <br>
 <span style="font-size:10pt;">
