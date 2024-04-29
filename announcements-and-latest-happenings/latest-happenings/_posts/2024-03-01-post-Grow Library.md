@@ -16,3 +16,11 @@ Throughout, teachers played a vital role, assisting students in selecting their 
 Eager to delve further, they rushed to explore the intriguing and fresh storybooks showcased. The newly stocked collection vanished swiftly, eagerly snapped up by enthusiastic readers after the enthralling storytelling sessions.
 
 Proudly displaying their chosen books, students left the library with a newfound passion for reading, inspired by the immersive experience curated within its walls.
+<br><br>
+<img src="/images/Happenings/GROW/grow_1.png" style="width: 60%; height: 60%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span>Students intently listening and learning the art of storytelling. (Left) <br>
+<span style="color:blue;">•</span>Storybook selection…I wonder which storybook I can read to my family… (Top right)<br>
+<span style="color:blue;">•</span>Teacher helping students to select their books… That’s a good selection! (Bottom right)
+</span>
+<hr><br>
