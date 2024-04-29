@@ -30,8 +30,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: We commemorate International Friendship Day (IFD) on 8 April 2024.
-        The theme for IFD this year is Singapore in Asia.
+      description: The Hari Raya celebration at our school was nothing short of
+        electrifying! Kicking off during Mother Tongue Fortnight Week
   - infopic:
       title: Announcements
       alt: Image alt text
