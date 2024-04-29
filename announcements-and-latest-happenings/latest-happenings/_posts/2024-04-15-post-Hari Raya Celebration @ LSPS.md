@@ -13,3 +13,18 @@ The Hari Raya celebration at our school was nothing short of electrifying! Kicki
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Mdm Noraida shared about Hari Raya festivities</span>
+<hr><br>
+<img src="/images/Happenings/HR/hari_raya_2.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Dancers from Sri Warisan performed a beautiful dance</span>
+<hr><br>
+<img src="/images/Happenings/HR/hari_raya_4.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Student made Malay kuih using playdough</span>
+<hr><br>
+<img src="/images/Happenings/HR/hari_raya_5.png">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students weaving paper ketupat</span>
