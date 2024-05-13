@@ -32,4 +32,5 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
+      description: Direct School Admission (DSA) Webinar- Question & Answer Segment
 ---
