@@ -22,7 +22,7 @@ sections:
       title: Lakeside Primary School Virtual Open House
       id: infopic
       button: More Info here
-      url: https://go.gov.sg/lakesidepri-2022openhouse
+      url: https://go.gov.sg/lakesidepri-openhouse
       image: /images/Announcements/open_house_2024.jpg
       alt: Image alt text
   - infopic:
