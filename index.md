@@ -19,6 +19,13 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Lakeside Primary School Virtual Open House
+      id: infopic
+      button: More Info here
+      url: https://go.gov.sg/lakesidepri-openhouse
+      image: /images/Announcements/open_house_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
