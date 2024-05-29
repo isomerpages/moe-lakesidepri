@@ -11,8 +11,8 @@ The Primary Three Little Thinkers Camp was carried out from 24 April to 26 April
 <br><br>
 <img src="/images/Happenings/P3CAMP/P3CAMP_1.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Learning to use generative AI tools to create interesting moving characters <i style="color:blue;">(left)</i> <br>
-<span style="color:blue;">•</span> Storybook selection…I wonder which storybook I can read to my family… <i style="color:blue;">(right)</i><br>
+<span style="color:blue;">•</span> Students making watches for their partners during the Design Thinking group project <i style="color:blue;">(left)</i> <br>
+<span style="color:blue;">•</span> Learning to use generative AI tools to create interesting moving characters <i style="color:blue;">(right)</i><br>
 </span>
 <hr><br>
 <img src="/images/Happenings/P3CAMP/P3CAMP_2.png" style="width: 70%; height: 70%;">
