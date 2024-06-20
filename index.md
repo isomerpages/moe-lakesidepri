@@ -31,8 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: The Hari Raya celebration at our school was nothing short of
-        electrifying! Kicking off during Mother Tongue Fortnight Week
+      description: As part of our commitment to holistic development, we recently held
+        a 3-day Little Explorers Camp for our Primary 4 students from 7 to 9
+        May.
   - infopic:
       title: Announcements
       alt: Image alt text
