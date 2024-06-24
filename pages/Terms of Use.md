@@ -17,11 +17,12 @@ and all of the changes.</p>
 <p><strong>Proprietary Rights</strong>
 </p>
 <p>3. This Web Site is maintained by Lakeside Primary School. It is owned
-by Lakeside Primary School. 4. The materials located on this Web Site including
-the information and software programs (the Contents), are protected by
-copyright, trademark and other forms of proprietary rights. All rights,
-title and interest in the Contents are owned by, licensed to or controlled
 by Lakeside Primary School.</p>
+<p>4. The materials located on this Web Site including the information and
+software programs (the Contents), are protected by copyright, trademark
+and other forms of proprietary rights. All rights, title and interest in
+the Contents are owned by, licensed to or controlled by Lakeside Primary
+School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
 <p>5. Click <a href="https://www.lakesidepri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
