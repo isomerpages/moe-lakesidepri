@@ -4,7 +4,6 @@ permalink: /terms-of-use/
 description: ""
 variant: tiptap
 ---
-<h4>Terms of Use</h4>
 <p>Thank you for visiting lakesidepri.moe.edu.sg. By accessing and using
 this Web Site, you shall be deemed to have accepted to be legally bound
 by these Terms of Use. If you do not agree to these Terms of Use, please
