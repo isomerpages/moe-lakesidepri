@@ -31,9 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: As part of our commitment to holistic development, we recently held
-        a 3-day Little Explorers Camp for our Primary 4 students from 7 to 9
-        May.
+      description: On 19 June, families came together for a picnic and did an art
+        activity. The art activity aims at promoting sustainable practices in
+        our daily lives.
   - infopic:
       title: Announcements
       alt: Image alt text
