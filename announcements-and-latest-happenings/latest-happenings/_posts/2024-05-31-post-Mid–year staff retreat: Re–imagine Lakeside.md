@@ -19,9 +19,9 @@ What is the Future of Learning? To get some answers to that questions, our teach
 <hr><br>
 <img src="/images/Happenings/MIDSTAFFR/midstaffret_2.png">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Checking out one of our students’ favourite haunts
-<i style="color:blue;">(bottom left &amp; bottom right)</i> <br>
 <span style="color:blue;">•</span> A mindful walk in students’ living spaces
-<i style="color:blue;">(top left)</i><br>
+<i style="color:blue;">(bottom left &amp; right)</i><br>
+<span style="color:blue;">•</span> Checking out one of our students’ favourite haunts
+<i style="color:blue;">(top left)</i> <br>
 <span style="color:blue;">•</span> Visit to Tasek Academy and Social Services Limited<i style="color:blue;">(middle)</i><br>
 <span style="color:blue;">•</span> What’s up at 399? <i style="color:blue;">(top right)</i></span>
