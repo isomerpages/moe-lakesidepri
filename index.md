@@ -31,9 +31,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: On 19 June, families came together for a picnic and did an art
-        activity. The art activity aims at promoting sustainable practices in
-        our daily lives.
+      description: The principal, teachers and students from Namwon Elementary School
+        visited Lakeside Primary School on 3 July 2024.
   - infopic:
       title: Announcements
       alt: Image alt text
