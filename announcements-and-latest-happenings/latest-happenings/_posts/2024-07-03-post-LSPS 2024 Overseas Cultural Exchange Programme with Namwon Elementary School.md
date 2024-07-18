@@ -9,7 +9,6 @@ variant: markdown
 ---
 The principal, teachers and students from Namwon Elementary School visited Lakeside Primary School on 3 July 2024. The purpose of hosting the Koreans is part of our school’s local-based internationalisation activities to provide authentic learning opportunities for our Lakers to develop 21st century competencies through understanding the history, culture, and language of South Korea; and interacting with their Korean peers.
 <br><br>
-<br><br>
 <img src="/images/Happenings/NAMWON2/NAMWON2_1.png">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Receiving the Korean staff and students at the foyer <i style="color:blue;">(bottom left)</i> <br>
