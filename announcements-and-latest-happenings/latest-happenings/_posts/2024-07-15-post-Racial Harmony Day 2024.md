@@ -24,7 +24,7 @@ Through the experience, the students took charge and played their part to make S
 Through the show, students learnt about the power of working together, celebrating differences and achieving greatness as a team.
 </span>
 <hr><br>
-<img src="/images/Happenings/RHD/RHD2024_4.png" style="width: 70%; height: 70%;">
+<img src="/images/Happenings/RHD/RHD2024_4.png" style="width: 60%; height: 60%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students answering questions during the quiz segment</span>
 <hr><br>
@@ -34,3 +34,9 @@ Through the show, students learnt about the power of working together, celebrati
 <br>
 Students reflecting on and celebrating Singapore as a harmonious society built on rich diversity of culture.
 </span>
+<hr><br>
+<img src="/images/Happenings/RHD/RHD2024_6.png" style="width: 40%; height: 40%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students sharing their hosting experience and learning from hosting Namwon Elementary School (a school in Korea)
+<br>
+The students shared about the importance of being open to understanding and accepting differences in cultural thinking and social experiences and preferences.</span>
