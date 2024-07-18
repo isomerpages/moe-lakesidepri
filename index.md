@@ -39,5 +39,7 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
-      description: Direct School Admission (DSA) Webinar- Question & Answer Segment
+      description: Dear Parents/Guardians, We invite you to nominate students of
+        Lakeside Primary School whom you recognise as deserving of the Character
+        Award.
 ---
