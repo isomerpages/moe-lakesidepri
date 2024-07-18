@@ -10,11 +10,11 @@ variant: markdown
 The school commemorated Racial Harmony Day on 15 July, Monday. A series of exciting activities (e.g., assembly show, CCE (FTGP) lessons) was conducted for the students to deepen their understanding on the appreciation of the diverse races and religions that make up our multicultural society.
 <br>
 Through the experience, the students took charge and played their part to make Singapore a harmonious society and to promote social cohesion. <br><br>
-<img src="/images/Happenings/RHD/RHD2024_1.png">
+<img src="/images/Happenings/RHD/RHD2024_1.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students looking fabulous in their ethnic attires</span>
 <hr><br>
-<img src="/images/Happenings/RHD/RHD2024_2.png">
+<img src="/images/Happenings/RHD/RHD2024_2.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Staff joining in the fun of dressing up in their ethnic attires too!</span>
 <hr><br>
@@ -24,11 +24,11 @@ Through the experience, the students took charge and played their part to make S
 Through the show, students learnt about the power of working together, celebrating differences and achieving greatness as a team.
 </span>
 <hr><br>
-<img src="/images/Happenings/RHD/RHD2024_4.png">
+<img src="/images/Happenings/RHD/RHD2024_4.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Students answering questions during the quiz segment</span>
 <hr><br>
-<img src="/images/Happenings/RHD/RHD2024_5.png">
+<img src="/images/Happenings/RHD/RHD2024_5.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Teachers conducting the CCE (FTGP) lessons. 
 <br>
