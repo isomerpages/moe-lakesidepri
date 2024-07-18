@@ -31,8 +31,7 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: The principal, teachers and students from Namwon Elementary School
-        visited Lakeside Primary School on 3 July 2024.
+      description: The school commemorated Racial Harmony Day on 15 July, Monday
   - infopic:
       title: Announcements
       alt: Image alt text
