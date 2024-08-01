@@ -78,7 +78,8 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Siti An-nisa<br><i style="font-size:11pt; color: rgb(237, 125, 49);">siti_an-nisa_hambali@moe.edu.sg</i><br>Mrs Lim Siew Pei<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ong_siew_pei@moe.edu.sg</i><br>Mrs Lau Ho Mo Ying<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3 Love</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Roszaimy<br><i style="font-size:11pt; color: rgb(237, 125, 49);">mohamed_roszaimy_roslan@moe.edu.sg</i><br>Mdm Nur Mazuin<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nur_mazuin_ab_hamid@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Roszaimy<br><i style="font-size:11pt; color: rgb(237, 125, 49);">mohamed_roszaimy_roslan@moe.edu.sg</i><br>Mdm Nur Mazuin<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nur_mazuin_ab_hamid@moe.edu.sg</i><br>Mr Zuladly<br><i style="font-size:11pt; color: rgb(237, 125, 49);">muhammad_zuladly_zulkeplie@moe.edu.sg
+</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3 Perseverance</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Yew Hew Mei<br><i style="font-size:11pt; color: rgb(237, 125, 49);">yew_hew_mei@moe.edu.sg</i><br>Ms Rohshini<br><i style="font-size:11pt; color: rgb(237, 125, 49);">rohshini_thiagarajan@moe.edu.sg</i></td></tr>
