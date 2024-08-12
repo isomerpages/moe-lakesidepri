@@ -31,7 +31,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: The school commemorated Racial Harmony Day on 15 July, Monday
+      description: On 29 July 2024, the school celebrated its Student Leaders’
+        Investiture...
   - infopic:
       title: Announcements
       alt: Image alt text
