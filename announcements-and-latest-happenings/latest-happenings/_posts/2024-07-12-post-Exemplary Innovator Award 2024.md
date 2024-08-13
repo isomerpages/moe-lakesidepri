@@ -11,3 +11,6 @@ This award recognises exemplary officers or teams who have injected innovation i
 <br><br>
 We are proud to announce the Exemplary Innovator Award 2024 winner. 
 <br><br>
+<img src="/images/Happenings/STAFF%20AWARD/INO_AWARD_1.png" style="width: 90%; height: 90%;">
+<br>
+<img src="/images/Happenings/STAFF%20AWARD/INO_AWARD_2.png" style="width: 90%; height: 90%;"><br>
