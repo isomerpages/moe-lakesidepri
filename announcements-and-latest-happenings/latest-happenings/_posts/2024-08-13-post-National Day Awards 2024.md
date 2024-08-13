@@ -11,3 +11,5 @@ The Singapore National Day Awards are a means of recognising various forms of me
 <br><br>
 We are proud to announce the following recipients of National Day Awards 2024.
 <br><br>
+<img src="/images/Happenings/STAFF%20AWARD/ND_AWARD_1.png" style="width: 60%; height: 60%;"><br><span style="font-size:10pt;">
+<span style="color:blue;">•</span> Mrs Kimberly Walker</span><br>
