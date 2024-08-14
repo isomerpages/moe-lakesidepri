@@ -31,8 +31,7 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: On 29 July 2024, the school celebrated its Student Leaders’
-        Investiture...
+      description: Our school celebrated National Day on 8 August, Thursday....
   - infopic:
       title: Announcements
       alt: Image alt text
