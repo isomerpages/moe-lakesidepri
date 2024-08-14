@@ -36,5 +36,5 @@ We are proud to announce the following recipients of National Day Awards 2024.
 <br><span style="font-size:10pt;">
 <span style="color:blue;">•</span> Ms Tan Hui Ping</span>
 <img src="/images/Happenings/STAFF%20AWARD/ND_AWARD_5.png" style="width: 60%; height: 60%;">
-
-
+<hr><br>
+Our heartiest congratulations to them! 
