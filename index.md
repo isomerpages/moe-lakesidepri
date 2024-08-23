@@ -23,7 +23,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Plan your visit to LSPS in advance...
-      url: https://for.edu.sg/lsps-appreciates
+      url: https://www.lakesidepri.moe.edu.sg/our-people/teaching-staff/
       image: /images/Announcements/TD_2024.png
       alt: Image alt text
       button: Click here
