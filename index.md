@@ -19,6 +19,14 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Teachers' Day 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Plan your visit to LSPS in advance. Click here...
+      url: https://for.edu.sg/lsps-appreciates
+      image: /images/Announcements/TD_2024.png
+      alt: Image alt text
+  - infopic:
       title: Lakeside Primary School Virtual Open House
       id: infopic
       button: More Info here
