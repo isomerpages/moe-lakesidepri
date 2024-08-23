@@ -22,10 +22,11 @@ sections:
       title: Teachers' Day 2024
       subtitle: Add an image and text
       id: infopic
-      description: Plan your visit to LSPS in advance. Click here...
+      description: Plan your visit to LSPS in advance...
       url: https://for.edu.sg/lsps-appreciates
       image: /images/Announcements/TD_2024.png
       alt: Image alt text
+      button: Click here
   - infopic:
       title: Lakeside Primary School Virtual Open House
       id: infopic
