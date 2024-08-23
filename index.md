@@ -26,7 +26,7 @@ sections:
       url: https://www.lakesidepri.moe.edu.sg/our-people/teaching-staff/
       image: /images/Announcements/TD_2024.png
       alt: Image alt text
-      button: Click here
+      button: More info here
   - infopic:
       title: Lakeside Primary School Virtual Open House
       id: infopic
