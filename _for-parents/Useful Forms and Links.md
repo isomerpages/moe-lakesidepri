@@ -16,9 +16,6 @@ variant: markdown
 <details><summary><b>Information on Vendors</b></summary>
 <li><a href="/files/Booklist/p1%202024%20booklist.pdf" target="_blank">2024 P1 Booklist</a></li>
 <li><a href="/files/Admin%20Forms/uniform%20pamphlet%202024.pdf" target="_blank">2024 P1 Uniform Order</a></li>
-<!-- 
-<li><a target="_blank" href="https://forms.gle/jHsryXFj3mQB1LN8A">School Bus Request Form</a></li>-->
-<li><a href="https://www.wheecanopus.com/student-registration" target="_blank">Whee!Canopus Student Care Centre@ Lakeside Primary Registration Form</a></li>
 </details><br>
 <details><summary><b>Finance-related Information</b></summary>
 <li><a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">Information on School Fees</a></li>
