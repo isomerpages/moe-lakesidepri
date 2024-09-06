@@ -83,6 +83,6 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank
 <br>
 	<b>Information for Parents</b>
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
-<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Click <a href="https://go.gov.sg/sed2024lsps" target="_blank">here</a> to access the form. The completed opt-out form is to be submitted by <b>31 January 2024</b>. The lessons will be conducted during CCE FTGP periods which are within school hours.  Alternative arrangements will be made for students who opt out of the programme.</li>
+
 <li>Parents can contact the school at 62620918 or email at lakeside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
