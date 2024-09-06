@@ -136,7 +136,7 @@ description: ""
 </tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">5 Love</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Tricia Peh<br><i style="font-size:11pt; color: rgb(237, 125, 49);">tricia_peh_jia_yi@moe.edu.sg</i><br>Mdm Noraida<br><i style="font-size:11pt; color: rgb(237, 125, 49);">noraida_daud@moe.edu.sg</i><br>Mdm Chng Hui Fen<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chng_hui_fen@moe.edu.sg</i><br>Mr Roslan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">roslan_bin_saad@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Noraida<br><i style="font-size:11pt; color: rgb(237, 125, 49);">noraida_daud@moe.edu.sg</i><br>Mdm Chng Hui Fen<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chng_hui_fen@moe.edu.sg</i><br>Mr Roslan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">roslan_bin_saad@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">5 Perseverance</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Ice Lim<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lim_yu_su@moe.edu.sg</i><br>Mr Seon Er<br><i style="font-size:11pt; color: rgb(237, 125, 49);">er_zhe_xun@moe.edu.sg</i><br>Mdm Shahidah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">shahidah_md_fadzillah@moe.edu.sg</i></td></tr>
