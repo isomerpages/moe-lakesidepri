@@ -28,13 +28,9 @@ variant: markdown
 <details><summary><b>Parents Gateway</b></summary>
 <li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a></li>
 </details><br>
-<details><summary><b>Health Promotion Board (HPB) Child Consent Portal</b></summary>
-<li><a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" target="_blank">Welcome to HPB Child Consent Portal</a></li>
-</details><br>
 <details><summary><b>Parent Support Group</b></summary>
 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform" target="_blank">Registration Form</a></li>
 </details><br>
-
 <details><summary><b>Update Student Particulars to MOE</b></summary>
 <li>For updates of student particulars (<i>eg change of address, family contact details</i>), please login to the <a href="https://pg.moe.edu.sg/forms/sdf" target="_blank">Student Data Form (SDF) portal</a></li>
 </details>
