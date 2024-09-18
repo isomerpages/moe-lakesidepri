@@ -31,7 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: Our school celebrated National Day on 8 August, Thursday....
+      description: Two (associate) professors and eleven student-teachers from Joetsu
+        University of Education, Niigata, Japan, visited Lakeside Primary
+        School...
   - infopic:
       title: Announcements
       alt: Image alt text
