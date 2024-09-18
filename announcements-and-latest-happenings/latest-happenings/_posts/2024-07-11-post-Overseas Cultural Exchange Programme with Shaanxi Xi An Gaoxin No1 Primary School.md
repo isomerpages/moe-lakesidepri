@@ -19,3 +19,27 @@ culture and education, and even gifting them with some of our local food. Our La
 conducted the school tour; thus, allowing the visitors to learn more about the school's history
 and total curriculum in a fun and engaging way.
 <br><br>
+<img src="/images/Happenings/CHINA/CHINA_1.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> LSPS staff and students welcomed the Chinese visitors at the car porch on 11 July 2024.</span>
+<hr><br>
+<img src="/images/Happenings/CHINA/CHINA_2.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Mdm Lin Lan introduced Mrs Liang and our school to the Chinese visitors in the PAL room.</span>
+<hr><br>
+<img src="/images/Happenings/CHINA/CHINA_3.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Selected Lakers and Chinese students shared about their respective school experiences.</span>
+<hr><br>
+<img src="/images/Happenings/CHINA/CHINA_4.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> LSPS staff and students conducted a school tour for the Chinese visitors.</span>
+<hr><br>
+<img src="/images/Happenings/CHINA/CHINA_5.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Mrs Liang exchanged the tokens of appreciation with the Chinese visitors.</span>
