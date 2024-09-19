@@ -31,9 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: Two (associate) professors and eleven student-teachers from Joetsu
-        University of Education, Niigata, Japan, visited Lakeside Primary
-        School...
+      description: A team of our Primary 3 MTL students participated in this year's
+        video creation competition to promote the Mother Tongue Language
+        Symposium (MTLS)....
   - infopic:
       title: Announcements
       alt: Image alt text
