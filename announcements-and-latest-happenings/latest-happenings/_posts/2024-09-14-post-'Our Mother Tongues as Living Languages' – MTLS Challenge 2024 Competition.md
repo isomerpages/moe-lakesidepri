@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-A team of our Primary 3 MTL students participated in this year's video creation competition to promote the Mother Tongue Language Symposium (MTLS). We are proud to announce that our TikTok video entry was one of the winning submissions in the School – Primary category. It was screened for public viewing at MTLS 2024 on 14 September. Our TikTok video, along with the winning entries from other schools, is featured on the official MTLS social media platforms – TikTok, Instagram, and Facebook. We would like to congratulate the following students for their participation in this competition:
+A team of our Primary 3 MTL students participated in this year's video creation competition to promote the Mother Tongue Language Symposium (MTLS). We are proud to announce that our TikTok video entry was one of the winning submissions in the School – Primary category. It was screened for public viewing at MTLS 2024 on 14 September. <a style="text-decoration: none" href="https://www.tiktok.com/@lsps.official/video/7393257069865979153?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7416249335832364565" target="_blank">Our TikTok video</a>, along with the winning entries from other schools, is featured on the official MTLS social media platforms – TikTok, Instagram, and Facebook. We would like to congratulate the following students for their participation in this competition:
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
