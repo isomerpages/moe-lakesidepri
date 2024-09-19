@@ -46,3 +46,28 @@ A team of our Primary 3 MTL students participated in this year's video creation 
 </tbody>
 </table><br>
 Well done, team!<br><br>
+<img src="/images/Happenings/MTLS/MTLS_1.jpg" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Our 2024 MTLS TikTok Team</span>
+<hr><br>
+<img src="/images/Happenings/MTLS/MTLS_2.png" style="width: 40%; height: 40%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Engrossed in reading MTL story books</span>
+<hr><br>
+<img src="/images/Happenings/MTLS/MTLS_3.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> A meet-up with Sun Wukong</span>
+<hr><br>
+<img src="/images/Happenings/MTLS/MTLS_4.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Excited to meet Nadim!</span>
+<hr><br>
+<img src="/images/Happenings/MTLS/MTLS_5.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Golden opportunity to meet Avvaiyaar!</span>
+<hr><br>
