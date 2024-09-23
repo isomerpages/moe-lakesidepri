@@ -31,7 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: Our school celebrated National Day on 8 August, Thursday....
+      description: A team of our Primary 3 MTL students participated in this year's
+        video creation competition to promote the Mother Tongue Language
+        Symposium (MTLS)....
   - infopic:
       title: Announcements
       alt: Image alt text
