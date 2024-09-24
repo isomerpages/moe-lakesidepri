@@ -14,3 +14,18 @@ In an exciting hands-on lesson at Singapore Science Centre, Primary 5 students e
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Understanding forces on a block in different orientations</span>
 <hr><br>
+<img src="/images/Happenings/P5LJSCI/P5LJSCI_2.png" style="width: 50%; height: 50%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Testing forces on a complex structure</span>
+<hr><br>
+<img src="/images/Happenings/P5LJSCI/P5LJSCI_3.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Does adhesive force affect stability?</span>
+<hr><br>
+<img src="/images/Happenings/P5LJSCI/P5LJSCI_4.png" style="width: 40%; height: 40%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Skyscraper in the making</span>
+<hr><br>
