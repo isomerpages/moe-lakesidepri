@@ -31,9 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: A team of our Primary 3 MTL students participated in this year's
-        video creation competition to promote the Mother Tongue Language
-        Symposium (MTLS)....
+      description: In an exciting hands-on lesson at Singapore Science Centre, Primary
+        5 students explored the concepts of forces by building and testing
+        structures.
   - infopic:
       title: Announcements
       alt: Image alt text
