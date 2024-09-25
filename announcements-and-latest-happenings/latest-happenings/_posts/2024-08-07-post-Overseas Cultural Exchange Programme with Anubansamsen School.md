@@ -13,7 +13,7 @@ The purpose of the visit is to provide opportunities for interaction between the
 <br><br>
 Our Lakers took charge by warmly hosting their Thai visitors, introducing them to Singapore's culture by visiting the Geylang Serai Heritage Gallery and sharing the tradition of Batik painting, even gifting them Batik artworks. The Lakers also led the Amazing Race within the school, allowing the visitors to learn about both Singapore's and the school's history in a fun and engaging way.
 <br>
-<a href="https://www.facebook.com/share/p/mUQg98UEKwxPJJgh/mibextid=oFDknk" target="_blank">Check out Anubansamsen Schools official facebook</a>
+<a href="https://www.facebook.com/share/p/mUQg98UEKwxPJJgh/?mibextid=oFDknk" target="_blank">Check out Anubansamsen Schools official facebook</a>
 <br><br>
 <img src="/images/Happenings/THAI/Thai_1.png" style="width: 80%; height: 80%;">
 <br>
