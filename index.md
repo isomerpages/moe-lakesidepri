@@ -31,9 +31,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: In an exciting hands-on lesson at Singapore Science Centre, Primary
-        5 students explored the concepts of forces by building and testing
-        structures.
+      description: Jointly organised by Malay Language Council and  TeeVers, the
+        competition aims to enhance the oral expression skills of students...
   - infopic:
       title: Announcements
       alt: Image alt text
