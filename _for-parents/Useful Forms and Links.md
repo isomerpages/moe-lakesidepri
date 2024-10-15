@@ -15,7 +15,7 @@ variant: markdown
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
 <li><a href="/files/Booklist/p1%202024%20booklist.pdf" target="_blank">2024 P1 Booklist</a></li>
-<li><a href="/files/Admin%20Forms/uniform%20pamphlet%202024.pdf" target="_blank">2024 P1 Uniform Order</a></li>
+<li><a href="/files/Admin%20Forms/uniform%20pamphlet%202025.pdf" target="_blank">2025 P1 Uniform Order</a></li>
 <li><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukmjc67Y8Jku75CG8vJnZWI=" target="_blank">NASCANS Student Care Centre @Lakeside Primary Registration form</a></li>
 </details><br>
 <details><summary><b>Finance-related Information</b></summary>
