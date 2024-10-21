@@ -26,6 +26,11 @@ sections:
       image: /images/Announcements/open_house_2024.jpg
       alt: Image alt text
   - infopic:
+      title: Happy Deepavali
+      id: infopic
+      image: /images/Home/Pop Up/Deepavali.png
+      alt: Image alt text
+  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
