@@ -2,6 +2,7 @@
 title: Co–Curricular Activities
 permalink: /our-lakeside-education/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 <b>Curricular Goals:</b><br>
 We aim to develop character, values and competencies that will prepare our students for a rapidly changing world. Through their active involvement in Co-Curricular activities, students discover their interest and talents. <br><br>
@@ -19,14 +20,14 @@ The three categories of CCAs are as follows;
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
 <tr>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Clubs and Uniform Groups (UG)</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Performing & Visual Arts</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Performing &amp; Visual Arts</td>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Sports</td>
 </tr>
 <tr>
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Infocomm Club<br>Library Club
 <br>STE3M Club<br>Scouts</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Choir<br>Dikir Barat<br>Harmonica Ensemble<br>Concert Band<br>Guzheng Ensemble<br>Chinese Dance<br>Indian Dance<br>Malay Dance<br>Speech & Drama<br> Visual Arts Club</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rope Skipping<br>Football<br>Wushu
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Choir<br>Dikir Barat<br>Harmonica Ensemble<br>Concert Band<br>Guzheng Ensemble<br>Chinese Dance<br>Indian Dance<br>Malay Dance<br>Speech &amp; Drama<br> Visual Arts Club</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Football<br>Wushu
 <br>Volleyball</td>
 </tr>
 </tbody>
