@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
+Organized by the Committee to Promote Chinese Language Learning (CPCLL), the “Campus Super Reading Star Competition” seeks to inspire a passion for reading among students. Participants create innovative artifacts that showcase their comprehension and engagement with the Chinese storybooks they chose to read. 
+<br><br>
+Wu Jiajing, a student from 1-Integrity, distinguished herself by winning the Excellence Award in the Lower Primary Category. She received a certificate and a $60 book voucher in recognition of her outstanding achievement.
