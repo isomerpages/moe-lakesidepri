@@ -14,3 +14,6 @@ variant: markdown
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> A group photo of our dikir barat students, teachers, and trainer taken outside the MOE Edutorium.</span>
 <hr><br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OurgNYtS3FI?si=UPVXcO_4h2ANKM48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> A video of Lakeside Primary’s Dikir Barat performance that was uploaded for viewers to vote.</span>
