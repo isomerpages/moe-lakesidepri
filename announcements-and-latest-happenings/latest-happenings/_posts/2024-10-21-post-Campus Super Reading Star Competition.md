@@ -21,3 +21,6 @@ Wu Jiajing, a student from 1-Integrity, distinguished herself by winning the Exc
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Jiajing was presented with a certificate and $60 book vouchers for her achievement</span>
 <hr><br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tOwm69HcQoc?si=2GbCxx8m27nWXTxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> JJiajing’s winning entry </span>
