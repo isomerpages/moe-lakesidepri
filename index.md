@@ -36,8 +36,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: Jointly organised by Malay Language Council and  TeeVers, the
-        competition aims to enhance the oral expression skills of students...
+      description: Our Dikir Barat boys participated in the (e)-Rama Dikir Barat
+        Competition (Awak-Awak Challenge) and won 2nd place...
   - infopic:
       title: Announcements
       alt: Image alt text
