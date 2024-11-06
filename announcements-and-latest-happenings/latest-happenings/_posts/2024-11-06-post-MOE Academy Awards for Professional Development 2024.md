@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+We are proud to announce that Ms. Elaine Jee, HOD/Curriculum, is the recipient of the Associate of AST Award 2024 (Education Officers) in the area of contribution as an innovator.
