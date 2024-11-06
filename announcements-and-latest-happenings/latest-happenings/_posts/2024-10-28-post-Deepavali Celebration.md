@@ -17,7 +17,7 @@ The Deepavali celebration, or ‘Festival of Lights,’ held during assembly on 
 <hr><br>
 <img src="/images/Happenings/DEEPAVALI/deepavali_2.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Busking – Dance performance <i style="color:blue;">(top left)</i> <br>
+<span style="color:blue;">•</span> Busking – Dance performance <i style="color:blue;">(top left)</i><br>
 <span style="color:blue;">•</span> Busking – Keyboard Performance <i style="color:blue;">(bottom left)</i><br>
 <span style="color:blue;">•</span> Busking – Mr Mohan &amp; Mr Terence Tay <i style="color:blue;">(right)</i></span>
 <hr><br>
