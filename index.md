@@ -36,8 +36,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: Our Dikir Barat boys participated in the (e)-Rama Dikir Barat
-        Competition (Awak-Awak Challenge) and won 2nd place...
+      description: We are proud to announce that Ms. Elaine Jee, HOD/Curriculum, is
+        the recipient of the Associate of AST Award 2024 (Education Officers)...
   - infopic:
       title: Announcements
       alt: Image alt text
