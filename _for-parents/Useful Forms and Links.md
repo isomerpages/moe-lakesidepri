@@ -14,8 +14,8 @@ variant: markdown
 
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
-<li><a href="/files/Booklist/Booklist_2025___P1.pdff" target="_blank">2025 P1 Booklist</a></li>
-<li><a href="/files/Booklist/Booklist_2025___P2.pdff" target="_blank">2025 P2 Booklist</a></li>
+<li><a href="/files/Booklist/Booklist_2025___P1.pdf" target="_blank">2025 P1 Booklist</a></li>
+<li><a href="/files/Booklist/Booklist_2025___P2.pdf" target="_blank">2025 P2 Booklist</a></li>
 <li><a href="/files/Booklist/Booklist_2025___P3.pdf" target="_blank">2025 P3 Booklist</a></li>
 <li><a href="/files/Booklist/Booklist_2025___P4.pdf" target="_blank">2025 P4 Booklist</a></li>
 <li><a href="/files/Booklist/Booklist_2025___P5.pdf" target="_blank">2025 P5 Booklist</a></li>
