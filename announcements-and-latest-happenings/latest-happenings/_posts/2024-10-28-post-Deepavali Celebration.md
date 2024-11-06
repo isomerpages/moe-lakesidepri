@@ -25,4 +25,4 @@ The Deepavali celebration, or ‘Festival of Lights,’ held during assembly on 
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Student doing Deepavali colouring <i style="color:blue;">(left)</i> <br>
 <span style="color:blue;">•</span> Student doing traditional Kolam design <i style="color:blue;">(top right)</i><br>
-<span style="color:blue;">•</span> Students doing Rangoli design </span>
+<span style="color:blue;">•</span> Students doing Rangoli design <i style="color:blue;">(bottom right)</i></span>
