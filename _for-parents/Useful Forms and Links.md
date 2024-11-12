@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <details><summary><b>Primary 1 Information for Parents and Students.</b></summary>
-<li><a href="/files/Admin%20Forms/EFS_information_for_Parents_.pdf" target="_blank">EFS information for Parents </a></li>  
+<li><a href="/files/P1%20Files/EFS_information_for_Parents_.pdf" target="_blank">EFS information for Parents </a></li>  
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
-<li><a href="/files/Admin%20Forms/Orientation_Booklet_2025.pdf" target="_blank">Orientation Booklet</a></li>
+<li><a href="/files/P1%20Files/Orientation_Booklet_2025.pdf" target="_blank">Orientation Booklet</a></li>
 <li><a href="/files/P1%20Files/Briefing_Slides_2024.pdf" target="_blank">First Day of School Briefing Slides</a></li>
 <center><b>Cyberwellness for Primary 1 Parents</b></center>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RWIs4gQfKuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
