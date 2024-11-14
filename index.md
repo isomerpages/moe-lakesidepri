@@ -31,8 +31,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: We are proud to announce that Ms. Elaine Jee, HOD/Curriculum, is
-        the recipient of the Associate of AST Award 2024 (Education Officers)...
+      description: 2024 EOY E-Bulletin (5s) 14 Nov 2024. Please watch this video
+        summary of the entire year of activities...
   - infopic:
       title: Announcements
       alt: Image alt text
