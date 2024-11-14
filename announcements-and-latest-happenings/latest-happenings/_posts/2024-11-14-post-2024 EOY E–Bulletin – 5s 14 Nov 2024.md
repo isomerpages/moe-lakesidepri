@@ -7,4 +7,5 @@ description: ""
 image: ""
 variant: markdown
 ---
-Please watch this video summary of the entire year of activities.
+Please watch this video summary of the entire year of activities.<br><br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sYkjBannGo0?si=IXPMw2DWbOU8PRSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
