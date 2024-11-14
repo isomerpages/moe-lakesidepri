@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+Please watch this video summary of the entire year of activities.
