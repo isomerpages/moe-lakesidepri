@@ -24,8 +24,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: 2024 EOY E-Bulletin (5s) 14 Nov 2024. Please watch this video
-        summary of the entire year of activities...
+      description: Thank you for your partnership with the school in your child's
+        holistic development this year. A video summary of this year's events is
+        now available...
   - infopic:
       title: Announcements
       alt: Image alt text
