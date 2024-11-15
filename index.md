@@ -19,20 +19,14 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
-      title: Lakeside Primary School Virtual Open House
-      id: infopic
-      button: More Info here
-      url: https://go.gov.sg/lakesidepri-openhouse
-      image: /images/Announcements/open_house_2024.jpg
-      alt: Image alt text
-  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: 2024 EOY E-Bulletin (5s) 14 Nov 2024. Please watch this video
-        summary of the entire year of activities...
+      description: Thank you for your partnership with the school in your child's
+        holistic development this year. A video summary of this year's events is
+        now available...
   - infopic:
       title: Announcements
       alt: Image alt text
@@ -42,4 +36,11 @@ sections:
       description: Dear Parents/Guardians, We invite you to nominate students of
         Lakeside Primary School whom you recognise as deserving of the Character
         Award.
+  - infopic:
+      title: Lakeside Primary School Virtual Open House
+      id: infopic
+      button: More Info here
+      url: https://go.gov.sg/lakesidepri-openhouse
+      image: /images/Announcements/open_house_2024.jpg
+      alt: Image alt text
 ---
