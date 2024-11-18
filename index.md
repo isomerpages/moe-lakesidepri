@@ -24,9 +24,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Read More
-      description: Thank you for your partnership with the school in your child's
-        holistic development this year. A video summary of this year's events is
-        now available...
+      description: Our P1 Orientation Programme welcomes new students and parents to
+        Lakeside Primary School....
   - infopic:
       title: Announcements
       alt: Image alt text
