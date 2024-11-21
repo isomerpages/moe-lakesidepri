@@ -24,7 +24,7 @@ sections:
       description: We are excited to share the launch of our very first school
         e-magazine for 2024!
       button: More Info Here
-      url: https://www.lakesidepri.moe.edu.sg/e-magazine/
+      url: https://www.lakesidepri.moe.edu.sg/school-e-magazin-2024/
       image: /images/Happenings/E MAGAZINE/emag_poster.png
       alt: Image alt text
   - infopic:
