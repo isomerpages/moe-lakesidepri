@@ -19,6 +19,15 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: E-Magazine 2024
+      id: infopic
+      description: We are excited to share the launch of our very first school
+        e-magazine for 2024!
+      button: More Info Here
+      url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
+      image: /images/Happenings/E MAGAZINE/emag_poster.png
+      alt: Image alt text
+  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
