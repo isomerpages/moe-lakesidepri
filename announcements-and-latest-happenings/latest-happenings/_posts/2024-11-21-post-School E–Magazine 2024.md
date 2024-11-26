@@ -12,5 +12,12 @@ We are excited to share the launch of our very first school e-magazine for 2024!
 We hope you enjoy this glimpse into your child’s journey with us. Thank you for your continuous support in making our school a nurturing environment for all.
 <br><br>
 Scan or Click the QR code to view the e-magazine <a style="text-decoration: none" href="https://for.edu.sg/lsps-e-magazine"><img src="/images/Happenings/E%20MAGAZINE/emag_qrcode.png" style="width: 40%; height: 40%;"></a>
+<span style="font-size: 9pt;">An error was identified on Page 14 (Student Accolades) of the School E-Magazine 2024. We apologise for any confusion this may have caused. The accurate captions for the photograph on the top left of Page 14 should be:<br><br>
+<b>'Our Schools, Our Stories' (OSOS) Photo &amp; Video Contest 2024</b><br><br>
+<b>Honourable Mention</b>
+<br>
+-Wong Lik Shun Max (5 Diligence)<br>
+-Pranavika Nehru (5 Perseverance)<br>
+-Leong Rui Zhe (5 Respect) (not in the photograph)</span>
 <hr><br>
 <img src="/images/Happenings/E%20MAGAZINE/emag_poster.png" style="width: 50%; height: 50%;">
