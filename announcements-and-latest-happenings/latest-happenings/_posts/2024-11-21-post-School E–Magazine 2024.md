@@ -13,7 +13,7 @@ We hope you enjoy this glimpse into your child’s journey with us. Thank you fo
 <br><br>
 Scan or Click the QR code to view the e-magazine <a style="text-decoration: none" href="https://for.edu.sg/lsps-e-magazine"><img src="/images/Happenings/E%20MAGAZINE/emag_qrcode.png" style="width: 40%; height: 40%;"></a>
 <span style="font-size: 9pt;">An error was identified on Page 14 (Student Accolades) of the School E-Magazine 2024. We apologise for any confusion this may have caused. The accurate captions for the photograph on the top left of Page 14 should be:<br></span>
-<center style="font-size: 9pt;"><b>'Our Schools, Our Stories' (OSOS)</b><br>
+<center style="font-size: 10pt;"><b>'Our Schools, Our Stories' (OSOS)</b><br>
 <b>Photo &amp; Video Contest 2024</b><br>
 <b>Honourable Mention</b>
 <br>
