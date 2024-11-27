@@ -34,7 +34,7 @@ variant: markdown
 </tr>
 <tr>
 <td><b>E</b>xcellence</td>
-<td>: Understand and respect others.</td>
+<td>: </td>
 </tr>
 </tbody>
 </table>
