@@ -61,9 +61,9 @@ variant: markdown
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/Pupil Development</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">lim_may_hua@moe.edu.sg</i></td></tr>
 <tr>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Kelly Leung</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Sabrina Ayoob</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/Character &amp; Citizenship Education</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">law_ngiap_choo@moe.edu.sg</i></td></tr>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">sabrina_ayoob@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Elaine Jee</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/Curriculum</td>
