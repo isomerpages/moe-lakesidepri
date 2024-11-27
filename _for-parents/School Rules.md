@@ -2,6 +2,7 @@
 title: School Rules
 permalink: /for-parents/school-rules/
 description: ""
+variant: markdown
 ---
 <span style="background-color: initial; font-size: 1em;">Students of Lakeside Primary School are expected to exercise good self-discipline and maintain a positive school environment conducive and safe for learning and play.</span>
 	
@@ -20,8 +21,8 @@ description: ""
 <td>: Persevere to achieve their goals;</td>
 </tr>	
 <tr>
-<td><b>R</b>esponsibility</td>
-<td>: Be responsible for self, towards others and the environment;</td>
+<td><b>R</b>epect</td>
+<td>: Understand and respect others.;</td>
 </tr>
 <tr>
 <td><b>I</b>ntegrity</td>
@@ -32,7 +33,7 @@ description: ""
 <td>: Work diligently and take pride in their work and accomplishments;</td>
 </tr>
 <tr>
-<td>r<b>E</b>spect</td>
+<td><b>E</b>xcellence</td>
 <td>: Understand and respect others.</td>
 </tr>
 </tbody>
