@@ -12,6 +12,7 @@ We are excited to share with you our curriculum briefing videos, which provide v
 <li><a href="/files/P1%20Files/P1_Orientation_Hall_Presentation_Slides.pdf" target="_blank">Hall Presentation Slides</a></li><br>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ioVyD0LfwGk?si=V46e6mqYt_gZNruX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p><br>
 <span style="font-size:10pt;">
+	<b><u>Video Chapters</u></b><br>
 •
 <a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=0s" target="_blank"> 00:00 English Curriculum Sharing</a><br>
 •
@@ -22,8 +23,9 @@ We are excited to share with you our curriculum briefing videos, which provide v
 <a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=1030s" target="_blank"> 17:10 Providing Feedback on Learning</a><br>
 •
 <a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=1220s" target="_blank"> 20:20 Cyberwellness Sharing</a></span><br>
-<img src="/images/Happenings/P1%20ORIENTATION/P1_Orientation_Curr.jpg" style="width: 40%; height: 40%;"><br>
-Thank you for your partnership in their educational journey!<br>
+<img src="/images/Happenings/P1%20ORIENTATION/P1_Orientation_Curr.jpg" style="width: 40%; height: 40%;">
+<center><a style="text-decoration:none" href="https://go.gov.sg/curriculum-questions-2025" target="_blank"> https://go.gov.sg/curriculum-questions-2025</a></center><br><br>
+Thank you for your partnership in their educational journey!<br><br>
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
 <li><a href="/files/Booklist/Booklist_2025___P1.pdf" target="_blank">2025 P1 Booklist</a></li>
