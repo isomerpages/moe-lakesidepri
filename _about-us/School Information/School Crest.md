@@ -3,6 +3,7 @@ title: School Crest
 permalink: /about-us/school-information/school-crest/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 <img src="/images/Home/LSPS%20Crest.png">
 <br>
@@ -14,4 +15,4 @@ Blue symbolises creativity and fluidity in the exchange of knowledge and skills 
 <br>
 Orange epitomises the school’s exuberance and vibrant learning environment.
  <br>
-The yellow background represents the noble school values of Love, Perseverance, Responsibility, Integrity, Diligence and rEspect.
+The yellow background represents the noble school values of Love, Perseverance, Respect, Integrity, Diligence and Excellence.

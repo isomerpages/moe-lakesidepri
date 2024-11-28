@@ -12,7 +12,7 @@ Character and Citizenship Education (CCE)  is  integral  to  the  holistic  deve
 <br><br>
 CCE provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 <br><br>
-The CCE Department provides an array of programmes and experiences that provide opportunities for our students to grow in their learning dispositions and be anchored in our school values of <b>L</b>ove, <b>P</b>erseverance, <b>R</b>esponsibility, <b>I</b>ntegrity, <b>D</b>iligence, and r<b>E</b>spect (<b>L</b>akeside <b>PRIDE</b>). CCE also provides for holistic experiences that will nurture our students to be active contributors to Singapore.
+The CCE Department provides an array of programmes and experiences that provide opportunities for our students to grow in their learning dispositions and be anchored in our school values of <b>L</b>ove, <b>P</b>erseverance, <b>R</b>espect, <b>I</b>ntegrity, <b>D</b>iligence, and <b>E</b>xcellence (<b>L</b>akers <b>PRIDE</b>). CCE also provides for holistic experiences that will nurture our students to be active contributors to Singapore.
 <hr><br><br>
 <b>Learning Dispositions</b>
 <br><br>
