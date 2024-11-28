@@ -22,7 +22,7 @@ variant: markdown
 </tr>	
 <tr>
 <td><b>R</b>epect</td>
-<td>: Understand and respect others.;</td>
+<td>: Understand and respect others;</td>
 </tr>
 <tr>
 <td><b>I</b>ntegrity</td>
