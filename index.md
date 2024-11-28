@@ -41,8 +41,6 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Read More
-      description: Primary 1 Information for Parents and Students. We are excited to
-        share with you our curriculum briefing videos...
   - infopic:
       title: Lakeside Primary School Virtual Open House
       id: infopic
