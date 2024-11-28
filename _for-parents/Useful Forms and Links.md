@@ -11,13 +11,19 @@ variant: markdown
 We are excited to share with you our curriculum briefing videos, which provide valuable insights into our programs for English, Mathematics, Mother Tongue Languages, and Cyberwellness. These videos offer an overview of our teaching approaches, key learning objectives, and strategies to support your child’s growth and well-being. We encourage you to watch them to better understand how we can work together to support your child's holistic development. Please submit your questions via the QR code or the link below. The team will be addressing the questions during the panel discussion on 2 January 2025.<br>
 <li><a href="/files/P1%20Files/P1_Orientation_Hall_Presentation_Slides.pdf" target="_blank">Hall Presentation Slides</a></li><br>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ioVyD0LfwGk?si=V46e6mqYt_gZNruX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p><br>
-<a href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=0s" target="_blank">00:00 English Curriculum Sharing</a><br>
-<a href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=305s" target="_blank">05:05 Mathematics Curriculum Sharing</a><br>
-<a href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=668s" target="_blank">11:08 Mother Tongue Languages Sharing</a><br>
-<a href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=1030s" target="_blank">17:10 Providing Feedback on Learning</a><br>
-<a href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=1220s" target="_blank">20:20 Cyberwellness Sharing</a><br>
+<span style="font-size:10pt;">
+•
+<a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=0s" target="_blank"> 00:00 English Curriculum Sharing</a><br>
+•
+<a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=305s" target="_blank"> 05:05 Mathematics Curriculum Sharing</a><br>
+•
+<a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=668s" target="_blank"> 11:08 Mother Tongue Languages Sharing</a><br>
+•
+<a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=1030s" target="_blank"> 17:10 Providing Feedback on Learning</a><br>
+•
+<a style="text-decoration:none" href="https://www.youtube.com/watch?v=ioVyD0LfwGk&amp;t=1220s" target="_blank"> 20:20 Cyberwellness Sharing</a></span><br>
 <img src="/images/Happenings/P1%20ORIENTATION/P1_Orientation_Curr.jpg" style="width: 40%; height: 40%;"><br>
-Thank you for your partnership in their educational journey!
+Thank you for your partnership in their educational journey!<br>
 </details><br>
 <details><summary><b>Information on Vendors</b></summary>
 <li><a href="/files/Booklist/Booklist_2025___P1.pdf" target="_blank">2025 P1 Booklist</a></li>
