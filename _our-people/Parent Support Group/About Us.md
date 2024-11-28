@@ -19,28 +19,6 @@ Joining the parent support group is not just about volunteering; it's about maki
 “Being part of the parent support group is not just about volunteering it’s a powerful message that you are your child’s biggest supporter and that their journey matters!”
 
 <h5>OUR EXECUTIVE COMMITTEE 2025/26</h5>
-
-<br>
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
-<tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-<tr>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>CHAIRPERSON</b></td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>VICE CHAIRPERSON</b></td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>SECRETARY</b></td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>TREASURER</b></td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b> PROJECT CO-ORDINATOR</b></td>
-</tr>
-<tr>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nurhidayah Binte Rostan</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Adrian Lim</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Ma Hui Zhu</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Stefanie Lai</td>
-<td width="154" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Rafida Binte Tahir<br>Mdm Luna Lee</td>
-
-</tr>
-</tbody>
-</table>
+<img src="/images/PSG/PSG_ExCo_Org_Chart.jpg" style="width: 100%; height: 100%;">
 <br><br>
-
-
 We are constantly seeking for willing and talented parents to come on board and serve together with us. <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-people/parent-support-group/contact-us/"> CONTACT US</a> to explore how you can contribute and make a positive difference in your child’s primary school learning journey.
