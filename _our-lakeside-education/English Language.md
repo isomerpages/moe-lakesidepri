@@ -62,13 +62,7 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 <u>P1 &amp; P2 Phonics Infusion Programme</u><br>
 Recognising the pivotal role that phonics instruction plays in helping students acquire reading skills at an early age, all our Lower Primary students are introduced to phonics formally through a structured Phonics Infusion Programme which aims to give them a good foundation in letter-sound association, blending, segmenting and spellings skills.
 <br><br>
-<u>Class Library Programme</u><br>
-Each classroom has a class library cupboard that is stocked with books. The books are rotated between the classes termly so that students have access to a wide variety of books. Class Library activities are also conducted termly. These include getting the students involved in setting up the library in the “Best Class Library” competition and a “Book Spine Poetry” competition.<br><br>
-<img src="/images/Department/01EL/EL1.png">
-<br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Some of the entries for the “Best Class Library” Competition</span>
-<br><br>
+
 <u>Drop Everything And Read (DEAR)</u><br>
 1 English period is set aside each week for our students to engage in reading-related activities. The various activities include: reading of storybooks, reading of articles related to the current STELLAR unit, and reading of the ‘Little Red Dot’ publication by Singapore Press Holdings.
 <br><br>
@@ -77,22 +71,12 @@ We believe that our students should develop the good habit of reading and we par
 <br>
 From Primary Three onwards, our students make use of parallel stories and read them aloud to their peers for feedback.
 <br><br>
-<u>Buddy Reading</u><br>
-Our buddy reading programme provides an opportunity for paired reading. Tutees are given one-on-one guided reading time to improve their word recognition and reading skills, with the help of a peer tutor. Tutees also build confidence in their reading through interaction with their buddy tutors.
-<br><br>
 <u>kidsREAD Programme</u><br>
 Our schools utilizes the national reading programme “kidsREAD” to help selected P1 and P2 students develop a love for reading and instill good reading habits. Our teachers collaborate with NLB and student volunteers from Millennia Institute to run the programme on Friday afternoons for our students.
 <img src="/images/Department/01EL/EL2.png">
 <br>
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Developing our love for reading with our friends from Millennia Institute</span>
-<br><br>
-<u>Learn Through Play</u><br>
-Learn Through Play encourages students to engage in authentic conversation through play. Classes receive resources like puppets and game sets and are encouraged to make use of time that is set aside to engage in play.
-<img src="/images/Department/01EL/EL3.png">
-<br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Having fun with puppets at the Lower Primary</span>
 <br><br>
 <u>English Week</u><br>
 English Week is held biennially and revolves around a specially chosen theme. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
