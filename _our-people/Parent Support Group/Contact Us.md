@@ -10,7 +10,7 @@ All Lakeside parents are invited to join us in this humble Lakeside PSG Family! 
 <b>JOIN PSG:</b>
 <br>
 Click or Scan the QR Code<br><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdgIXFrdCwzsOYcDMPGLJ8-ErQfdyJR6JGt7p8GS8nMXFkZyA/viewform" target="_blank"><img src="/images/PSG/Join_PSG___QR_Code.png" alt="PSG Registration Form-QR Code" style="width: 80%; height: 80%"></a>
+<a href="https://for.edu.sg/lsps-joinpsg" target="_blank"><img src="/images/PSG/Join_PSG___QR_Code.png" alt="PSG Registration Form-QR Code" style="width: 80%; height: 80%"></a>
 <br><br>
 CONTACT US: <br>
 Email us at psglakesidepri@gmail.com
