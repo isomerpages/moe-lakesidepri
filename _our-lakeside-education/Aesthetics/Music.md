@@ -26,12 +26,7 @@ approach in the reinforcement of skills and knowledge in the domains of Listenin
 </tr>
 <tr>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Music Elements We Learn</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tempo, Rhythm and Beats, Timbre, Expression </td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tempo, Rhythm and Beats, Form, Timbre</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Form, Pitch, Notation, Tonality and Harmony Expression</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tempo, Rhythm and Beats, Timbre, Tonality and Harmony, Texture, Expression</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tonality and Harmony, Texture, Form and structure, Expression, Timbre</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tempo, Rhythm and Beats, Texture, Form, Timbre, Expression</td>
+<td width="128" colspan="6" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Tempo, Rhythm and Beats, Pitch, Expression, Form, Timbre/Tone Colours, Tonality and Harmony, Texture, Notation</td>
 </tr>
 <tr>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Songs We Sing</td>
@@ -39,19 +34,19 @@ approach in the reinforcement of skills and knowledge in the domains of Listenin
 </tr>
 <tr>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Music We Create</td>
-<td width="128" colspan="3" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Simple rhythmic and melodic composition; improvisation</td>
+<td width="128" colspan="3" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Creation of rhythmic and melodic ostinato patterns, improvisation</td>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Arrangement of choice song using BandLab</td>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Writing our own original songs</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Advertorial jingle</td>
+<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">-</td>
 </tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px;">
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Special Modules</td>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rhythm &amp; Beats (non-pitched and pitched instruments)</td>
 <td width="128" style="padding: 8px;  vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Boomwhackers</td>
 <td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Keyboard</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ukulele</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Songwriting</td>
-<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Perform as an interest group / ensemble</td>
+<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Ukulele 1</td>
+<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Songwiritng Ukulele 2</td>
+<td width="128" style="padding: 8px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Kalimba</td>
 </tr>
 </tbody>
 </table>
