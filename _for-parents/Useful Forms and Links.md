@@ -50,6 +50,7 @@ Thank you for your partnership in their educational journey!<br><br>
 </details><br>
 <details><summary><b>Parent Support Group</b></summary>
 <li><a href="/files/P1%20Files/LSPS_PSG_Newsletter_2024.pdf" target="_blank">LSPS PSG Newsletter 2024</a></li>
+<li><a href="https://for.edu.sg/lsps-joinpsg" target="_blank">Registration Form</a></li>
 </details><br>
 <details><summary><b>Update Student Particulars to MOE</b></summary>
 <li>For updates of student particulars (<i>eg change of address, family contact details</i>), please login to the <a href="https://pg.moe.edu.sg/forms/sdf" target="_blank"> Student Data Form (SDF) portal</a></li>
