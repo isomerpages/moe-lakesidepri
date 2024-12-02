@@ -66,5 +66,52 @@ Lakeside Primary School’s discipline approach ensures that every student is su
 </tr>
 </tbody>
 </table>
-*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.
+<span style="font-size:8pt;">*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.</span>
 <br><br>
+<b>Disciplinary Consequences (categorised by severity and frequency)</b><br><br>
+To ensure fair and consistent discipline, consequences at Lakeside Primary School are categorized based on the severity or frequency of the offence. Each consequence is designed to be restorative, aiming to promote accountability, repair harm, and support personal growth.<br><br>
+<b>Guiding Principles</b><br>
+All consequences are guided by the following principles:<br>
+<div style="padding-left: 20px;">•	<b>Fairness and Consistency</b>: Ensuring all students are treated equitably.<br>
+•	<b>Restoration over Punishment</b>: Prioritizing repair of harm and personal growth.<br>
+•	<b>Empathy and Accountability</b>: Helping students understand the impact of their actions on others.<br>
+•	<b>Holistic Support</b>: Addressing both behavior and the student’s well-being</div>.<br><br>
+<b>1. Low-Severity or First-Time Offences</b><br><br>
+<i>Focus: Correction, Reflection, and Early Intervention</i><br>
+Examples: Minor disruptions, incomplete homework, low-level disrespect<br><br>
+<b>Consequences:</b><br>
+<div style="padding-left: 20px;">•	<b>Verbal/Stern Warnings</b><br>
+•	<b>Warning Letter</b><br>
+•	<b>Recess Play Restrictions</b><br>
+•	<b>Supervised Recess</b><br>
+•	<b>Classroom Intervention</b> (teacher-led corrective actions)<br>
+•	<b>Reflection Time (Circle Time)</b></div><br>
+<hr>
+<b>2. Moderate-Severity or Repeated Offences</b><br><br>
+<i>Focus: Accountability, Behavior Adjustment, and Restorative Dialogue</i><br>
+Examples: Repeated defiance, inappropriate language, or minor vandalism<br><br>
+<b>Consequences:</b><br>
+<div style="padding-left: 20px;">•	<b>Counselling</b><br>
+•	<b>Conferencing with Teachers, Parents, and/or School Leaders</b><br>
+•	<b>Behavior Contract</b><br>
+•	<b>Probation or Removal from Leadership Position</b><br>
+•	<b>Cleaning School Property or Paying for Damages</b> (upon proof of offence)<br>
+•	<b>Drop in Conduct Grade</b><br>
+•	<b>Record in the School Offence Module (SOM)</b></div><br>
+<hr>
+<b>3. High-Severity or Persistent Offences</b><br><br>
+<i>Focus: Serious Accountability, Repairing Harm, and Behavioral Rehabilitation</i><br>
+Examples: Bullying, fighting, theft, or severe disrespect<br><br>
+<b>Consequences:</b><br>
+<div style="padding-left: 20px;">•	<b>Suspension</b> (In-School, CCA, or Home)<br>
+•	<b>Referral to External Agencies</b> (for additional support or intervention)<br>
+•	<b>Formal Counselling and Support Plans</b></div><br>
+<hr>
+<b>4. Severe or Repeated Serious Offences</b><br><br>
+<i>Focus: Ensuring Safety, Reintegration, and Restorative Justice</i><br>
+Examples: Physical violence, severe vandalism, or repeated high-severity misconduct<br><br>
+<b>Consequences:</b><br>
+<div style="padding-left: 20px;">•	<b>Caning</b> (for boys, in accordance with school policy)<br>
+•	<b>External Agency Referral</b> (e.g., social services or professional counselors)<br>
+	•	<b>Restorative Justice Conference</b> (involving all affected parties)</div>
+
