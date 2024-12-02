@@ -67,7 +67,7 @@ Lakeside Primary School’s discipline approach ensures that every student is su
 </tbody>
 </table>
 <span style="font-size:8pt;">*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.</span>
-<br><br>
+<br><br><br>
 <b>Disciplinary Consequences (categorised by severity and frequency)</b><br><br>
 To ensure fair and consistent discipline, consequences at Lakeside Primary School are categorized based on the severity or frequency of the offence. Each consequence is designed to be restorative, aiming to promote accountability, repair harm, and support personal growth.<br><br>
 <b>Guiding Principles</b><br>
@@ -114,4 +114,3 @@ Examples: Physical violence, severe vandalism, or repeated high-severity miscond
 <div style="padding-left: 20px;">•	<b>Caning</b> (for boys, in accordance with school policy)<br>
 •	<b>External Agency Referral</b> (e.g., social services or professional counselors)<br>
 	•	<b>Restorative Justice Conference</b> (involving all affected parties)</div>
-
