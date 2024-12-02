@@ -36,3 +36,10 @@ Even when consequences are necessary, they are implemented with a restorative fo
 • Traditional consequences such as detention, suspension are used in conjunction with restorative efforts</div><br><br>
 <b>Conclusion</b><br>
 Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br><br>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody>
+<tr><td>Minor Offences</td>
+<td>Major Offences</td>
+</tr>
+</tbody>
+</table>
