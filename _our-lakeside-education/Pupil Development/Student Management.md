@@ -36,10 +36,33 @@ Even when consequences are necessary, they are implemented with a restorative fo
 • Traditional consequences such as detention, suspension are used in conjunction with restorative efforts</div><br><br>
 <b>Conclusion</b><br>
 Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br><br>
+<h5>Lakeside Primary School Offenses and Consequences Framework</h5><br><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody>
-<tr><td>Minor Offences</td>
-<td>Major Offences</td>
+<tr>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Minor Offences</td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Major Offences</td>
+</tr>
+<tr>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">• Late coming (late for school with no valid reason)<br>
+• Failure to complete assignment<br>
+• Littering<br>
+• Improper attire/grooming (disobeying school<br>
+   rules on attire, hairdo, jewellery, etc)<br>
+• Use of vulgar language (verbalising coarse or abusive language)
+</td>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">Skipping lessons/Leaving school grounds without permission during school hours<br>
+• Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
+• Forgery (forging signatures, medical certificates, consent forms, etc)<br>
+• Cheating in assessments/tests/ examinations<br>
+• Disruptive behaviour<br>
+• Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
+•  Hurtful behaviour/ bullying<br>
+• Theft (stealing school property or property belonging to others)<br>
+• Vandalism (vandalising school or personal property, writing graffiti)<br>
+• Assault (attacking others violently, whether causing hurt or not)<br>
+• Fighting <br>
+• Possession of weapon(s) and sharp objects</td>
 </tr>
 </tbody>
-</table>
+</table><br><br>
