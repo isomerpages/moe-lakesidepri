@@ -7,13 +7,15 @@ third_nav_title: Pupil Development
 ---
 <h5>LAKESIDE PRIMARY SCHOOL APPROACH TOWARDS DISCIPLINE</h5>
 <br><br>
+<img src="/images/Department/09PD/PUPIL_M1.png" style="width: 80%; height: 80%;">
 At Lakeside Primary School, our discipline framework focuses on cultivating self-leadership, accountability, and respect in all students. Rooted in Restorative Practices (RP), our approach emphasizes empathy, relationship-building, and sustainable behavioral change over punitive measures. By addressing inappropriate behavior promptly and constructively, we ensure students develop the self-discipline and character necessary for lifelong success.
 <br><br>
 <b>Key Components of Our Discipline Framework:</b><br><br>
 <b>1.	Setting Clear Expectations</b><br>
 We establish a safe, respectful, and conducive learning environment by clearly communicating behavioral expectations. This proactive approach fosters consistency and reinforces positive behavior across the school community.<br><br>
 <b>2.	Stop, Think, Do – Traffic Light Method</b><br>
-Using the “Stop, Think, Do” method, students are guided to pause, reflect on their actions, and make responsible decisions. This process aligns with our school’s LPRIDE values, encouraging self-regulation and thoughtful decision-making.<br><br>
+Using the “Stop, Think, Do” method, students are guided to pause, reflect on their actions, and make responsible decisions. This process aligns with our school’s LPRIDE values, encouraging self-regulation and thoughtful decision-making.<br>
+<img src="/images/Department/09PD/PUPIL_M2.png" style="width: 80%; height: 80%;">
 <b>3.	Restorative Practices</b><br>
 Restorative Practices form the heart of our discipline approach, focusing on accountability, repairing harm, and strengthening relationships. Through restorative circles, students explore the impact of their actions on others and work towards meaningful resolutions.<br><br>
 <b>1.	Prevention</b><br>
