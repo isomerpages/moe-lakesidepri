@@ -2,6 +2,8 @@ collections:
   our-lakeside-education:
     output: true
     order:
+      - Pupil Development/Pupil Development (Student Management and Leadership
+        Development).md
       - Pupil Development/.keep
       - English Language.md
       - Mathematics.md
