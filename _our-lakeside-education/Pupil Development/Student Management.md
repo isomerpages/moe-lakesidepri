@@ -57,7 +57,7 @@ Lakeside Primary School’s discipline approach ensures that every student is su
 • Cheating in assessments/tests/ examinations<br>
 • Disruptive behaviour<br>
 • Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
-•  Hurtful behaviour/ bullying<br>
+•  Hurtful behaviour/ *bullying<br>
 • Theft (stealing school property or property belonging to others)<br>
 • Vandalism (vandalising school or personal property, writing graffiti)<br>
 • Assault (attacking others violently, whether causing hurt or not)<br>
@@ -65,4 +65,6 @@ Lakeside Primary School’s discipline approach ensures that every student is su
 • Possession of weapon(s) and sharp objects</td>
 </tr>
 </tbody>
-</table><br><br>
+</table>
+*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.
+<br><br>
