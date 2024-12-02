@@ -18,19 +18,19 @@ Using the “Stop, Think, Do” method, students are guided to pause, reflect on
 Restorative Practices form the heart of our discipline approach, focusing on accountability, repairing harm, and strengthening relationships. Through restorative circles, students explore the impact of their actions on others and work towards meaningful resolutions.<br><br>
 <b>1.	Prevention</b><br>
 We promote a positive school climate through proactive initiatives such as:<br>
-<div>• PAVE (Pre-Assembly Values Education) and Recess Engagement<br>
+<div style="padding-left: 20px;">• PAVE (Pre-Assembly Values Education) and Recess Engagement<br>
 • Social Skills Workshops and Cyber-Wellness Activities<br>
 • ACES (After Curriculum Engagement and Support) Programme<br>
 • Peer Support and Leadership Development Programmes</div><br><br>
 These initiatives reinforce core values, enhance well-being, and reduce the likelihood of negative behaviors.<br><br>
 <b>2.	Intervention</b><br>
 When misconduct occurs, we apply restorative interventions to ensure fairness and dignity. Key strategies include:<br>
--Facilitating circle time to address issues constructively<br>
--Encouraging students to acknowledge mistakes, take responsibility, and repair harm<br>
--Supporting reintegration through relationship healing and community support<br><br>
+<div style="padding-left: 20px;">• Facilitating circle time to address issues constructively<br>
+• Encouraging students to acknowledge mistakes, take responsibility, and repair harm<br>
+• Supporting reintegration through relationship healing and community support</div><br><br>
 <b>3.	Restoration</b><br>
 Even when consequences are necessary, they are implemented with a restorative focus. Examples include:<br>
--<b>Behaviour Contracts</b> and <b>Reflection Time (RT)</b> to encourage personal growth<br>
--Traditional consequences such as detention, suspension are used in conjunction with restorative efforts<br><br>
+<div style="padding-left: 20px;">• <b>Behaviour Contracts</b> and <b>Reflection Time (RT)</b> to encourage personal growth<br>
+• Traditional consequences such as detention, suspension are used in conjunction with restorative efforts</div><br><br>
 <b>Conclusion</b><br>
 Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br><br>
