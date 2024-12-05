@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: We are excited to share the launch of our very first school
         e-magazine for 2024!
-      button: More Info Here
+      button: Check the E-Magazine here
       url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
       image: /images/Happenings/E MAGAZINE/emag_poster.png
       alt: Image alt text
@@ -32,7 +32,7 @@ sections:
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
-      button: Read More
+      button: Check more Latest Happenings
       description: Our P1 Orientation Programme welcomes new students and parents to
         Lakeside Primary School....
   - infopic:
@@ -40,11 +40,11 @@ sections:
       alt: Image alt text
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
-      button: Read More
+      button: Check more Announcements
   - infopic:
       title: Lakeside Primary School Virtual Open House
       id: infopic
-      button: More Info here
+      button: View Our Virtual Open House
       url: https://go.gov.sg/lakesidepri-openhouse
       image: /images/Announcements/open_house_2024.jpg
       alt: Image alt text
