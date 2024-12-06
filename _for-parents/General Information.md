@@ -109,7 +109,7 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Open on Mon-Fri<br> 8am-5pm<br>alternate weeks</td></tr>
 <tr>
 <td width="387" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bus Co-ordinator</td>
-<td width="194" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Pls refer <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/for-parents/schoolbusservice/">here</a></td></tr>
+<td width="194" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Click <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/for-parents/schoolbusservice/">here</a> to check the School Bus Service</td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Uniform Supplier<br>(Jeep Sing Fashion)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Admin%20Forms/uniform_pamphlet_2025.pdf" target="_blank">Uniform Pamphlet</a></td>
