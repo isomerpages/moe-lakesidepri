@@ -133,3 +133,8 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Jurong Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">91148918</td></tr></tbody></table>
 </details>
+<br>
+<details>
+<summary><b>6. LSPS VIRTUAL OPEN HOUSE</b></summary>
+	<a style="text-decoration: none" href="https://go.gov.sg/lakesidepri-openhouse" target="_blank">LSPS Virtual Open House</a>
+</details>
