@@ -55,10 +55,13 @@ approach in the reinforcement of skills and knowledge in the domains of Listenin
 <br>
 <hr><br>
 <img src="/images/Department/07MUSIC/MU2.png">
-<br>
+<hr><br>
 <b>Music spaces @ Lakeside</b>
 <br>
 <img src="/images/Department/07MUSIC/MU03.jpg" style="width: 468px; height: 368px;">
 <center>Jamming Spaces</center><br>
 <img src="/images/Department/07MUSIC/MU04.jpg" style="width: 368px; height: 368px;">
 <center>Musical Garden</center>
+<hr><br>
+<b>Explore Our Lakeside Our Songs website for original songs written by our budding singer-songwriters!</b><br>
+Click <a style="text-decoration: none" href="https://sites.google.com/moe.edu.sg/ourlakesideoursongs/home">here</a>.
