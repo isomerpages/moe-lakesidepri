@@ -10,3 +10,7 @@ We aim to develop every student to be an active artist and informed audience, wh
 <img src="/images/Department/07ART/ART001.png">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Primary 6 students enjoying and exploring the Arts as well as picking up new skills through the iArts Programme</span>
+<br>
+<img src="/images/Department/07ART/Aesth-1.png">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Primary 6 students enjoying and exploring the Arts as well as picking up new skills through the iArts Programme</span>
