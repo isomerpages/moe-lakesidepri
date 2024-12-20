@@ -16,7 +16,6 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
-      title: Lakeside Primary School
   - infopic:
       title: Merry Christmas and Happy New Year
       id: infopic
