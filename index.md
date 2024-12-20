@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/hero-banner-lsps.gif
+      background: /images/Banner/LSPS_banner_2025.png
       url: /contact-us/
       key_highlights:
         - title: Appreciate a staff member
@@ -16,14 +16,17 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
-      title: Lakeside Primary School
-      subtitle: A Lifelong Learner. A Virtuous Leader.
+  - infopic:
+      title: Merry Christmas and Happy New Year
+      id: infopic
+      image: /images/Announcements/christmas_2025.png
+      alt: Image alt text
   - infopic:
       title: E-Magazine 2024
       id: infopic
       description: We are excited to share the launch of our very first school
         e-magazine for 2024!
-      button: More Info Here
+      button: Check the E-Magazine here
       url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
       image: /images/Happenings/E MAGAZINE/emag_poster.png
       alt: Image alt text
@@ -32,7 +35,7 @@ sections:
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
-      button: Read More
+      button: Check more Latest Happenings
       description: Our P1 Orientation Programme welcomes new students and parents to
         Lakeside Primary School....
   - infopic:
@@ -40,12 +43,5 @@ sections:
       alt: Image alt text
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
-      button: Read More
-  - infopic:
-      title: Lakeside Primary School Virtual Open House
-      id: infopic
-      button: More Info here
-      url: https://go.gov.sg/lakesidepri-openhouse
-      image: /images/Announcements/open_house_2024.jpg
-      alt: Image alt text
+      button: Check more Announcements
 ---

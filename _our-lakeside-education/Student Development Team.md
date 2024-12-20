@@ -2,6 +2,7 @@
 title: Student Development Team
 permalink: /our-lakeside-education/departments/student-development-team/
 description: ""
+variant: markdown
 ---
 <b>Goals:</b>
 <br><br>
@@ -11,7 +12,7 @@ We aim to develop programmes, practices and processes to enhance the school expe
 <br><br>
 The Student Development Team (SDT) oversees the character development and holistic learning experiences of the students.
 <br><br>
-The SDT comprises three Year Heads (YHs) and three Assistant Year Heads (AYHs). Each Year Head is in charge of two blocks and each Assistant Year Head is in charge of one block. In building a culture of care, SDT partners the Pupil Development and Character & Citizenship Education departments. Collaboratively, the team employs a structured referral system to support the varied learning and behavioural needs of the students.
+The SDT comprises three Year Heads (YHs) and three Assistant Year Heads (AYHs). Each Year Head is in charge of two blocks and each Assistant Year Head is in charge of one block. In building a culture of care, SDT partners the Pupil Development and Character &amp; Citizenship Education departments. Collaboratively, the team employs a structured referral system to support the varied learning and behavioural needs of the students.
 <br><br>
 In enhancing a rich learning environment, SDT looks into providing a myriad of programmes across the levels. Throughout the six years of education with the school, the students undergo programmes of the different domains leveraging on their strengths, discovering their potential and overcoming the challenges. All these experiences contribute towards quality student experiences and outcomes.
 <hr><br><br>
