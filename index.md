@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/hero-banner-lsps.gif
+      background: /images/Banner/LSPS_banner_2025.png
       url: /contact-us/
       key_highlights:
         - title: Appreciate a staff member
@@ -17,7 +17,6 @@ sections:
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
       title: Lakeside Primary School
-      subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
       title: Merry Christmas and Happy New Year
       id: infopic
