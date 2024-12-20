@@ -46,11 +46,4 @@ sections:
       image: /images/Home/School Website - Announcements V3.png
       url: /announcements-and-latest-happenings/announcements
       button: Check more Announcements
-  - infopic:
-      title: Lakeside Primary School Virtual Open House
-      id: infopic
-      button: View Our Virtual Open House
-      url: https://go.gov.sg/lakesidepri-openhouse
-      image: /images/Announcements/open_house_2024.jpg
-      alt: Image alt text
 ---
