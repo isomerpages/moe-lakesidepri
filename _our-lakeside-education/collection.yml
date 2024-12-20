@@ -2,8 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Student Leadership Development.md
-      - Student Management.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -19,6 +17,8 @@ collections:
       - Aesthetics/Art.md
       - Aesthetics/Music.md
       - Co–Curricular Activities.md
+      - Student Management.md
+      - Student Leadership Development.md
       - Pupil Development/.keep
       - Student Development Team.md
       - Information & Communication Technology (ICT).md
