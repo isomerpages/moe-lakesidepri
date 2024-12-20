@@ -19,6 +19,11 @@ sections:
       title: Lakeside Primary School
       subtitle: A Lifelong Learner. A Virtuous Leader.
   - infopic:
+      title: Merry Christmas and Happy New Year
+      id: infopic
+      image: /images/Announcements/christmas_2025.png
+      alt: Image alt text
+  - infopic:
       title: E-Magazine 2024
       id: infopic
       description: We are excited to share the launch of our very first school
