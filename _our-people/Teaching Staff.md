@@ -92,7 +92,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Janice Lim<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lim_qiu_yin@moe.edu.sg</i><br>Mrs Eileen Seet<br><i style="font-size:11pt; color: rgb(237, 125, 49);">eileen_seet@moe.edu.sg</i><br>Mdm Samsinar<br><i style="font-size:11pt; color: rgb(237, 125, 49);">samsinar_mohamad@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3 Excellence</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nur Liza<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nur_liza_sudin@moe.edu.sg</i><br>Ms Farhana<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i><br>Mdm Jane Loo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Nur Liza<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nur_liza_sudin@moe.edu.sg</i><br>Ms Farhana<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i><br>Mdm Jane Loo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">jane_loo_jia_ying@moe.edu.sg</i></td></tr>
 </tbody></table><br><br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
