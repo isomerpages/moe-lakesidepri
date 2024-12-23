@@ -85,7 +85,6 @@ Examples: Minor disruptions, incomplete homework, low-level disrespect<br><br>
 •	<b>Supervised Recess</b><br>
 •	<b>Classroom Intervention</b> (teacher-led corrective actions)<br>
 •	<b>Reflection Time (Circle Time)</b></div><br>
-<hr>
 <b>2. Moderate-Severity or Repeated Offences</b><br><br>
 <i>Focus: Accountability, Behavior Adjustment, and Restorative Dialogue</i><br>
 Examples: Repeated defiance, inappropriate language, or minor vandalism<br><br>
@@ -97,7 +96,6 @@ Examples: Repeated defiance, inappropriate language, or minor vandalism<br><br>
 •	<b>Cleaning School Property or Paying for Damages</b> (upon proof of offence)<br>
 •	<b>Drop in Conduct Grade</b><br>
 •	<b>Record in the School Offence Module (SOM)</b></div><br>
-<hr>
 <b>3. High-Severity or Persistent Offences</b><br><br>
 <i>Focus: Serious Accountability, Repairing Harm, and Behavioral Rehabilitation</i><br>
 Examples: Bullying, fighting, theft, or severe disrespect<br><br>
@@ -105,7 +103,6 @@ Examples: Bullying, fighting, theft, or severe disrespect<br><br>
 <div style="padding-left: 20px;">•	<b>Suspension</b> (In-School, CCA, or Home)<br>
 •	<b>Referral to External Agencies</b> (for additional support or intervention)<br>
 •	<b>Formal Counselling and Support Plans</b></div><br>
-<hr>
 <b>4. Severe or Repeated Serious Offences</b><br><br>
 <i>Focus: Ensuring Safety, Reintegration, and Restorative Justice</i><br>
 Examples: Physical violence, severe vandalism, or repeated high-severity misconduct<br><br>
