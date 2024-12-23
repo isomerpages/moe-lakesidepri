@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h5>LAKESIDE PRIMARY SCHOOL APPROACH TOWARDS DISCIPLINE</h5>
-<br><br>
+<br>
 <img src="/images/Department/09PD/PUPIL_M1.png" style="width: 80%; height: 80%;">
 At Lakeside Primary School, our discipline framework focuses on cultivating self-leadership, accountability, and respect in all students. Rooted in Restorative Practices (RP), our approach emphasizes empathy, relationship-building, and sustainable behavioral change over punitive measures. By addressing inappropriate behavior promptly and constructively, we ensure students develop the self-discipline and character necessary for lifelong success.
 <br><br>
