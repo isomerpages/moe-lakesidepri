@@ -34,7 +34,7 @@ Even when consequences are necessary, they are implemented with a restorative fo
 • <b>Behaviour Contracts</b> and <b>Reflection Time (RT)</b> to encourage personal growth<br>
 • Traditional consequences such as detention, suspension are used in conjunction with restorative efforts<br><br>
 <b>Conclusion</b><br>
-Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br><br>
+Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br>
 <h5>Lakeside Primary School Offenses and Consequences Framework</h5>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody>
