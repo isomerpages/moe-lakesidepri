@@ -120,18 +120,34 @@ variant: markdown
 </details><br>
 <details><summary><b>7. OFFENCE AND CONSEQUENCES</b></summary>
 <b><br></b>
-
-<table style="border: 1px solid rgb(42, 42, 42); width: 817px; height: 438px;"><tbody><tr>
-<td style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);width: 403px;">OFFENCES</td>
-<td style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);width: 403px;">CONSEQUENCES</td></tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody>
 <tr>
-<td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Examples:<br><ul>Littering<br>Late coming<br>Improper attire and grooming<br>Not doing assignments<br>Failing to bring classroom materials<br><b>Theft</b><br>Bullying<sup style="color:red;">1</sup><br>Cyberbullying<br>Fighting<br><b>Vandalism</b><br>Use of vulgarities<br>Cheating in tests/examinations<br>Open defiance/Disruptive behaviour<br>Truancy and leaving school grounds without permission</ul></td>
-<td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Includes:<br><ul>Warning (Verbal/Written)<br>Parental involvement<br>Counselling<br>Loss of privileges which may include confiscation of mobile phones for purposes including investigations.<br>Compensation (for damage of public/personal property)<br>Corrective Work Order<br>Recess Detention<br><b>Suspension</b><br>Caning<br>Fair or Poor Conduct Grade<sup style="color:red;">2<br></sup>Referral to external agencies</ul></td></tr></tbody></table>
-
-<br>
-<b><i>These lists are non-exhaustive.</i></b>
-<br>
-<span style="color:red;"><sup>1 </sup></span>Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical, verbal or relational/social in nature.
-<br>
-<span style="color:red;"><sup>2 </sup></span> The conduct grade will affect the pupil’s eligibility for awards such as the Edusave Awards at the end of the year.
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Minor Offences</td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Major Offences</td>
+</tr>
+<tr>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">• Late coming (late for school with no valid reason)<br>
+• Failure to complete assignment<br>
+• Littering<br>
+• Improper attire/grooming (disobeying school<br>
+   rules on attire, hairdo, jewellery, etc)<br>
+• Use of vulgar language (verbalising coarse or abusive language)
+</td>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">Skipping lessons/Leaving school grounds without permission during school hours<br>
+• Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
+• Forgery (forging signatures, medical certificates, consent forms, etc)<br>
+• Cheating in assessments/tests/ examinations<br>
+• Disruptive behaviour<br>
+• Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
+•  Hurtful behaviour/ *bullying<br>
+• Theft (stealing school property or property belonging to others)<br>
+• Vandalism (vandalising school or personal property, writing graffiti)<br>
+• Assault (attacking others violently, whether causing hurt or not)<br>
+• Fighting <br>
+• Possession of weapon(s) and sharp objects</td>
+</tr>
+</tbody>
+</table>
+<span style="font-size:10pt;">*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.</span>
 </details>
