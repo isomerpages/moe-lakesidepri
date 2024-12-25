@@ -14,27 +14,31 @@ variant: markdown
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">	
 <tr>
 <td><b>L</b>ove</td>
-<td>: Care for one another;</td>
+<td>: We show care and empathy by supporting others, building positive relationships, 
+  and fostering an inclusive school community.</td>
 </tr>
 <tr>
 <td><b>P</b>erseverance</td>
-<td>: Persevere to achieve their goals;</td>
+<td>: We adopt a growth mindset and approach challenges with resilience and positivity.</td>
 </tr>	
 <tr>
 <td><b>R</b>epect</td>
-<td>: Understand and respect others;</td>
+<td>: We treat others with dignity, value different perspectives, and ensure everyone’s voice
+  is heard.</td>
 </tr>
 <tr>
 <td><b>I</b>ntegrity</td>
-<td>: Be honest and truthful at all times;</td>
+<td>: We uphold the truth, take responsibility for our actions, and show moral courage.</td>
 </tr>
 <tr>
 <td><b>D</b>iligence</td>
-<td>: Work diligently and take pride in their work and accomplishments;</td>
+<td>: We put in consistent effort and care to complete our tasks to the best of our abilities.</td>
 </tr>
 <tr>
 <td><b>E</b>xcellence</td>
-<td>: </td>
+<td>: We set high standards and strive for continuous improvement to live out our motto “Be
+  Our Best”.
+</td>
 </tr>
 </tbody>
 </table>
@@ -54,7 +58,7 @@ variant: markdown
 </li>
 <li>3.2 On the day of a test or an examination, only Medical Certificates will be accepted to cover the student’s absence. Parents/Guardians are requested to reschedule their child’s/ward’s non-school-based assessments such as piano examinations should they clash with school assessments.
 </li>
-<li>3.3 Absence from school without any valid reason is a major school offence. Reasons for absence that are not valid include oversleeping and wilful absence from school.
+<li>3.3 Absence from school without any valid reason is a major school offence. Reasons for absence that are not valid include oversleeping and willful absence from school.
 </li>
 <li>3.4 Parents/Guardians who wish to take their child/ward overseas for holidays and/or to attend to personal matters are to do so during the school vacations.
 </li>
@@ -71,9 +75,10 @@ variant: markdown
 <li>Students are to wear clean attire, socks and shoes.</li>
 <li>Name tags must be affixed on the school uniform and PE t-shirt above the school crest.</li>
 <li>Students are to wear black socks and black shoes with no distinct logos, brand names and patterns. No accessories are to be used to fasten shoelaces.</li>
-<li>On days with PE lessons, CCA, PAL lessons and/or sports activities, students are to report in their school T-shirts and shorts.</li>
+<li>On days with PE lessons or sports activities, P4 to P6 students should arrive in their half uniform (PE top with skirt/shorts). They must change into their PE attire before the lesson and back into their half uniform after the lesson.</li>
+<li>Only P1 to P3 students are allowed to be in their PE attire throughout the day.</li>
 </ul>
-<li>4.4Personal Appearance and Grooming</li>
+<li>4.4 Personal Appearance and Grooming</li>
 <ul>
 <li>Students must be neat in appearance.</li>
 <li>Where needed, glasses with prescribed lens should be worn. Glass frames should not be fanciful or outlandish.</li>
@@ -104,13 +109,13 @@ variant: markdown
 <ul>
 <li>keeping classrooms clean, tidy and litter-free.</li>
 <li>switching off classroom lights, fans, visualisers, projectors and/or air-conditioners when they are not in use.</li>
-<li>setting all air-conditioners at 25<sup>o</sup>C.</li>
+<li>•	setting all air-conditioners at 25<sup>o</sup>C.</li>
 </ul>
 <li>5.3 Students are to ensure that quality assignments are submitted on time</li>
 </details><br>
 <details><summary><b>6. PROHIBITED ITEMS</b></summary>
 	
-<li>6.1 Students are not to bring any recreational items like toys, cards and electronic devices to school. Selling of items to peers is also not allowed.</li>
+<li>6.1 Students are not to bring any recreational items like toys, cards and electronic devices to school. Selling/buying/trading of items is also not allowed.</li>
 <li>6.2 Students are not allowed to have in their possession any weapon. They are also not allowed to bring or to be found in possession of any dangerous or weapon-like items including penknives.</li>
 </details><br>
 <details><summary><b>7. OFFENCE AND CONSEQUENCES</b></summary>
