@@ -14,27 +14,31 @@ variant: markdown
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">	
 <tr>
 <td><b>L</b>ove</td>
-<td>: Care for one another;</td>
+<td>: We show care and empathy by supporting others, building positive relationships, 
+  and fostering an inclusive school community.</td>
 </tr>
 <tr>
 <td><b>P</b>erseverance</td>
-<td>: Persevere to achieve their goals;</td>
+<td>: We adopt a growth mindset and approach challenges with resilience and positivity.</td>
 </tr>	
 <tr>
 <td><b>R</b>epect</td>
-<td>: Understand and respect others;</td>
+<td>: We treat others with dignity, value different perspectives, and ensure everyone’s voice
+  is heard.</td>
 </tr>
 <tr>
 <td><b>I</b>ntegrity</td>
-<td>: Be honest and truthful at all times;</td>
+<td>: We uphold the truth, take responsibility for our actions, and show moral courage.</td>
 </tr>
 <tr>
 <td><b>D</b>iligence</td>
-<td>: Work diligently and take pride in their work and accomplishments;</td>
+<td>: We put in consistent effort and care to complete our tasks to the best of our abilities.</td>
 </tr>
 <tr>
 <td><b>E</b>xcellence</td>
-<td>: </td>
+<td>: We set high standards and strive for continuous improvement to live out our motto “Be
+  Our Best”.
+</td>
 </tr>
 </tbody>
 </table>
@@ -54,7 +58,7 @@ variant: markdown
 </li>
 <li>3.2 On the day of a test or an examination, only Medical Certificates will be accepted to cover the student’s absence. Parents/Guardians are requested to reschedule their child’s/ward’s non-school-based assessments such as piano examinations should they clash with school assessments.
 </li>
-<li>3.3 Absence from school without any valid reason is a major school offence. Reasons for absence that are not valid include oversleeping and wilful absence from school.
+<li>3.3 Absence from school without any valid reason is a major school offence. Reasons for absence that are not valid include oversleeping and willful absence from school.
 </li>
 <li>3.4 Parents/Guardians who wish to take their child/ward overseas for holidays and/or to attend to personal matters are to do so during the school vacations.
 </li>
@@ -71,9 +75,10 @@ variant: markdown
 <li>Students are to wear clean attire, socks and shoes.</li>
 <li>Name tags must be affixed on the school uniform and PE t-shirt above the school crest.</li>
 <li>Students are to wear black socks and black shoes with no distinct logos, brand names and patterns. No accessories are to be used to fasten shoelaces.</li>
-<li>On days with PE lessons, CCA, PAL lessons and/or sports activities, students are to report in their school T-shirts and shorts.</li>
+<li>On days with PE lessons or sports activities, P4 to P6 students should arrive in their half uniform (PE top with skirt/shorts). They must change into their PE attire before the lesson and back into their half uniform after the lesson.</li>
+<li>Only P1 to P3 students are allowed to be in their PE attire throughout the day.</li>
 </ul>
-<li>4.4Personal Appearance and Grooming</li>
+<li>4.4 Personal Appearance and Grooming</li>
 <ul>
 <li>Students must be neat in appearance.</li>
 <li>Where needed, glasses with prescribed lens should be worn. Glass frames should not be fanciful or outlandish.</li>
@@ -110,23 +115,39 @@ variant: markdown
 </details><br>
 <details><summary><b>6. PROHIBITED ITEMS</b></summary>
 	
-<li>6.1 Students are not to bring any recreational items like toys, cards and electronic devices to school. Selling of items to peers is also not allowed.</li>
+<li>6.1 Students are not to bring any recreational items like toys, cards and electronic devices to school. Selling/buying/trading of items is also not allowed.</li>
 <li>6.2 Students are not allowed to have in their possession any weapon. They are also not allowed to bring or to be found in possession of any dangerous or weapon-like items including penknives.</li>
 </details><br>
 <details><summary><b>7. OFFENCE AND CONSEQUENCES</b></summary>
 <b><br></b>
-
-<table style="border: 1px solid rgb(42, 42, 42); width: 817px; height: 438px;"><tbody><tr>
-<td style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);width: 403px;">OFFENCES</td>
-<td style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);width: 403px;">CONSEQUENCES</td></tr>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
+<tbody>
 <tr>
-<td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Examples:<br><ul>Littering<br>Late coming<br>Improper attire and grooming<br>Not doing assignments<br>Failing to bring classroom materials<br><b>Theft</b><br>Bullying<sup style="color:red;">1</sup><br>Cyberbullying<br>Fighting<br><b>Vandalism</b><br>Use of vulgarities<br>Cheating in tests/examinations<br>Open defiance/Disruptive behaviour<br>Truancy and leaving school grounds without permission</ul></td>
-<td style="width: 60px; padding: 8px; text-align: left; vertical-align: top; border: 1px solid rgb(42, 42, 42);">Includes:<br><ul>Warning (Verbal/Written)<br>Parental involvement<br>Counselling<br>Loss of privileges which may include confiscation of mobile phones for purposes including investigations.<br>Compensation (for damage of public/personal property)<br>Corrective Work Order<br>Recess Detention<br><b>Suspension</b><br>Caning<br>Fair or Poor Conduct Grade<sup style="color:red;">2<br></sup>Referral to external agencies</ul></td></tr></tbody></table>
-
-<br>
-<b><i>These lists are non-exhaustive.</i></b>
-<br>
-<span style="color:red;"><sup>1 </sup></span>Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical, verbal or relational/social in nature.
-<br>
-<span style="color:red;"><sup>2 </sup></span> The conduct grade will affect the pupil’s eligibility for awards such as the Edusave Awards at the end of the year.
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Minor Offences</td>
+<td width="128" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42);">Major Offences</td>
+</tr>
+<tr>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">• Late coming (late for school with no valid reason)<br>
+• Failure to complete assignment<br>
+• Littering<br>
+• Improper attire/grooming (disobeying school<br>
+   rules on attire, hairdo, jewellery, etc)<br>
+• Use of vulgar language (verbalising coarse or abusive language)
+</td>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">Skipping lessons/Leaving school grounds without permission during school hours<br>
+• Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
+• Forgery (forging signatures, medical certificates, consent forms, etc)<br>
+• Cheating in assessments/tests/ examinations<br>
+• Disruptive behaviour<br>
+• Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
+•  Hurtful behaviour/ *bullying<br>
+• Theft (stealing school property or property belonging to others)<br>
+• Vandalism (vandalising school or personal property, writing graffiti)<br>
+• Assault (attacking others violently, whether causing hurt or not)<br>
+• Fighting <br>
+• Possession of weapon(s) and sharp objects</td>
+</tr>
+</tbody>
+</table>
+<span style="font-size:10pt;">*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.</span>
 </details>
