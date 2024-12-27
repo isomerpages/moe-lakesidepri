@@ -20,7 +20,7 @@ Our Lakers took charge by warmly hosting their Thai visitors, introducing them t
 <br><br>
 <img src="/images/Department/17INT/THAI2024_1.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Learning Journey Programme at Geylang Serai Heritage Gallery with Class 4G </span>
+<span style="color:blue;">•</span> Learning Journey Programme at Geylang Serai Heritage Gallery with Class 4G</span>
 <hr><br>
 <img src="/images/Department/17INT/THAI2024_2.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
@@ -31,9 +31,23 @@ Our Lakers took charge by warmly hosting their Thai visitors, introducing them t
 <span style="color:blue;">•</span> Mrs Liang and Lakers presented the Batik painting to the Thai guest</span><hr>
 <center>Overseas Cultural Exchange Programme with Namwon Elementary School</center>
 The purpose of hosting the Koreans is part of our school’s local-based internationalisation activities to provide authentic learning opportunities for our Lakers to develop 21st century competencies through understanding the history, culture, and language of South Korea; and interacting with their Korean peers.
-
 <br><br>
-
+<img src="/images/Department/17INT/SK2024_1.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Korean students presenting their culture to all our Lakers</span>
+<hr><br>
+<img src="/images/Department/17INT/SK2024_2.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Lakers playing local traditional games with the Korean students</span>
+<hr><br>
+<img src="/images/Department/17INT/SK2024_3.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Korean students having recess with our Lakers</span>
+<hr><br>
+<img src="/images/Department/17INT/SK2024_4.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Korean students engaging in classroom lessons</span>
+<hr><br>
 <center>Overseas Cultural Exchange Programme with Shaanxi Xi’An Gaoxin No.1 Primary School</center>
 
 Our Lakers took charge by warmly hosting our Chinese visitors, introducing them to Singapore's culture and education, and even gifting them with some of our local food. Our Lakers also conducted the school tour; thus, allowing the visitors to learn more about the school's history and total curriculum in a fun and engaging way.
