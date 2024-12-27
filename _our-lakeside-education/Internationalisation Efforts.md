@@ -11,7 +11,7 @@ In Lakeside Primary School, they provide opportunities for students to:
 -	Develop communication and collaboration skills with school mates and international peers
 -	Deepen their appreciation of Singapore’s context in our region and the world
 <br><br>
-<b>Key Programmes and Activities of 2024</b><br><br>
+<b>Key Programmes and Activities of 2024</b><br>
 <center>Overseas Cultural Exchange Programme with Anubansamsen School</center>
 
 The purpose of the visit is to provide opportunities for interaction between the students of both schools, and to help Lakers develop their civil, global and cross-cultural literacy by understanding Thailand’s history, culture and language.
@@ -35,4 +35,4 @@ Our Lakers took charge by warmly hosting our Chinese visitors, introducing them 
 
 The theme for IFD this year is Singapore in Asia. The theme is maintained to encourage Lakers to play an active role in fostering people-to-people ties, celebrate the region’s diversity and vibrancy and promote the spirit of friendship and collaboration.
 <br><br>
-Our school conducted a variety of activities to create an engaging and meaningful experience for Lakers to deepen their understanding of the relations that we share with other countries. 
+Our school conducted a variety of activities to create an engaging and meaningful experience for Lakers to deepen their understanding of the relations that we share with other countries.
