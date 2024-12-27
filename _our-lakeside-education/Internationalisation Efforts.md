@@ -69,3 +69,19 @@ Our Lakers took charge by warmly hosting our Chinese visitors, introducing them 
 The theme for IFD this year is Singapore in Asia. The theme is maintained to encourage Lakers to play an active role in fostering people-to-people ties, celebrate the region’s diversity and vibrancy and promote the spirit of friendship and collaboration.
 <br><br>
 Our school conducted a variety of activities to create an engaging and meaningful experience for Lakers to deepen their understanding of the relations that we share with other countries.
+<br><br>
+<img src="/images/Department/17INT/IFD2024_2.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Choir singing a song from one of the ASEAN members, Philippines</span>
+<hr><br>
+<img src="/images/Department/17INT/IFD2024_1.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Lakers designing kites - Flying kite is one of the recreation activities in ASEAN</span>
+<hr><br>
+<img src="/images/Department/17INT/IFD2024_3.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Lakers using the specially prepared information cards to learn more about ASEAN</span>
+<hr><br>
+<img src="/images/Department/17INT/IFD2024_4.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Prefects teaching their peers to make friendship bands. The colours are related to the 10 countries that make up ASEAN</span>
