@@ -17,9 +17,18 @@ In Lakeside Primary School, they provide opportunities for students to:
 The purpose of the visit is to provide opportunities for interaction between the students of both schools, and to help Lakers develop their civil, global and cross-cultural literacy by understanding Thailand’s history, culture and language.
 <br><br>
 Our Lakers took charge by warmly hosting their Thai visitors, introducing them to Singapore's culture by visiting the Geylang Serai Heritage Gallery and sharing the tradition of Batik painting, even gifting them Batik artworks. The Lakers also led the Amazing Race within the school, allowing the visitors to learn about both Singapore's and the school's history in a fun and engaging way.
-
 <br><br>
-
+<img src="/images/Department/17INT/THAI2024_1.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Learning Journey Programme at Geylang Serai Heritage Gallery with Class 4G </span>
+<hr><br>
+<img src="/images/Department/17INT/THAI2024_2.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Thai students took part in the Amazing Race with our Primary 5 Peer Support Leaders to know more about Lakeside Primary School, Taman Jurong and our Singapore’s pioneer leaders</span>
+<hr><br>
+<img src="/images/Department/17INT/THAI2024_3.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Mrs Liang and Lakers presented the Batik painting to the Thai guest</span><hr>
 <center>Overseas Cultural Exchange Programme with Namwon Elementary School</center>
 The purpose of hosting the Koreans is part of our school’s local-based internationalisation activities to provide authentic learning opportunities for our Lakers to develop 21st century competencies through understanding the history, culture, and language of South Korea; and interacting with their Korean peers.
 
