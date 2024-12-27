@@ -51,9 +51,19 @@ The purpose of hosting the Koreans is part of our school’s local-based interna
 <center>Overseas Cultural Exchange Programme with Shaanxi Xi’An Gaoxin No.1 Primary School</center>
 
 Our Lakers took charge by warmly hosting our Chinese visitors, introducing them to Singapore's culture and education, and even gifting them with some of our local food. Our Lakers also conducted the school tour; thus, allowing the visitors to learn more about the school's history and total curriculum in a fun and engaging way.
-
 <br><br>
-
+<img src="/images/Department/17INT/CHINA2024_1.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> The school staff and Lakers conducted a school tour for the Chinese visitors</span>
+<hr><br>
+<img src="/images/Department/17INT/CHINA2024_2.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Lakers and Chinese students shared about their respective school experiences</span>
+<hr><br>
+<img src="/images/Department/17INT/CHINA2024_3.png" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Mrs Liang exchanged the tokens of appreciation with the Chinese visitors.</span>
+<hr><br>
 <center>International Friendship Day</center>
 
 The theme for IFD this year is Singapore in Asia. The theme is maintained to encourage Lakers to play an active role in fostering people-to-people ties, celebrate the region’s diversity and vibrancy and promote the spirit of friendship and collaboration.
