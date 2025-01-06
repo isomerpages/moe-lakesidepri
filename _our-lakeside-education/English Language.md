@@ -81,7 +81,7 @@ Our schools utilizes the national reading programme “kidsREAD” to help selec
 <u>English Week</u><br>
 English Week is held biennially and revolves around a specially chosen theme. Students explore the selected theme by taking part in the myriad of interesting activities that are conducted in class and during recess.
 <br><br>
-<img src="/images/Department/01EL/ELWeek.png" style="width: 60%; height: 60%;">
+<img src="/images/Department/01EL/ELWeek.jpg" style="width: 60%; height: 60%;">
 <hr><br><br>
 <b>Support Programmes</b><br><br>
 <u>Learning Support Programme (P1 &amp; P2)</u><br>
