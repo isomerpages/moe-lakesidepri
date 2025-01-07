@@ -14,19 +14,10 @@ CCE provides an integrated approach to addressing our students’ development of
 <br><br>
 The CCE Department provides an array of programmes and experiences that provide opportunities for our students to grow in their learning dispositions and be anchored in our school values of <b>L</b>ove, <b>P</b>erseverance, <b>R</b>espect, <b>I</b>ntegrity, <b>D</b>iligence, and <b>E</b>xcellence (<b>L</b>akers <b>PRIDE</b>). CCE also provides for holistic experiences that will nurture our students to be active contributors to Singapore.
 <hr><br><br>
-<b>Learning Dispositions</b>
-<br><br>
-What are Learning Dispositions (LD)? Learning dispositions are positive behaviours and one’s attitudes towards learning. Our Learning Dispositions support our school vision, values and MOE’s 21st century competencies we aim to develop in our students. We have 5 Learning Dispositions – Critical Thinking, Creative Problem Solving, Active Contribution, Leading with Responsibility and Confident Communication.  Our Learning Dispositions are aligned to our school’s vision of ‘A life-long Learner. A virtuous Leader’. <br>
-All our Learning Dispositions are undergirded by our school values. Values are at the core of one's character. They shape the beliefs, attitudes and actions of a person. <br>
-School experiences avail students the opportunity to develop their LDs and prepare them to be future-ready. Together with the support of our parents and partners, we trust we can develop the learning dispositions of our students and become life-long learners and virtuous leaders. 
-<br><br>
-<img src="/images/Department/05CCE/CCE1.png"><br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Learning Disposition statements can be found in our Student Handbook. We invite Parents to partner us in developing the learning dispositions of our students through frequent conversations at home.</span> 
-<hr><br><br>
+
 <b>Values-In-Action</b>
 <br><br>
-Students participate in Values In Action (VIA), both specially catered to their levels as well as school-wide. VIA aims to help students internalise values learnt through real life experiential activities. Through VIA, students learnt to put values into action as well as develop their LDs. 
+Students participate in Values In Action (VIA), both specially catered to their levels as well as school-wide. VIA aims to help students internalise values learnt through real life experiential activities.
 <br><br>
 <img src="/images/Department/05CCE/CCE22024.png">
 <span style="font-size:10pt;">
