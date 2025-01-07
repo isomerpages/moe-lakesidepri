@@ -12,6 +12,8 @@ variant: markdown
 <li><a style="text-decoration: none" href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a></li>
 <li><a style="text-decoration: none" href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank">Academy of Singapore Teachers</a></li>
 <li><a style="text-decoration: none" href="http://singteach.nie.edu.sg/" target="_blank">SINGTEACH</a></li>
+<li><a style="text-decoration: none" href="https://intranet.moe.gov.sg/Finance_Partner_Branch/Pages/cca/index.html" target="_blank">i-document CCA</a></li>
+<li><a style="text-decoration: none" href="https://intranet.moe.gov.sg/Finance_Partner_Branch/Pages/enac/index.html" target="_blank">i -document Enrichment </a></li>
 <li><a style="text-decoration: none" href="https://rbs.avero-tech.com" target="_blank">Resource Booking Service RBS</a></li></ul>
 <hr>
 SSOE 2 Service Desk <span style="font-size:10pt; color: red;">(Mon-Fri: 7am-7pm, Sat: 7am-2pm <span style="color:blue;">•</span> exclude Sundays and Public Holidays)</span>
