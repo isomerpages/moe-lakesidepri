@@ -24,11 +24,9 @@ The three categories of CCAs are as follows;
 <td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Sports</td>
 </tr>
 <tr>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Infocomm Club<br>Library Club
-<br>STE3M Club<br>Scouts</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Choir<br>Dikir Barat<br>Harmonica Ensemble<br>Concert Band<br>Guzheng Ensemble<br>Chinese Dance<br>Indian Dance<br>Malay Dance<br>Speech &amp; Drama<br> Visual Arts Club</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Football<br>Wushu
-<br>Volleyball</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Innovators’ Club<br>Green Club<br>Community Leadership Club<br>Speech &amp; Drama<br>Scouts</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Choir<br>Concert Band<br>Guzheng Ensemble<br>International Dance<br>Visual Arts Club</td>
+<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Football (Boys)<br>Volleyball<br>Wushu<br>Netball (Girls)</td>
 </tr>
 </tbody>
 </table>
