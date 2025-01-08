@@ -31,8 +31,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: Our P1 Orientation Programme welcomes new students and parents to
-        Lakeside Primary School....
+      description: The "Start Right, Right from the Start" programme for Primary 1
+        students on their first day of school is designed to ease the transition
+        into formal education.
   - infopic:
       title: Announcements
       alt: Image alt text
