@@ -84,7 +84,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank
 	<b>Information for Parents</b>
 <li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </li>
 
-<li>Parents who wish to opt their children out of the Sexuality Education lessons would need to opt out via Parent’s Gateway. <b>More information will be made known to parents before the conduct of the lessons.</b></li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons would need to opt out via Parents Gateway. <b>More information will be made known to parents before the conduct of the lessons.</b></li>
 	
 <li>Parents can contact the school at 62620918 or email at lakeside_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
