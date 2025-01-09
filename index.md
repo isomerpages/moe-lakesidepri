@@ -17,6 +17,15 @@ sections:
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
   - infopic:
+      title: Latest Happenings
+      alt: Image alt text
+      image: /images/Home/School Website - Latest Happenings.png
+      url: /announcements-and-latest-happenings/latest-happenings
+      button: Check more Latest Happenings
+      description: The SRRS programme ensures a smoother transition back to school by
+        adopting a differentiated, level-specific approach that emphasizes
+        active engagement.
+  - infopic:
       title: E-Magazine 2024
       id: infopic
       description: We are excited to share the launch of our very first school
@@ -25,15 +34,6 @@ sections:
       url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
       image: /images/Happenings/E MAGAZINE/emag_poster.png
       alt: Image alt text
-  - infopic:
-      title: Latest Happenings
-      alt: Image alt text
-      image: /images/Home/School Website - Latest Happenings.png
-      url: /announcements-and-latest-happenings/latest-happenings
-      button: Check more Latest Happenings
-      description: The "Start Right, Right from the Start" programme for Primary 1
-        students on their first day of school is designed to ease the transition
-        into formal education.
   - infopic:
       title: Announcements
       alt: Image alt text
