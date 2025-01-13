@@ -7,7 +7,7 @@ variant: markdown
 <div style="float: right; margin-right: 15px;"><iframe width="400" height="450" src="https://www.youtube.com/embed/K_BQK5FFZok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <br>
 Dear Lakeside Parents and Guardians,<br><br>
-Welcome to a new academic year at Lakeside! I am really honoured and feel very privileged to serve as the Principal of Lakeside Primary School from 2025.<br><br>
+Welcome to a new academic year at Lakeside! I am really honoured and feel very privileged to serve as the Principal of Lakeside Primary School from 2024.<br><br>
 As we embark on this journey together, I am thrilled to share our overarching theme for the year: <b>"Take Charge, Make a Positive Difference."</b> This theme, an extension from last year’s, embodies our continued commitment to nurturing young minds not only as lifelong learners but as proactive, empathetic individuals poised to make a positive impact in the world.<br><br>
 Our mission at Lakeside remains centred on <b>providing quality education to nurture wholesome individuals</b>. We are dedicated to cultivating a caring and enabling environment where every student feels empowered to become <b>lifelong learners and virtuous leaders</b>.<br><br>
 At the heart of our approach are the <b>Lakeside PRIDE</b> values—<b>Love, Perseverance, Respect, Integrity, Diligence, and Excellence</b>. These values serve as guiding principles, anchoring our students as they strive to achieve their fullest potential.<br><br>
