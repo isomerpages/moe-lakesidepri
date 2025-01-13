@@ -44,7 +44,7 @@ b) <b>Competition</b>
 <span style="color:blue;">•</span> Stepping up, standing tall! Our students are embracing the competition with pride, boosting their confidence, and showing the world what they’re made of! #ProudToCompete #ConfidenceInAction #RisingStars" </span>
 <hr><br>
 c) <b>Outdoor Learning and Cultural Exposure</b>
-<br><br>
+<br>
 <div style="font-size:14pt;" align="justify">We believe in making the language come alive, thus learning is not confined to the classrooms. We create opportunities for authentic learning experiences in class as well as through outdoor learning journeys and culture performances.</div>
 <br><br>
 <img src="/images/Department/04ML/ML_5.png" style="width: 80%; height: 80%;">
