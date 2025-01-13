@@ -16,6 +16,15 @@ Our vision is to cultivate a deep appreciation for the Tamil language and cultur
 <hr><br>
 <img src="/images/Department/04TL/TL_2.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Experiencing Warli Art - Celebrating and Appreciating Indian Culture! <br>
-<span style="color:blue;">•</span> Station-Based Learning - Exploring the 5 Senses! </span>
+<span style="color:blue;">•</span> Experiencing Warli Art - Celebrating and Appreciating Indian Culture! <i style="color:blue;">(left)</i><br>
+<span style="color:blue;">•</span> Station-Based Learning - Exploring the 5 Senses! <i style="color:blue;">(right)</i></span>
 <hr><br>
+<img src="/images/Department/04TL/TL_3.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Engaging Minds with ClassPoint <i style="color:blue;">(left)</i><br>
+<span style="color:blue;">•</span> Transforming Thoughts Creatively with Ed-Tech <i style="color:blue;">(right)</i></span>
+<hr><br>
+<img src="/images/Department/04TL/TL_4.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Student Confidently Reflects on His VR Learning Journey @ MTL Symposium in Suntec <i style="color:blue;">(left)</i><br>
+<span style="color:blue;">•</span> Exploring the World Through VR Goggles <i style="color:blue;">(right)</i></span>
