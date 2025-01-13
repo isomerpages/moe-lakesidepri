@@ -23,19 +23,13 @@ The MTL Fortnight activities are conducted to create an immersive environment fo
 Extensive reading is carried out in all levels every year to encourage students to read different types of story books for enjoyment and to develop their general reading skills. The team has developed differentiated book review templates for the different levels to capture their understanding of the book they have read. Character First stamps will be awarded to students who have met the set targets.
 <br><br>
 Conversational Chinese/Malay (CCM) Programme
-CCM is an enrichment programme for Primary 3 to Primary 5 students who are interested in learning Chinese / Malay language and culture, other than their own Mother Tongue subject. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. The programme is funded by MOE and is optional. The CCM programme comprises three 20-hour modules (one Beginner Module and two Basic Modules). Upon completion of the Beginner Module, students will advance to Basic Module 1 in Primary 4 and Basic Module 2 in Primary 5. By the end of the Primary school education, the students would have covered 60 hours of CCM lessons to prepare them for more advanced modules in their Secondary schools.<div>
+CCM is an enrichment programme for Primary 3 to Primary 5 students who are interested in learning Chinese / Malay language and culture, other than their own Mother Tongue subject. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. The programme is funded by MOE and is optional. The CCM programme comprises three 20-hour modules (one Beginner Module and two Basic Modules). Upon completion of the Beginner Module, students will advance to Basic Module 1 in Primary 4 and Basic Module 2 in Primary 5. By the end of the Primary school education, the students would have covered 60 hours of CCM lessons to prepare them for more advanced modules in their Secondary schools.</div>
 <br><br>
-<img src="/images/Department/04MTL/mtl001.png">
+<img src="/images/Department/04MTL/MTL_3.png">
+<br>
+<img src="/images/Department/04MTL/MTL_5.png">
+<br>
+<img src="/images/Department/04MTL/MTL_4.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students having hands-on experiential learning about the loom weaving during Mother Tongue Fortnight <br><span style="color:blue;">•</span> Students having hands-on experiential learning about ancient Chinese toys during Mother Tongue Fortnight </span>
-<hr><br>
-<img src="/images/Department/04MTL/mtl002.png">
-<br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Tamil Language students having fun at the P4 Cultural Camp, Mother Tongue Fortnight <br><span style="color:blue;">•</span> Students lining up to borrow books at a Library visit during a Malay Language lesson </span>
-<hr><br>
-<img src="/images/Department/04MTL/mtl003.png">
-<br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students learning in an ICT-infused lesson for Tamil Language <br><span style="color:blue;">•</span> Students learning in a games-based lesson for Malay Language </span></div></div>
+<span style="color:blue;">•</span> Bringing Language to Life -  Exploring the World Through VR in MTL Classrooms! <br></span>
