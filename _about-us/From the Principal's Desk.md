@@ -4,7 +4,7 @@ permalink: /about-us/from-the-principals-desk/
 description: ""
 variant: markdown
 ---
-<div><img src="/images/Home/Mrs_Liang2.png" alt="Mrs Liang.png" style="width: 447px; height: 383px; float: right; margin-right: 15px;"></div>
+<div style="float: right; margin-right: 15px;"><iframe width="400" height="450" src="https://www.youtube.com/embed/K_BQK5FFZok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <br>
 Dear Lakeside Parents and Guardians,<br><br>
 Welcome to a new academic year at Lakeside! I am really honoured and feel very privileged to serve as the Principal of Lakeside Primary School from 2025.<br><br>
