@@ -25,11 +25,18 @@ Extensive reading is carried out in all levels every year to encourage students 
 Conversational Chinese/Malay (CCM) Programme
 CCM is an enrichment programme for Primary 3 to Primary 5 students who are interested in learning Chinese / Malay language and culture, other than their own Mother Tongue subject. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. The programme is funded by MOE and is optional. The CCM programme comprises three 20-hour modules (one Beginner Module and two Basic Modules). Upon completion of the Beginner Module, students will advance to Basic Module 1 in Primary 4 and Basic Module 2 in Primary 5. By the end of the Primary school education, the students would have covered 60 hours of CCM lessons to prepare them for more advanced modules in their Secondary schools.</div>
 <br><br>
-<img src="/images/Department/04MTL/MTL_3.png">
+<img src="/images/Department/04MTL/MTL_3.png" style="width: 70%; height: 70%;">
 <br>
-<img src="/images/Department/04MTL/MTL_5.png">
+<img src="/images/Department/04MTL/MTL_5.png" style="width: 70%; height: 70%;">
 <br>
-<img src="/images/Department/04MTL/MTL_4.png">
+<img src="/images/Department/04MTL/MTL_4.png" style="width: 70%; height: 70%;">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Bringing Language to Life -  Exploring the World Through VR in MTL Classrooms! <br></span>
+<span style="color:blue;">•</span> Bringing Language to Life -  Exploring the World Through VR in MTL Classrooms!<br></span>
+<hr><br>
+<img src="/images/Department/04MTL/MTL_1.png" style="width: 70%; height: 70%;">
+<br>
+<img src="/images/Department/04MTL/MTL_2.png" style="width: 70%; height: 70%;">
+<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Learning by Doing -Embracing Culture with Heart and Hands!<br></span>
