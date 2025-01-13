@@ -3,31 +3,28 @@ title: Tamil Language
 permalink: /our-lakeside-education/mother-tongue-languages/tamil-language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
-
-
-
 <b>Overview:</b>
 <br>
-Tamil language (TL) unit has also adopted some of the Making Thinking Visible (MTV) routines in our teaching and learning. These routines were mostly used in oral conversation, comprehension and composition to engage students in critical thinking. The following are some of the common routines used:
-<ul>
-<li>See-Think-Wonder</li>
-<li>Zoom In</li>
-<li>Step In</li>
-<li>Claim- Support- Question</li>
-</ul>
-Apart from this, the TL unit uses the PEARs strategy to prepare students for their e-Video conversation. The strategy consists of the following main areas that have to be considered in students’ conversation:
-<ul>
-<li>People & Place</li>
-<li>Emotion & Environment</li>
-<li>Activity & Action</li>
-<li>Reason & Resolution</li>
-<li>Solution & Suggestion</li>
-</ul>
-In 2019, the TL unit has also embarked on ‘Read to Bond’ programme. Students will bring back a selected passage from their reading booklet to read with their parents. We hope that this initiative will help parents to understand their children’s ability level and help to engage in casual daily conversations.
+<div style="font-size:14pt;" align="justify">At Lakeside Primary School, our Tamil Language Unit is dedicated to nurturing confident communicators, critical thinkers, and culturally aware students who embrace the richness of the Tamil language and heritage. Through engaging lessons, immersive cultural activities, and innovative teaching methods, including EOTs (Elements of Thoughts), MTV (Making Thinking Visible) routines, differentiation instruction, and e-pedagogy, we inspire a lifelong love for Tamil while equipping students with essential 21st-century skills. <br>
+Our vision is to cultivate a deep appreciation for the Tamil language and culture in every student. We focus on developing proficiency in reading, writing, speaking, and listening, while fostering creativity and critical thinking through authentic learning experiences. By promoting cultural pride and appreciation, we encourage students to connect with their heritage and carry these values forward.</div>
 <br><br>
-We are also subscribing to the weekly Tamil Maanavar Murasu newspaper for the primary 3 Tamil students. We hope that this will help to promote the love for reading as well as to build children’s vocabulary. Various follow up activities such as journaling will be carried out as part of the lesson.
-<br><br>
-Learning stations are also created in the Tamil classrooms for higher progress students to purposefully engage in when they have completed their work. Learning stations include ‘Reporter’s Corner’ and ‘Debating Corner’ for the upper primary students and ‘Show and Tell Corner’ for the lower primary students.
-<br><br>
-Students are also strongly encouraged to take part in the external competitions to build their confidence and get exposure to stage presentations.
+<img src="/images/Department/04TL/TL_1.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> P1s using Reading Pen to assist them with reading. </span>
+<hr><br>
+<img src="/images/Department/04TL/TL_2.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Experiencing Warli Art - Celebrating and Appreciating Indian Culture! <i style="color:blue;">(left)</i><br>
+<span style="color:blue;">•</span> Station-Based Learning - Exploring the 5 Senses! <i style="color:blue;">(right)</i></span>
+<hr><br>
+<img src="/images/Department/04TL/TL_3.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Engaging Minds with ClassPoint <i style="color:blue;">(left)</i><br>
+<span style="color:blue;">•</span> Transforming Thoughts Creatively with Ed-Tech <i style="color:blue;">(right)</i></span>
+<hr><br>
+<img src="/images/Department/04TL/TL_4.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Student Confidently Reflects on His VR Learning Journey @ MTL Symposium in Suntec <i style="color:blue;">(left)</i><br>
+<span style="color:blue;">•</span> Exploring the World Through VR Goggles <i style="color:blue;">(right)</i></span>
