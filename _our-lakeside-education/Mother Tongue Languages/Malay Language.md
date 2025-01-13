@@ -21,7 +21,7 @@ Our dedicated Malay Language teachers create meaningful and enjoyable learning e
 Reading, listening, writing and oratorical skills are developed through a multitude of programmes. The following are some of our Unit’s signature programmes:
 <br><br>
 a) <b>Reading Programmes</b>
-<br><br>
+<br>
 <div style="font-size:14pt;" align="justify">We firmly believe that fostering a love for reading from an early age provides our students with a valuable head start in expanding their vocabulary and cultivating qualities such as independence and self-confidence. Beyond the enhancement of language skills, this practice equips them with the ability to comprehend not only the world around them but also the intricacies of human interactions, contributing to the development of essential social-emotional skills and nurturing their imaginative faculties.
 <br><br>
 Our <b>Extensive Reading Programme</b> inspires students to explore a wide range of Malay books, fostering understanding and a love for reading. Students enjoy the freedom to choose books based on their interests, with access to diverse collections from school and class libraries.
@@ -35,15 +35,15 @@ By integrating these reading programs, we offer a holistic approach to literacy,
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Bookworms in the making! <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Our students are embracing the joy of picking the books that spark their curiosity <i style="color:blue;">(right)</i></span>
 <hr><br>
-b)Competition
-<br><br>
+b) <b>Competition</b>
+<br>
 <div style="font-size:14pt;" align="justify">The Malay Language Unit aims to help students enhance their language skills, motivating them to refine grammar, vocabulary, and communication by encouraging them to partake in language competitions within school as well as inter-school. These competitions also help to foster cultural appreciation, deepening understanding of language-related traditions and heritage. Participation boosts confidence, cultivating public speaking skills and resilience under pressure. Recognition gained from competitions validates hard work and dedication, enhancing students’ self-worth. In essence, language competitions support holistic personal and academic growth.</div>
 <br><br>
 <img src="/images/Department/04ML/ML_4.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Stepping up, standing tall! Our students are embracing the competition with pride, boosting their confidence, and showing the world what they’re made of! #ProudToCompete #ConfidenceInAction #RisingStars" </span>
 <hr><br>
-c) Outdoor Learning and Cultural Exposure
+c) <b>Outdoor Learning and Cultural Exposure</b>
 <br><br>
 <div style="font-size:14pt;" align="justify">We believe in making the language come alive, thus learning is not confined to the classrooms. We create opportunities for authentic learning experiences in class as well as through outdoor learning journeys and culture performances.</div>
 <br><br>
