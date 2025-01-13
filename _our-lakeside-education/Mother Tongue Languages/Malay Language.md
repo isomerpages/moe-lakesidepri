@@ -50,4 +50,3 @@ c) Outdoor Learning and Cultural Exposure
 <img src="/images/Department/04ML/ML_5.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Exploring cultures through the magic of theater! Our students are not just watching, they're immersing themselves in a world of stories, creativity, and cultural discovery! </span>
-
