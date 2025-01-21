@@ -43,7 +43,6 @@ Thank you for your partnership in their educational journey!<br><br>
 <li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">Information on MOE Financial Assistance Scheme (FAS)</a></li>
 <li><a href="https://go.gov.sg/moe-efas" target="_blank">MOE Financial Assistance Scheme Application Form</a></li>
 <li><a href="https://eservice.imda.gov.sg/das/homepage" target="_blank"> DigitalAccess@HOME - subsidised broadband and laptops/tablets</a></li>
-<li><a href="https://www.msf.gov.sg/Comcare/Pages/Comcare-Student-Care-Subsidies.aspx" target="_blank"> Care Financial Assistance Scheme (SCFA)</a></li>
 </details><br>
 <details><summary><b>Parents Gateway</b></summary>
 <li><a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (moe.edu.sg)</a></li>
