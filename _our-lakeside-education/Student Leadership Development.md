@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 ---
 <h5>Curriculum Goals / Overview:</h5>
-<div style="font-size:14pt;" align="justify">Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.</div><br>
-<div style="font-size:14pt;" align="justify">Framed to the school-based <b><i>3C Constructs of Leadership</i></b>, leadership development programmes are planned and implemented to maximise the leadership potential of Laker Leaders, growing them to be active contributors and confident voices that promote leadership, positive learning culture and school spirit among students.</div>
+<div style="font-size:14pt;" align="justify">Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.<br><br>
+Framed to the school-based <b><i>3C Constructs of Leadership</i></b>, leadership development programmes are planned and implemented to maximise the leadership potential of Laker Leaders, growing them to be active contributors and confident voices that promote leadership, positive learning culture and school spirit among students.</div>
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
