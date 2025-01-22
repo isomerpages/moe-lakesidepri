@@ -27,7 +27,7 @@ We promote a positive school climate through proactive initiatives, such as ACES
 The After Curriculum Engagement and Support (ACES) programme caters to identified P4-6 students. It has evolved to provide life-skills coaching and mentoring for its members. Enrichment activities were infused into the ACES experience to strengthen relationships with adults and promote a positive peer culture. The design of ACES aligns to the school’s 3-INs framework: <i><b>IN</b>TEREST-<b>IN</b>VOLVE-<b>IN</b>ITIATE</i>, i.e. to bring about positive experiences, purposeful engagement and motivation in the students.<br><br>
 ACES allows students drop in at the BRight Room after school to engage in meaningful peer bonding, positive social interaction and learning through recreational activities. Here, students can develop a sense of belonging and being valued; where they share the challenges they are facing while supporting one another.
 <br><br>
-<img src="/images/Department/10SDT/SDT1.png">
+<img src="/images/Department/09PD/PD1.png">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Leading Self is taking ownership of our attitudes and contributing to the BRight school culture.</span>
 <br><br>
