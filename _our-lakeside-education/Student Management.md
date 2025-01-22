@@ -5,27 +5,27 @@ variant: markdown
 description: ""
 ---
 <h5>Curriculum Goals / Overview:</h5>
-Together with Student Leadership Development, Student Management (Discipline) resides in the Pupil Development (PD) Department which aims to maintain the positive school tone that encourages students to develop and exercise self-discipline and leadership. This supports the school’s continuous efforts to strengthen positive school culture and enhance pro-social relationships amongst students, teachers and parents.
+<div style="font-size:14pt;" align="justify">Together with Student Leadership Development, Student Management (Discipline) resides in the Pupil Development (PD) Department which aims to maintain the positive school tone that encourages students to develop and exercise self-discipline and leadership. This supports the school’s continuous efforts to strengthen positive school culture and enhance pro-social relationships amongst students, teachers and parents.</div>
 <h5>LAKESIDE PRIMARY SCHOOL APPROACH TOWARDS DISCIPLINE</h5>
 <br>
 <img src="/images/Department/09PD/PUPIL_M1.png" style="width: 80%; height: 80%;">
-At Lakeside Primary School, our discipline framework focuses on cultivating self-leadership, accountability, and respect in all students. Rooted in Restorative Practices (RP), our approach emphasizes empathy, relationship-building, and sustainable behavioral change over punitive measures. By addressing inappropriate behavior promptly and constructively, we ensure students develop the self-discipline and character necessary for lifelong success.
+<div style="font-size:14pt;" align="justify">At Lakeside Primary School, our discipline framework focuses on cultivating self-leadership, accountability, and respect in all students. Rooted in Restorative Practices (RP), our approach emphasizes empathy, relationship-building, and sustainable behavioral change over punitive measures. By addressing inappropriate behavior promptly and constructively, we ensure students develop the self-discipline and character necessary for lifelong success.</div>
 <br><br>
 <b>Key Components of Our Discipline Framework:</b><br><br>
 <b>1.	Setting Clear Expectations</b><br>
-We establish a safe, respectful, and conducive learning environment by clearly communicating behavioral expectations. This proactive approach fosters consistency and reinforces positive behavior across the school community.<br><br>
+<div style="font-size:14pt;" align="justify">We establish a safe, respectful, and conducive learning environment by clearly communicating behavioral expectations. This proactive approach fosters consistency and reinforces positive behavior across the school community.</div><br><br>
 <b>2.	Stop, Think, Do – Traffic Light Method</b><br>
-Using the “Stop, Think, Do” method, students are guided to pause, reflect on their actions, and make responsible decisions. This process aligns with our school’s LPRIDE values, encouraging self-regulation and thoughtful decision-making.<br><br>
+<div style="font-size:14pt;" align="justify">Using the “Stop, Think, Do” method, students are guided to pause, reflect on their actions, and make responsible decisions. This process aligns with our school’s LPRIDE values, encouraging self-regulation and thoughtful decision-making.<div><br><br>
 <img src="/images/Department/09PD/PUPIL_M2.png" style="width: 80%; height: 80%;"><br>
 <b>3.	Restorative Practices</b><br>
-Restorative Practices form the heart of our discipline approach, focusing on accountability, repairing harm, and strengthening relationships. Through restorative circles, students explore the impact of their actions on others and work towards meaningful resolutions.<br><br>
+<div style="font-size:14pt;" align="justify">Restorative Practices form the heart of our discipline approach, focusing on accountability, repairing harm, and strengthening relationships. Through restorative circles, students explore the impact of their actions on others and work towards meaningful resolutions.</div><br><br>
 <h5>Pillars of our Discipline Strategy</h5>
 <b>1.	Prevention</b><br>
-We promote a positive school climate through proactive initiatives, such as ACES, Social Skills Workshops and Cyber-Wellness activities, that reinforce core values, enhance well-being, and reduce the likelihood of negative behaviors.
+<div style="font-size:14pt;" align="justify">We promote a positive school climate through proactive initiatives, such as ACES, Social Skills Workshops and Cyber-Wellness activities, that reinforce core values, enhance well-being, and reduce the likelihood of negative behaviors.</div>
 <br><br>
 <u>ACES</u> <br>
-The After Curriculum Engagement and Support (ACES) programme caters to identified P4-6 students. It has evolved to provide life-skills coaching and mentoring for its members. Enrichment activities were infused into the ACES experience to strengthen relationships with adults and promote a positive peer culture. The design of ACES aligns to the school’s 3-INs framework: <i><b>IN</b>TEREST-<b>IN</b>VOLVE-<b>IN</b>ITIATE</i>, i.e. to bring about positive experiences, purposeful engagement and motivation in the students.<br><br>
-ACES allows students drop in at the BRight Room after school to engage in meaningful peer bonding, positive social interaction and learning through recreational activities. Here, students can develop a sense of belonging and being valued; where they share the challenges they are facing while supporting one another.
+<div style="font-size:14pt;" align="justify">The After Curriculum Engagement and Support (ACES) programme caters to identified P4-6 students. It has evolved to provide life-skills coaching and mentoring for its members. Enrichment activities were infused into the ACES experience to strengthen relationships with adults and promote a positive peer culture. The design of ACES aligns to the school’s 3-INs framework: <i><b>IN</b>TEREST-<b>IN</b>VOLVE-<b>IN</b>ITIATE</i>, i.e. to bring about positive experiences, purposeful engagement and motivation in the students.<br><br>
+ACES allows students drop in at the BRight Room after school to engage in meaningful peer bonding, positive social interaction and learning through recreational activities. Here, students can develop a sense of belonging and being valued; where they share the challenges they are facing while supporting one another.</div>
 <br><br>
 <img src="/images/Department/09PD/PD1.png">
 <span style="font-size:10pt;">
@@ -40,7 +40,7 @@ When misconduct occurs, we apply restorative interventions to ensure fairness an
 Even when consequences are necessary, they are implemented with a restorative focus. Examples include:<br>
 • <b>Behaviour Contracts</b> and <b>Reflection Time (RT)</b> to encourage personal growth<br>
 • Traditional consequences such as detention, suspension are used in conjunction with restorative efforts<br><br>
-Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br>
+<div style="font-size:14pt;" align="justify">Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.</div>
 <h5>Lakeside Primary School Offenses and Consequences Framework</h5>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody>
@@ -73,7 +73,7 @@ Lakeside Primary School’s discipline approach ensures that every student is su
 <span style="font-size:10pt;">*Bullying involves hurting or intimidating others repeatedly to deliberately cause harm, distress or humiliation. It can be physical verbal or relational/social in nature.</span>
 <br><br><br>
 <b>Disciplinary Consequences (categorised by severity and frequency)</b><br><br>
-To ensure fair and consistent discipline, consequences at Lakeside Primary School are categorized based on the severity or frequency of the offence. Each consequence is designed to be restorative, aiming to promote accountability, repair harm, and support personal growth.<br><br>
+<div style="font-size:14pt;" align="justify">To ensure fair and consistent discipline, consequences at Lakeside Primary School are categorized based on the severity or frequency of the offence. Each consequence is designed to be restorative, aiming to promote accountability, repair harm, and support personal growth.</div><br><br>
 <b>Guiding Principles</b><br>
 All consequences are guided by the following principles:<br>
 •	<b>Fairness and Consistency</b>: Ensuring all students are treated equitably.<br>
@@ -114,4 +114,4 @@ Examples: Physical violence, severe vandalism, or repeated high-severity miscond
 <b>Consequences:</b><br>
 •	<b>Caning</b> (for boys, in accordance with school policy)<br>
 •	<b>External Agency Referral</b> (e.g., social services or professional counselors)<br>
-•	<b>Restorative Justice Conference</b> (involving all affected parties)
+•	<b>Restorative Justice Conference</b> (involving all affected parties)</div></div>
