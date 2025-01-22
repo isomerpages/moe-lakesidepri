@@ -4,9 +4,9 @@ permalink: /student-leadership/
 variant: markdown
 description: ""
 ---
-<h5>Curriculum Goals / Overview:</h5><br>
+<h5>Curriculum Goals / Overview:</h5>
 <div style="font-size:14pt;" align="justify">Embracing the school’s philosophy <i>Every Individual C.A.N.</i>, a duo-pronged approach allows all Lakers to be given the opportunity to learn and practice leadership and to develop his / her leadership potential.  Through school- and level-wide character and leadership programmes, students learn to be responsible and are empowered to take ownership of their attitudes, behavior, emotions and choices. They also learn to appreciate and to work with leaders in class and in school.</div>
-<br><br>
+<br>
 <div style="font-size:14pt;" align="justify">Framed to the school-based <b><i>3C Constructs of Leadership</i></b>, leadership development programmes are planned and implemented to maximise the leadership potential of Laker Leaders, growing them to be active contributors and confident voices that promote leadership, positive learning culture and school spirit among students.</div>
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
@@ -42,7 +42,7 @@ Senior CCA Leaders/ Prefects / PSL /<br>(mostly their 3<sup style="margin: 0px; 
 
 <h5>Key Programmes:</h5>
 <u>Student Leaders in action</u><br>
-<div style="font-size:14pt;" align="justify">Leadership is a craft, best learnt through experiences.  Every Laker is empowered to Takes Charge and Lead with Lakeside PRIDE, demonstrating the school values in their actions. <br><br>
+<div style="font-size:14pt;" align="justify">Leadership is a craft, best learnt through experiences.  Every Laker is empowered to Takes Charge and Lead with Lakeside PRIDE, demonstrating the school values in their actions.<br><br>
 In Lakeside Primary, our student leaders are provided numerous platforms to grow their leadership skills. In their second and third year as student leaders (Prefects, Peer Support Leaders, CCA Leaders), they will attend a 2-day Student Leaders’ Camp, where they will learn to apply and put into practice the 7 Habits and Design Thinking in their projects and student-led activities held as part the school programmes such as <i>CCA Xperience, Teachers’ Day Celebration, International Friendship Day, Earth Week, e.t.c.</i></div>
 <br><br>
 <img src="/images/Department/09PD/PD2.png">
@@ -52,12 +52,12 @@ In Lakeside Primary, our student leaders are provided numerous platforms to grow
 <hr><br>
 <u>Student Leaders Development- Leader in Me®</u><br>
 <div style="font-size:14pt;" align="justify">The school adopted <i>The Leader in Me® programme</i>, which is adapted from Stephen Covey’s 7 Habits of Highly Effective People, for our leadership development curriculum. In the first year of their appointment, all student leaders will be imparted knowledge and hands-on practice based on the <i>The Leader in Me®</i> programme.</div>
-<br><br>
+<br>
 <u>The Prefect EXCO and Head Prefect Elections</u><br>
 <div style="font-size:14pt;" align="justify">The Elections running up to the Annual Student Leaders Investiture provides an authentic learning experience, which complements the school’s efforts in cultivating character and life skills through leadership and values education.</div>
-<br><br>
+<br>
 <div style="font-size:14pt;" align="justify">The Prefect EXCO Elections provides Primary 4 and 5 prefect candidates the experience of public speaking and responsible decision-making. During the Elections Campaign Week, identified EXCO candidates will share their leadership experiences, ideas and personal values during school assemblies. Such a platform will allow the head prefect candidates to apply the 3C Leadership Construct of being confident, competent and committed leaders.</div>
-<br><br>
+<br>
 <img src="/images/Department/09PD/PD3.png">
 <br>
 <span style="font-size:10pt;">
@@ -70,7 +70,7 @@ In Lakeside Primary, our student leaders are provided numerous platforms to grow
 <hr><br>
 <u>BRRP</u><br>
 <div style="font-size:14pt;" align="justify"><i>BRight Room Recess Play (BRRP)</i> allows students drop in at the BRight Room during recess for meaningful peer bonding, positive social interaction and learning through recreational activities.  Initiated in 2023 by our SEN officers, BRRP serves to promote an inclusive unstructured play environment allowing the students to develop confidence and SE competencies, while engaging their peers in indoor small group play.  BRRP now empower Peer Support Leaders (PSLs) to manage and promote peer bonding and social interaction, fostering inclusivity, peer bonding and support.</div>
-<br><br>
+<br>
 <img src="/images/Department/09PD/PD5.png">
 <br>
 <span style="font-size:10pt;">
