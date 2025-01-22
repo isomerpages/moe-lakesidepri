@@ -4,6 +4,8 @@ permalink: /student-management/
 variant: markdown
 description: ""
 ---
+<h5>Curriculum Goals / Overview:</h5>
+Together with Student Leadership Development, Student Management (Discipline) resides in the Pupil Development (PD) Department which aims to maintain the positive school tone that encourages students to develop and exercise self-discipline and leadership. This supports the school’s continuous efforts to strengthen positive school culture and enhance pro-social relationships amongst students, teachers and parents.
 <h5>LAKESIDE PRIMARY SCHOOL APPROACH TOWARDS DISCIPLINE</h5>
 <br>
 <img src="/images/Department/09PD/PUPIL_M1.png" style="width: 80%; height: 80%;">
@@ -17,13 +19,14 @@ Using the “Stop, Think, Do” method, students are guided to pause, reflect on
 <img src="/images/Department/09PD/PUPIL_M2.png" style="width: 80%; height: 80%;"><br>
 <b>3.	Restorative Practices</b><br>
 Restorative Practices form the heart of our discipline approach, focusing on accountability, repairing harm, and strengthening relationships. Through restorative circles, students explore the impact of their actions on others and work towards meaningful resolutions.<br><br>
+<h5>Pillars of our Discipline Strategy</h5>
 <b>1.	Prevention</b><br>
-We promote a positive school climate through proactive initiatives such as:<br>
-• PAVE (Pre-Assembly Values Education) and Recess Engagement<br>
-• Social Skills Workshops and Cyber-Wellness Activities<br>
-• ACES (After Curriculum Engagement and Support) Programme<br>
-• Peer Support and Leadership Development Programmes<br><br>
-These initiatives reinforce core values, enhance well-being, and reduce the likelihood of negative behaviors.<br><br>
+We promote a positive school climate through proactive initiatives, such as ACES, Social Skills Workshops and Cyber-Wellness activities, that reinforce core values, enhance well-being, and reduce the likelihood of negative behaviors.
+<br><br>
+<u>ACES</u> <br>
+The After Curriculum Engagement and Support (ACES) programme caters to identified P4-6 students. It has evolved to provide life-skills coaching and mentoring for its members. Enrichment activities were infused into the ACES experience to strengthen relationships with adults and promote a positive peer culture. The design of ACES aligns to the school’s 3-INs framework: <i><b>IN</b>TEREST-<b>IN</b>VOLVE-<b>IN</b>ITIATE</i>, i.e. to bring about positive experiences, purposeful engagement and motivation in the students.<br><br>
+ACES allows students drop in at the BRight Room after school to engage in meaningful peer bonding, positive social interaction and learning through recreational activities. Here, students can develop a sense of belonging and being valued; where they share the challenges they are facing while supporting one another.
+<br><br>
 <b>2.	Intervention</b><br>
 When misconduct occurs, we apply restorative interventions to ensure fairness and dignity. Key strategies include:<br>
 • Facilitating circle time to address issues constructively<br>
@@ -33,7 +36,6 @@ When misconduct occurs, we apply restorative interventions to ensure fairness an
 Even when consequences are necessary, they are implemented with a restorative focus. Examples include:<br>
 • <b>Behaviour Contracts</b> and <b>Reflection Time (RT)</b> to encourage personal growth<br>
 • Traditional consequences such as detention, suspension are used in conjunction with restorative efforts<br><br>
-<b>Conclusion</b><br>
 Lakeside Primary School’s discipline approach ensures that every student is supported in developing empathy, accountability, and resilience. By combining clear expectations, thoughtful interventions, and restorative practices, we nurture responsible, self-disciplined individuals ready to lead with integrity.<br>
 <h5>Lakeside Primary School Offenses and Consequences Framework</h5>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
@@ -48,14 +50,13 @@ Lakeside Primary School’s discipline approach ensures that every student is su
 • Littering<br>
 • Improper attire/grooming (disobeying school<br>
    rules on attire, hairdo, jewellery, etc)<br>
-• Use of vulgar language (verbalising coarse or abusive language)
 </td>
-<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">Skipping lessons/Leaving school grounds without permission during school hours<br>
-• Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
+<td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">• Skipping lessons/Leaving school grounds without permission during school hours<br>
+• Truancy (being absent from school without a valid reason during school days (Mon-Fri)<br>
 • Forgery (forging signatures, medical certificates, consent forms, etc)<br>
 • Cheating in assessments/tests/ examinations<br>
 • Disruptive behaviour<br>
-• Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
+• Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language; using/verbalising vulgar, coarse or abusive language <br>
 •  Hurtful behaviour/ *bullying<br>
 • Theft (stealing school property or property belonging to others)<br>
 • Vandalism (vandalising school or personal property, writing graffiti)<br>
