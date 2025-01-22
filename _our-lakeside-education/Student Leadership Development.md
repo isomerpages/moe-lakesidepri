@@ -68,8 +68,8 @@ The Prefect EXCO Elections provides Primary 4 and 5 prefect candidates the exper
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Led by the Head Prefect, Lakers recite the Laker Leaders Creed as a school.  <br><span style="color:blue;">•</span> The Laker Leaders Creed, launched at the Student Leaders Investiture 2021, signals to all students that everyone plays a leadership role, regardless of appointment</span>
 <hr><br>
-<u>BRRP</u>
-BRight Room Recess Play (BRRP) allows students drop in at the BRight Room during recess for meaningful peer bonding, positive social interaction and learning through recreational activities.  Initiated in 2023 by our SEN officers, BRRP serves to promote an inclusive unstructured play environment allowing the students to develop confidence and SE competencies, while engaging their peers in indoor small group play.  BRRP now empower Peer Support Leaders (PSLs) to manage and promote peer bonding and social interaction, fostering inclusivity, peer bonding and support. 
+<u>BRRP</u><br>
+<i>BRight Room Recess Play (BRRP)</i> allows students drop in at the BRight Room during recess for meaningful peer bonding, positive social interaction and learning through recreational activities.  Initiated in 2023 by our SEN officers, BRRP serves to promote an inclusive unstructured play environment allowing the students to develop confidence and SE competencies, while engaging their peers in indoor small group play.  BRRP now empower Peer Support Leaders (PSLs) to manage and promote peer bonding and social interaction, fostering inclusivity, peer bonding and support. 
 <br><br>
 <img src="/images/Department/09PD/PD5.png">
 <br>
