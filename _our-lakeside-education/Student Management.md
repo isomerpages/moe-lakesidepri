@@ -52,8 +52,7 @@ Even when consequences are necessary, they are implemented with a restorative fo
 <td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">• Late coming (late for school with no valid reason)<br>
 • Failure to complete assignment<br>
 • Littering<br>
-• Improper attire/grooming (disobeying school<br>
-   rules on attire, hairdo, jewellery, etc)<br>
+• Improper attire/grooming (disobeying school rules on attire, hairdo, jewellery, etc)<br>
 </td>
 <td width="128" style="padding: 5px; border: 1px solid rgb(42, 42, 42);">• Skipping lessons/Leaving school grounds without permission during school hours<br>
 • Truancy (being absent from school without a valid reason during school days (Mon-Fri)<br>
