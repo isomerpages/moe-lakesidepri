@@ -27,9 +27,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: The SRRS programme ensures a smoother transition back to school by
-        adopting a differentiated, level-specific approach that emphasizes
-        active engagement.
+      description: The P5 Outdoor Adventure Camp which concluded recently is a
+        platform which provided an exceptional opportunity for our students...
   - infopic:
       title: E-Magazine 2024
       id: infopic
