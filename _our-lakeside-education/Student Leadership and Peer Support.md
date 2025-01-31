@@ -1,5 +1,5 @@
 ---
-title: Student Leadership Development
+title: Student Leadership and Peer Support
 permalink: /student-leadership/
 variant: markdown
 description: ""
