@@ -27,8 +27,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: The P5 Outdoor Adventure Camp which concluded recently is a
-        platform which provided an exceptional opportunity for our students...
+      description: Lakeside Primary School was awarded 3 Stars in the Green Schools @
+        South West 2024 programme on 25 January 2025...
   - infopic:
       title: E-Magazine 2024
       id: infopic
