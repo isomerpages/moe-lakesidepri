@@ -21,7 +21,7 @@ Wishing everyone a Happy New Year and a prosperous Year of the Snake!</div>
 <img src="/images/Happenings/CNY2025/CNY2025_3.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> PSG Performance <i style="color:blue;">(top left)</i><br><span style="color:blue;">•</span> Teachers from Chinese Language Unit <i style="color:blue;">(bottom left)</i><br><span style="color:blue;">•</span> Peer Support Leaders with the seniors from Lions <i style="color:blue;">(right)</i></span>
-<br><hr>
+<hr><br>
 <img src="/images/Happenings/CNY2025/CNY2025_4.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>School Leaders with members of the Parents Support Group</span>
