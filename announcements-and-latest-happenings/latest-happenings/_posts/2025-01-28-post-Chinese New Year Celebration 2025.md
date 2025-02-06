@@ -16,7 +16,7 @@ Wishing everyone a Happy New Year and a prosperous Year of the Snake!</div>
 <br><hr>
 <img src="/images/Happenings/CNY2025/CNY2025_2.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Class activity – Word Art – 春（Spring） <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> School Leaders with lion dance troupe <i style="color:blue;">(top right)</i><br><span style="color:blue;">•</span> Choir performance <i style="color:blue;">(bottom right)</i></span>
+<span style="color:blue;">•</span> Class activity – Word Art – 春（Spring）<i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> School Leaders with lion dance troupe <i style="color:blue;">(top right)</i><br><span style="color:blue;">•</span> Choir performance <i style="color:blue;">(bottom right)</i></span>
 <br><hr>
 <img src="/images/Happenings/CNY2025/CNY2025_3.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
