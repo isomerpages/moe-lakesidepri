@@ -13,4 +13,3 @@ They also learnt more about the contributions of the Malay community and how the
 <img src="/images/Happenings/LJGEYLANG/LJGEYLANG_1.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Gaining valuable insights into the contributions of our Malay community <i style="color:blue;">(top left)</i><br><span style="color:blue;">•</span> Visiting Geylang Serai Market which is part of the cultural heritage in Geylang Serai. <i style="color:blue;">(bottom left)</i><br><span style="color:blue;">•</span> Learning about Malay traditional food  <i style="color:blue;">(right)</i></span>
-
