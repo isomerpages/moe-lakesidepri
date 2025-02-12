@@ -17,11 +17,6 @@ sections:
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
   - infopic:
-      title: Happy Chinese New Year
-      id: infopic
-      image: /images/Announcements/CNY_2025.png
-      alt: Image alt text
-  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
