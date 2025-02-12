@@ -1,7 +1,7 @@
 ---
 title: Green Schools @ South West CDC – 3 Star award
 permalink: /green-schools-south-west-cdc-3-star-award/
-date: 2025-02-04
+date: 2025-01-25
 layout: post
 description: ""
 image: ""
@@ -15,5 +15,3 @@ Throughout the year, our students actively participated in various initiatives t
 <img src="/images/Happenings/GREEN%20SCHOOL/GREENSCHL_1.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Ms Han (VP) receiving the award from Deputy Prime Minister, Mr Gan Kim Yong <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Students participating in whole school recycling drive <i style="color:blue;">(right)</i></span>
-
-
