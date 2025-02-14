@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.00am - 6.00pm
+        time: 7.30am - 5.30pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.00am - 12.00pm
@@ -23,4 +23,5 @@ contacts:
       - email: lakeside_ps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: https://form.gov.sg/62860cbe1ff1ef001281ab69
 ---
