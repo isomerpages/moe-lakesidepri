@@ -102,5 +102,6 @@ Assessment plays a key role in supporting students' learning and development. We
 <li>Assessment for Learning (AfL): This is an ongoing process where teachers check students’ understanding during lessons and adjust teaching to meet their needs. It includes quizzes, discussions, and teacher feedback to help students improve continuously.</li>
 <li>Assessment of Learning (AoL): These are formal assessments, such as weighted assessments and examinations, that evaluate students’ learning at specific points. They provide insights into overall progress and mastery of key concepts.</li></ul>
 Feedback is provided to students through a variety of ways which include daily worksheets and the use of checklists and rubrics. Some checklists and rubrics that we use are shown below.<br><br>
-P1 Skills Checklist; P2 Reading Aloud Rubrics; Writing Checklist; Presentation Rubrics<br><br>
+<a href="/files/EL/P1_Term_1_Skills_Checklist_for_uploading.pdf" target="_blank">P1 Skills Checklist</a>; <a href="/files/EL/P2_Reading_Aloud_Rubrics.pdf" target="_blank">P2 Reading Aloud Rubrics</a>; <a href="/files/EL/Writing_Checklist_for_uploading.pdf" target="_blank">Writing Checklist</a>; <a href="/files/EL/Oral_Presentation_Feedback_Form_for_uploading.pdf" target="_blank">Presentation Rubrics</a>
+<br><br>
 Both AfL and AoL work together to ensure students receive the right support while building confidence in their learning. We also want to encourage our students to focusing on their progress rather than just results.
