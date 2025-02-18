@@ -97,7 +97,7 @@ Our School Library is named Garden Of Wonders (GROW) and our GROW activities are
 The GROW Team organises activities in the Media Resource Library to promote the use of the library and promote the love for reading. The Lakers’ Challenge, carried out since 2018, helps to drive the reading culture in the school.
 <br><br>
 <b>Assessment (English)</b><br>
-Assessment plays a key role in supporting students' learning and development. We use a mix of Assessment for Learning (AfL) and Assessment of Learning (AoL) to track progress and provide meaningful feedback.<br><br>
+Assessment plays a key role in supporting students' learning and development. We use a mix of Assessment for Learning (AfL) and Assessment of Learning (AoL) to track progress and provide meaningful feedback.<br>
 <ul>
 <li>Assessment for Learning (AfL): This is an ongoing process where teachers check students’ understanding during lessons and adjust teaching to meet their needs. It includes quizzes, discussions, and teacher feedback to help students improve continuously.</li>
 <li>Assessment of Learning (AoL): These are formal assessments, such as weighted assessments and examinations, that evaluate students’ learning at specific points. They provide insights into overall progress and mastery of key concepts.</li></ul>
