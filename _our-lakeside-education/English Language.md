@@ -58,6 +58,16 @@ Here are some of the strategies we adopt for the teaching and learning of skills
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Language Use</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Annotation</td></tr></tbody></table>
 <hr><br>
+<b>Assessment</b><br>
+Assessment plays a key role in supporting students' learning and development. We use a mix of Assessment for Learning (AfL) and Assessment of Learning (AoL) to track progress and provide meaningful feedback.<br>
+<ul>
+<li>Assessment for Learning (AfL): This is an ongoing process where teachers check students’ understanding during lessons and adjust teaching to meet their needs. It includes quizzes, discussions, and teacher feedback to help students improve continuously.</li>
+<li>Assessment of Learning (AoL): These are formal assessments, such as weighted assessments and examinations, that evaluate students’ learning at specific points. They provide insights into overall progress and mastery of key concepts.</li></ul>
+Feedback is provided to students through a variety of ways which include daily worksheets and the use of checklists and rubrics. Some checklists and rubrics that we use are shown below.<br><br>
+<a href="/files/EL/p1_term_1_skills_checklist.pdf" target="_blank">P1 Skills Checklist</a>; <a href="/files/EL/p2_reading_aloud_rubrics.pdf" target="_blank">P2 Reading Aloud Rubrics</a>; <a href="/files/EL/writing_checklist.pdf" target="_blank">Writing Checklist</a>; <a href="/files/EL/oral_presentation_feedback_form.pdf" target="_blank">Presentation Rubrics</a>
+<br><br>
+Both AfL and AoL work together to ensure students receive the right support while building confidence in their learning. We also want to encourage our students to focusing on their progress rather than just results.
+<hr><br>
 <b>Key Programmes:</b><br><br>
 <u>Drop Everything And Read (DEAR)</u><br>
 1 English period is set aside each week for our students to engage in reading-related activities. The various activities include: reading of storybooks, reading of articles related to the current STELLAR unit, and reading of the ‘Little Red Dot’ publication by Singapore Press Holdings.
@@ -96,12 +106,3 @@ Our School Library is named Garden Of Wonders (GROW) and our GROW activities are
 <u>Lakers’ Challenge</u><br>
 The GROW Team organises activities in the Media Resource Library to promote the use of the library and promote the love for reading. The Lakers’ Challenge, carried out since 2018, helps to drive the reading culture in the school.
 <br><br>
-<b>Assessment (English)</b><br>
-Assessment plays a key role in supporting students' learning and development. We use a mix of Assessment for Learning (AfL) and Assessment of Learning (AoL) to track progress and provide meaningful feedback.<br>
-<ul>
-<li>Assessment for Learning (AfL): This is an ongoing process where teachers check students’ understanding during lessons and adjust teaching to meet their needs. It includes quizzes, discussions, and teacher feedback to help students improve continuously.</li>
-<li>Assessment of Learning (AoL): These are formal assessments, such as weighted assessments and examinations, that evaluate students’ learning at specific points. They provide insights into overall progress and mastery of key concepts.</li></ul>
-Feedback is provided to students through a variety of ways which include daily worksheets and the use of checklists and rubrics. Some checklists and rubrics that we use are shown below.<br><br>
-<a href="/files/EL/p1_term_1_skills_checklist.pdf" target="_blank">P1 Skills Checklist</a>; <a href="/files/EL/p2_reading_aloud_rubrics.pdf" target="_blank">P2 Reading Aloud Rubrics</a>; <a href="/files/EL/writing_checklist.pdf" target="_blank">Writing Checklist</a>; <a href="/files/EL/oral_presentation_feedback_form.pdf" target="_blank">Presentation Rubrics</a>
-<br><br>
-Both AfL and AoL work together to ensure students receive the right support while building confidence in their learning. We also want to encourage our students to focusing on their progress rather than just results.
