@@ -98,8 +98,9 @@ The GROW Team organises activities in the Media Resource Library to promote the 
 <br><br>
 <b>Assessment (English)</b><br>
 Assessment plays a key role in supporting students' learning and development. We use a mix of Assessment for Learning (AfL) and Assessment of Learning (AoL) to track progress and provide meaningful feedback.<br><br>
-•	Assessment for Learning (AfL): This is an ongoing process where teachers check students’ understanding during lessons and adjust teaching to meet their needs. It includes quizzes, discussions, and teacher feedback to help students improve continuously.<br>
-•	Assessment of Learning (AoL): These are formal assessments, such as weighted assessments and examinations, that evaluate students’ learning at specific points. They provide insights into overall progress and mastery of key concepts.<br><br>
+<ul>
+<li>Assessment for Learning (AfL): This is an ongoing process where teachers check students’ understanding during lessons and adjust teaching to meet their needs. It includes quizzes, discussions, and teacher feedback to help students improve continuously.</li>
+<li>Assessment of Learning (AoL): These are formal assessments, such as weighted assessments and examinations, that evaluate students’ learning at specific points. They provide insights into overall progress and mastery of key concepts.</li></ul>
 Feedback is provided to students through a variety of ways which include daily worksheets and the use of checklists and rubrics. Some checklists and rubrics that we use are shown below.<br><br>
 P1 Skills Checklist; P2 Reading Aloud Rubrics; Writing Checklist; Presentation Rubrics<br><br>
 Both AfL and AoL work together to ensure students receive the right support while building confidence in their learning. We also want to encourage our students to focusing on their progress rather than just results.
