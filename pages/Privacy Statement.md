@@ -2,10 +2,10 @@
 title: Privacy Statement
 permalink: /privacy/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4>LAKESIDE PRIMARY SCHOOL PRIVACY STATEMENT</h4>
-<ol data-tight="true" class="tight">
+<div style="font-size:14pt;" align="justify"><ol data-tight="true" class="tight">
 <li>
 <p>This is a Lakeside Primary School website. Thank you for examining our
 privacy statement.</p>
@@ -42,4 +42,4 @@ the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
 </li>
 </ol>
-<p></p>
+<p></p></div>

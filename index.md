@@ -20,6 +20,15 @@ sections:
           description: ""
           url: https://www.lakesidepri.moe.edu.sg/lsps-celebrates-sg60/
   - infopic:
+      title: Announcements
+      alt: Image alt text
+      image: /images/Home/School Website - Announcements V3.png
+      url: https://for.edu.sg/lsps-awards-day
+      button: The awards day photos are here
+      description: "Dear P6 2024 Students,  The photos from your Awards Day ceremony
+        are now available for download. Please use the link below to access
+        them:"
+  - infopic:
       title: Latest Happenings
       alt: Image alt text
       image: /images/Home/School Website - Latest Happenings.png
@@ -35,10 +44,4 @@ sections:
       url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
       image: /images/Happenings/E MAGAZINE/emag_poster.png
       alt: Image alt text
-  - infopic:
-      title: Announcements
-      alt: Image alt text
-      image: /images/Home/School Website - Announcements V3.png
-      url: /announcements-and-latest-happenings/announcements
-      button: Check more Announcements
 ---
