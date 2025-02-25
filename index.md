@@ -18,7 +18,7 @@ sections:
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
         - title: Lakers celebrates SG60
           description: ""
-          url: https://www.lakesidepri.moe.edu.sg/laker-celebrate-sg60/
+          url: https://www.lakesidepri.moe.edu.sg/lakers-celebrate-sg60/
   - infopic:
       title: Announcements
       alt: Image alt text
