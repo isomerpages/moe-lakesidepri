@@ -16,7 +16,7 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://form.gov.sg/62860cbe1ff1ef001281ab69
-        - title: Lakers celebrates SG60
+        - title: Lakers celebrate SG60
           description: ""
           url: https://www.lakesidepri.moe.edu.sg/lakers-celebrate-sg60/
   - infopic:
