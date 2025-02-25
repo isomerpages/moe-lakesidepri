@@ -13,7 +13,7 @@ Under the theme "Celebrating Achievements, Unleashing Talents," the event showca
 <img src="/images/Happenings/AWARDS%20DAY%202024/AWARDS2024_1.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our Veledictorian Leong Wei Yang <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> The Organizing Team <i style="color:blue;">(top right)</i><br><span style="color:blue;">•</span> Our Guest of Honour Ms Jorina Choy <i style="color:blue;">(bottom right)</i></span>
-<br><hr>
+<hr><br>
 <img src="/images/Happenings/AWARDS%20DAY%202024/AWARDS2024_2.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Prize Winners getting ready <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Proud Moment <i style="color:blue;">(right)</i></span>
