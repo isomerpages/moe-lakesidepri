@@ -34,7 +34,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: Lakeside Primary School's Awards Day 2024, held on 14 February 2025...
+      description: Lakeside Primary School's Awards Day 2024, held on 14 February
+        2025, celebrated student excellence in academics, arts, sports, and
+        character development...
   - infopic:
       title: E-Magazine 2024
       id: infopic
