@@ -34,7 +34,7 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: The Primary 3 students visited the Geylang Serai Heritage Gallery...
+      description: Lakeside Primary School's Awards Day 2024, held on 14 February 2025...
   - infopic:
       title: E-Magazine 2024
       id: infopic
