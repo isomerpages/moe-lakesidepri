@@ -34,9 +34,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: Lakeside Primary School's Awards Day 2024, held on 14 February
-        2025, celebrated student excellence in academics, arts, sports, and
-        character development...
+      description: In line with the SG60 theme, Building our Singapore Together, Total
+        Defence Day encourages students to take a more active role in Total
+        Defence...
   - infopic:
       title: E-Magazine 2024
       id: infopic
