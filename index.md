@@ -34,7 +34,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: The Primary 3 students visited the Geylang Serai Heritage Gallery...
+      description: In line with the SG60 theme, Building our Singapore Together, Total
+        Defence Day encourages students to take a more active role in Total
+        Defence...
   - infopic:
       title: E-Magazine 2024
       id: infopic
