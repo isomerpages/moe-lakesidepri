@@ -34,9 +34,8 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: In line with the SG60 theme, Building our Singapore Together, Total
-        Defence Day encourages students to take a more active role in Total
-        Defence...
+      description: The Class EXCO Appointment Ceremony held within the classroom
+        setting this year emphasized the importance of Leading with L-PRIDE.
   - infopic:
       title: E-Magazine 2024
       id: infopic
