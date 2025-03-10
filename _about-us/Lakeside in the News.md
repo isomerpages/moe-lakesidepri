@@ -25,7 +25,7 @@ description: ""
 <b>Article Title: </b>Lakeside Primary Wins Championship for Robotics Competition<br>
 <b>Date Published: </b>25 August 2023<br>
 <b>Source: </b>SUTD News, translated from Lianhe Zaobao<br>
-<b>Read More: </b> click the image below<a href="https://www.sutd.edu.sg/news-listing/robots-that-can-travel-fly-and-conduct-rescue-missions-in-disaster-areas-lakeside-primary-school-received-the-championshipl" target="_blank"><br><br>
+<b>Read More: </b> click the image below<a href="https://www.sutd.edu.sg/news-listing/robots-that-can-travel-fly-and-conduct-rescue-missions-in-disaster-areas-lakeside-primary-school-received-the-championship" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/SUTD_25AUG23_1.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
 <b>Article Title: </b>Programme Helps Troubled Pupils Mend Their Ways and Rebuild Ties<br>
