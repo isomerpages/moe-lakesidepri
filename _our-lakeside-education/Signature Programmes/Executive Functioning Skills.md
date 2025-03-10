@@ -15,8 +15,9 @@ Executive functioning skills are crucial for:
 <li>Future career readiness and life skills</li>
 <li>Self-regulation and independent living</li>
 <li>Problem-solving and decision-making abilities&lt;</li></ul>
+<img src="/images/Department/16EFS/EFS_1.png" style="width: 70%; height: 70%;">
 
-<b>Developing Executive Functioning Skills in Lakeside</b><br><br>
+<b>Developing Executive Functioning Skills in Lakeside</b><br>
 <div style="font-size:14pt;" align="justify">Executive Functioning skills are introduced and practised at every level to equip students with these skills that are crucial for learning and development. At least 2 skills are taught at each level at the beginning of each year. These skills are inculcated during lessons, CCAs and other teachable moments in their journey.<br><br>
 We have also come up with some mascots to help our students better remember the various Executive Functioning skills!<br><br>
 Do watch the video to get to know our mascots!<br></div>
@@ -46,4 +47,3 @@ Do watch the video to get to know our mascots!<br></div>
 			<ul><li>Role-playing scenarios</li>
 							<li>Family activities that require planning</li>
 							<li>Interactive digital apps designed for executive function development</li></ul></ol></div>
-
