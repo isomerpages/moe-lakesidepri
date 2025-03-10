@@ -14,5 +14,11 @@ description: ""
 <b>Date Published: </b>11 May 2024<br>
 <b>Source: </b>Kyodo News<br>
 <b>Read More: </b> just click the picture below<a href="https://english.kyodonews.net/news/2024/05/3424449409ec-feature-singapore-introduces-ai-in-classrooms-caters-to-individual-need.html" target="_blank">
-<img src="/images/LSPS%20NEWS/KYODO_11MAY24_1.png" style="width: 80%; height: 80%;"></a><br><br>
+<img src="/images/LSPS%20NEWS/KYODO_11MAY24_1.png" style="width: 80%; height: 80%;"></a>
+<hr><br>
+<b>Article Title: </b>Singapore Adopts AI for Classroom Education – Featuring Lakeside Primary<br>
+<b>Date Published: </b>09 May 2024<br>
+<b>Source: </b>Asia Education Review<br>
+<b>Read More: </b> just click the picture below<a href="https://www.asiaeducationreview.com/technology/news/singapore-adopts-ai-for-classroom-education-nwid-1748.html" target="_blank">
+<img src="/images/LSPS%20NEWS/KYODO_11MAY24_1.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
