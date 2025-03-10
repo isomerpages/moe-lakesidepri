@@ -14,5 +14,5 @@ description: ""
 <b>Date Published: </b>11 May 2024<br>
 <b>Source: </b>Kyodo News<br>
 <b>Read More: </b><a href="https://english.kyodonews.net/news/2024/05/3424449409ec-feature-singapore-introduces-ai-in-classrooms-caters-to-individual-need.html" target="_blank">Link to article</a><br><br>
-<img src="/images/LSPS%20NEWS/KYODO-11MAY24-1.png" style="width: 70%; height: 70%;">
+<img src="/images/LSPS%20NEWS/KYODO_11MAY24_1.png" style="width: 80%; height: 80%;">
 <hr><br>
