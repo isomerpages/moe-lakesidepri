@@ -31,7 +31,7 @@ description: ""
 <b>Article Title: </b>Programme Helps Troubled Pupils Mend Their Ways and Rebuild Ties<br>
 <b>Date Published: </b>22 November 2021<br>
 <b>Source: </b>The Straits Times<br>
-<b>Read More: </b> click the image below<a href="https://www.straitstimes.com/singapore/parenting-education/programme-helps-troubled-pupils-mend-their-ways-and-rebuild-ties-withl" target="_blank"><br><br>
+<b>Read More: </b> click the image below<a href="https://www.straitstimes.com/singapore/parenting-education/programme-helps-troubled-pupils-mend-their-ways-and-rebuild-ties-with" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/ST_22NOV21_01.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
 <b>Article Title: </b>Minister Lawrence Wong Visits Lakeside Primary<br>
