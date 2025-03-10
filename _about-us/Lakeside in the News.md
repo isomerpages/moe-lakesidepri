@@ -37,7 +37,7 @@ description: ""
 <b>Article Title: </b>Minister Lawrence Wong Visits Lakeside Primary's Musical Garden<br>
 <b>Date Published: </b>24 February 2021<br>
 <b>Source: </b>Facebook – Prime Minister Lawrence Wong<br>
-<b>Read More: </b> click the picture below<a href="https://www.facebook.com/LawrenceWongST/posts/spent-a-wonderful-morning-at-lakeside-primary-checking-out-their-musical-garden-/271192861032867/" target="_blank"><br><br>
-<img src="/images/LSPS%20NEWS/FB_LW_24FEB21_1.png" style="width: 80%; height: 80%;"></a><br>
+<b>Read More: </b> click the pictures below<a href="https://www.facebook.com/LawrenceWongST/posts/spent-a-wonderful-morning-at-lakeside-primary-checking-out-their-musical-garden-/271192861032867/" target="_blank"><br><br>
+<img src="/images/LSPS%20NEWS/FB_LW_24FEB21_1.png" style="width: 80%; height: 80%;"><br>
 <img src="/images/LSPS%20NEWS/FB_LW_24FEB21_2.png" style="width: 80%; height: 80%;"><br>
-<img src="/images/LSPS%20NEWS/FB_LW_24FEB21_3.png" style="width: 80%; height: 80%;">
+<img src="/images/LSPS%20NEWS/FB_LW_24FEB21_3.png" style="width: 80%; height: 80%;"></a>
