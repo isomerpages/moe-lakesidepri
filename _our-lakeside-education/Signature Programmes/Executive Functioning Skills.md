@@ -14,7 +14,7 @@ Executive functioning skills are crucial for:
 <li>Social relationships and emotional well-being</li>
 <li>Future career readiness and life skills</li>
 <li>Self-regulation and independent living</li>
-<li>Problem-solving and decision-making abilities&lt;</li></ul>
+<li>Problem-solving and decision-making abilities</li></ul>
 <img src="/images/Department/16EFS/EFS_1.png" style="width: 70%; height: 70%;">
 <br><br>
 <b>Developing Executive Functioning Skills in Lakeside</b><br><br>
