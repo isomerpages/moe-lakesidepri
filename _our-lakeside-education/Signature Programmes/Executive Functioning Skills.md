@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Signature Programmes
 ---
-<h5>Understanding Executive Functioning Skills</h5>
+<h4>Understanding Executive Functioning Skills</h4>
 <b>What Are Executive Functioning Skills?</b><br>
 <div style="font-size:14pt;" align="justify">Executive functioning skills are the mental processes that enable us to plan, focus attention, remember instructions, juggle multiple tasks, and regulate our emotions. Think of these skills as the 'air traffic control system' of the brain - they help manage and direct our thoughts, actions, and emotions to reach our goals.<br>
 <b>Why Are These Skills Important?</b><br><br>
@@ -51,4 +51,3 @@ Do watch the video to get to know our mascots!<br></div>
 <img src="/images/Department/16EFS/EFS_3.png">
 <img src="/images/Department/16EFS/EFS_4.png"><br>
 Can’t recall the information on the mascots? Do not worry! You can also guide your child by referring to the Student Handbook page 16 &amp; 17.
-
