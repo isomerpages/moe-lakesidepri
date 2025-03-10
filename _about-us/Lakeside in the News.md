@@ -20,5 +20,5 @@ description: ""
 <b>Date Published: </b>09 May 2024<br>
 <b>Source: </b>Asia Education Review<br>
 <b>Read More: </b> just click the picture below<a href="https://www.asiaeducationreview.com/technology/news/singapore-adopts-ai-for-classroom-education-nwid-1748.html" target="_blank">
-<img src="/images/LSPS%20NEWS/ASIA_EDU_09MAY24_1" style="width: 80%; height: 80%;"></a>
+<img src="/images/LSPS%20NEWS/ASIA_EDU_09MAY24_1.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
