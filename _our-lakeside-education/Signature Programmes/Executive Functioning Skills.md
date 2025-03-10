@@ -7,7 +7,7 @@ third_nav_title: Signature Programmes
 ---
 <h4>Understanding Executive Functioning Skills</h4>
 <b>What Are Executive Functioning Skills?</b><br>
-<div style="font-size:14pt;" align="justify">Executive functioning skills are the mental processes that enable us to plan, focus attention, remember instructions, juggle multiple tasks, and regulate our emotions. Think of these skills as the 'air traffic control system' of the brain - they help manage and direct our thoughts, actions, and emotions to reach our goals.<br>
+<div style="font-size:14pt;" align="justify">Executive functioning skills are the mental processes that enable us to plan, focus attention, remember instructions, juggle multiple tasks, and regulate our emotions. Think of these skills as the 'air traffic control system' of the brain - they help manage and direct our thoughts, actions, and emotions to reach our goals.<br><br>
 <b>Why Are These Skills Important?</b><br><br>
 Executive functioning skills are crucial for:
 <ul><li>Academic success and learning efficiency</li>
@@ -16,11 +16,11 @@ Executive functioning skills are crucial for:
 <li>Self-regulation and independent living</li>
 <li>Problem-solving and decision-making abilities&lt;</li></ul>
 <img src="/images/Department/16EFS/EFS_1.png" style="width: 70%; height: 70%;">
-
-<b>Developing Executive Functioning Skills in Lakeside</b><br>
-<div style="font-size:14pt;" align="justify">Executive Functioning skills are introduced and practised at every level to equip students with these skills that are crucial for learning and development. At least 2 skills are taught at each level at the beginning of each year. These skills are inculcated during lessons, CCAs and other teachable moments in their journey.<br><br>
+<br><br>
+<b>Developing Executive Functioning Skills in Lakeside</b><br><br>
+Executive Functioning skills are introduced and practised at every level to equip students with these skills that are crucial for learning and development. At least 2 skills are taught at each level at the beginning of each year. These skills are inculcated during lessons, CCAs and other teachable moments in their journey.<br><br>
 We have also come up with some mascots to help our students better remember the various Executive Functioning skills!<br><br>
-Do watch the video to get to know our mascots!<br></div>
+Do watch the video to get to know our mascots!<br>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MyKzufsmiJs?si=pZ7hv6FyyyzUh5np" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p><br>
 <b>How can parents partner the school in developing executive functioning skills at home?</b><br>
 
