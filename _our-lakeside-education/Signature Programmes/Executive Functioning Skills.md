@@ -49,5 +49,5 @@ Do watch the video to get to know our mascots!<br>
 							<li>Interactive digital apps designed for executive function development</li></ul></ol></div>
 <img src="/images/Department/16EFS/EFS_2.png">
 <img src="/images/Department/16EFS/EFS_3.png">
-<img src="/images/Department/16EFS/EFS_4.png"><br>
+<br>
 Can’t recall the information on the mascots? Do not worry! You can also guide your child by referring to the Student Handbook page 16 &amp; 17.
