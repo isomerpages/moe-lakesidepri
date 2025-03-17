@@ -4,11 +4,11 @@ permalink: /lakeside-in-the-news/
 variant: markdown
 description: ""
 ---
-
+Click the image to view the full article/video
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/f7883Q78fPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
 <img src="/images/LSPS%20NEWS/cna_20nov24_1.png" style="width: 80%; height: 80%;">
 <hr><br>
-Click the image to view the full article<a href="https://english.kyodonews.net/news/2024/05/3424449409ec-feature-singapore-introduces-ai-in-classrooms-caters-to-individual-need.html" target="_blank"><br><br>
+<a href="https://english.kyodonews.net/news/2024/05/3424449409ec-feature-singapore-introduces-ai-in-classrooms-caters-to-individual-need.html" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/KYODO_11MAY24_1.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
 <a href="https://www.asiaeducationreview.com/technology/news/singapore-adopts-ai-for-classroom-education-nwid-1748.html" target="_blank"><br><br>
