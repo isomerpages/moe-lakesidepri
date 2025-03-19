@@ -34,8 +34,9 @@ sections:
       image: /images/Home/School Website - Latest Happenings.png
       url: /announcements-and-latest-happenings/latest-happenings
       button: Check more Latest Happenings
-      description: The Class EXCO Appointment Ceremony held within the classroom
-        setting this year emphasized the importance of Leading with L-PRIDE.
+      description: Clean Up @ Lakeside Gardens on 8th March unites Green Club,
+        Community Leadership Club, Innovators’ Club, Parents, Students, Staff,
+        and PacificLight Pte Ltd...
   - infopic:
       title: E-Magazine 2024
       id: infopic
