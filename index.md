@@ -20,14 +20,10 @@ sections:
           description: ""
           url: https://www.lakesidepri.moe.edu.sg/lakers-celebrate-sg60/
   - infopic:
-      title: Announcements
+      title: Selamat Hari Raya Aidilfitri
+      id: infopic
+      image: /images/Announcements/2025_LSPS_Hari_Raya_Greetings.png
       alt: Image alt text
-      image: /images/Home/School Website - Announcements V3.png
-      url: https://for.edu.sg/lsps-awards-day
-      button: The awards day photos are here
-      description: "Dear P6 2024 Students,  The photos from your Awards Day ceremony
-        are now available for download. Please use the link below to access
-        them:"
   - infopic:
       title: Latest Happenings
       alt: Image alt text
@@ -37,6 +33,15 @@ sections:
       description: Lakeside Primary School hosted 28 educators from Himachal Pradesh,
         India, on 26 February 2025 through a collaboration with The Principals
         Academy...
+  - infopic:
+      title: Announcements
+      alt: Image alt text
+      image: /images/Home/School Website - Announcements V3.png
+      url: https://for.edu.sg/lsps-awards-day
+      button: The awards day photos are here
+      description: "Dear P6 2024 Students,  The photos from your Awards Day ceremony
+        are now available for download. Please use the link below to access
+        them:"
   - infopic:
       title: E-Magazine 2024
       id: infopic
