@@ -22,6 +22,12 @@ Students will be provided with different opportunities to interact with nature t
 <br><br>
 Recently, Lakeside Primary School has been going greener with solar panels! Installed in February 2025, these panels harness renewable energy, reducing our carbon footprint and supporting Singapore's net-zero goals. On Sunny days, they provide much of our daytime electricity. Read the infographic below to learn how Lakeside Primary embraces sustainability - one sunbeam at a time! 
 <br><br>
+<img src="/images/Department/03SCI/SOLAR_1.png" style="width: 70%; height: 70%;">
+<hr><br>
+<img src="/images/Department/03SCI/SOLAR_2.png" style="width: 70%; height: 70%;">
+<hr><br>
+<img src="/images/Department/03SCI/SOLAR_3.png" style="width: 70%; height: 70%;">
+<br><br>
 <u>Science and Application</u><br>
 The department engages students in the learning of Science through various learning experiences such as hands-on activities and learning journeys to help students connect and apply what they have learnt to their everyday life.
 <br><br>
