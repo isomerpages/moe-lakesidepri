@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/LSPS_banner_2025.png
+      background: /images/Banner/lsps_sg60.png
       url: /contact-us/
       key_highlights:
         - title: Appreciate a staff member
