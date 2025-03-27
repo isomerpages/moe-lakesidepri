@@ -50,22 +50,8 @@ sections:
             e-magazine for 2024!
           link_text: Check the E-Magazine here
           link_url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
-  - infopic:
-      title: Announcements
-      alt: Image alt text
-      image: /images/Home/School Website - Announcements V3.png
-      url: https://for.edu.sg/lsps-awards-day
-      button: The awards day photos are here
-      description: "Dear P6 2024 Students,  The photos from your Awards Day ceremony
-        are now available for download. Please use the link below to access
-        them:"
-  - infopic:
-      title: E-Magazine 2024
-      id: infopic
-      description: We are excited to share the launch of our very first school
-        e-magazine for 2024!
-      button: Check the E-Magazine here
-      url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
-      image: /images/Happenings/E MAGAZINE/emag_poster.png
-      alt: Image alt text
+  - resources:
+      title: Latest Happnings
+      id: resources
+      button: Check more Latest Happenings
 ---
