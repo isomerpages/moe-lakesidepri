@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Lakeside Primary School
-description: To Provide Quality Education to Nurture Wholesome Individuals.
+description: Empower every student to make a positive impact on the community.
 image: /images/Home/shareicon-lsps.png
 permalink: /
 notification: ""
