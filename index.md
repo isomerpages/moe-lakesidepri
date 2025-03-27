@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Lakeside Primary School
-description: To Provide Quality Education to Nurture Wholesome Individuals.
+description: Empower every student to make a positive impact on the community.
 image: /images/Home/shareicon-lsps.png
 permalink: /
 notification: ""
@@ -24,31 +24,46 @@ sections:
       id: infopic
       image: /images/Announcements/2025_LSPS_Hari_Raya_Greetings.png
       alt: Image alt text
-  - infopic:
-      title: Latest Happenings
-      alt: Image alt text
-      image: /images/Home/School Website - Latest Happenings.png
-      url: /announcements-and-latest-happenings/latest-happenings
-      button: Check more Latest Happenings
-      description: Lakeside Primary School hosted 28 educators from Himachal Pradesh,
-        India, on 26 February 2025 through a collaboration with The Principals
-        Academy...
-  - infopic:
-      title: Announcements
-      alt: Image alt text
-      image: /images/Home/School Website - Announcements V3.png
-      url: https://for.edu.sg/lsps-awards-day
-      button: The awards day photos are here
-      description: "Dear P6 2024 Students,  The photos from your Awards Day ceremony
-        are now available for download. Please use the link below to access
-        them:"
-  - infopic:
-      title: E-Magazine 2024
-      id: infopic
-      description: We are excited to share the launch of our very first school
-        e-magazine for 2024!
-      button: Check the E-Magazine here
-      url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
-      image: /images/Happenings/E MAGAZINE/emag_poster.png
-      alt: Image alt text
+  - announcements:
+      title: Announcements and Latest Happenings
+      id: announcements
+      announcement_items:
+        - title: Clean Up @ Lakeside Gardens
+          date: 08 March 2025
+          announcement: Clean Up @ Lakeside Gardenson 8th March unites Green Club,
+            Community Leadership Club, Innovators’ Club, Parents, Students,
+            Staff, and PacificLight Pte Ltd representatives for environmental
+            action at Jurong River and Jurong Lake Gardens.
+          link_text: Check more here
+          link_url: https://www.lakesidepri.moe.edu.sg/clean-up-lakeside-gardens/
+        - title: Hosting Educators from Himachal Pradesh, India
+          date: 28 February 2025
+          announcement: Lakeside Primary School hosted 28 educators from Himachal Pradesh,
+            India, on 26 February 2025 through a collaboration with The
+            Principals Academy
+          link_text: Check more here
+          link_url: https://www.lakesidepri.moe.edu.sg/hosting-educators-from-himachal-pradesh-india/
+        - title: Class EXCO Appointment Ceremony 2025
+          date: 25 February 2025
+          announcement: The Class EXCO Appointment Ceremony held within the classroom
+            setting this year emphasized the importance of Leading with L-PRIDE.
+          link_text: Check more here
+          link_url: https://www.lakesidepri.moe.edu.sg/class-exco-appointment-ceremony-2025/
+        - title: Awards Day ceremony photos (P6 2024 Students)
+          date: 14 February 2025
+          announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
+            are now available for download. Please use the link below to access
+            them:"
+          link_text: The awards day photos are here
+          link_url: https://for.edu.sg/lsps-awards-day
+        - title: E-Magazine 2024
+          date: 22 November 2024
+          announcement: We are excited to share the launch of our very first school
+            e-magazine for 2024!
+          link_text: Check the E-Magazine here
+          link_url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
+  - infobar:
+      id: infobar
+      button: Check More Latest Happenings here
+      url: https://www.lakesidepri.moe.edu.sg/announcements-and-latest-happenings/latest-happenings/
 ---
