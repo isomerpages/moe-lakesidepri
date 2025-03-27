@@ -54,4 +54,8 @@ sections:
             e-magazine for 2024!
           link_text: Check the E-Magazine here
           link_url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
+  - infobar:
+      id: infobar
+      button: Check More Latest Happenings here
+      url: https://www.lakesidepri.moe.edu.sg/announcements-and-latest-happenings/latest-happenings/
 ---
