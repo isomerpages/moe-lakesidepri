@@ -28,6 +28,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Clean Up @ Lakeside Gardens
+          date: 08 March 2025
+          announcement: Clean Up @ Lakeside Gardenson 8th March unites Green Club,
+            Community Leadership Club, Innovators’ Club, Parents, Students,
+            Staff, and PacificLight Pte Ltd representatives for environmental
+            action at Jurong River and Jurong Lake Gardens.
+          link_text: Check more here
+          link_url: https://www.lakesidepri.moe.edu.sg/clean-up-lakeside-gardens/
         - title: Hosting Educators from Himachal Pradesh, India
           date: 28 February 2025
           announcement: Lakeside Primary School hosted 28 educators from Himachal Pradesh,
