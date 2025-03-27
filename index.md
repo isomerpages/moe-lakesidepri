@@ -45,13 +45,4 @@ sections:
             e-magazine for 2024!
           link_text: Check the E-Magazine here
           link_url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
-  - infopic:
-      title: Latest Happenings
-      alt: Image alt text
-      image: /images/Home/School Website - Latest Happenings.png
-      url: /announcements-and-latest-happenings/latest-happenings
-      button: Check more Latest Happenings
-      description: Lakeside Primary School hosted 28 educators from Himachal Pradesh,
-        India, on 26 February 2025 through a collaboration with The Principals
-        Academy...
 ---
