@@ -24,10 +24,6 @@ sections:
       id: infopic
       image: /images/Announcements/2025_LSPS_Hari_Raya_Greetings.png
       alt: Image alt text
-  - resources:
-      title: Latest Happnings
-      id: resources
-      button: Check more Latest Happenings
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
@@ -45,12 +41,6 @@ sections:
             setting this year emphasized the importance of Leading with L-PRIDE.
           link_text: Check more here
           link_url: https://www.lakesidepri.moe.edu.sg/class-exco-appointment-ceremony-2025/
-        - title: E-Magazine 2024
-          date: 22 November 2024
-          announcement: We are excited to share the launch of our very first school
-            e-magazine for 2024!
-          link_text: Check the E-Magazine here
-          link_url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
@@ -58,4 +48,10 @@ sections:
             them:"
           link_text: The awards day photos are here
           link_url: https://for.edu.sg/lsps-awards-day
+        - title: E-Magazine 2024
+          date: 22 November 2024
+          announcement: We are excited to share the launch of our very first school
+            e-magazine for 2024!
+          link_text: Check the E-Magazine here
+          link_url: https://www.lakesidepri.moe.edu.sg/school-e-magazine-2024/
 ---
