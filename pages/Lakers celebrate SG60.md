@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 <div style="font-size:14pt;" align="justify">To celebrate SG60, Lakers would be taking part in a host of activities throughout 2025 to celebrate our journey to date and shape the next chapter of the Singapore story. The activities will rally Lakers to build our Singapore together and connect us with one another while showing care for others. From commemorating NE events and taking part in community projects to engaging in cultural performances and coming up with creative art pieces, Lakers will embrace the spirit of unity and resilience that defines our nation. This special milestone will inspire our young learners to play their part in shaping the future. Stay tuned for more highlights throughout the year! <br><br>
-	
 <h4>Clean Up @ Lakeside Gardens</h4> 
 Clean Up @ Lakeside Gardenson 8th March unites Green Club, Community Leadership Club, Innovators’ Club, Parents, Students, Staff, and PacificLight Pte Ltd representatives for environmental action at Jurong River and Jurong Lake Gardens. Commemorating World Water Day under the theme "Clean Waters, Bright Future," participants engage in a structured two-hour cleanup, documenting findings in journals. The event incorporates SG60 elements — reflection on Singapore's environmental journey, inclusion of diverse participants, meaningful cross-demographic connections, and opportunities for community contribution.</div>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/-TUg_4BtdoQ?si=7Z93QdbcW5WIj_gS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p><br>
@@ -16,7 +15,7 @@ Clean Up @ Lakeside Gardenson 8th March unites Green Club, Community Leadership 
 <img src="/images/Happenings/CLEAN%20LS%20GARDEN%202025/CLEAN_LSGARDEN_2.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Inclusive Activity for Families <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Picking Up Litter along Jurong Canal <i style="color:blue;">(top right)</i><br><span style="color:blue;">•</span> Appreciating Singapore’s Water Resources <i style="color:blue;">(bottom right)</i></span>
-<hr><br>
+<br><br><br>
 <div style="font-size:14pt;" align="justify"><h4>Building Blocks of Love: Strengthening Parent-Child Bond – Brick by Brick</h4> 
 On Thursday 20 March 2025, Lakeside Primary School held a heartwarming workshop entitled Building Blocks of Love: Strengthening Parent-Child Bond – Brick by Brick, in collaboration with Lakeside Parent Support Group (PSG) and Brick Art Interest Group from Taman Jurong. The event aims to strengthen parent-child relationships through creative, hands-on block-building activities.
 <br><br>
@@ -39,4 +38,3 @@ Here is the video of the participants putting their work together to form SG60
 <img src="/images/Happenings/BRICK%202025/BRICK_2.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> A group photo of all the participants who made the workshop a success <i style="color:blue;">(top left)</i><br><span style="color:blue;">•</span> Ms Tan Hui Ping, our vice-principal sharing her thoughts with our student and parent as they piece the structure together.  <i style="color:blue;">(bottom left)</i><br><span style="color:blue;">•</span> Our SG60 building blocks of love, a work in progress <i style="color:blue;">(right)</i></span>
-<hr><br>
