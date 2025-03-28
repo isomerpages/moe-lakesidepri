@@ -69,5 +69,5 @@ sections:
   - infobar:
       id: infobar
       button: Check More Latest Happenings here
-      url: https://www.lakesidepri.moe.edu.sg/announcements-and-latest-happenings/latest-happenings/
+      url: /latest-happenings/
 ---
