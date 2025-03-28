@@ -28,6 +28,16 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Building Blocks of Love: Strengthening Parent–Child Bond – Brick by
+            Brick"
+          date: 20 March 2025
+          announcement: "On Thursday 20 March 2025, Lakeside Primary School held a
+            heartwarming workshop entitled Building Blocks of Love:
+            Strengthening Parent-Child Bond – Brick by Brick, in collaboration
+            with Lakeside Parent Support Group (PSG) and Brick Art Interest
+            Group from Taman Jurong."
+          link_text: Check more here
+          link_url: https://www.lakesidepri.moe.edu.sg/class-exco-appointment-ceremony-2025/
         - title: Clean Up @ Lakeside Gardens
           date: 08 March 2025
           announcement: Clean Up @ Lakeside Gardenson 8th March unites Green Club,
@@ -43,12 +53,6 @@ sections:
             Principals Academy
           link_text: Check more here
           link_url: https://www.lakesidepri.moe.edu.sg/hosting-educators-from-himachal-pradesh-india/
-        - title: Class EXCO Appointment Ceremony 2025
-          date: 25 February 2025
-          announcement: The Class EXCO Appointment Ceremony held within the classroom
-            setting this year emphasized the importance of Leading with L-PRIDE.
-          link_text: Check more here
-          link_url: https://www.lakesidepri.moe.edu.sg/class-exco-appointment-ceremony-2025/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
