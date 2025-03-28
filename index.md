@@ -69,5 +69,5 @@ sections:
   - infobar:
       id: infobar
       button: Check More Latest Happenings here
-      url: /latest-happenings/
+      url: /announcements-and-latest-happenings/latest-happenings/
 ---
