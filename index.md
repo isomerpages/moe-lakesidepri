@@ -37,7 +37,7 @@ sections:
             with Lakeside Parent Support Group (PSG) and Brick Art Interest
             Group from Taman Jurong."
           link_text: Check more here
-          link_url: https://www.lakesidepri.moe.edu.sg/class-exco-appointment-ceremony-2025/
+          link_url: https://www.lakesidepri.moe.edu.sg//building-blocks-of-love-strengthening-parent-child-bond-brick-by-brick/
         - title: Clean Up @ Lakeside Gardens
           date: 08 March 2025
           announcement: Clean Up @ Lakeside Gardenson 8th March unites Green Club,
