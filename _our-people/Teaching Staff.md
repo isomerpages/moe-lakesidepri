@@ -64,7 +64,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Junianah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">junianah_shamsudin@moe.edu.sg</i><br>Mrs Nina Saw<br><i style="font-size:11pt; color: rgb(237, 125, 49);">nina_tan_shi_fei@moe.edu.sg</i><br>Ms Jovena Choo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">choo_hwee_leng_jovena@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">2 Creativity</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms J'me Ong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">jme_ong_jia_min@moe.edu.sg</i><br>Mdm Shahidah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">shahidah_md_fadzillah@moe.edu.sg</i><br>Mrs Lau Ho Moh Ying<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lau_ho_moh_ying_a@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms J'me Ong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">jme_ong_jia_min@moe.edu.sg</i><br>Ms Valerie Lim<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lim_wan_teng_valerie@moe.edu.sg</i><br>Mdm Shahidah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">shahidah_md_fadzillah@moe.edu.sg</i></td></tr>
 </tbody></table><br><br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
