@@ -28,6 +28,15 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: International Friendship Day
+          date: 07 April 2025
+          announcement: The theme for International Friendship Day is Strengthening
+            Friendships Across Cultures in a Complex World. It encourages
+            students to take charge by taking the initiative to foster
+            meaningful connections with others and to appreciate diverse
+            cultures and perspectives.
+          link_text: Check more here
+          link_url: /ifd2025/
         - title: "Building Blocks of Love: Strengthening Parent–Child Bond – Brick by
             Brick"
           date: 20 March 2025
@@ -46,13 +55,6 @@ sections:
             action at Jurong River and Jurong Lake Gardens.
           link_text: Check more here
           link_url: /clean-up-lakeside-gardens/
-        - title: Hosting Educators from Himachal Pradesh, India
-          date: 28 February 2025
-          announcement: Lakeside Primary School hosted 28 educators from Himachal Pradesh,
-            India, on 26 February 2025 through a collaboration with The
-            Principals Academy
-          link_text: Check more here
-          link_url: /hosting-educators-from-himachal-pradesh-india/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
