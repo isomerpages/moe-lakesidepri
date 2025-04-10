@@ -24,7 +24,7 @@ description: ""
 </tbody></table>
 <br>
 <div style="font-size:14pt;" align="justify"><h4>Application Procedure</h4>
-<ol><li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</li>
+<ol><li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</li><a style="text-decoration: none" href="/files/Admin%20Forms/Application_for_Canteen_Stall_FormBF7.pdf" target="_blank">   • School Canteen Application Form</a><br>
 <li>Attached the following documents together with the application form:</li>
 <ul><li>Photocopy of the NRIC (front and back)</li>
 <li>List of proposed menu and pricing for all items</li>
