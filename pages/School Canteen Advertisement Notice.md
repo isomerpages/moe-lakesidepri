@@ -44,7 +44,7 @@ description: ""
 <li>Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the under the ‘Healthy Meals in Schools Programme (HMSP)’ guidelines (See <a style="text-decoration: none" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">link</a>).</li>
 <li>Able to maintain high standard of food safety and personal hygiene.</li>
 <li>Healthy and fit to operate the stall.</li></ul>
-<h4>Applicants should preferably fulfil the following criteria:</h4><br>
+<h4>Applicants should preferably fulfil the following criteria:</h4>
 <ul><li>Successful applicants and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.</li>
 <li>Possess catering experience or experience operating in a school environment.</li>
 <li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li></ul>
