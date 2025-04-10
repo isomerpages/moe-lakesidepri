@@ -70,6 +70,7 @@ sections:
           link_url: /school-e-magazine-2024/
   - infobar:
       id: infobar
-      button: Check More Latest Happenings here
-      url: /announcements-and-latest-happenings/latest-happenings/
+      button: Check here
+      url: /announcements-and-latest-happenings/
+      description: More Announcements and Latest Happenings
 ---
