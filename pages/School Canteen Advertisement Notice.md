@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement-notice/
 variant: markdown
 description: ""
 ---
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px; font-size:14pt;"><tbody>
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Type of Stall</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Closing Date</b></td>
@@ -31,7 +31,7 @@ description: ""
 <li>List of proposed menu and pricing for all items</li>
 <li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.</li></ul>
 <li>Submit the completed application form and documents by closing date via email OR to the School’s General Office.
-<ul><li>Address: Anchor Green Primary School 31 Anchorvale Drive Singapore 544969</li>
+<ul><li>Address: 161 Corporation Walk Singapore 618310</li>
 <li>Contact No: 62620918</li>
 <li>Email:  lakeside_ps@moe.edu.sg</li>
 <li>Contact Person: Mr Balvinder Singh / Ms Tai Kah Fong</li></ul></li></ol>
@@ -42,11 +42,11 @@ description: ""
 <b>Interested applicants must meet the following criteria:</b><br>
 <ul><li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li>Able to provide good service, good variety and quality food with reasonable prices determined in consultation with the school.</li>
-<li>Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).</li>
+<li>Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the under the ‘Healthy Meals in Schools Programme (HMSP)’ guidelines (See <a style="text-decoration: none" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">link</a>).</li>
 <li>Able to maintain high standard of food safety and personal hygiene.</li>
 <li>Healthy and fit to operate the stall.</li></ul>
 <b>Applicants should preferably fulfil the following criteria:</b><br>
 <ul><li>Successful applicants and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.</li>
 <li>Possess catering experience or experience operating in a school environment.</li>
 <li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)</li></ul>
-Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</div>
+<i>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</i></div>
