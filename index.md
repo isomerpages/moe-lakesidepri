@@ -28,6 +28,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: School Canteen Advertisement Notice
+          date: 10 April 2025
+          announcement: We are now accepting applications for new canteen vendors.
+            Interested parties are invited to submit their proposals.
+          link_text: Check more here
+          link_url: /school-canteen-advertisement-notice/
         - title: International Friendship Day
           date: 07 April 2025
           announcement: The theme for International Friendship Day is Strengthening
@@ -47,14 +53,6 @@ sections:
             Group from Taman Jurong."
           link_text: Check more here
           link_url: /brick-by-brick/
-        - title: Clean Up @ Lakeside Gardens
-          date: 08 March 2025
-          announcement: Clean Up @ Lakeside Gardenson 8th March unites Green Club,
-            Community Leadership Club, Innovators’ Club, Parents, Students,
-            Staff, and PacificLight Pte Ltd representatives for environmental
-            action at Jurong River and Jurong Lake Gardens.
-          link_text: Check more here
-          link_url: /clean-up-lakeside-gardens/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
@@ -70,6 +68,7 @@ sections:
           link_url: /school-e-magazine-2024/
   - infobar:
       id: infobar
-      button: Check More Latest Happenings here
-      url: /announcements-and-latest-happenings/latest-happenings/
+      button: Check here
+      url: /announcements-and-latest-happenings/
+      description: More Announcements and Latest Happenings
 ---
