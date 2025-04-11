@@ -25,7 +25,8 @@ variant: markdown
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">31 Dec 2025</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Western food</td></tr>	
 </tbody></table>
-<br>
+•The following stalls are available for immediate operation.
+<br><br>
 <div style="font-size:14pt;" align="justify"><h4>Application Procedure</h4>
 <ol><li>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</li><a style="text-decoration: none" href="/files/Admin%20Forms/Application_for_Canteen_Stall_FormBF7.pdf" target="_blank">   • School Canteen Application Form</a><br>
 <li>Attached the following documents together with the application form:</li>
