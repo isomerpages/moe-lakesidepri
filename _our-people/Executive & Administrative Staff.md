@@ -56,9 +56,7 @@ variant: markdown
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Pang Cheng Yoon</td>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Operations Support Officer</td></tr>
-<tr>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Ronio Thobiyas</td>
-<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Operations Support Officer</td></tr>
+
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Gan Kim Huay</td>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Operations Support Officer</td></tr></tbody></table>
