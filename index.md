@@ -19,11 +19,6 @@ sections:
         - title: Lakers celebrate SG60
           description: ""
           url: /lakers-celebrate-sg60/
-  - infopic:
-      title: Selamat Hari Raya Aidilfitri
-      id: infopic
-      image: /images/Announcements/2025_LSPS_Hari_Raya_Greetings.png
-      alt: Image alt text
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
