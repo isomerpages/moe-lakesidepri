@@ -29,6 +29,13 @@ sections:
             Interested parties are invited to submit their proposals.
           link_text: Check more here
           link_url: /school-canteen-advertisement-notice/
+        - title: Mother Tongue Language Forthright 2025
+          date: 08 April 2025
+          announcement: MTL Fortnight and Primary 4 Cultural Camp were vibrant events
+            filled with fun, friendship, and culture! Aligned with the theme
+            “Strengthening Friendships Across Cultures in a Complex World,”
+          link_text: Check more here
+          link_url: /mtl-forthright-2025/
         - title: International Friendship Day
           date: 07 April 2025
           announcement: The theme for International Friendship Day is Strengthening
@@ -38,16 +45,6 @@ sections:
             cultures and perspectives.
           link_text: Check more here
           link_url: /ifd2025/
-        - title: "Building Blocks of Love: Strengthening Parent–Child Bond – Brick by
-            Brick"
-          date: 20 March 2025
-          announcement: "On Thursday 20 March 2025, Lakeside Primary School held a
-            heartwarming workshop entitled Building Blocks of Love:
-            Strengthening Parent-Child Bond – Brick by Brick, in collaboration
-            with Lakeside Parent Support Group (PSG) and Brick Art Interest
-            Group from Taman Jurong."
-          link_text: Check more here
-          link_url: /brick-by-brick/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
