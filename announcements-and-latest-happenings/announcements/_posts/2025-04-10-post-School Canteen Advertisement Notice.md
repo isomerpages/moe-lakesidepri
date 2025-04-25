@@ -12,10 +12,7 @@ variant: markdown
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Type of Stall</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Closing Date</b></td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Requirements</b></td></tr>
-<tr>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Snack</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">31 Dec 2025</td>
-<td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Snack and hot drinks</td></tr>	
+
 <tr>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Chinese Noodle</td>
 <td width="386" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">31 Dec 2025</td>
