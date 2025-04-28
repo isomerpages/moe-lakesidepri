@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-Dear P6 2024 Students, The photos from your Awards Day ceremony are now available for download. Please use the link below to access them:
-
-The awards day photos are here
+Dear P6 2024 Students, 
+<br>
+The photos from your Awards Day ceremony are now available for download. 
+<br>
+Click<a style="text-decoration: none" href="https://for.edu.sg/lsps-awards-day" target="_blank"> here</a> to view the photos
