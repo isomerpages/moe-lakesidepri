@@ -34,7 +34,7 @@ sections:
           announcement: Our school was filled with festive cheer as we celebrated Hari
             Raya with a meaningful and memorable assembly programme titled "Raya
             Millenia".
-          link_text: Check the E-Magazine here
+          link_text: Check more here
           link_url: /hari-raya-2025/
         - title: School Canteen Advertisement Notice
           date: 10 April 2025
