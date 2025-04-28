@@ -29,6 +29,13 @@ sections:
             and inspire students to take action for a greener future.
           link_text: Check more here
           link_url: /green-day-2025/
+        - title: Hari Raya Celebration 2025
+          date: 14 April 2025
+          announcement: Our school was filled with festive cheer as we celebrated Hari
+            Raya with a meaningful and memorable assembly programme titled "Raya
+            Millenia".
+          link_text: Check the E-Magazine here
+          link_url: /hari-raya-2025/
         - title: School Canteen Advertisement Notice
           date: 10 April 2025
           announcement: We are now accepting applications for new canteen vendors.
@@ -49,12 +56,6 @@ sections:
             them:"
           link_text: The awards day photos are here
           link_url: https://for.edu.sg/lsps-awards-day
-        - title: E-Magazine 2024
-          date: 22 November 2024
-          announcement: We are excited to share the launch of our very first school
-            e-magazine for 2024!
-          link_text: Check the E-Magazine here
-          link_url: /school-e-magazine-2024/
   - infobar:
       id: infobar
       button: Check here
