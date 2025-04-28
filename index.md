@@ -23,6 +23,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Green Day 2025: Energy Sustainability"
+          date: 21 April 2025
+          announcement: Green Day was held on 21 April to promote energy sustainability
+            and inspire students to take action for a greener future.
+          link_text: Check more here
+          link_url: /green-day-2025/
         - title: School Canteen Advertisement Notice
           date: 10 April 2025
           announcement: We are now accepting applications for new canteen vendors.
@@ -36,15 +42,6 @@ sections:
             “Strengthening Friendships Across Cultures in a Complex World,”
           link_text: Check more here
           link_url: /mtl-forthright-2025/
-        - title: International Friendship Day
-          date: 07 April 2025
-          announcement: The theme for International Friendship Day is Strengthening
-            Friendships Across Cultures in a Complex World. It encourages
-            students to take charge by taking the initiative to foster
-            meaningful connections with others and to appreciate diverse
-            cultures and perspectives.
-          link_text: Check more here
-          link_url: /ifd2025/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony
