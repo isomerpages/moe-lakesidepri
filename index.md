@@ -34,7 +34,7 @@ sections:
           announcement: Our school was filled with festive cheer as we celebrated Hari
             Raya with a meaningful and memorable assembly programme titled "Raya
             Millenia".
-          link_text: Check the E-Magazine here
+          link_text: Check more here
           link_url: /hari-raya-2025/
         - title: School Canteen Advertisement Notice
           date: 10 April 2025
@@ -42,13 +42,13 @@ sections:
             Interested parties are invited to submit their proposals.
           link_text: Check more here
           link_url: /school-canteen-advertisement-notice/
-        - title: Mother Tongue Language Forthright 2025
+        - title: Mother Tongue Language Fortnight 2025
           date: 08 April 2025
           announcement: MTL Fortnight and Primary 4 Cultural Camp were vibrant events
             filled with fun, friendship, and culture! Aligned with the theme
             “Strengthening Friendships Across Cultures in a Complex World,”
           link_text: Check more here
-          link_url: /mtl-forthright-2025/
+          link_url: /mtl-fortnight-2025/
         - title: Awards Day ceremony photos (P6 2024 Students)
           date: 14 February 2025
           announcement: "Dear P6 2024 Students, The photos from your Awards Day ceremony

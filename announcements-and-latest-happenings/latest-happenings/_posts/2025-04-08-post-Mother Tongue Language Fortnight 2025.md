@@ -1,6 +1,6 @@
 ---
-title: Mother Tongue Language Forthright 2025
-permalink: /mtl-forthright-2025/
+title: Mother Tongue Language Fortnight 2025
+permalink: /mtl-fortnight-2025/
 date: 2025-04-08
 layout: post
 description: ""
