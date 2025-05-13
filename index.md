@@ -23,6 +23,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Lakeside Primary School Virtual Open House Launch
+          date: 08 April 2025
+          announcement: We’re excited to launch our Virtual Open House for Lakeside
+            Primary School!
+          link_text: Check more here
+          link_url: /open-house2025/
         - title: Volleyball (Senior) National School Games
           date: 08 May 2025
           announcement: Our Volleyball Senior Team took part in the Volleyball National
@@ -49,13 +55,6 @@ sections:
             Interested parties are invited to submit their proposals.
           link_text: Check more here
           link_url: /school-canteen-advertisement-notice/
-        - title: Mother Tongue Language Fortnight 2025
-          date: 08 April 2025
-          announcement: MTL Fortnight and Primary 4 Cultural Camp were vibrant events
-            filled with fun, friendship, and culture! Aligned with the theme
-            “Strengthening Friendships Across Cultures in a Complex World,”
-          link_text: Check more here
-          link_url: /mtl-fortnight-2025/
   - infobar:
       id: infobar
       button: Check here
