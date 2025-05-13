@@ -137,5 +137,5 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <details>
 <summary><b>6. LSPS VIRTUAL OPEN HOUSE</b></summary>
 <br>
-<a style="text-decoration: none" href="https://go.gov.sg/lakesidepri-openhouse"><img src="/images/Announcements/open_house_2024.jpg" style="width: 40%; height: 40%;"><br>Click here to view our Virtual Open House</a>
+<a style="text-decoration: none" href="https://go.gov.sg/lakesidepri-openhouse25"><img src="/images/Announcements/OPEN_HOUSE_2025.png" style="width: 40%; height: 40%;"><br>Click here to view our Virtual Open House</a>
 </details>
