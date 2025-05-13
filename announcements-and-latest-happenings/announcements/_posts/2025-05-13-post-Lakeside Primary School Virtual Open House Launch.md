@@ -19,4 +19,4 @@ Through this platform, prospective parents can:</div>
 
 
 
-<img src="/images/Announcements/OPEN_HOUSE_2025.png" style="width: 70%; height: 70%;">
+<a style="text-decoration: none" href="https://go.gov.sg/lakesidepri-openhouse"><img src="/images/Announcements/OPEN_HOUSE_2025.png" style="width: 70%; height: 70%;"></a>
