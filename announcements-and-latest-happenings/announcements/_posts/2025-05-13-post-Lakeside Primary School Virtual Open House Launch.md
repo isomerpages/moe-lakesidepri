@@ -10,7 +10,7 @@ variant: markdown
 <div style="font-size:14pt;" align="justify">We’re excited to launch our Virtual Open House for Lakeside Primary School!
 <br><br>
 Click here to access our Virtual Open House:
-https://go.gov.sg/lakesidepri-openhouse25
+<a style="text-decoration: none" href="https://go.gov.sg/lakesidepri-openhouse25">https://go.gov.sg/lakesidepri-openhouse25</a>
 <br><br>
 Through this platform, prospective parents can:</div>
 <ul><li>Learn more about Lakeside Primary School’s programmes and values</li>
