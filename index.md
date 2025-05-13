@@ -24,7 +24,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Lakeside Primary School Virtual Open House Launch
-          date: 08 April 2025
+          date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
             Primary School!
           link_text: Check more here
