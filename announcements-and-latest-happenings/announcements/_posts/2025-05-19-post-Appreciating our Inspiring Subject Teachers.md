@@ -15,6 +15,5 @@ We want to appreciate inspiring subject teachers who:
 
 All students and parents can send in their appreciations. Students can get the hardcopy forms in school, while parents can make appreciations online by clicking here.
 <br><br>
-If you'd like to submit an appreciation form, please do so by 30 May 2025 (Friday). Thank you!</div>
-
--Link: https://forms.gle/CUpA5ykxrG83rYqq6
+If you'd like to submit an <a style="text-decoration: none" href="https://forms.gle/CUpA5ykxrG83rYqq6">appreciation form</a>, please do so by 30 May 2025 (Friday). Thank you!</div>
+<br>
