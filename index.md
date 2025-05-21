@@ -23,6 +23,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Appreciating our Inspiring Subject Teachers
+          date: 19 May 2025
+          announcement: We are calling for appreciations for inspiring teachers of the
+            various subjects.
+          link_text: Click here to make an appreciation.
+          link_url: /ais-teachers/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
@@ -42,13 +48,6 @@ sections:
             and inspire students to take action for a greener future.
           link_text: Check more here
           link_url: /green-day-2025/
-        - title: Hari Raya Celebration 2025
-          date: 14 April 2025
-          announcement: Our school was filled with festive cheer as we celebrated Hari
-            Raya with a meaningful and memorable assembly programme titled "Raya
-            Millenia".
-          link_text: Check more here
-          link_url: /hari-raya-2025/
         - title: School Canteen Advertisement Notice
           date: 10 April 2025
           announcement: We are now accepting applications for new canteen vendors.
