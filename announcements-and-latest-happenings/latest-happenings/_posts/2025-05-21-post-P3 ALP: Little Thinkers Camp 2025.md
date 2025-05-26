@@ -24,3 +24,5 @@ variant: markdown
 <img src="/images/Happenings/P3%20ALP/P3_ALP_4.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> I’m ready to make a difference to the environment! <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> We present our slides and get feedback from our classmates for improvement. <i style="color:blue;">(right)</i></span>
+<hr><br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sijP7A-AvsU?si=AVdwPAsWdAkpMEqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
