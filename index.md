@@ -23,6 +23,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: "P3 ALP: Little Thinkers Camp 2025"
+          date: 21 May 2025
+          announcement: As part of the ALP programme, students participated in the Little
+            Thinkers Camp, where they applied design thinking to tackle waste
+            management issues through an authentic and multi-disciplinary
+            learning experience.
+          link_text: Check more here
+          link_url: /p3-alp/
         - title: IMDA DISCOVER Learning Journey
           date: 20 May 2025
           announcement: Our P6 Innovators' Club members recently embarked on an exciting
@@ -42,13 +50,6 @@ sections:
             Primary School!
           link_text: Check more here
           link_url: /open-house2025/
-        - title: Volleyball (Senior) National School Games
-          date: 08 May 2025
-          announcement: Our Volleyball Senior Team took part in the Volleyball National
-            School Games, where they showcased their skills, teamwork, and love
-            for the sport.
-          link_text: Check more here
-          link_url: /nsg-volleyball/
         - title: School Canteen Advertisement Notice
           date: 10 April 2025
           announcement: We are now accepting applications for new canteen vendors.
