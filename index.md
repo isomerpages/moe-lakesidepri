@@ -23,6 +23,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Robotics for a Better World 2025
+          date: 27 May 2025
+          announcement: Our P5 prefects took part in the biannual Robotics for a Better
+            World 2025 organised by Rulang Primary School.
+          link_text: Check more here
+          link_url: /robotics/
         - title: "P3 ALP: Little Thinkers Camp 2025"
           date: 21 May 2025
           announcement: As part of the ALP programme, students participated in the Little
@@ -31,13 +37,6 @@ sections:
             learning experience.
           link_text: Check more here
           link_url: /p3-alp/
-        - title: IMDA DISCOVER Learning Journey
-          date: 20 May 2025
-          announcement: Our P6 Innovators' Club members recently embarked on an exciting
-            learning journey into the world of human-robot interaction with
-            Titan Tech’s cutting-edge AI technology!
-          link_text: Check more here
-          link_url: /imda-lj/
         - title: Appreciating our Inspiring Subject Teachers
           date: 19 May 2025
           announcement: We are calling for appreciations for inspiring teachers of the
