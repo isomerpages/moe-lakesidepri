@@ -29,6 +29,13 @@ sections:
             World 2025 organised by Rulang Primary School.
           link_text: Check more here
           link_url: /robotics/
+        - title: "P4 ALP: Little Explorers Camp 2025"
+          date: 27 May 2025
+          announcement: As part of the P4 Applied Learning Programme, students explored
+            the theme of food security through a series of meaningful
+            experiences.
+          link_text: Check more here
+          link_url: /p4-alp/
         - title: "P3 ALP: Little Thinkers Camp 2025"
           date: 21 May 2025
           announcement: As part of the ALP programme, students participated in the Little
@@ -37,12 +44,6 @@ sections:
             learning experience.
           link_text: Check more here
           link_url: /p3-alp/
-        - title: Appreciating our Inspiring Subject Teachers
-          date: 19 May 2025
-          announcement: We are calling for appreciations for inspiring teachers of the
-            various subjects.
-          link_text: Click here to make an appreciation.
-          link_url: /ais-teachers/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
