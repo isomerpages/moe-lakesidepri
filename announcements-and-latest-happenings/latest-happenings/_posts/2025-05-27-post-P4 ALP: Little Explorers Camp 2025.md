@@ -20,3 +20,5 @@ variant: markdown
 <img src="/images/Happenings/P4%20ALP/P4_ALP_3.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Collaborating on our LEGO prototype <i style="color:blue;">(top left)</i><br><span style="color:blue;">•</span>Working together to decide on how to best communicate our ideas on GoogleSlides! <i style="color:blue;">(bottom left &amp; right)</i><br><span style="color:blue;">•</span>Sharing our ideas with our classmates! <i style="color:blue;">(centre)</i><br><span style="color:blue;">•</span>A sketch of our prototype by students from 4DI <i style="color:blue;">(right)</i></span>
+<hr><br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/N1ma3WTV5lE?si=W49IjoxiD7YLySON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
