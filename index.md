@@ -30,7 +30,7 @@ sections:
             Celebrating Dad—a meaningful bonding event for fathers and their
             children.
           link_text: Check more here
-          link_url: /lsps-psg/
+          link_url: /lsps-x-psg/
         - title: Robotics for a Better World 2025
           date: 27 May 2025
           announcement: Our P5 prefects took part in the biannual Robotics for a Better
