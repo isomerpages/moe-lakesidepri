@@ -23,6 +23,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Celebrating Dad: A Fathers’ Day Event by LSPS x PSG"
+          date: 04 June 2025
+          announcement: As part of our Father’s Day celebrations, Lakeside Primary
+            collaborated with the Parent Support Group (PSG) to organise
+            Celebrating Dad—a meaningful bonding event for fathers and their
+            children.
+          link_text: Check more here
+          link_url: /lsps-x-psg/
         - title: Robotics for a Better World 2025
           date: 27 May 2025
           announcement: Our P5 prefects took part in the biannual Robotics for a Better
@@ -36,14 +44,6 @@ sections:
             experiences.
           link_text: Check more here
           link_url: /p4-alp/
-        - title: "P3 ALP: Little Thinkers Camp 2025"
-          date: 21 May 2025
-          announcement: As part of the ALP programme, students participated in the Little
-            Thinkers Camp, where they applied design thinking to tackle waste
-            management issues through an authentic and multi-disciplinary
-            learning experience.
-          link_text: Check more here
-          link_url: /p3-alp/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
