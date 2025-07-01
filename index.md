@@ -23,6 +23,15 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: P6 Education & Career Guidance talk
+          date: 25 June 2025
+          announcement: As part of our continued efforts to prepare students for the
+            future, the school recently held an Education and Career Guidance
+            (ECG) talk, organised in close collaboration with our Parent Support
+            Group (PSG) and School Advisory Committee (SAC), for our Primary 6
+            students.
+          link_text: Check more here
+          link_url: /p6-ecg/
         - title: "Celebrating Dad: A Fathers’ Day Event by LSPS x PSG"
           date: 04 June 2025
           announcement: As part of our Father’s Day celebrations, Lakeside Primary
@@ -37,13 +46,6 @@ sections:
             World 2025 organised by Rulang Primary School.
           link_text: Check more here
           link_url: /robotics/
-        - title: "P4 ALP: Little Explorers Camp 2025"
-          date: 27 May 2025
-          announcement: As part of the P4 Applied Learning Programme, students explored
-            the theme of food security through a series of meaningful
-            experiences.
-          link_text: Check more here
-          link_url: /p4-alp/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
