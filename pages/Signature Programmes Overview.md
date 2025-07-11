@@ -2,11 +2,7 @@
 title: Signature Programmes Overview
 permalink: /our-lakeside-education/signature-programmes/
 description: ""
-third_nav_title: Signature Programmes
 ---
-
-
-
 <b>Programme Objectives:</b>
 <br>
 The Learn to Think, Think to Learn programme aims to develop students into life-long learners by increasing student engagement and deepening understanding of subject content through equipping them with critical and inventive thinking skills.
