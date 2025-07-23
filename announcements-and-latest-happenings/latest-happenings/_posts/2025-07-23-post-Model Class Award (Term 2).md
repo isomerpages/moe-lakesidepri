@@ -30,4 +30,4 @@ This term, we would also like to affirm 2 students for displaying the value of i
 • Aiden was put up by his teacher in Shine In The Act for returning a wallet of $21 to the teacher that he found on his table. </ol></div><br>
 <img src="/images/Happenings/MODEL%20CLASS/MODEL_1.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Aiden receiving his certificate from Mrs Liang <i style="color:blue;">(middle)</i><br><span style="color:blue;">•</span>Dazzalyn receiving her certificate from Mrs Liang <i style="color:blue;">(bottom right)</i></span>
+<span style="color:blue;">•</span> Aiden receiving his certificate from Mrs Liang <i style="color:blue;">(middle)</i><br><span style="color:blue;">•</span>Dazzalyn receiving her certificate from Mrs Liang <i style="color:blue;">(right)</i></span>
