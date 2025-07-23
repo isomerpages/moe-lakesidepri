@@ -9,18 +9,18 @@ variant: markdown
 ---
 <div style="font-size:14pt;" align="justify">The Model Class Awards (MCA) is a school-wide initiative that recognises classes for demonstrating exemplary behaviour, strong attendance, punctuality, and positive class culture. Aligned with the school values, the MCA aims to foster responsibility, respect, and integrity among students. Classes are awarded based on a structured framework that includes both quantitative data (such as attendance and punctuality) and qualitative contributions (like acts of kindness and leadership). Winning classes are celebrated with bannerettes, special privileges, and recognition in school, motivating all students to work together towards a shared goal of excellence.
 <br><br>
-We would like to congratulate the following classes for their achievements in Term 2: 
+We would like to congratulate the following classes for their achievements in Term 2: <br>
 
 <b><u>Primary 1</u></b><br>
-1 Love &amp; 1 Confidence<br>
+1 Love &amp; 1 Confidence<br><br>
 <b><u>Primary 2</u></b><br>
-2 Love &amp; 2 Integrity <br>
+2 Love &amp; 2 Integrity <br><br>
 <b><u>Primary 3</u></b><br>
-3 Love &amp; 3 Diligence <br>
+3 Love &amp; 3 Diligence <br><br>
 <b><u>Primary 4</u></b><br>
-4 Diligence &amp; 4 Excellence <br>
+4 Diligence &amp; 4 Excellence <br><br>
 <b><u>Primary 5</u></b><br>
-5 Integrity &amp; 5 Diligence <br>
+5 Integrity &amp; 5 Diligence <br><br>
 <b><u>Primary 6 </u></b><br>
 6 Integrity, 6 Respect &amp; 6 Excellence<br><br>
 This term, we would also like to affirm 2 students for displaying the value of integrity. 
