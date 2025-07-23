@@ -23,6 +23,15 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Model Class Award (Term 2)
+          date: 23 July 2025
+          announcement: The Model Class Awards (MCA) is a school-wide initiative that
+            recognises classes for demonstrating exemplary behaviour, strong
+            attendance, punctuality, and positive class culture. Aligned with
+            the school values, the MCA aims to foster responsibility, respect,
+            and integrity among students.
+          link_text: Check more here
+          link_url: /model-class/
         - title: "SYF: The Young Playwright Presents 2025"
           date: 18 July 2025
           announcement: The Young Playwright Presents is a segment of the Singapore Youth
@@ -40,14 +49,6 @@ sections:
             students.
           link_text: Check more here
           link_url: /p6-ecg/
-        - title: "Celebrating Dad: A Fathers’ Day Event by LSPS x PSG"
-          date: 04 June 2025
-          announcement: As part of our Father’s Day celebrations, Lakeside Primary
-            collaborated with the Parent Support Group (PSG) to organise
-            Celebrating Dad—a meaningful bonding event for fathers and their
-            children.
-          link_text: Check more here
-          link_url: /lsps-x-psg/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
