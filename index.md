@@ -32,6 +32,13 @@ sections:
             Post Matters.”
           link_text: Check more here
           link_url: /cyber-kindness/
+        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School
+          date: 23 July 2025
+          announcement: On 23 July, our Lakers had a meaningful online cultural exchange
+            session with students from Anubansamsen School, a school in Bangkok,
+            Thailand.
+          link_text: Check more here
+          link_url: /overseas-cultural-anubansamsen/
         - title: Model Class Award (Term 2)
           date: 23 July 2025
           announcement: The Model Class Awards (MCA) is a school-wide initiative that
@@ -41,13 +48,6 @@ sections:
             and integrity among students.
           link_text: Check more here
           link_url: /model-class/
-        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School
-          date: 23 July 2025
-          announcement: On 23 July, our Lakers had a meaningful online cultural exchange
-            session with students from Anubansamsen School, a school in Bangkok,
-            Thailand.
-          link_text: Check more here
-          link_url: /overseas-cultural-anubansamsen/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
