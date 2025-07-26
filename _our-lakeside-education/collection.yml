@@ -2,7 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Talent Development.md
       - English Language.md
       - Mathematics.md
       - Science.md
