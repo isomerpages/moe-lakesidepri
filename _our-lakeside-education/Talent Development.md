@@ -6,7 +6,7 @@ description: ""
 ---
 <h5>Talent Development @ Lakeside Primary School<br>
 <i>Be A Star, Make A Constellation</i></h5>
-
+<br>
 <div style="font-size:14pt;" align="justify">At Lakeside Primary School, we believe every student has the potential to shine. Our tiered talent development approach provides a nurturing, yet, sufficiently challenging environment for our <b>High Ability Learners (HALs)</b> to stretch their thinking, fuel their passion for learning, and grow into <b>Creative Thinkers, Empathetic Leaders, and Lifelong Learners</b>.</div>
 <br>
 <b>WHY?</b><br>
@@ -24,4 +24,4 @@ We recognise that talents manifest in different forms, so we aim to provide vari
 Our talent development framework (see Figure 1 below) is guided by:
 	<li>Neihart &amp; Betts’ profiles of gifted learners (2010)</li>
 	<li>Treffinger’s Levels of Service model (2004)</li>
-	<li>Gagné’s Differentiated Model of Giftedness and Talent (2010)</li> 
+	<li>Gagné’s Differentiated Model of Giftedness and Talent (2010)</li>
