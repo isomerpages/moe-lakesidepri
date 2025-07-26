@@ -33,16 +33,16 @@ Our talent development framework (see Figure 1 below) is guided by:
 <br><br>
 <b>Tier 2: Exploration</b><br>
 <div style="font-size:14pt;" align="justify">Students identified with advanced abilities undergo enrichment through our customised school-based programmes, such as:</div>
-<ul><li>E2K Mathematics: Conducted in class to cultivate our students’ abilities in independent learning, higher-order thinking, and creative problem-solving. Deploying a diverse array of instructional strategies, including the use of background narratives, and educational games, students develop mathematical reasoning and deepen their conceptual understanding.<br>
+<ul><li><b>E2K Mathematics:</b> Conducted in class to cultivate our students’ abilities in independent learning, higher-order thinking, and creative problem-solving. Deploying a diverse array of instructional strategies, including the use of background narratives, and educational games, students develop mathematical reasoning and deepen their conceptual understanding.<br>
 <img src="/images/Department/18TALENTDEV/TALENTDEV_2.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Figure 2. Students interact in lively class discussions on mathematical problem-solving. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Figure 3. Students work collaboratively to develop adaptive thinking skills. <i style="color:blue;">(right)</i></span></li>
-<li>E2K Science: Conducted after school by trained teachers. To nurture students as inquirers by providing opportunities for them to explore and to appreciate the role of Science for Life and Society, students engage in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach.<br>
+<li><b>E2K Science:</b> Conducted after school by trained teachers. To nurture students as inquirers by providing opportunities for them to explore and to appreciate the role of Science for Life and Society, students engage in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach.<br>
 <img src="/images/Department/18TALENTDEV/TALENTDEV_3.png" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Figure 4. Students engage in inquiry-based learning, by sharing ideas and recording their observations digitally. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Figure 5. Students actively collaborate and investigate during hands-on activities. <i style="color:blue;">(right)</i></span></li></ul>
 <b>Tier 3: Extension</b><br>
-<div style="font-size:14pt;" align="justify">Selected students pursue passion-driven projects or represent the school in learning showcases (including public performances and exhibitions) and/or national/international competitions, often through the following platforms:</div>
+<div style="font-size:14pt;" align="justify">Selected students pursue <b>passion-driven projects</b> or represent the school in <b>learning showcases (including public performances and exhibitions) and/or national/international competitions</b>, often through the following platforms:</div>
 <ul><li>Student Leadership Development</li>
 <li>Applied Learning Programme, <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-lakeside-education/signature-programmes/applied-learning-programme-thinkers-with-heart/">Thinkers with Heart</a>.</li>
 <li>Learning for Life Programme, <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-lakeside-education/signature-programmes/learning-for-life-programme-stars-withearts/">Stars witHeARTS</a>.</li></ul>
