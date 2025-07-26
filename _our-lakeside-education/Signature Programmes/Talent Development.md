@@ -30,7 +30,7 @@ Our talent development framework (see Figure 1 below) is guided by:
 <br><br>
 <b>Tier 1: Exposure</b><br>
 <div style="font-size:14pt;" align="justify">All students experience rich, stimulating learning through classroom strategies that promote higher-order thinking, inquiry, and creativity.</div>
-<br><br>
+<br>
 <b>Tier 2: Exploration</b><br>
 <div style="font-size:14pt;" align="justify">Students identified with advanced abilities undergo enrichment through our customised school-based programmes, such as:</div>
 <ul><li><div style="font-size:14pt;" align="justify"><b>E2K Mathematics:</b> Conducted in class to cultivate our students’ abilities in independent learning, higher-order thinking, and creative problem-solving. Deploying a diverse array of instructional strategies, including the use of background narratives, and educational games, students develop mathematical reasoning and deepen their conceptual understanding.</div><br>
