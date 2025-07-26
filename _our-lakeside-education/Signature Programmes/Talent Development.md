@@ -44,6 +44,5 @@ Our talent development framework (see Figure 1 below) is guided by:
 <b>Tier 3: Extension</b><br>
 <div style="font-size:14pt;" align="justify">Selected students pursue passion-driven projects or represent the school in learning showcases (including public performances and exhibitions) and/or national/international competitions, often through the following platforms:</div>
 <li>Student Leadership Development</li>
-<li>Applied Learning Programme, Thinkers with Heart</li>
-<li>Learning for Life Programme, Stars witHeARTS</li>
-
+<li>Applied Learning Programme, <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-lakeside-education/signature-programmes/applied-learning-programme-thinkers-with-heart/">Thinkers with Heart</a>.</li>
+<li>Learning for Life Programme, <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-lakeside-education/signature-programmes/learning-for-life-programme-stars-withearts/">Stars witHeARTS</a>.</li>
