@@ -1,0 +1,5 @@
+collections:
+  archives:
+    output: true
+    order:
+      - Signature Programmes Overview.md

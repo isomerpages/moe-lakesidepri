@@ -23,6 +23,22 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Cyber Kindness Campaign Video: Every Click Counts, Every Post Matters"
+          date: 25 July 2025
+          announcement: As part of our ongoing efforts to nurture respectful and
+            responsible digital citizens, our Primary 4 ICT Monitors and Primary
+            5 Peer Support Leaders have come together to create a meaningful
+            Cyber Kindness Campaign video, themed “Every Click Counts, Every
+            Post Matters.”
+          link_text: Check more here
+          link_url: /cyber-kindness/
+        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School
+          date: 23 July 2025
+          announcement: On 23 July, our Lakers had a meaningful online cultural exchange
+            session with students from Anubansamsen School, a school in Bangkok,
+            Thailand.
+          link_text: Check more here
+          link_url: /overseas-cultural-anubansamsen/
         - title: Model Class Award (Term 2)
           date: 23 July 2025
           announcement: The Model Class Awards (MCA) is a school-wide initiative that
@@ -32,23 +48,6 @@ sections:
             and integrity among students.
           link_text: Check more here
           link_url: /model-class/
-        - title: "SYF: The Young Playwright Presents 2025"
-          date: 18 July 2025
-          announcement: The Young Playwright Presents is a segment of the Singapore Youth
-            Festival 2025 Celebrations, offering young playwrights the
-            opportunity to write and perform their own monologues. This year’s
-            theme is ‘Building Our Singapore Together’.
-          link_text: Check more here
-          link_url: /syf-typp-2025/
-        - title: P6 Education & Career Guidance talk
-          date: 25 June 2025
-          announcement: As part of our continued efforts to prepare students for the
-            future, the school recently held an Education and Career Guidance
-            (ECG) talk, organised in close collaboration with our Parent Support
-            Group (PSG) and School Advisory Committee (SAC), for our Primary 6
-            students.
-          link_text: Check more here
-          link_url: /p6-ecg/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
