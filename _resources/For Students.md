@@ -4,7 +4,6 @@ permalink: /resources/for-students/
 description: ""
 variant: markdown
 ---
-<li><a style="text-decoration: none" href="https://go.gov.sg/qse2025" target="_blank">QSE Survey</a></li>
 <ul style="list-style-type: square;">
 <li><a style="text-decoration: none" href="http://bit.ly/studenticon" target="_blank">Student iCON</a></li>
 <ul><li><a style="text-decoration: none" href="https://www.youtube.com/watch?v=fP4NH8_Wk8w" target="_blank">Student iCON Onboarding - for Lakers</a></li></ul>
