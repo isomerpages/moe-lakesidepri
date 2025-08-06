@@ -54,12 +54,6 @@ sections:
             Primary School!
           link_text: Check more here
           link_url: /open-house2025/
-        - title: School Canteen Advertisement Notice
-          date: 10 April 2025
-          announcement: We are now accepting applications for new canteen vendors.
-            Interested parties are invited to submit their proposals.
-          link_text: Check more here
-          link_url: /school-canteen-advertisement-notice/
   - infobar:
       id: infobar
       button: Check here
