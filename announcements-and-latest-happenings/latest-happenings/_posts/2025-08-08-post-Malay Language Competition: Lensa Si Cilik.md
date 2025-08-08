@@ -16,3 +16,4 @@ variant: markdown
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our Lakers getting ready for the online session with students from Anubansamsen School</span>
 <hr><br>
+Watch the videos here
