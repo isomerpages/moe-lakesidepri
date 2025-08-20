@@ -24,7 +24,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Singapore Youth Festival 2025 Art Exhibition
-          date: 20 August 2025
+          date: 07 August 2025
           announcement: "The Singapore Youth Festival 2025 Art Exhibition, themed \"Artist
             and Collaboration: Tiny Wonders, Big Ideas\", showcases our primary
             school students' artistic interpretation of Singapore's uniqueness."
