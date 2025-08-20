@@ -23,13 +23,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: Singapore Youth Festival 2025 Art Exhibition
-          date: 07 August 2025
-          announcement: "The Singapore Youth Festival 2025 Art Exhibition, themed \"Artist
-            and Collaboration: Tiny Wonders, Big Ideas\", showcases our primary
-            school students' artistic interpretation of Singapore's uniqueness."
+        - title: National Day Celebration 2025
+          date: 08 August 2025
+          announcement: Our school proudly celebrated National Day on Friday, 8 August,
+            with an extra special twist this year!
           link_text: Check more here
-          link_url: /syf-2025/
+          link_url: /nd-2025/
         - title: Taman Jurong CC SG60 National Day Carnival
           date: 02 August 2025
           announcement: In celebration of Singapore’s 60th National Day, our school
@@ -38,15 +37,13 @@ sections:
             residents of the community in a joyous spirit of unity and pride.
           link_text: Check more here
           link_url: /tjcc-nd-2025/
-        - title: "Cyber Kindness Campaign Video: Every Click Counts, Every Post Matters"
-          date: 25 July 2025
-          announcement: As part of our ongoing efforts to nurture respectful and
-            responsible digital citizens, our Primary 4 ICT Monitors and Primary
-            5 Peer Support Leaders have come together to create a meaningful
-            Cyber Kindness Campaign video, themed “Every Click Counts, Every
-            Post Matters.”
+        - title: Singapore Youth Festival 2025 Art Exhibition
+          date: 18 July 2025
+          announcement: "The Singapore Youth Festival 2025 Art Exhibition, themed \"Artist
+            and Collaboration: Tiny Wonders, Big Ideas\", showcases our primary
+            school students' artistic interpretation of Singapore's uniqueness."
           link_text: Check more here
-          link_url: /cyber-kindness/
+          link_url: /syf-2025/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
