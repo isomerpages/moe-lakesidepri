@@ -16,5 +16,5 @@ Through this carnival, our students demonstrated not only their creativity and t
 The event was a beautiful reflection of what it means to be Singaporean – united, resilient, and always ready to uplift one another! </div>
 <img src="/images/Happenings/TJCC%20ND/TJCC_ND_1.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Our Lakers getting ready for the online session with students from Anubansamsen School</span>
+<span style="color:blue;">•</span> Little leaders, Big Hearts – Our students stepped up and made SG60 celebrations shine!<br></span>
 <hr><br>
