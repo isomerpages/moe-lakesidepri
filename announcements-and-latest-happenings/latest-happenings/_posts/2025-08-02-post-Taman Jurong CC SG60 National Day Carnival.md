@@ -18,3 +18,22 @@ The event was a beautiful reflection of what it means to be Singaporean – unit
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Little leaders, Big Hearts – Our students stepped up and made SG60 celebrations shine!<br></span>
 <hr><br>
+<img src="/images/Happenings/TJCC%20ND/TJCC_ND_2.png" style="width: 50%; height: 50%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Smiles, laughter, and kampung spirit – what SG60 is all about!<br></span>
+<hr><br>
+<img src="/images/Happenings/TJCC%20ND/TJCC_ND_3.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Brains, heart, and teamwork! Our student volunteers made us proud. <br></span>
+<hr><br>
+<img src="/images/Happenings/TJCC%20ND/TJCC_ND_4.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Focus, aim, FUN! Students running games that got everyone hooked! <br></span>
+<hr><br>
+<img src="/images/Happenings/TJCC%20ND/TJCC_ND_5.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> GOH in action! Trying out our games with a smile and sporting spirit! <br></span>
+<hr><br>
+<img src="/images/Happenings/TJCC%20ND/TJCC_ND_6.png" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Good vibes, great food, and even better company! Happy 60th, Singapore! <br></span>
