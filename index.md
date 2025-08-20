@@ -23,31 +23,27 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: "Cyber Kindness Campaign Video: Every Click Counts, Every Post Matters"
-          date: 25 July 2025
-          announcement: As part of our ongoing efforts to nurture respectful and
-            responsible digital citizens, our Primary 4 ICT Monitors and Primary
-            5 Peer Support Leaders have come together to create a meaningful
-            Cyber Kindness Campaign video, themed “Every Click Counts, Every
-            Post Matters.”
+        - title: National Day Celebration 2025
+          date: 08 August 2025
+          announcement: Our school proudly celebrated National Day on Friday, 8 August,
+            with an extra special twist this year!
           link_text: Check more here
-          link_url: /cyber-kindness/
-        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School
-          date: 23 July 2025
-          announcement: On 23 July, our Lakers had a meaningful online cultural exchange
-            session with students from Anubansamsen School, a school in Bangkok,
-            Thailand.
+          link_url: /nd-2025/
+        - title: Taman Jurong CC SG60 National Day Carnival
+          date: 02 August 2025
+          announcement: In celebration of Singapore’s 60th National Day, our school
+            proudly partnered with Taman Jurong Community Club to host an SG60
+            National Day Carnival that brought together students, staff and
+            residents of the community in a joyous spirit of unity and pride.
           link_text: Check more here
-          link_url: /overseas-cultural-anubansamsen/
-        - title: Model Class Award (Term 2)
-          date: 23 July 2025
-          announcement: The Model Class Awards (MCA) is a school-wide initiative that
-            recognises classes for demonstrating exemplary behaviour, strong
-            attendance, punctuality, and positive class culture. Aligned with
-            the school values, the MCA aims to foster responsibility, respect,
-            and integrity among students.
+          link_url: /tjcc-nd-2025/
+        - title: Singapore Youth Festival 2025 Art Exhibition
+          date: 18 July 2025
+          announcement: "The Singapore Youth Festival 2025 Art Exhibition, themed \"Artist
+            and Collaboration: Tiny Wonders, Big Ideas\", showcases our primary
+            school students' artistic interpretation of Singapore's uniqueness."
           link_text: Check more here
-          link_url: /model-class/
+          link_url: /syf-2025/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
