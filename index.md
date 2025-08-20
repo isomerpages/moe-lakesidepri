@@ -30,6 +30,14 @@ sections:
             school students' artistic interpretation of Singapore's uniqueness."
           link_text: Check more here
           link_url: /syf-2025/
+        - title: Taman Jurong CC SG60 National Day Carnival
+          date: 02 August 2025
+          announcement: In celebration of Singapore’s 60th National Day, our school
+            proudly partnered with Taman Jurong Community Club to host an SG60
+            National Day Carnival that brought together students, staff and
+            residents of the community in a joyous spirit of unity and pride.
+          link_text: Check more here
+          link_url: /tjcc-nd-2025/
         - title: "Cyber Kindness Campaign Video: Every Click Counts, Every Post Matters"
           date: 25 July 2025
           announcement: As part of our ongoing efforts to nurture respectful and
@@ -39,13 +47,6 @@ sections:
             Post Matters.”
           link_text: Check more here
           link_url: /cyber-kindness/
-        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School
-          date: 23 July 2025
-          announcement: On 23 July, our Lakers had a meaningful online cultural exchange
-            session with students from Anubansamsen School, a school in Bangkok,
-            Thailand.
-          link_text: Check more here
-          link_url: /overseas-cultural-anubansamsen/
         - title: Lakeside Primary School Virtual Open House Launch
           date: 13 May 2025
           announcement: We’re excited to launch our Virtual Open House for Lakeside
