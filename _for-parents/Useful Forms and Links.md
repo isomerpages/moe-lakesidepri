@@ -56,6 +56,22 @@ Thank you for your partnership in their educational journey!<br><br>
 <li>For updates of student particulars (<i>eg change of address, family contact details</i>), please login to the <a href="https://pg.moe.edu.sg/forms/sdf" target="_blank"> Student Data Form (SDF) portal</a></li>
 </details>
 <br>
+<details><summary><b>Leave of Absence (LOA) scheme</b></summary>
+<br><b>Eligibility</b><br>
+LOA applies to SC and PR children in primary schools, secondary schools, junior colleges and Millennia Institute.<br><br>
+To be granted LOA, your child must fulfil all the following criteria:<br>
+* An SC or PR.<br>
+* Presently studying in an MOE school.<br>
+* Accompanying you on an overseas posting with the intention of rejoining their school after returning to Singapore.<br><br>
+Your child also qualifies for LOA if they are already registered for Primary 1 (P1) but will be overseas at the start of the year.<br><br>
+	<b>Fees</b><br>
+Schools will charge an annual nominal fee for a child on LOA. The amount will be determined by individual schools.<br><br>
+At the end of each year, you will need to decide whether to renew the LOA for another year. Your child’s LOA status will expire if you choose not to renew.<br><br>
+Note: As a guide, the annual LOA fee will be at least $39 for primary schools.<br><br>
+	<b>How to apply</b><br>
+Kindly complete the Application Form <a href="https://form.gov.sg/671860846eaca96cbeaf98a2" target="_blank">Application Form for Leave of Absence | FormSG</a> and submit with the supporting documents. <br><br>
+Should you need more information, you may call or email the school directly or to refer to MOE Website on <a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" target="_blank">Leave of Absence (LOA) scheme | MOE  for more details</a>.<br></details>
+<br>
 <details><summary><b>Waitlist</b></summary>
 <br>
 Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.</details>
