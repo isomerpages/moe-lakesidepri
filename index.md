@@ -27,6 +27,7 @@ sections:
       button: More info here
       url: /alumni-visit-to-lsps-2025/
       image: /images/Announcements/Teachers Day 2025/Alumni1.png
+      alt: Teachers' Day 2025
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
