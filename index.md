@@ -55,4 +55,12 @@ sections:
       button: Check here
       url: /announcements-and-latest-happenings/
       description: More Announcements and Latest Happenings
+  - infopic:
+      title: Advance Booking for Alumni visit to LSPS
+      id: infopic
+      description: To ensure a smooth visit, please book an appointment with your
+        teacher before coming so they know to expect you.
+      button: More info here
+      url: /awards-day-2024/
+      image: /images/Announcements/Teachers Day 2025/Alumni1.png
 ---
