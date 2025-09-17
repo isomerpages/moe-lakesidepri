@@ -69,7 +69,7 @@ Schools will charge an annual nominal fee for a child on LOA. The amount will be
 At the end of each year, you will need to decide whether to renew the LOA for another year. Your child’s LOA status will expire if you choose not to renew.<br><br>
 Note: As a guide, the annual LOA fee will be at least $39 for primary schools.<br><br>
 	<b>How to apply</b><br>
-Kindly complete the Application Form <a href="https://form.gov.sg/671860846eaca96cbeaf98a2" target="_blank">Application Form for Leave of Absence | FormSG</a> and submit with the supporting documents. <br><br>
+Kindly complete the Application Form Application Form for Leave of Absence | FormSG and submit with the supporting documents. <br><br>
 Should you need more information, you may call or email the school directly or to refer to MOE Website on <a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" target="_blank">Leave of Absence (LOA) scheme | MOE  for more details</a>.<br></details>
 <br>
 <details><summary><b>Waitlist</b></summary>
