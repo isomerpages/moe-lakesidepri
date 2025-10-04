@@ -19,19 +19,17 @@ sections:
         - title: Lakers celebrate SG60
           description: ""
           url: /lakers-celebrate-sg60/
-  - infopic:
-      title: Advance Booking for Alumni visit to LSPS
-      id: infopic
-      description: To ensure a smooth visit, please book an appointment with your
-        teacher before coming so they know to expect you.
-      button: More info here
-      url: /alumni-visit-to-lsps-2025/
-      image: /images/Announcements/Teachers Day 2025/Alumni1.png
-      alt: Alumni1
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Model Class Award (Term 3)
+          date: 15 September 2025
+          announcement: The Model Class Awards (MCA) is a school-wide initiative that
+            recognises classes for demonstrating exemplary behaviour, strong
+            attendance, punctuality, and positive class culture.
+          link_text: Check more here
+          link_url: /modelclass-t3/
         - title: National Day Celebration 2025
           date: 08 August 2025
           announcement: Our school proudly celebrated National Day on Friday, 8 August,
@@ -53,12 +51,6 @@ sections:
             school students' artistic interpretation of Singapore's uniqueness."
           link_text: Check more here
           link_url: /syf-2025/
-        - title: Lakeside Primary School Virtual Open House Launch
-          date: 13 May 2025
-          announcement: We’re excited to launch our Virtual Open House for Lakeside
-            Primary School!
-          link_text: Check more here
-          link_url: /open-house2025/
   - infobar:
       id: infobar
       button: Check here
