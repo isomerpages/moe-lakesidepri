@@ -23,6 +23,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Jurong Lake Garden Mid-Autumn Festival Opening Ceremony
+          date: 27 September 2025
+          announcement: To showcase our students’ talents and contribute to the community,
+            the school’s Guzheng Ensemble was invited to perform at the opening
+            ceremony of the Mid-Autumn Festival celebration at Jurong Lake
+            Gardens
+          link_text: Check more here
+          link_url: /jurong-lake-mid-autumn/
         - title: Model Class Award (Term 3)
           date: 15 September 2025
           announcement: The Model Class Awards (MCA) is a school-wide initiative that
@@ -44,13 +52,6 @@ sections:
             residents of the community in a joyous spirit of unity and pride.
           link_text: Check more here
           link_url: /tjcc-nd-2025/
-        - title: Singapore Youth Festival 2025 Art Exhibition
-          date: 18 July 2025
-          announcement: "The Singapore Youth Festival 2025 Art Exhibition, themed \"Artist
-            and Collaboration: Tiny Wonders, Big Ideas\", showcases our primary
-            school students' artistic interpretation of Singapore's uniqueness."
-          link_text: Check more here
-          link_url: /syf-2025/
   - infobar:
       id: infobar
       button: Check here
