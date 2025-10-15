@@ -17,3 +17,6 @@ Our guzheng coach, Mdm Yin Qun, who is also the President of the Singapore Guzhe
 <img src="/images/Happenings/GUZHENG%20JGARDEN/GUZ_JGARDEN_2.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> The ensemble performed Song of Harvest and Milking Dance <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Performance(Coach, Mdm Yin Qun and Guzheng Leader, Leong Yi Fang) <i style="color:blue;">(right)</i></span>
+<hr><br>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Y1bVxpQj55g?si=VJmXUTKsZwNZoYhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
+<br>
