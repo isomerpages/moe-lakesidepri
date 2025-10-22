@@ -15,7 +15,7 @@ sections:
           url: https://docs.google.com/forms/d/e/1FAIpQLScduMxkjjNhm7CNWqHyKdTfFis0E7BoILxPVI4V3qnj01pgKg/viewform
         - title: Your feedback matters
           description: ""
-          url: https://form.gov.sg/62860cbe1ff1ef001281ab69
+          url: https://go.gov.sg/lsps-feedbackform
         - title: Lakers celebrate SG60
           description: ""
           url: /lakers-celebrate-sg60/
