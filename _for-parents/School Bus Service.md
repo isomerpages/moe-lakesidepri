@@ -10,7 +10,6 @@ variant: markdown
 Tel: <b>9743 9235</b>
 <br>
 Email: <b>sinkoonseng@yahoo.com</b>
-
 <br>
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
