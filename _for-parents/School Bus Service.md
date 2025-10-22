@@ -10,9 +10,8 @@ variant: markdown
 Tel: <b>9743 9235</b>
 <br>
 Email: <b>sinkoonseng@yahoo.com</b><br>
-Please register via the Online Booking Form 
-<br>
-<br>
+Please register via the <a style="text-decoration: none" href="https://forms.gle/xbJpe5qczCqmESKu7" target="_blank">Online Booking Form </a>
+<br><br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;">
 <tbody>
 <tr>
