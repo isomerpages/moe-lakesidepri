@@ -28,16 +28,12 @@ We are excited to share with you our curriculum briefing videos, which provide v
 <center><a style="text-decoration:none" href="https://go.gov.sg/curriculum-questions-2025" target="_blank"> https://go.gov.sg/curriculum-questions-2025</a></center><br><br>
 Thank you for your partnership in their educational journey!<br><br>
 </details><br>
-<details><summary><b>Information on Vendors</b></summary>
-<li><a href="/files/Booklist/Booklist_2025___P1.pdf" target="_blank">2025 P1 Booklist</a></li>
-<li><a href="/files/Booklist/Booklist_2025___P2.pdf" target="_blank">2025 P2 Booklist</a></li>
-<li><a href="/files/Booklist/Booklist_2025___P3.pdf" target="_blank">2025 P3 Booklist</a></li>
-<li><a href="/files/Booklist/Booklist_2025___P4.pdf" target="_blank">2025 P4 Booklist</a></li>
-<li><a href="/files/Booklist/Booklist_2025___P5.pdf" target="_blank">2025 P5 Booklist</a></li>
-<li><a href="/files/Booklist/Booklist_2025___P6.pdf" target="_blank">2025 P6 Booklist</a></li>
-<li><a href="/files/Admin%20Forms/uniform_pamphlet_2025.pdf" target="_blank">2025 Uniform Order</a></li>
-<li><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukmjc67Y8Jku75CG8vJnZWI=" target="_blank">NASCANS Student Care Centre @Lakeside Primary Registration form</a></li>
-</details><br>
+<details><summary><b>P1 to P6 Booklist</b></summary>
+<li><a href="/files/Booklist/LSPS_P1_booklist_2026.pdf" target="_blank">2026 P1 Booklist</a></li></details><br>
+<details><summary><b>School Uniform</b></summary>
+<li><a href="/files/Admin%20Forms/uniform_pamphlet_2025.pdf" target="_blank">2025 Uniform Order</a></li></details><br>
+<details><summary><b>School-based Student Care Centre (SCC)</b></summary>
+<li><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukmjc67Y8Jku75CG8vJnZWI=" target="_blank">NASCANS Student Care Centre @Lakeside Primary Registration form</a></li></details><br>
 <details><summary><b>Finance-related Information</b></summary>
 <li><a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">Information on School Fees</a></li>
 <li><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" target="_blank">For Singapore Citizen Students only – Edusave Standing Order Form</a></li>
