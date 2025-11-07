@@ -100,7 +100,12 @@ Main Gate will be closed at the following dismissal times or earlier when the pa
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Opening Hours</b></td></tr>
 <tr>
 <td width="193" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Bookshop<br>(Mrs Lim)</td>
-<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Booklist/LSPS_P1_booklist_2026.pdf" target="_blank">Primary 1</a></td>
+<td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><a style="text-decoration: none" href="/files/Booklist/LSPS_P1_booklist_2026.pdf" target="_blank">Primary 1</a><br>
+<a style="text-decoration: none" href="/files/Booklist/LSPS_P2_booklist_2026.pdf" target="_blank">Primary 2</a><br>
+<a style="text-decoration: none" href="/files/Booklist/LSPS_P3_booklist_2026.pdf" target="_blank">Primary 3</a><br>
+<a style="text-decoration: none" href="/files/Booklist/LSPS_P4_booklist_2026.pdf" target="_blank">Primary 4</a><br>
+<a style="text-decoration: none" href="/files/Booklist/LSPS_P5_booklist_2026.pdf" target="_blank">Primary 5</a><br>
+<a style="text-decoration: none" href="/files/Booklist/LSPS_P6_booklist_2026.pdf" target="_blank">Primary 6</a></td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">87577234 (Call/WhatsApp)</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">(Open on Mon-Fri 9am-2.30pm)<br>Email: textbook@engsengbook.com</td></tr>
 <tr>
