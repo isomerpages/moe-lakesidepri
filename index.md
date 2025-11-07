@@ -23,6 +23,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Deepavali Celebration
+          date: 03 November 2025
+          announcement: This year’s Deepavali celebration at our school was a vibrant and
+            meaningful occasion where students came together to celebrate the
+            Festival of Lights while deepening their appreciation of Indian
+            culture and its significance.
+          link_text: Check more here
+          link_url: /deepavali-celebration/
         - title: Jurong Lake Garden Mid-Autumn Festival Opening Ceremony
           date: 27 September 2025
           announcement: To showcase our students’ talents and contribute to the community,
@@ -44,14 +52,6 @@ sections:
             with an extra special twist this year!
           link_text: Check more here
           link_url: /nd-2025/
-        - title: Taman Jurong CC SG60 National Day Carnival
-          date: 02 August 2025
-          announcement: In celebration of Singapore’s 60th National Day, our school
-            proudly partnered with Taman Jurong Community Club to host an SG60
-            National Day Carnival that brought together students, staff and
-            residents of the community in a joyous spirit of unity and pride.
-          link_text: Check more here
-          link_url: /tjcc-nd-2025/
   - infobar:
       id: infobar
       button: Check here
