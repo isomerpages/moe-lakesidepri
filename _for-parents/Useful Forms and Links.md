@@ -29,7 +29,13 @@ We are excited to share with you our curriculum briefing videos, which provide v
 Thank you for your partnership in their educational journey!<br><br>
 </details><br>
 <details><summary><b>P1 to P6 Booklist</b></summary>
-<li><a href="/files/Booklist/LSPS_P1_booklist_2026.pdf" target="_blank">2026 P1 Booklist</a></li></details><br>
+<li><a href="/files/Booklist/LSPS_P1_booklist_2026.pdf" target="_blank">2026 P1 Booklist</a></li>
+<li><a href="/files/Booklist/LSPS_P2_booklist_2026.pdf" target="_blank">2026 P2 Booklist</a></li>
+<li><a href="/files/Booklist/LSPS_P3_booklist_2026.pdf" target="_blank">2026 P3 Booklist</a></li>
+<li><a href="/files/Booklist/LSPS_P4_booklist_2026.pdf" target="_blank">2026 P4 Booklist</a></li>
+<li><a href="/files/Booklist/LSPS_P5_booklist_2026.pdf" target="_blank">2026 P5 Booklist</a></li>
+<li><a href="/files/Booklist/LSPS_P6_booklist_2026.pdf" target="_blank">2026 P6 Booklist</a></li>
+</details><br>
 <details><summary><b>School Uniform</b></summary>
 <li><a href="/files/Admin%20Forms/uniform_pamphlet_2025.pdf" target="_blank">2025 Uniform Order</a></li></details><br>
 <details><summary><b>School-based Student Care Centre (SCC)</b></summary>
