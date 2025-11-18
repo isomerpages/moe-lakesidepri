@@ -37,7 +37,7 @@ Thank you for your partnership in their educational journey!<br><br>
 <li><a href="/files/Booklist/LSPS_P6_booklist_2026.pdf" target="_blank">2026 P6 Booklist</a></li>
 </details><br>
 <details><summary><b>School Uniform</b></summary>
-<li><a href="/files/Admin%20Forms/uniform_pamphlet_2025.pdf" target="_blank">2025 Uniform Order</a></li></details><br>
+<li><a href="/files/Admin%20Forms/Uniform_Pamphlet_2026.pdf" target="_blank">2025 Uniform Order</a></li></details><br>
 <details><summary><b>School-based Student Care Centre (SCC)</b></summary>
 <li><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukmjc67Y8Jku75CG8vJnZWI=" target="_blank">NASCANS Student Care Centre @Lakeside Primary Registration form</a></li></details><br>
 <details><summary><b>Finance-related Information</b></summary>
