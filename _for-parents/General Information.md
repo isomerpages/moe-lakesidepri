@@ -130,7 +130,7 @@ In the event that Lakeside Primary School Dental Clinic is closed, pupils who re
 <tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Boon Lay Garden Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">9114 9842</td>
-<td width="194" rowspan="3" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon - Fri<br>8am-5pm<br>alternate weeks<br><a style="text-decoration: none" href="/files/Admin%20Forms/Dental_Clinic_Dec_Schedule_Lakeside_Pri.pdf" target="_blank">Dec 2025 Schedule</a></td></tr>
+<td width="194" rowspan="3" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Mon - Fri<br>8am-5pm<br>alternate weeks<br><a style="text-decoration: none" href="/files/Admin%20Forms/Dental_Clinic_Dec_Schedule_Lakeside_Pri.pdf" target="_blank">Dec 2025 Dental schedule</a></td></tr>
 <tr>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Rulang Primary School</td>
 <td width="194" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">91556053</td></tr>
