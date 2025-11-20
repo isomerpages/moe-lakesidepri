@@ -23,6 +23,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Event Highlights of 2025
+          date: 20 November 2025
+          announcement: Thank you for your partnership with the school in your child’s
+            holistic development this year. A video summary of this year’s
+            events is now available for your viewing pleasure!
+          link_text: Check more here
+          link_url: /event-highlights-2025/
         - title: 2025 Primary 6 Graduation
           date: 19 November 2025
           announcement: Congratulations to all our graduating Lakers! Relive the special
@@ -46,13 +53,6 @@ sections:
             Gardens
           link_text: Check more here
           link_url: /jurong-lake-mid-autumn/
-        - title: Model Class Award (Term 3)
-          date: 15 September 2025
-          announcement: The Model Class Awards (MCA) is a school-wide initiative that
-            recognises classes for demonstrating exemplary behaviour, strong
-            attendance, punctuality, and positive class culture.
-          link_text: Check more here
-          link_url: /modelclass-t3/
   - infobar:
       id: infobar
       button: Check here
