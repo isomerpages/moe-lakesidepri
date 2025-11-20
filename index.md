@@ -23,6 +23,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: 2025 Primary 6 Graduation
+          date: 19 November 2025
+          announcement: Congratulations to all our graduating Lakers! Relive the special
+            moments from the Primary 6 Graduation Ceremony with this video
+            playlist, specially curated for our parents.
+          link_text: Check more here
+          link_url: /2025-p6-graduation/
         - title: Deepavali Celebration
           date: 03 November 2025
           announcement: This year’s Deepavali celebration at our school was a vibrant and
@@ -46,12 +53,6 @@ sections:
             attendance, punctuality, and positive class culture.
           link_text: Check more here
           link_url: /modelclass-t3/
-        - title: National Day Celebration 2025
-          date: 08 August 2025
-          announcement: Our school proudly celebrated National Day on Friday, 8 August,
-            with an extra special twist this year!
-          link_text: Check more here
-          link_url: /nd-2025/
   - infobar:
       id: infobar
       button: Check here
