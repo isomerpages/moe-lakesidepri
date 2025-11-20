@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
+Congratulations to all our graduating Lakers! Relive the special moments from the Primary 6 Graduation Ceremony with this video playlist, specially curated for our parents.
+<br>
+
