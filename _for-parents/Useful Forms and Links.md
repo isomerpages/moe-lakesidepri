@@ -7,7 +7,7 @@ variant: markdown
 <details><summary><b>Primary 1 Information for Parents and Students.</b></summary>
 <li><a href="/files/P1%20Files/EFS_information_for_Parents_.pdf" target="_blank">EFS information for Parents </a></li>  
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
-<li><a href="/files/P1%20Files/Orientation_Booklet_2026.pdf" target="_blank">Orientation Booklet</a></li>
+<li><a href="/files/P1%20Files/Orientation_Booklet_2026.pdf" target="_blank">Orientation Booklet</a></li></details><br>
 <details><summary><b>P1 to P6 Booklist</b></summary>
 <li><a href="/files/Booklist/LSPS_P1_booklist_2026.pdf" target="_blank">2026 P1 Booklist</a></li>
 <li><a href="/files/Booklist/LSPS_P2_booklist_2026.pdf" target="_blank">2026 P2 Booklist</a></li>
@@ -56,4 +56,4 @@ Should you need more information, you may call or email the school directly or t
 <br>
 <details><summary><b>Waitlist</b></summary>
 <br>
-Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.</details></details>
+Click <a style="text-decoration: none" href="/files/Admin%20Forms/Waitlist%20Form.pdf" target="_blank">here</a> to download the 'Waitlist for New Admission / Transfer In' form. It may take 5 minutes to complete this form. The completed form should be submitted via email to lakeside_ps@moe.edu.sg with supporting documents such as Child’s Birth Certificate, NRIC of both parents (front &amp; back) or Entry/Re-Entry Permit, Child’s latest academic results, etc.</details>
