@@ -7,7 +7,7 @@ variant: markdown
 <details><summary><b>Primary 1 Information for Parents and Students.</b></summary>
 <li><a href="/files/P1%20Files/EFS_information_for_Parents_.pdf" target="_blank">EFS information for Parents </a></li>  
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
-<li><a href="/files/P1%20Files/Orientation_Booklet_2025.pdf" target="_blank">Orientation Booklet</a></li>
+<li><a href="/files/P1%20Files/Orientation_Booklet_2026.pdf" target="_blank">Orientation Booklet</a></li>
 We are excited to share with you our curriculum briefing videos, which provide valuable insights into our programs for English, Mathematics, Mother Tongue Languages, and Cyberwellness. These videos offer an overview of our teaching approaches, key learning objectives, and strategies to support your child’s growth and well-being. We encourage you to watch them to better understand how we can work together to support your child's holistic development. Please submit your questions via the QR code or the link below. The team will be addressing the questions during the panel discussion on 2 January 2025.<br>
 <li><a href="/files/P1%20Files/P1_Orientation_Hall_Presentation_Slides.pdf" target="_blank">Hall Presentation Slides</a></li>
 <li><a href="/files/P1%20Files/P1_FAQs.pdf" target="_blank">P1 FAQs</a></li><br>

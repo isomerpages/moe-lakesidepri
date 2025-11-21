@@ -23,6 +23,29 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Event Highlights of 2025
+          date: 20 November 2025
+          announcement: Thank you for your partnership with the school in your child’s
+            holistic development this year. A video summary of this year’s
+            events is now available for your viewing pleasure!
+          link_text: Check more here
+          link_url: /event-highlights-2025/
+        - title: 2025 Primary 6 Graduation
+          date: 19 November 2025
+          announcement: Congratulations to all our graduating Lakers! Relive the special
+            moments from the Primary 6 Graduation Ceremony with this video
+            playlist, specially curated for our parents.
+          link_text: Check more here
+          link_url: /2025-p6-graduation/
+        - title: "P2 PAL Concert: Green Beats, Wild Moves"
+          date: 11 November 2025
+          announcement: Our Primary 2 students shone brightly at the P2 PAL Concert,
+            showcasing their creativity, confidence and teamwork. Through
+            vibrant performances inspired by the theme Green Beats, Wild Moves,
+            students expressed messages of sustainability while demonstrating
+            the skills they honed during PAL.
+          link_text: Check more here
+          link_url: /p2-concert-2025/
         - title: Deepavali Celebration
           date: 03 November 2025
           announcement: This year’s Deepavali celebration at our school was a vibrant and
@@ -31,27 +54,6 @@ sections:
             culture and its significance.
           link_text: Check more here
           link_url: /deepavali-celebration/
-        - title: Jurong Lake Garden Mid-Autumn Festival Opening Ceremony
-          date: 27 September 2025
-          announcement: To showcase our students’ talents and contribute to the community,
-            the school’s Guzheng Ensemble was invited to perform at the opening
-            ceremony of the Mid-Autumn Festival celebration at Jurong Lake
-            Gardens
-          link_text: Check more here
-          link_url: /jurong-lake-mid-autumn/
-        - title: Model Class Award (Term 3)
-          date: 15 September 2025
-          announcement: The Model Class Awards (MCA) is a school-wide initiative that
-            recognises classes for demonstrating exemplary behaviour, strong
-            attendance, punctuality, and positive class culture.
-          link_text: Check more here
-          link_url: /modelclass-t3/
-        - title: National Day Celebration 2025
-          date: 08 August 2025
-          announcement: Our school proudly celebrated National Day on Friday, 8 August,
-            with an extra special twist this year!
-          link_text: Check more here
-          link_url: /nd-2025/
   - infobar:
       id: infobar
       button: Check here
