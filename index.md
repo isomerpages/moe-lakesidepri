@@ -37,14 +37,6 @@ sections:
             playlist, specially curated for our parents.
           link_text: Check more here
           link_url: /2025-p6-graduation/
-        - title: Deepavali Celebration
-          date: 03 November 2025
-          announcement: This year’s Deepavali celebration at our school was a vibrant and
-            meaningful occasion where students came together to celebrate the
-            Festival of Lights while deepening their appreciation of Indian
-            culture and its significance.
-          link_text: Check more here
-          link_url: /deepavali-celebration/
         - title: "P2 PAL Concert: Green Beats, Wild Moves"
           date: 11 November 2025
           announcement: Our Primary 2 students shone brightly at the P2 PAL Concert,
@@ -54,6 +46,14 @@ sections:
             the skills they honed during PAL.
           link_text: Check more here
           link_url: /jurong-lake-mid-autumn/
+        - title: Deepavali Celebration
+          date: 03 November 2025
+          announcement: This year’s Deepavali celebration at our school was a vibrant and
+            meaningful occasion where students came together to celebrate the
+            Festival of Lights while deepening their appreciation of Indian
+            culture and its significance.
+          link_text: Check more here
+          link_url: /deepavali-celebration/
   - infobar:
       id: infobar
       button: Check here
