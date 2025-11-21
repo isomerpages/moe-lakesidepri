@@ -45,12 +45,13 @@ sections:
             culture and its significance.
           link_text: Check more here
           link_url: /deepavali-celebration/
-        - title: Jurong Lake Garden Mid-Autumn Festival Opening Ceremony
-          date: 27 September 2025
-          announcement: To showcase our students’ talents and contribute to the community,
-            the school’s Guzheng Ensemble was invited to perform at the opening
-            ceremony of the Mid-Autumn Festival celebration at Jurong Lake
-            Gardens
+        - title: "P2 PAL Concert: Green Beats, Wild Moves"
+          date: 11 November 2025
+          announcement: Our Primary 2 students shone brightly at the P2 PAL Concert,
+            showcasing their creativity, confidence and teamwork. Through
+            vibrant performances inspired by the theme Green Beats, Wild Moves,
+            students expressed messages of sustainability while demonstrating
+            the skills they honed during PAL.
           link_text: Check more here
           link_url: /jurong-lake-mid-autumn/
   - infobar:
