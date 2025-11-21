@@ -45,7 +45,7 @@ sections:
             students expressed messages of sustainability while demonstrating
             the skills they honed during PAL.
           link_text: Check more here
-          link_url: /jurong-lake-mid-autumn/
+          link_url: /p2-concert-2025/
         - title: Deepavali Celebration
           date: 03 November 2025
           announcement: This year’s Deepavali celebration at our school was a vibrant and
