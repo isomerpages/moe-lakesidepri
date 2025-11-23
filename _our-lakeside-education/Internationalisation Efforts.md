@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h5>Internationalisation</h5>
-Internationalisation programmes provide an extension of learning to deepen students’ acquisition of 21st century competencies and broaden students’ learning experiences through authentic learning. 
+<div style="font-size:14pt;" align="justify">Internationalisation programmes provide an extension of learning to deepen students’ acquisition of 21st century competencies and broaden students’ learning experiences through authentic learning. 
 In Lakeside Primary School, they provide opportunities for students to: 
 -	Increase their socio-cultural and religious sensitivity and awareness
 -	Develop communication and collaboration skills with school mates and international peers
@@ -89,4 +89,4 @@ Our school conducted a variety of activities to create an engaging and meaningfu
 <hr><br>
 <img src="/images/Department/17INT/IFD2024_4.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Prefects teaching their peers to make friendship bands. The colours are related to the 10 countries that make up ASEAN</span>
+<span style="color:blue;">•</span> Prefects teaching their peers to make friendship bands. The colours are related to the 10 countries that make up ASEAN</span><div></div></div>
