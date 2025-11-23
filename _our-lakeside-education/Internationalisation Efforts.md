@@ -5,27 +5,37 @@ variant: markdown
 description: ""
 ---
 <h5>Internationalisation</h5>
-<div style="font-size:14pt;" align="justify">Internationalisation programmes provide an extension of learning to deepen students’ acquisition of 21st century competencies and broaden students’ learning experiences through authentic learning. 
-In Lakeside Primary School, they provide opportunities for students to: 
--	Increase their socio-cultural and religious sensitivity and awareness
--	Develop communication and collaboration skills with school mates and international peers
--	Deepen their appreciation of Singapore’s context in our region and the world
-<br><br>
-<b>Key Programmes and Activities of 2025</b><br>
-<center>Online Overseas Cultural Exchange Programme with Anubansamsen School </center>
-
+<div style="font-size:14pt;" align="justify">Internationalisation programmes provide an extension of learning to deepen students’ acquisition of 21st century competencies and broaden students’ learning experiences through authentic learning. <br>
+In Lakeside Primary School, they provide opportunities for students to: <br>
+<ul>
+<li>Increase their socio-cultural and religious sensitivity and awareness</li>
+<li>Develop communication and collaboration skills with school mates and international peers</li>
+<li>Deepen their appreciation of Singapore’s context in our region and the world</li></ul>
+<br>
+<b>Key Programmes and Activities of 2025</b>
+<center>Online Overseas Cultural Exchange Programme with Anubansamsen School </center><br>
 On 23 July, our Lakers had a meaningful online cultural exchange session with students from Anubansamsen School, a school in Bangkok, Thailand. During the session, students learned more about the cultural aspects of both Thailand and Singapore, fostering cross-cultural understanding and appreciation. They also gained a deeper understanding of environmental sustainability efforts in both countries and explored how they can contribute to more sustainable practices.
+<br><br>
+<img src="/images/Department/17INT/THAI2025_1.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Our Lakers getting ready for the online session with students from Anubansamsen School</span>
+<hr><br>
+<img src="/images/Department/17INT/THAI2025_2.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Sharing about food, tourist attractions, and environmental sustainability efforts in Singapore and Thailand</span>
+<hr><br>	
+<img src="/images/Department/17INT/THAI2025_3.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> A group photo taken to commemorate the online session between Lakers staff and students and the Thai staff and students</span>
+<hr><br>	
+<img src="/images/Department/17INT/THAI2025_4.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> A fulfilling and enriching session to wrap up the day!</span>
 <hr><br>
 <b>Key Programmes and Activities of 2024</b><br>
 <center>Overseas Cultural Exchange Programme with Anubansamsen School</center>
 
 The purpose of the visit is to provide opportunities for interaction between the students of both schools, and to help Lakers develop their civil, global and cross-cultural literacy by understanding Thailand’s history, culture and language.
-<br><br>
-<img src="/images/Department/17INT/THAI2025_1.png" style="width: 90%; height: 90%;">
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Learning Journey Programme at Geylang Serai Heritage Gallery with Class 4G</span>
-<hr><br>
-	
 <br><br>
 Our Lakers took charge by warmly hosting their Thai visitors, introducing them to Singapore's culture by visiting the Geylang Serai Heritage Gallery and sharing the tradition of Batik painting, even gifting them Batik artworks. The Lakers also led the Amazing Race within the school, allowing the visitors to learn about both Singapore's and the school's history in a fun and engaging way.
 <br><br>
