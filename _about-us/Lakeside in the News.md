@@ -14,6 +14,9 @@ Click the image to view the full article/video
 <a href="https://www.asiaeducationreview.com/technology/news/singapore-adopts-ai-for-classroom-education-nwid-1748.html" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/ASIA_EDU_09MAY24_1.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
+
+
+<hr><br>
 <a href="https://www.sutd.edu.sg/news-listing/robots-that-can-travel-fly-and-conduct-rescue-missions-in-disaster-areas-lakeside-primary-school-received-the-championship" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/SUTD_25AUG23_1.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
