@@ -11,6 +11,11 @@ In Lakeside Primary School, they provide opportunities for students to:
 -	Develop communication and collaboration skills with school mates and international peers
 -	Deepen their appreciation of Singapore’s context in our region and the world
 <br><br>
+<b>Key Programmes and Activities of 2025</b><br>
+<center>Online Overseas Cultural Exchange Programme with Anubansamsen School </center>
+
+On 23 July, our Lakers had a meaningful online cultural exchange session with students from Anubansamsen School, a school in Bangkok, Thailand. During the session, students learned more about the cultural aspects of both Thailand and Singapore, fostering cross-cultural understanding and appreciation. They also gained a deeper understanding of environmental sustainability efforts in both countries and explored how they can contribute to more sustainable practices.
+<hr><br>
 <b>Key Programmes and Activities of 2024</b><br>
 <center>Overseas Cultural Exchange Programme with Anubansamsen School</center>
 
