@@ -20,8 +20,7 @@ Click the image to view the full article/video
 <a href="https://www.channelnewsasia.com/singapore/moe-education-ministry-technology-learning-spaces-industry-partnerships-21cc-framework-3790921" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/CNA21SEP2023.png" style="width: 80%; height: 80%;"></a>
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f8v1oGzkM4w?si=Uz0VlCJy5XEdmE7b" height="315" width="560"></iframe>
-
+<p align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f8v1oGzkM4w?si=Uz0VlCJy5XEdmE7b" height="315" width="560"></iframe></p>
 <hr><br>
 <a href="https://www.todayonline.com/singapore/more-ai-schools-moe-success-maths-tool-pri5-2259496" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/TODON_20SEP2023.png" style="width: 80%; height: 80%;"></a>
