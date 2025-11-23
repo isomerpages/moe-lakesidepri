@@ -21,6 +21,12 @@ On 23 July, our Lakers had a meaningful online cultural exchange session with st
 
 The purpose of the visit is to provide opportunities for interaction between the students of both schools, and to help Lakers develop their civil, global and cross-cultural literacy by understanding Thailand’s history, culture and language.
 <br><br>
+<img src="/images/Department/17INT/THAI2025_1.png" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Learning Journey Programme at Geylang Serai Heritage Gallery with Class 4G</span>
+<hr><br>
+	
+<br><br>
 Our Lakers took charge by warmly hosting their Thai visitors, introducing them to Singapore's culture by visiting the Geylang Serai Heritage Gallery and sharing the tradition of Batik painting, even gifting them Batik artworks. The Lakers also led the Amazing Race within the school, allowing the visitors to learn about both Singapore's and the school's history in a fun and engaging way.
 <br><br>
 <img src="/images/Department/17INT/THAI2024_1.png" style="width: 90%; height: 90%;">
