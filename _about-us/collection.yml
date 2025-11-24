@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Example Titleany.md
       - From the Principal's Desk.md
       - School Information/.keep
       - School Information/School Philosophy, Vision, Mission & Values.md
