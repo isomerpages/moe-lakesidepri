@@ -18,7 +18,7 @@ Joining the parent support group is not just about volunteering; it's about maki
 <br><br>
 “Being part of the parent support group is not just about volunteering it’s a powerful message that you are your child’s biggest supporter and that their journey matters!”
 
-<h5>OUR EXECUTIVE COMMITTEE 2025/26</h5>
-<img src="/images/PSG/PSG_ExCo_Org_Chart.jpg" style="width: 100%; height: 100%;">
+<h5>OUR EXECUTIVE COMMITTEE 2026/27</h5>
+<img src="/images/PSG/PSG_Exco_Org_Chart_26_27.jpg" style="width: 100%; height: 100%;">
 <br><br>
 We are constantly seeking for willing and talented parents to come on board and serve together with us. <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/our-people/parent-support-group/contact-us/"> CONTACT US</a> to explore how you can contribute and make a positive difference in your child’s primary school learning journey.
