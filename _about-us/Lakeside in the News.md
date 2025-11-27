@@ -9,7 +9,8 @@ Click the image to view the full article/video
 <script src="//www.instagram.com/embed.js" async=""></script><p></p>
 <img src="/images/LSPS%20NEWS/berita_25nov2025.png" style="width: 80%; height: 80%;">
 <hr><br>
-<a href="https://www.8world.com/singapore/psle-results-release-profiles-2972816" target="_blank"><br><br>
+<a href="https://berita.mediacorp.sg/singapura/dua-pelajar-ini-bangkit-dari-cabaran-kesihatan-dan-keluarga-cemerlang-dalam-psle-988091" target="_blank"><br><br>
+</a><a href="https://www.8world.com/singapore/psle-results-release-profiles-2972816" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/8world_25nov2025.png" style="width: 80%; height: 80%;"></a>
 <hr><br>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/f7883Q78fPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
