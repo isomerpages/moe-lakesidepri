@@ -11,8 +11,8 @@ variant: markdown
 <br><br>
 <b>Colour Concept</b>
 <br>
-<p style="text-align: justify;">Blue symbolises creativity and fluidity in the exchange of knowledge and skills among students, teachers and stakeholders.
+<p style="text-align: justify; margin-bottom: 0;">Blue symbolises creativity and fluidity in the exchange of knowledge and skills among students, teachers and stakeholders.
 <br>
-</p><p style="text-align: justify;">Orange epitomises the school’s exuberance and vibrant learning environment.
+</p><p style="text-align: justify; margin-bottom: 0;">Orange epitomises the school’s exuberance and vibrant learning environment.
 <br>
-</p><p style="text-align: justify;">The yellow background represents the noble school values of Love, Perseverance, Respect, Integrity, Diligence and Excellence.</p>
+</p><p style="text-align: justify; margin-bottom: 0;">The yellow background represents the noble school values of Love, Perseverance, Respect, Integrity, Diligence and Excellence.</p>
