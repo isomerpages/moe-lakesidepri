@@ -15,7 +15,7 @@ Every Individual&nbsp;<b>C</b>.<b>A</b>.<b>N</b>. -&nbsp;<b>C</b>ontribute.&nbsp
 Creative Thinkers, Empathetic Leaders, Lifelong Learners.
 <br><br>
 <img src="/images/Banner/vision_mission_banner2025.jpg" style="width: 100%; height: 100%;">
-<br>
+
 <h5>MISSION</h5>
 Empower every student to make a positive impact on the community.
 <br>
