@@ -17,8 +17,13 @@ Creative Thinkers, Empathetic Leaders, Lifelong Learners.<br><br>
 Empower every student to make a positive impact on the community.<br><br>
 <img src="/images/Banner/vision_mission_banner2025.jpg" style="width: 100%; height: 100%;"><br>
 
-
 <h5>VALUES</h5>
+
+| <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;"> | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;"> | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;"> |
+| -------- | -------- | -------- |
+| <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;">    | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;">     | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;">     |
+
+
 <span style="font-size:13pt;"><b>Lakers PRIDE</b></span>
 <br>
 <ul style="font-size:13pt;">
