@@ -15,8 +15,9 @@ Every Individual&nbsp;<b>C</b>.<b>A</b>.<b>N</b>. -&nbsp;<b>C</b>ontribute.&nbsp
 Creative Thinkers, Empathetic Leaders, Lifelong Learners.
 <br><br>
 <img src="/images/Banner/vision_mission_banner2025.jpg" style="width: 100%; height: 100%;">
-<p style="margin-top: 0;"></p><h5>MISSION</h5>
-Empower every student to make a positive impact on the community.<p></p>
+
+<h5>MISSION</h5>
+Empower every student to make a positive impact on the community.
 <br>
 <h5>VALUES</h5>
 <span style="font-size:13pt;"><b>Lakers PRIDE</b></span>
