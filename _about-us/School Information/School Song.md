@@ -3,8 +3,9 @@ title: School Song
 permalink: /about-us/school-information/school-song/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EnbEAwFhciA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IXfTB7NgeP0?si=sU8495zcfNfmYXs1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
 
 
 <div style="text-align: center;">In Lakeside Primary<br>
