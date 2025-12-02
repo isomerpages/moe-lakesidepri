@@ -18,8 +18,9 @@ Empower every student to make a positive impact on the community.<br><br>
 <img src="/images/Banner/vision_mission_banner2025.jpg" style="width: 100%; height: 100%;"><br>
 
 <h5>VALUES</h5>
+
 <div style="text-align: center;"> <span style="font-size:13pt;"><b>Lakers PRIDE</b></span> </div>
-<br><br>
+<br>
 
 <table style="border: none;"> <tbody><tr> <td style="padding-right: 30px; border: none;"><img src="/images/Banner/love_girl.png" style="width: 90%;"></td> <td style="padding: 0 15px; border: none;"><img src="/images/Banner/perseverance_girl.png" style="width: 100%;"></td> <td style="padding-left: 30px; padding-top: 45px; border: none;"><img src="/images/Banner/respect_boy.png" style="width: 100%;"></td> </tr> <tr> <td style="padding-left: 30px; border: none;"><img src="/images/Banner/integrity_boy.png" style="width: 100%;"></td> <td style="padding: 0 15px; border: none;"><img src="/images/Banner/diligence_boy.png" style="width: 90%;"></td> <td style="padding-right: 30px; border: none;"><img src="/images/Banner/excellence_girl_.png" style="width: 100%; margin-top: -5px"></td> </tr> </tbody></table>
 
