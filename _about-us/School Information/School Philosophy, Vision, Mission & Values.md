@@ -19,9 +19,7 @@ Empower every student to make a positive impact on the community.<br><br>
 
 <h5>VALUES</h5>
 
-| <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;"> | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;"> | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;"> |
-| -------- | -------- | -------- |
-| <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;">    | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;">     | <img src="/images/Banner/love_girl.png" style="width: 50%; height: 50%;">     |
+<table style="border: none;"> <tbody><tr> <td style="padding-right: 30px; border: none;"><img src="/images/Banner/love_girl.png" style="width: 100%;"></td> <td style="padding: 0 15px; border: none;"><img src="/images/Banner/perseverance_girl.png" style="width: 100%;"></td> <td style="padding-left: 30px; padding-top: 60px; border: none;"><img src="/images/Banner/respect_boy.png" style="width: 100%;"></td> </tr> <tr> <td style="padding-left: 30px; border: none;"><img src="/images/Banner/integrity_boy.png" style="width: 100%;"></td> <td style="padding: 0 15px; border: none;"><img src="/images/Banner/diligence_boy.png" style="width: 100%;"></td> <td style="padding-right: 30px; border: none;"><img src="/images/Banner/excellence_girl_.png" style="width: 100%;"></td> </tr> </tbody></table>
 
 
 <span style="font-size:13pt;"><b>Lakers PRIDE</b></span>
