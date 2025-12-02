@@ -23,6 +23,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Primary 1 Curriculum Briefing Videos
+          date: 02 December 2025
+          announcement: The videos can be found under Primary 1  Information for Parents
+            and Students.
+          link_text: Click here to open the page
+          link_url: /for-parents/forms-links/
         - title: Event Highlights of 2025
           date: 20 November 2025
           announcement: Thank you for your partnership with the school in your child’s
@@ -46,14 +52,6 @@ sections:
             the skills they honed during PAL.
           link_text: Check more here
           link_url: /p2-concert-2025/
-        - title: Deepavali Celebration
-          date: 03 November 2025
-          announcement: This year’s Deepavali celebration at our school was a vibrant and
-            meaningful occasion where students came together to celebrate the
-            Festival of Lights while deepening their appreciation of Indian
-            culture and its significance.
-          link_text: Check more here
-          link_url: /deepavali-celebration/
   - infobar:
       id: infobar
       button: Check here
