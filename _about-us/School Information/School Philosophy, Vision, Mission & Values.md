@@ -26,12 +26,3 @@ Empower every student to make a positive impact on the community.<br><br>
 
 <div style="display: flex; align-items: center; gap: 20px; justify-content: center; text-align: justify; font-size: 13pt;"> <span style="margin-top: 0;"><b>L</b>ove</span> <span style="margin-top: 20px;"><b>P</b>erseverance</span> <span style="margin-top: 0;"><b>R</b>espect</span> <span style="margin-top: 20px;"><b>I</b>ntegrity</span> <span style="margin-top: 0;"><b>D</b>iligence</span> <span style="margin-top: 20px;"><b>E</b>xcellence<br></span> </div>
 
-<span style="font-size:13pt;"><b>Lakers PRIDE</b></span>
-<br>
-<ul style="font-size:13pt;">
-<b>L</b>ove<br>
-<b>P</b>erseverance<br>
-<b>R</b>espect<br>
-<b>I</b>ntegrity<br>
-<b>D</b>iligence<br>
-<b>E</b>xcellence<br></ul>
