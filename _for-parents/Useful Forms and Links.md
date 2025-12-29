@@ -15,6 +15,7 @@ variant: markdown
 <li><a href="https://youtu.be/PhkETOXzjLA" target="_blank">4. P1 First Day of School Briefing- MTL 2026</a></li>
 <li><a href="/files/P1%20Files/5__parents__guide_for_mtl_reading.pdf" target="_blank">5. Parents' Guide for MTL Reading </a></li>  
 <li><a href="https://youtu.be/VmtqFFuZ_ko" target="_blank">6. Primary 1 and 2 Parents' Briefing on Cyber Wellness</a></li>	
+<li><a href="/files/P1%20Files/Panel_questions_and_answers.pdf" target="_blank">7. Primary 1 and 2 Panel questions and answers</a></li>		
 </details><br>
 
 <details><summary><b>P1 to P6 Booklist</b></summary>
