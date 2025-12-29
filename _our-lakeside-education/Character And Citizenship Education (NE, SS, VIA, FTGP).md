@@ -44,6 +44,7 @@ Drawing on aspects of society that are of meaning and interest to the students, 
 <br><br>
 <hr><br><br>
 <b>Values-In-Action</b>
+<br><br>
 Students participate in Values-in-Action (VIA) programmes that are customised to their developmental levels and complemented by school-wide initiatives. These experiences enable students to put values into practice through authentic, real-life contexts. Through thoughtful planning, reflection and active contribution, VIA helps students internalise the values they learn, develop empathy for others, and understand the impact they can make in their community.
 <br><br>
 <img src="/images/Department/05CCE/CCE4.png">
