@@ -16,9 +16,6 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://go.gov.sg/lsps-feedbackform
-        - title: Lakers celebrate SG60
-          description: ""
-          url: /lakers-celebrate-sg60/
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
