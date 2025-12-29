@@ -88,7 +88,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Tan Swee Feng<br><i style="font-size:11pt; color: rgb(237, 125, 49);">tan_swee_feng@moe.edu.sg</i><br>Ms Winnie Soo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">winnie_soo@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3 Excellence</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Samsinar<br><i style="font-size:11pt; color: rgb(237, 125, 49);">samsinar_mohamad@moe.edu.sg</i><br>Mdm Teh Sok Fun<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Samsinar<br><i style="font-size:11pt; color: rgb(237, 125, 49);">samsinar_mohamad@moe.edu.sg</i><br>Mdm Teh Sok Fun<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i><br> Ms Nadya<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">3 Confidence</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Zahita<br><i style="font-size:11pt; color: rgb(237, 125, 49);">zahita_mohamed_ekbal@moe.edu.sg</i><br>Mdm Belle Pang<br><i style="font-size:11pt; color: rgb(237, 125, 49);">pang_toon_zee@moe.edu.sg</i></td></tr>
@@ -110,7 +110,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Audrey Cheong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">cheong_mei_ling_audrey@moe.edu.sg</i><br>Mr Zhao Zhiyong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">zhao_zhiyong@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">4 Integrity</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Susan Kwan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">tay_chiew_pio_susan@moe.edu.sg</i><br>-<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Susan Kwan<br><i style="font-size:11pt; color: rgb(237, 125, 49);">tay_chiew_pio_susan@moe.edu.sg</i><br>Ms Sarimah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">-</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">4 Diligence</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Quay Lay Nah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">quay_lay_nah@moe.edu.sg</i><br>Mr Safarudin<br><i style="font-size:11pt; color: rgb(237, 125, 49);">safarudin_mustafa@moe.edu.sg</i></td></tr>
