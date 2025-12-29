@@ -9,13 +9,13 @@ variant: markdown
 <li><a href="https://www.moe.gov.sg/primary/p1-registration/report-to-school" target="_blank">Report to School</a></li>
 <li><a href="/files/P1%20Files/Orientation_Booklet_2026.pdf" target="_blank">Orientation Booklet</a></li>
 <li><a href="/files/P1%20Files/P1_Orientation_Hall_Slides_2025.pdf" target="_blank">Hall Presentation Slides</a></li>
-<li><a href="https://www.youtube.com/watch?v=kwZU59e-4cU" target="_blank">1. P1 Curriculum Sharing - Assessment and Strategies</a></li>
-<li><a href="https://youtu.be/XZnrdfFpDkE" target="_blank">2. English Curriculum Sharing</a></li>
-<li><a href="https://youtu.be/-SJ9Lvtg9AQ" target="_blank">3. P1 Math Curriculum Briefing 2026</a></li>
-<li><a href="https://youtu.be/PhkETOXzjLA" target="_blank">4. P1 First Day of School Briefing- MTL 2026</a></li>
-<li><a href="/files/P1%20Files/5__parents__guide_for_mtl_reading.pdf" target="_blank">5. Parents' Guide for MTL Reading </a></li>  
-<li><a href="https://youtu.be/VmtqFFuZ_ko" target="_blank">6. Primary 1 and 2 Parents' Briefing on Cyber Wellness</a></li>	
-<li><a href="/files/P1%20Files/Panel_questions_and_answers.pdf" target="_blank">7. Panel questions and answers</a></li>		
+<ol><li><a href="https://www.youtube.com/watch?v=kwZU59e-4cU" target="_blank">P1 Curriculum Sharing - Assessment and Strategies</a></li>
+<li><a href="https://youtu.be/XZnrdfFpDkE" target="_blank">English Curriculum Sharing</a></li>
+<li><a href="https://youtu.be/-SJ9Lvtg9AQ" target="_blank">P1 Math Curriculum Briefing 2026</a></li>
+<li><a href="https://youtu.be/PhkETOXzjLA" target="_blank">P1 First Day of School Briefing- MTL 2026</a></li>
+<li><a href="/files/P1%20Files/5__parents__guide_for_mtl_reading.pdf" target="_blank">Parents' Guide for MTL Reading </a></li>  
+<li><a href="https://youtu.be/VmtqFFuZ_ko" target="_blank">Primary 1 and 2 Parents' Briefing on Cyber Wellness</a></li>	
+<li><a href="/files/P1%20Files/Panel_questions_and_answers.pdf" target="_blank">Panel questions and answers</a></li></ol>		
 </details><br>
 
 <details><summary><b>P1 to P6 Booklist</b></summary>
