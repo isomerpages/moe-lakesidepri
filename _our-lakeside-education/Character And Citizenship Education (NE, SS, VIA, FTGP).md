@@ -45,3 +45,26 @@ Drawing on aspects of society that are of meaning and interest to the students, 
 <hr><br><br>
 <b>Values-In-Action</b>
 Students participate in Values-in-Action (VIA) programmes that are customised to their developmental levels and complemented by school-wide initiatives. These experiences enable students to put values into practice through authentic, real-life contexts. Through thoughtful planning, reflection and active contribution, VIA helps students internalise the values they learn, develop empathy for others, and understand the impact they can make in their community.
+<br><br>
+<img src="/images/Department/05CCE/CCE4.png">
+<img src="/images/Department/05CCE/CCE5.png">
+<img src="/images/Department/05CCE/CCE6.png">
+<br><br>
+<hr><br><br>
+<b>National Education</b>
+<br><br>
+National Education (NE) programmes and events evoke in our students the love for Singapore and strengthen their identity as a citizen of Singapore. Holistic experiences are planned during the commemoration of the four core NE events (Total Defence Day, International Friendship Day, Racial Harmony Day and National Day). These experiences are not only fun but also meaningful and encourage students to build unity with one another and within their community.
+<br><br>
+<img src="/images/Department/05CCE/CCE7.png">
+<img src="/images/Department/05CCE/CCE8.png">
+<br><br>
+<hr><br><br>
+<b>Education and Career Guidance</b>
+<br><br>
+Education &amp; Career Guidance (ECG) helps students develop a sense of purpose in life. By nurturing self-awareness and self-directedness for life-long learning, ECG helps students develop a growth mindset, adaptability and a resilient attitude to embrace opportunities and appreciate the value of all occupations. 
+<br><br>
+As part of our Education and Career Guidance (ECG) efforts, students engage with professionals from various industries to learn more about their work, career pathways and real-world responsibilities. For our lower primary levels, students interact with different staff members in the school to gain insights into the roles they play, as well as the rewards and challenges of their jobs. These authentic conversations help students broaden their perspectives, build appreciation for the people around them and develop early awareness of the world of work.
+<br><br>
+<img src="/images/Department/05CCE/CCE9.png">
+<br><br>
+<hr><br><br>
