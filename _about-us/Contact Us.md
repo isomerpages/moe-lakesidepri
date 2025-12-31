@@ -27,8 +27,8 @@ variant: markdown
 <td style="border: 1px solid rgb(42, 42, 42);">Opening hours:<br> 7.30am to 5.30pm (During school hours)<br> 8.00am to 5:00pm (During school holidays)</td>
 </tr>
 <tr>
-<td style="border: 1px solid rgb(42, 42, 42);"><b>Tel / Fax</b></td>
-<td style="border: 1px solid rgb(42, 42, 42);">Tel: 62620918 / Fax: 62621021</td>
+<td style="border: 1px solid rgb(42, 42, 42);"><b>Tel</b></td>
+<td style="border: 1px solid rgb(42, 42, 42);">Tel: 62620918</td>
 </tr>	
 <tr>
 <td style="border: 1px solid rgb(42, 42, 42);"><b>Email</b></td>
