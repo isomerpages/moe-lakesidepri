@@ -123,11 +123,14 @@ variant: markdown
 <tr><td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Arasi Jayakumar</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Tamil Language</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">thennarasi_silverrajoo@moe.edu.sg</i></td></tr>
-
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Corinna Lam</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Art</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">lam_fee_min_corinna@moe.edu.sg</i></td></tr>
+<tr>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Callie Yu</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Physical Education</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">callie_yu_shair-er@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Linda Lee</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">SH/Character &amp; Citizenship Education</td>
