@@ -14,7 +14,6 @@ Character and Citizenship Education (CCE) is integral to the holistic developmen
 Character and Citizenship Education (CCE) at Lakeside Primary provides a coherent and holistic approach to nurturing our students’ values, character, social-emotional well-being and citizenship dispositions. Anchored in our school’s <b>LPRIDE</b> values — <b>L</b>ove, <b>P</b>erseverance, <b>R</b>espect, <b>I</b>ntegrity, <b>D</b>iligence and <b>E</b>xcellence — the CCE Department designs and delivers a rich array of programmes and experiences that support the development of confident learners and active contributors.
 
 Through daily interactions, classroom lessons, school-wide initiatives and authentic experiences such as VIA, FTGP, Social Studies lessons as well as National Education commemorations, our students are guided to understand themselves better, care for others, and make decisions grounded in values. These meaningful experiences cultivate positive learning dispositions, strengthen our students’ sense of identity and empower them to be active contributors to their school, community and Singapore.
-<hr><br><br>
 
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
 <td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">CCE Enactment</td>
