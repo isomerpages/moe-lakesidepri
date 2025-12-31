@@ -72,3 +72,4 @@ Empathetic leaders who serve and contribute through the Arts to make a positive 
 	
 <div style="width: 33%;"> <img style="width: 100%;" alt="Photo 3" src="/images/Department/13LLP/LLP19.jpg"> <div style="font-size: 10pt; line-height: 1.3; margin-top: 10px; text-align: center;"> <strong>Arts &amp; Cultural Organisations</strong></div></div> 
 </div>
+<hr><br><br>
