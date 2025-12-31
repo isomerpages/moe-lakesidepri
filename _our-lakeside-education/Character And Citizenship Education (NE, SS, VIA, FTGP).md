@@ -30,7 +30,7 @@ Through daily interactions, classroom lessons, school-wide initiatives and authe
 <td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">• CCA<br>• Cohort Learning Journeys<br>• Education and Career Guidance Experiences<br>• National Education Commemorative Days<br>• Outdoor Adventure Learning Cohort Camps<br>• Student Leadership Development Programmes<br>• Values in Action Projects</td>
 </tr>
 </tbody></table>
-<br><br>
+
 <hr><br><br>
 <b>Form Teacher Guidance Period</b>
 <br>
