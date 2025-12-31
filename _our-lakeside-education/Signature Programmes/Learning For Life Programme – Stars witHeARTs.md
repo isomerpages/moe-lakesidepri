@@ -23,8 +23,7 @@ Empathetic leaders who serve and contribute through the Arts to make a positive 
 	
 <div style="width: 23%; margin-top: 50px"> <img style="width: 100%;" alt="Photo 4" src="/images/Department/13LLP/LLP5.jpg"> <div style="font-size: 10pt; line-height: 1.3; margin-top: 45px; text-align: center;"> <strong>Leadership &amp; Character</strong><br> Lead with LPRIDE as empathetic, responsible young citizens. </div> </div> </div>
 
-<br>
-<hr><br><br>
+<hr><br>
 <b>Our Key Programmes</b>
 <br><br>
 
@@ -48,7 +47,7 @@ Empathetic leaders who serve and contribute through the Arts to make a positive 
 </div>
 <br>
 
-<hr><br><br>
+<hr><br>
 <b>Student Voice &amp; Evidence of Learning</b>
 <br><br>
 <div style="display: flex; gap: 15px;"> 
@@ -61,7 +60,7 @@ Empathetic leaders who serve and contribute through the Arts to make a positive 
 </div>
 <br>
 
-<hr><br><br>
+<hr><br>
 <b>Partners &amp; Community</b>
 <br><br>
 <div style="display: flex; gap: 15px;"> 
