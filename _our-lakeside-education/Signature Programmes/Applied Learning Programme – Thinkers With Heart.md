@@ -45,17 +45,17 @@ Our Primary Three students apply design thinking to tackle waste management issu
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"> <tbody> <tr> 
 	
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" alt="Image 1" src="/images/Department/14ALP/ALP5.jpg">
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP5.jpg">
 <div style="margin-top: 5px;">Learning about how waste is managed</div> </td> 
 	
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" alt="Image 2" src="/images/Department/14ALP/ALP6.jpg"> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP6.jpg"> 
 <div style="margin-top: 24px;">Learning about how waste is managed</div> </td></tr> 
 
 <tr> 
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" alt="Image 3" src="/images/Department/14ALP/ALP7.jpg"> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP7.jpg"> 
 <div style="margin-top: 5px;">Presenting our ideas to our classmates</div> </td> 
 
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" alt="Image 4" src="/images/Department/14ALP/ALP8.jpg"> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP8.jpg"> 
 <div style="margin-top: 22px;">A creative way to get our message across!</div></td> 
 </tr> </tbody> </table>
 <hr><br>
@@ -66,19 +66,19 @@ Our Primary Four students explore the theme of food security through a series of
 <br>
 <table style="border: 1px solid rgb(42, 42, 42); width: 773px;"> <tbody> <tr> 
 	
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 350px; height: auto; display: block; margin: 0 auto;" alt="Image 1" src="/images/Department/14ALP/ALP9.jpg">
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 350px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP9.jpg">
 <div style="margin-top: 5px; line-height: 1.2">Learning how to plant onions from our school gardener</div> </td> 
 	
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" alt="Image 2" src="/images/Department/14ALP/ALP10.jpg"> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP10.jpg"> 
 <div style="margin-top: 29px; line-height: 1.2">Exploring spaces in our school through an orienteering activity</div> </td></tr> 
 
 <tr> 
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" alt="Image 3" src="/images/Department/14ALP/ALP11.jpg"> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP11.jpg"> 
 <div style="margin-top: 5px; line-height: 1.2">Learning more about fish and vegetable farming at Nippon Koi
 Farm
 </div> </td> 
 
-<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" alt="Image 4" src="/images/Department/14ALP/ALP12.jpg"> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP12.jpg"> 
 <div style="margin-top: 4px;">Collaborating on our LEGO prototype</div></td> 
 </tr> </tbody> </table>
 <hr><br>
