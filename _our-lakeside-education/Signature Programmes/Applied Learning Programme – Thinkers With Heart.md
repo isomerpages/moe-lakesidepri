@@ -10,7 +10,7 @@ variant: markdown
 <b>Lakeside Applied Learning Programme (ALP)</b>, Thinkers with Heart 2.0”, seeks to nurture students who are equipped with knowledge, skills and 21st Century Competencies to contribute actively to the school and community. Aligned with our vision of developing creative and caring learners, this programme allows students to apply their classroom learning to authentic, real-world issues while fostering empathy and responsibility as concerned citizens.
 
 Our ALP is anchored in sustainability education, focusing on key national challenges such as waste management, food security, water security and climate action. These are aligned to Singapore’s Green Plan targets and framed through Design Thinking (DT) and Applied Learning principles. Students engage in authentic experiences that nurture Joy of Learning while building critical and inventive thinking, communication, and collaboration skills.
-<hr><br><br>
+<hr><br>
 <b>ALP Framework</b>
 <br>
 
@@ -32,12 +32,12 @@ The Thinkers with Heart framework is designed using the principles of Applied Le
 <td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Hands-on projects, camps and prototype creation to foster problem-solving and innovation.</td>
 </tr>
 </tbody></table>
-<hr><br><br>
+<hr><br>
 <b>Design Thinking Protocol</b>
 <br>
 
 Design Thinking undergirds the ALP, enabling students to empathise, define, ideate, prototype and test solutions for authentic problems. These experiences allow students to take ownership of their learning while building adaptability and resilience.
-<hr><br><br>
+<hr><br>
 <b>P3 ALP</b>
 <br>
 
@@ -58,7 +58,7 @@ Our Primary Three students apply design thinking to tackle waste management issu
 <td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" alt="Image 4" src="/images/Department/14ALP/ALP8.jpg"> 
 <div style="margin-top: 22px;">A creative way to get our message across!</div></td> 
 </tr> </tbody> </table>
-<hr><br><br>
+<hr><br>
 <b>P4 ALP</b>
 <br>
 
@@ -81,4 +81,4 @@ Farm
 <td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" alt="Image 4" src="/images/Department/14ALP/ALP12.jpg"> 
 <div style="margin-top: 4px;">Collaborating on our LEGO prototype</div></td> 
 </tr> </tbody> </table>
-<hr><br><br>
+<hr><br>
