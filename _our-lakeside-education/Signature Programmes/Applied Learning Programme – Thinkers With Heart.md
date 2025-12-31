@@ -3,73 +3,82 @@ title: Applied Learning Programme – Thinkers With Heart
 permalink: /our-lakeside-education/signature-programmes/applied-learning-programme-thinkers-with-heart/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
 <b>Programme Objectives:</b>
 <br><br>
-<b>Lakeside Applied Learning Programme (ALP) - Thinkers with Heart</b>, adopts the Design Thinking (DT) Approach and principles of Values-In-Action (VIA) Project work to design interdisciplinary learning experiences for the students.
-<br><br>
-Our vision and school strategic goals espouse our commitment to prepare our students to be future-ready, imbued with the values, dispositions and 21st century competencies and skills such as Computational Thinking needed to thrive in a VUCA world. We strongly believe the Design Thinking approach and the application of the Principles of VIA Project work with an interdisciplinary focus will help us fulfil our commitment.
-<br><br>
-Through the ALP, the students transfer ideas from one context to another and make creative connections between them, exercise social responsibility, take ownership and effect change. Design Thinking being a human-centred approach to creative and critical problem-solving using real-life contexts and problems will facilitate the development of the requisite attributes in our future-ready Lakers.
-<hr><br><br>
-<b>Overview:</b>
+<b>Lakeside Applied Learning Programme (ALP)</b>, Thinkers with Heart 2.0”, seeks to nurture students who are equipped with knowledge, skills and 21st Century Competencies to contribute actively to the school and community. Aligned with our vision of developing creative and caring learners, this programme allows students to apply their classroom learning to authentic, real-world issues while fostering empathy and responsibility as concerned citizens.
+
+Our ALP is anchored in sustainability education, focusing on key national challenges such as waste management, food security, water security and climate action. These are aligned to Singapore’s Green Plan targets and framed through Design Thinking (DT) and Applied Learning principles. Students engage in authentic experiences that nurture Joy of Learning while building critical and inventive thinking, communication, and collaboration skills.
+<hr><br>
+<b>ALP Framework</b>
 <br>
-The scope of values, skills and competencies that students will be exposed to through the ALP will be widened and deepened progressively over the years.
-The main aim of the ALP is to develop students’ critical and creative thinking skills and reinforce values taught through the use of DT processes for progressively complex problems and situations. The focus at P1 and P2 is on creating awareness of 2 DT phases – Empathy and Ideation. From Primary 3 to 5, students will be introduced to the remaining DT phases – Define, Prototyping and Testing as well as creative thinking protocols such SCAMPER (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse) and Paul’s elements of thoughts. Our P2 to P4 students were involved in the pilot ALP in 2019. In 2020, the ALP will be implemented at all levels.<br>
-The following table shows an overview of our ALP focus across the 5 levels.
+
+The Thinkers with Heart framework is designed using the principles of Applied Learning:
 <br><br>
-<div style="width: 773px; text-align: center;"><b>ALP : Thinkers with Heart Programme</b></div><br>
-<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tr>
-<td width="129" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Level Area</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P1</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P2</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P3</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P4</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P5</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Tier 2</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>P6</b></td></tr>
+<img style="width:300px;" src="/images/Department/14ALP/ALP4.jpg">
+<br>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"><tbody><tr>
+	
+<td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Learning about the Real World</td>
+<td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Issues of waste, food, water, and climate change contextualised within Singapore and the world.</td>
+</tr>
 <tr>
-<td width="129" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Phases</b></td>
-<td width="256" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 1</u><br>Building Awareness</td>
-<td width="256" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 2</u><br>Deepening Application</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 3</u><br>Scaling Up</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><u>Phase 3</u><br>Scaling Up</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Consolidating Learning</td></tr>
+<td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Learning for Life</td>
+<td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Skills and dispositions (curiosity, empathy, perseverance) cultivated for future readiness.</td>
+</tr>
 <tr>
-<td width="129" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Sphere of Influence</b></td>
-<td width="256" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Foundation Building</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the Class</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the School</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the community</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Within the community</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Environment</td></tr>
-<tr>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Project Theme & Details</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">My Emotions!</i></b><br>Design a diorama & recognize, express & regulate emotions</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Empathise with Characters</i></b><br>Dramatise a plot & recognise, express & regulate emotions</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Classrooms as We Like It</i></b><br>Redesign learning environment in the classroom</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Our Stories</i></b><br>Create fractured stories and eBooks for the P1 students</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">iChange</i></b><br>Create Art installations & virtual gallery to deliver messages on building a conducive neighbourhood</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Toys4All</i></b><br>Design a toy for the physically handicapped children</td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b><i style="font-size:13pt;">Reduce Food Wastage</i></b><br>Address food wastage concern </td></tr>
-<tr>
-<td width="129" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>DTI Phases</b></td>
-<td width="256" colspan="2" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>Empathy</b><br>(Interview Skills)<br><b>Ideation</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td>
-<td width="128" style="padding: 8px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);"><b>All Phases</b></td></tr>
-</table>
-<br><br>
-<img src="/images/Department/14ALP/ALP1.png">
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Interview the P1 students <br><span style="color:blue;">•</span> Building prototypes with LEGO bricks </span>
+<td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Learning by Doing</td>
+<td width="386" style="padding: 8px; text-align: left; border: 1px solid rgb(42, 42, 42);">Hands-on projects, camps and prototype creation to foster problem-solving and innovation.</td>
+</tr>
+</tbody></table>
 <hr><br>
-<img src="/images/Department/14ALP/ALP2.png">
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Reading eBooks created by P4 students <br><span style="color:blue;">•</span> Designing a toy </span>
+<b>Design Thinking Protocol</b>
+<br>
+
+Design Thinking undergirds the ALP, enabling students to empathise, define, ideate, prototype and test solutions for authentic problems. These experiences allow students to take ownership of their learning while building adaptability and resilience.
 <hr><br>
-<img src="/images/Department/14ALP/ALP3.png">
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Creating Google Form to interview the parents <br><span style="color:blue;">•</span> A prototype to process leftover food </span>
+<b>P3 ALP</b>
+<br>
+
+Our Primary Three students apply design thinking to tackle waste management issues through an authentic and multi-disciplinary learning experience. As part of the Little Thinkers Camp, the students go on learning journeys to a variety of locations and gain real-world insights before creating prototypes and presentations to advocate for responsible waste management habits in Lakeside. The programme, integrated with Social Studies, English, and ICT tools like Google Slides and Padlet, also develops students’ 21st Century Competencies such as adaptability, communication, and collaboration.
+<br>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"> <tbody> <tr> 
+	
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP5.jpg">
+<div style="margin-top: 5px;">Learning about how waste is managed</div> </td> 
+	
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP6.jpg"> 
+<div style="margin-top: 24px;">Learning about how waste is managed</div> </td></tr> 
+
+<tr> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP7.jpg"> 
+<div style="margin-top: 5px;">Presenting our ideas to our classmates</div> </td> 
+
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP8.jpg"> 
+<div style="margin-top: 22px;">A creative way to get our message across!</div></td> 
+</tr> </tbody> </table>
+<hr><br>
+<b>P4 ALP</b>
+<br>
+
+Our Primary Four students explore the theme of food security through a series of meaningful experiences. From planting onions as part of Science lessons to orienteering during a Physical Education lesson to find suitable spaces around school, learning is hands-on and engaging. As part of the Little Explorers Camp, students visit a farm and learn how the farm supports Singapore’s food sustainability. Back in school, students utilise the Design Thinking phases to ideate, prototype their eco-plot designs using LEGO and present their ideas with the use of GoogleSlides. Through this, our students develop key 21st Century Competencies of adaptive thinking, collaboration and communication.
+<br>
+<table style="border: 1px solid rgb(42, 42, 42); width: 773px;"> <tbody> <tr> 
+	
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 350px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP9.jpg">
+<div style="margin-top: 5px; line-height: 1.2">Learning how to plant onions from our school gardener</div> </td> 
+	
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 400px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP10.jpg"> 
+<div style="margin-top: 29px; line-height: 1.2">Exploring spaces in our school through an orienteering activity</div> </td></tr> 
+
+<tr> 
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP11.jpg"> 
+<div style="margin-top: 5px; line-height: 1.2">Learning more about fish and vegetable farming at Nippon Koi
+Farm
+</div> </td> 
+
+<td width="386" style="padding: 8px; text-align: center; border: 1px solid rgb(42, 42, 42);"> <img style="width: 300px; height: auto; display: block; margin: 0 auto;" src="/images/Department/14ALP/ALP12.jpg"> 
+<div style="margin-top: 4px;">Collaborating on our LEGO prototype</div></td> 
+</tr> </tbody> </table>
+<hr><br>
