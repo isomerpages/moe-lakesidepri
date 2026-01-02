@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/lsps_sg60.png
+      background: /images/Banner/lsps_website_banner_jan_2026.png
       url: /contact-us/
       key_highlights:
         - title: Appreciate a staff member
@@ -16,6 +16,7 @@ sections:
         - title: Your feedback matters
           description: ""
           url: https://go.gov.sg/lsps-feedbackform
+      variant: center
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
