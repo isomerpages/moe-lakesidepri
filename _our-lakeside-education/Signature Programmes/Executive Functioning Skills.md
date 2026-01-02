@@ -48,9 +48,15 @@ Watch the video below to get to know our mascots.
 <li>Use the EFS mascots to highlight positive behaviours.</li>
 For example: “You are always able to stay focused on completing your homework. Well done, On-Task Tiger!” <br><br>
 <li>Identify two or three skills to focus on and strengthen over time. Sit down with your child and discuss which skills they would like to focus on</li>
+	<ul><li>Prioritise skills that will have the most immediate positive impact on their daily life</li>
+					<li>Break down complex skills into smaller, manageable steps</li>
+          <li>Set realistic goals and timelines for improvement</li>
+          <li>Consider both school and home environments when selecting skills to work on</li></ul>
+<li>Plan activities that can help develop these skills</li>
 			<ul><li>Create structured routines</li> 
 							<li>Use visual aids like checklists, schedules, and timers</li>
-							<li>Incorporate games and activities that target specific skills:</li>
+							<li>Set realistic goals and timelines for improvement</li>
+				      <li>Incorporate games and activities that target specific skills:</li>
 							<ul><li>Memory games for working memory</li>
 											<li>Board games for planning and strategy</li>
 											<li>Time-based challenges for time management</li>
@@ -59,7 +65,7 @@ For example: “You are always able to stay focused on completing your homework.
 			<ul><li>Role-playing scenarios</li>
 							<li>Family activities that require planning</li>
 							<li>Interactive digital apps designed for executive function development</li></ul></ol></div>
-<img src="/images/Department/16EFS/EFS_2.png">
-<img src="/images/Department/16EFS/EFS_3.png">
+<img src="/images/Department/16EFS/EFS6.png">
+<img src="/images/Department/16EFS/EFS7.png">
 <br>
-Can’t recall the information on the mascots? Do not worry! You can also guide your child by referring to the Student Handbook page 16 &amp; 17.
+Can’t recall the information on the mascots? Do not worry! You can also guide your child by referring to the <b>Student Handbook page 6 and 7.</b>
