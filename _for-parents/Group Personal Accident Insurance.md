@@ -10,6 +10,6 @@ Information on claims, FAQs and other details pertaining to the GPA Insurance Pl
 <br><br>
 With effect from 2022, all student accident insurance claims submissions are to be submitted electronically.&nbsp; Parents are to submit their claims online and check the claims status through the online portal. Click&nbsp;<a style="text-decoration: none" href="https://studentgpa.incomegroupins.com.sg/#/" target="_blank">here</a>&nbsp;to submit claims online.&nbsp;
 <br><br>
-Click&nbsp;<a style="text-decoration: none" href="/files/Admin%20Forms/GPA_Insurance_2025.pdf" target="_blank">here</a> for the updated product factsheet for the NTUC Income Group Personal Accident (GPA) Insurance Plan for Students.&nbsp;
+Click&nbsp;<a style="text-decoration: none" href="/files/Admin%20Forms/GPA_Insurance_2026.pdf" target="_blank">here</a> for the updated product factsheet for the NTUC Income Group Personal Accident (GPA) Insurance Plan for Students.&nbsp;
 <br><br>
 Should you have any queries, do feel free to contact us at 62620918 or email us at lakeside_ps@moe.edu.sg
