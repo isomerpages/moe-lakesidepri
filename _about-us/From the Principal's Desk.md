@@ -19,8 +19,7 @@ You play an important role in reinforcing these skills beyond school. Simple act
 It is my first belief that when home and school work together, children develop a strong, consistent foundation for character and communication.<br><br>
 With our dedicated staff and strong partnerships with families, we remain committed to creating a caring and enabling environment where every child knows they matter, where growth is celebrated, and where students are empowered to make a positive difference.<br><br>
 We look forward to a meaningful year of learning, growth, and shared successes.
-<br>
-
+<br><br>
 With warm regards,
 <br>
 <b>Mrs Rina Liang</b><br>
