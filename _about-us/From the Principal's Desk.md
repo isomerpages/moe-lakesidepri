@@ -4,7 +4,7 @@ permalink: /about-us/from-the-principals-desk/
 description: ""
 variant: markdown
 ---
-<div style="float: right; margin-right: 15px; padding: 15px;"><img src="/images/Home/Mrs_Liang_2026.jpg" style="width: 70%; height: 70%;"></div>
+<img src="/images/Home/Mrs_Liang_2026.jpg" style="width: 70%; height: 70%;">
 <div style="font-size:14pt;" align="justify">Dear Parents and Guardians,<br><br>
 Welcome to a new academic year at <b>Lakeside Primary School</b>. I am delighted to partner you as we nurture every child to become a <b>Creative Thinker, Empathetic Leader, and Lifelong Learner</b>, guided by our cherished <b>LPRIDE values</b> — <i>Love, Perseverance, Respect, Integrity, Diligence and Excellence</i>.<br><br>
 Having experienced the full suite of Lakeside experiences since joining the school in 2024, I feel deeply privileged to serve as the Principal of this warm and purposeful community. Together with our dedicated staff, I am committed to empowering every Laker to make a positive difference — in school, at home, and in the community.<br><br>
