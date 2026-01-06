@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div style="float: right; margin-right: 15px;"><iframe width="400" height="450" src="https://www.youtube.com/embed/K_BQK5FFZok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<div style="font-size:14pt;">Dear Lakeside Parents and Guardians,<br><br>
+<div style="font-size:14pt;" align="justify">Dear Lakeside Parents and Guardians,<br><br>
 Welcome to a new academic year at Lakeside Primary School. It is my pleasure to partner you in nurturing every child to become a <b>Creative Thinker, Empathetic Leader, and Lifelong Learner</b>, guided by our LPRIDE values — <b>Love, Perseverance, Respect, Integrity, Diligence, and Excellence</b>.<br><br>
 This year, we are excited to launch our <b>B’Right Culture</b> — a whole-school culture of Care, Leadership, and Thinking. Building on the success of our B’Right Room and student wellbeing programmes since 2019, we are extending the same spirit of care and empowerment to every classroom, where <b>every Laker feels a strong sense of belonging and is supported to grow and contribute</b>.<br><br>
 We are proud that our B’Right Culture was featured at the <b>Teachers’ Conference and ExCEL Fest 2025</b>, and that our Head of Department for Pupil Development was conferred the <b>2024 MOE Outstanding Innovator Award</b>. This recognition affirms the dedication of our staff and the positive impact we see in our students daily.
