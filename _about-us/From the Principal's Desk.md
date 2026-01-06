@@ -4,24 +4,17 @@ permalink: /about-us/from-the-principals-desk/
 description: ""
 variant: markdown
 ---
-<div style="float: right; margin-right: 15px; padding: 15px;"><iframe width="400" height="450" src="https://www.youtube.com/embed/K_BQK5FFZok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-<div style="font-size:14pt;" align="justify">Dear Lakeside Parents and Guardians,<br><br>
-Welcome to a new academic year at Lakeside Primary School. It is my pleasure to partner you in nurturing every child to become a <b>Creative Thinker, Empathetic Leader, and Lifelong Learner</b>, guided by our LPRIDE values — <b>Love, Perseverance, Respect, Integrity, Diligence, and Excellence</b>.<br><br>
-This year, we are excited to launch our <b>B’Right Culture</b> — a whole-school culture of Care, Leadership, and Thinking. Building on the success of our B’Right Room and student wellbeing programmes since 2019, we are extending the same spirit of care and empowerment to every classroom, where <b>every Laker feels a strong sense of belonging and is supported to grow and contribute</b>.<br><br>
-We are proud that our B’Right Culture was featured at the <b>Teachers’ Conference and ExCEL Fest 2025</b>, and that our Head of Department for Pupil Development was conferred the <b>2024 MOE Outstanding Innovator Award</b>. This recognition affirms the dedication of our staff and the positive impact we see in our students daily.
-Guided by our school theme, <b>“Lead with LPRIDE”</b>, we place strong emphasis on developing empathetic communication — the ability for children to understand perspectives, express themselves respectfully, manage emotions, and work well with others. Through the teaching of <b>Executive Functioning Skills</b> and <b>Leader in Me</b> habits, students learn how to listen actively, pause and think before responding, articulate their feelings, and resolve conflicts constructively. These are essential life skills that strengthen relationships and build confident, caring leaders.<br><br>
-<b>How Parents Can Support at Home</b><br><br>
-You play an important role in reinforcing these skills beyond school. Simple actions make a big difference:<br>
-<ul><li>Model empathetic listening by acknowledging your child’s feelings before offering solutions</li>
-<li>Encourage your child to use respectful language when sharing thoughts or disagreements</li>
-<li>Ask reflective questions such as “What were you thinking?” or “How do you think others felt?”</li>
-<li>Celebrate effort, self-control, and positive choices — not just outcomes</li></ul>
-It is my first belief that when home and school work together, children develop a strong, consistent foundation for character and communication.<br><br>
-With our dedicated staff and strong partnerships with families, we remain committed to creating a caring and enabling environment where every child knows they matter, where growth is celebrated, and where students are empowered to make a positive difference.<br><br>
-We look forward to a meaningful year of learning, growth, and shared successes.
-<br><br>
-With warm regards,
-<br>
-<b>Mrs Rina Liang</b><br>
+<img src="/images/Home/Mrs_Liang_2026.jpg" style="width: 70%; height: 70%;">
+<div style="font-size:14pt;" align="justify">Dear Parents and Guardians,<br><br>
+Welcome to a new academic year at <b>Lakeside Primary School</b>. I am delighted to partner you as we nurture every child to become a <b>Creative Thinker, Empathetic Leader, and Lifelong Learner</b>, guided by our cherished <b>LPRIDE values</b> — <i>Love, Perseverance, Respect, Integrity, Diligence and Excellence</i>.<br><br>
+Having experienced the full suite of Lakeside experiences since joining the school in 2024, I feel deeply privileged to serve as the Principal of this warm and purposeful community. Together with our dedicated staff, I am committed to empowering every Laker to make a positive difference — in school, at home, and in the community.<br><br>
+At the heart of our work is the creation of a <b>caring and enabling environment</b> where every child feels valued, supported, and inspired to grow. This year, we are excited to strengthen our <b>B’Right Culture</b> — a whole-school culture of <b>Care, Leadership and Thinking</b>. Building on the success of our B’Right Room and student well-being programmes since 2019, this spirit of care and empowerment will now be extended into every classroom, fostering a strong sense of belonging for every child.<br><br>
+Guided by our school theme, <b>“Lead with LPRIDE”</b>, we place strong emphasis on developing <b>empathetic communication</b> and leadership from within. Through the teaching of Executive <b>Functioning Skills and ‘Leader in Me’ habits</b>, our students learn to listen actively, manage emotions, express themselves respectfully, and resolve conflicts constructively. These essential life skills strengthen relationships, build confidence, and prepare our students to lead with empathy and purpose.<br><br>
+We believe that creativity and adaptability are vital for our children’s future. Through rich learning experiences, students are encouraged to explore ideas, appreciate diverse perspectives, and develop the confidence to serve a purpose greater than themselves. Our Lakeside curriculum equips every Laker with 21st-century dispositions, ensuring they start strong as they progress to secondary school and beyond.<br><br>
+Parents are key partners in this journey. Simple acts at home — modelling empathetic listening, encouraging respectful dialogue, asking reflective questions, and celebrating effort and positive choices — reinforce the values and skills our children learn in school. When home and school work hand in hand, children develop a strong and consistent foundation for character, communication and growth.
+As we journey together, we remain steadfast in our belief that <b>every child can</b> — <i>Contribute, Achieve and be Nurtured</i>. Our Lakers will be inspired to be their best and empowered to make a positive difference to others.<br><br>
+I look forward to a meaningful year of learning, growth and shared successes with you.<br><br>
+<b>Let us Take Charge and Make a Positive Difference, together.</b><br><br>
+<b>Mrs Liang</b><br>
 Principal<br>
 Lakeside Primary School</div>
