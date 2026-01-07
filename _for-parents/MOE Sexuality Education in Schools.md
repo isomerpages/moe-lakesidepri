@@ -53,13 +53,13 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank
 <td width="200" style="padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b><br><br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
-<td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Term 3 Week 6</td></tr>
+<td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Term 2</td></tr>
 <tr>
 <td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Keeping Myself Safe<br>(60 min)</td>
 <td width="200" style="padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
 <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 </td>
-<td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Term 3 Week 8</td></tr>
+<td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Term 2</td></tr>
 </tbody></table>
 <br>
 <div style="text-align:center;">
@@ -78,7 +78,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank
 <tr>
 <td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
 <td width="200" style="padding: 5px; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-<td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Term 3 Week 6</td></tr>
+<td width="128" style="padding: 5px; text-align: center; vertical-align: middle; border: 1px solid rgb(42, 42, 42);">Term 2</td></tr>
 </tbody></table>
 <br>
 	<b>Information for Parents</b>
