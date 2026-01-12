@@ -76,4 +76,5 @@ It is an excellent platform for our students to hone the social-emotional learni
 <u>Post PSLE iSports (Cycling) Programme </u><br>
 All Primary 6 students will participate in our Post-PSLE iSports (Cycling) Programme, designed to equip them with the knowledge, confidence, and skills to cycle safely and proficiently. This programme caters to students of varying skill levels, from beginners to experienced cyclists. Non-cyclists will be guided through a structured and progressive training programme to develop essential cycling skills. As part of the experience, students will have the opportunity to cycle around Jurong Lake Gardens, allowing them to apply their skills in a real-world environment. Through this programme, we aim to nurture cycling as a lifelong skill—one that promotes an active lifestyle, appreciation of nature, and meaningful social interaction.<br>
 <img src="/images/Department/06PE/POSL_PSLE_1.png">
-<br>
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Cycling Expedition to Jurong Lake Gardens  <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Students Developing Cycling Skills in School <i style="color:blue;">(right)</i></span>
