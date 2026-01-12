@@ -4,7 +4,7 @@ permalink: /our-lakeside-education/physical-education/
 description: ""
 variant: markdown
 ---
-<b>Curricular Goals:</b>
+<div style="font-size:14pt;" align="justify"><b>Curricular Goals:</b>
 <br>
 We aim to develop in our students an understanding and the application of a range of movement skills, which will enable them to participate in a variety of physical activities. While they enjoy and value the benefits of living a physically active and healthy life, they will also display positive personal and social behaviour through the demonstration of safe practices during physical activities.
 <hr><br>
@@ -77,4 +77,4 @@ It is an excellent platform for our students to hone the social-emotional learni
 All Primary 6 students will participate in our Post-PSLE iSports (Cycling) Programme, designed to equip them with the knowledge, confidence, and skills to cycle safely and proficiently. This programme caters to students of varying skill levels, from beginners to experienced cyclists. Non-cyclists will be guided through a structured and progressive training programme to develop essential cycling skills. As part of the experience, students will have the opportunity to cycle around Jurong Lake Gardens, allowing them to apply their skills in a real-world environment. Through this programme, we aim to nurture cycling as a lifelong skill—one that promotes an active lifestyle, appreciation of nature, and meaningful social interaction.<br>
 <img src="/images/Department/06PE/POSL_PSLE_1.png">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Cycling Expedition to Jurong Lake Gardens  <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Students Developing Cycling Skills in School <i style="color:blue;">(right)</i></span>
+<span style="color:blue;">•</span> Cycling Expedition to Jurong Lake Gardens  <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Students Developing Cycling Skills in School <i style="color:blue;">(right)</i></span></div>
