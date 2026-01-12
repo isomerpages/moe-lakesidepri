@@ -2,8 +2,9 @@
 title: Physical Education
 permalink: /our-lakeside-education/physical-education/
 description: ""
+variant: markdown
 ---
-<b>Curricular Goals:</b>
+<div style="font-size:14pt;" align="justify"><b>Curricular Goals:</b>
 <br>
 We aim to develop in our students an understanding and the application of a range of movement skills, which will enable them to participate in a variety of physical activities. While they enjoy and value the benefits of living a physically active and healthy life, they will also display positive personal and social behaviour through the demonstration of safe practices during physical activities.
 <hr><br>
@@ -45,13 +46,13 @@ The seven learning areas of our PE program are;
 <br>
 Our Lakers participated in an inter-class competition annually. 
 Every student will be participating in representing their class.<br><br>
-P1 & P2 National Day Relays<br>
+P1 &amp; P2 National Day Relays<br>
 P3 Gymnastic routine performance<br>
-P4 to P6 Net Barrier/Territorial & Invasion Sports.<br><br>
+P4 to P6 Net Barrier/Territorial &amp; Invasion Sports.<br><br>
 We aim to:
 <br><br>
 <ul><li>build character, team spirit and promote social and racial integration.</li>
-<li>develop a sporting culture through the teaching of skills & values (21CC)</li>
+<li>develop a sporting culture through the teaching of skills &amp; values (21CC)</li>
 <li>provide avenues for pupil to display LPRIDE the school values.</li>
 <li>provide a platform for pupils to showcase the skills learnt in PE.</li></ul>
 <img src="/images/Department/06PE/PE2.png" style="width: 60%;">
@@ -59,8 +60,8 @@ We aim to:
 <u>Lakers' Friendship Carnival</u>
 <br>
 Our Lakers’ Friendship Carnival involves the entire school population from Primary 1 to Primary 6 students. This carnival provides opportunities for students to forge stronger friendship between junior and senior Lakers. Students are encouraged to take on an active lifestyle and to have a deeper appreciation for the Arts too. Through this experience, students will also build up their skills in decision-making and teamwork.
-To engage the students meaningfully, the carnival comprises of four segments, namely Sports & Games, Team bonding, Music and Arts. All these learning experiences are highly student-centric and team-oriented in nature, for our students to learn to work together in teams to achieve common goals.<br><br>
-<img src="/images/Department/06PE/PE3.png" >
+To engage the students meaningfully, the carnival comprises of four segments, namely Sports &amp; Games, Team bonding, Music and Arts. All these learning experiences are highly student-centric and team-oriented in nature, for our students to learn to work together in teams to achieve common goals.<br><br>
+<img src="/images/Department/06PE/PE3.png">
 <br><br>
 <u>SwimSafer</u>
 <br>
@@ -72,24 +73,8 @@ SwimSafer is a national water safety program developed to raise the standard of 
 It is an excellent platform for our students to hone the social-emotional learning (SEL) competencies and develop appreciation for each other through teamwork. Through the various teambuilding and outdoor activities, students are able to instil the school values of perseverance and respect. At the same time, they experience the ruggedness and dynamism of being outdoors with nature.<br><br>
 <img src="/images/Department/06PE/PE5.png">
 <br><br>
-<u>P4 Camp</u>
-<br>
-It is an excellent platform for our students to hone the social-emotional learning (SEL) competencies and apply our ALP skills of Thinker with Heart in the OE settings.<br>
-Through the various teambuilding and outdoor activities, students are able to apply the skills to solve the problem that they face as a team.<br><br>
-<img src="/images/Department/06PE/PE6.png" style="width: 60%;"><br>
+<u>Post PSLE iSports (Cycling) Programme </u><br>
+All Primary 6 students will participate in our Post-PSLE iSports (Cycling) Programme, designed to equip them with the knowledge, confidence, and skills to cycle safely and proficiently. This programme caters to students of varying skill levels, from beginners to experienced cyclists. Non-cyclists will be guided through a structured and progressive training programme to develop essential cycling skills. As part of the experience, students will have the opportunity to cycle around Jurong Lake Gardens, allowing them to apply their skills in a real-world environment. Through this programme, we aim to nurture cycling as a lifelong skill—one that promotes an active lifestyle, appreciation of nature, and meaningful social interaction.<br>
+<img src="/images/Department/06PE/POSL_PSLE_1.png">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Ice Breaker Activities</span>
-<hr><br>
-<img src="/images/Department/06PE/PE7.png"><br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Catapult Making</span>
-<hr><br>
-<img src="/images/Department/06PE/PE8.png"><br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Tent Building</span>
-<hr><br>
-<img src="/images/Department/06PE/PE9.png"><br>
-<img src="/images/Department/06PE/PE10.png"><br>
-<img src="/images/Department/06PE/PE11.png"><br>
-<span style="font-size:10pt;">
-<span style="color:blue;">•</span> Orienteering in Jurong Lake Garden</span>
+<span style="color:blue;">•</span> Cycling Expedition to Jurong Lake Gardens  <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Students Developing Cycling Skills in School <i style="color:blue;">(right)</i></span></div>
