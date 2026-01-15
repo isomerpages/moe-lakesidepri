@@ -14,12 +14,12 @@ There will be no tests and exams for Primary 1 and Primary 2.
 Please refer to the attached annexes for more details of the learning outcomes/
 assessments for the respective levels.
 <br><br>
-<a style="text-decoration: none" href="/files/Assessment/Annex_A_P1_Learning_Outcomes_2025_Revised.pdf" target="_blank">• Annex A P1 Learning Outcomes 2025</a><br>
-<a style="text-decoration: none" href="/files/Assessment/Annex_A_P2_Learning_Outcomes_2025_Revised.pdf" target="_blank">• Annex A P2 Learning Outcomes 2025</a><br>
-<a style="text-decoration: none" href="/files/Assessment/Annex_A_P3_Assessment_Plan_2025.pdf" target="_blank">• Annex A P3 Assessment Plan 2025</a><br>
-<a style="text-decoration: none" href="/files/Assessment/Annex_A_P4_Assessment_Plan_2025.pdf" target="_blank">• Annex A P4 Assessment Plan 2025</a><br>
-<a style="text-decoration: none" href="/files/Assessment/Annex_A_P5_Assessment_Plan_2025.pdf" target="_blank">• Annex A P5 Assessment Plan 2025</a><br>
-<a style="text-decoration: none" href="/files/Assessment/Annex_A_P6_Assessment_Plan_2025.pdf" target="_blank">• Annex A P6 Assessment Plan 2025</a>
+<a style="text-decoration: none" href="/files/Assessment/Annex_A_P1_Learning_Outcomes_2026.pdf" target="_blank">• Annex A P1 Learning Outcomes 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/Annex_A_P2_Learning_Outcomes_2026.pdf" target="_blank">• Annex A P2 Learning Outcomes 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/Annex_A_P3_Assessment_Plan_2026.pdf" target="_blank">• Annex A P3 Assessment Plan 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/Annex_A_P4_Assessment_Plan_2026.pdf" target="_blank">• Annex A P4 Assessment Plan 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/Annex_A_P5_Assessment_Plan_2026.pdf" target="_blank">• Annex A P5 Assessment Plan 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/Annex_A_P6_Assessment_Plan_2026.pdf" target="_blank">• Annex A P6 Assessment Plan 2026</a>
 <br><br>
 EXAMINATION POLICY (FOR PRIMARY 3 TO 6)
 <br>
