@@ -22,7 +22,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Start Right, End B’Right (SREB) Programme for Primary 2 to 6 Students
-          date: 20 January 2026
+          date: 05 January 2026
           announcement: Start Right, End B’Right (SREB) is a special programme designed to
             help students ease back into school and begin the year with
             confidence and positivity.
