@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Primary 1 Orientation Programme
+          date: 02 January 2026
+          announcement: Primary 1 Orientation that took place on the 2 January 2026 was a
+            special time where our youngest learners take their first steps into
+            school life.
+          link_text: Check more here
+          link_url: /p1-orientation-programme-2026/
         - title: Primary 1 Curriculum Briefing Videos
           date: 02 December 2025
           announcement: The videos can be found under Primary 1  Information for Parents
