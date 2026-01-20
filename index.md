@@ -21,6 +21,20 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Start Right, End B’Right (SREB) Programme for Primary 2 to 6 Students
+          date: 05 January 2026
+          announcement: Start Right, End B’Right (SREB) is a special programme designed to
+            help students ease back into school and begin the year with
+            confidence and positivity.
+          link_text: Check more here
+          link_url: /start-right-end-b-right-sreb-programme-for-primary-2-to-6-students/
+        - title: Primary 1 Orientation Programme
+          date: 02 January 2026
+          announcement: Primary 1 Orientation that took place on the 2 January 2026 was a
+            special time where our youngest learners take their first steps into
+            school life.
+          link_text: Check more here
+          link_url: /p1-orientation-programme-2026/
         - title: Primary 1 Curriculum Briefing Videos
           date: 02 December 2025
           announcement: The videos can be found under Primary 1  Information for Parents
@@ -41,15 +55,6 @@ sections:
             playlist, specially curated for our parents.
           link_text: Check more here
           link_url: /2025-p6-graduation/
-        - title: "P2 PAL Concert: Green Beats, Wild Moves"
-          date: 11 November 2025
-          announcement: Our Primary 2 students shone brightly at the P2 PAL Concert,
-            showcasing their creativity, confidence and teamwork. Through
-            vibrant performances inspired by the theme Green Beats, Wild Moves,
-            students expressed messages of sustainability while demonstrating
-            the skills they honed during PAL.
-          link_text: Check more here
-          link_url: /p2-concert-2025/
   - infobar:
       id: infobar
       button: Check here
