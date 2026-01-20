@@ -48,7 +48,7 @@ We look forward to a close partnership with parents to support your child in lea
 <img src="/images/Department/03SCI/SCI04.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> P3 students observing specimens using clip-on microscope during a Science lesson <br><span style="color:blue;">•</span> P5 students working collaboratively to design and create an Electric Buzz Wire Maze game during a STEM activity </span>
+<span style="color:blue;">•</span> P3 students observing specimens using clip-on microscopes during a Science lesson <br><span style="color:blue;">•</span> P5 students working collaboratively to design and create an Electric Buzz Wire Maze game during a STEM activity </span>
 <hr><br>
 <img src="/images/Department/03SCI/SCI05.png">
 <br>
