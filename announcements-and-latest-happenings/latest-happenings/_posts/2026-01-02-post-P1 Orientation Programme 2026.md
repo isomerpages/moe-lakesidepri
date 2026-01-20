@@ -21,5 +21,4 @@ They learn how to infuse EFS into managing their belongings, follow classroom ro
 <hr><br>
 <img src="/images/Happenings/P1%20ORIENTATION/P1_Orientation_2026_3.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;"><span style="color:blue;">•</span> Parent and child having recess together <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Classroom activity - singing together! <i style="color:blue;">(right)</i></span>
-<hr><br>
-	.......................</span>
+<br></span>
