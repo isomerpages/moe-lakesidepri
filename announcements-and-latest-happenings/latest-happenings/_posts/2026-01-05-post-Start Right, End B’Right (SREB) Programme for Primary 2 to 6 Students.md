@@ -13,7 +13,7 @@ Through interactive activities and bonding sessions, students are encouraged to 
 <br>
 <img src="/images/Happenings/SREB/SREB2026_1.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Back to school! <i style="color:blue;">(above image)</i>
+<span style="color:blue;">•</span> Back to school! <i style="color:blue;">(above image)</i></span>
 <hr><br>
 <img src="/images/Happenings/SREB/SREB2026_2.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
@@ -22,4 +22,4 @@ Through interactive activities and bonding sessions, students are encouraged to 
 <img src="/images/Happenings/SREB/SREB2026_3.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> P4 student showing P1 buddy how to play the instrument <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span>Taking good care of my buddy! <i style="color:blue;">(right)</i></span>
-<hr><br></span>
+<hr><br>
