@@ -21,4 +21,5 @@ Through interactive activities and bonding sessions, students are encouraged to 
 <hr><br>
 <img src="/images/Happenings/SREB/SREB2026_3.png" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-</span></span>
+<span style="color:blue;">•</span> P4 student showing P1 buddy how to play the instrument <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span>Taking good care of my buddy! <i style="color:blue;">(right)</i></span>
+<br></span>
