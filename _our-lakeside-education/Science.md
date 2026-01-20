@@ -45,17 +45,17 @@ We look forward to a close partnership with parents to support your child in lea
 <li>Bring your child on learning journeys to zoos, parks and nature reserves to learn more about plants and animals.</li>  
 <li>Help your child to cultivate good work habits such as annotating and revising regularly.</li>  </ul>
 <br>
-<img src="/images/Department/03SCI/SCI01.png">
+<img src="/images/Department/03SCI/SCI04.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students observing specimen slides using a clip-on microscope during a P3 lesson on Bacteria and Fungi <br><span style="color:blue;">•</span> Students working together to create a model of the plant transport system during a P5 lesson </span>
+<span style="color:blue;">•</span> P3 students observing specimens using clip-on microscope during a Science lesson <br><span style="color:blue;">•</span> P5 students working collaboratively to design and create an Electric Buzz Wire Maze game during a STEM activity </span>
 <hr><br>
-<img src="/images/Department/03SCI/SCI02.png">
+<img src="/images/Department/03SCI/SCI05.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students harvesting the vegetables they have planted during the P4 Eco-plot Planting Programme <br><span style="color:blue;">•</span> Students conducting hands-on experiment during a Science Centre Enrichment Programme </span>
+<span style="color:blue;">•</span> &nbsp;P4 students planting shallots as part of the Eco-plot planting activity <br><span style="color:blue;">•</span> P4 students conducting investigations and collecting data using dataloggers during the E2K Science enrichment lesson </span>
 <hr><br>
-<img src="/images/Department/03SCI/SCI03.png">
+<img src="/images/Department/03SCI/SCI06.png">
 <br>
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students engaging in scientific inquiry during the E2K programme <span style="color:blue;"><i>(top)</i></span><br><span style="color:blue;">•</span> Students learning about the edible plants in our school garden during a workshop organised for the Environment Monitors <span style="color:blue;"><i>(bottom)</i></span><br><span style="color:blue;">•</span> Students learning ways to upcycle wooden waste into everyday products during the P6 learning journey to Xcel Industrial Supplies Pte Ltd <span style="color:blue;"><i>(right)</i></span></span>
+<span style="color:blue;">•</span> &nbsp;P6 students collecting and observing pond organisms during a Science Centre enrichment lesson <br></span>
