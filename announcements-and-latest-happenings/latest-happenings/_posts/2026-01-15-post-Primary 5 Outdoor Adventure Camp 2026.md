@@ -23,7 +23,7 @@ This camp truly embodied our school’s spirit—“Take Charge and make a posit
 <hr><br>
 <img src="/images/Happenings/P5CAMP/P5CAMP2026_2.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Preparing for adventure on water <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span>Teamwork in every paddle <i style="color:blue;">(right)</i></span>
+<span style="color:blue;">•</span> Preparing for adventure on water <i style="color:blue;">(top)</i><br><span style="color:blue;">•</span>Teamwork in every paddle <i style="color:blue;">(bottom)</i></span>
 <hr><br>
 <img src="/images/Happenings/P5CAMP/P5CAMP2026_3.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
