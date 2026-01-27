@@ -19,7 +19,7 @@ This camp truly embodied our school’s spirit—“Take Charge and make a posit
 <br>
 <img src="/images/Happenings/P5CAMP/P5CAMP2026_1.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Rising above fears—students challenge themselves on the high ropes with courage and determination. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Climbing higher, together <i style="color:blue;">(middle)</i><br><span style="color:blue;">•</span> Conquering the abseiling wall <i style="color:blue;">(right)</i></span>
+<span style="color:blue;">•</span> Rising above fears—students challenge themselves on the high ropes with courage and determination <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Climbing higher, together <i style="color:blue;">(middle)</i><br><span style="color:blue;">•</span> Conquering the abseiling wall <i style="color:blue;">(right)</i></span>
 <hr><br>
 <img src="/images/Happenings/P5CAMP/P5CAMP2026_2.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
