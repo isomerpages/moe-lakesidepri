@@ -21,6 +21,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Primary 5 Outdoor Adventure Camp 2026
+          date: 15 January 2026
+          announcement: Our Primary 5 students returned from their first Outdoor Adventure
+            Camp with excitement, confidence and unforgettable memories.
+          link_text: Check more here
+          link_url: /primary-5-outdoor-adventure-camp-2026/
         - title: Start Right, End B’Right (SREB) Programme for Primary 2 to 6 Students
           date: 05 January 2026
           announcement: Start Right, End B’Right (SREB) is a special programme designed to
@@ -48,13 +54,6 @@ sections:
             events is now available for your viewing pleasure!
           link_text: Check more here
           link_url: /event-highlights-2025/
-        - title: 2025 Primary 6 Graduation
-          date: 19 November 2025
-          announcement: Congratulations to all our graduating Lakers! Relive the special
-            moments from the Primary 6 Graduation Ceremony with this video
-            playlist, specially curated for our parents.
-          link_text: Check more here
-          link_url: /2025-p6-graduation/
   - infobar:
       id: infobar
       button: Check here
