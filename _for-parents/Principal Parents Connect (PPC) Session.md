@@ -1,6 +1,6 @@
 ---
 title: Principal Parents Connect (PPC) Session
-permalink: /principal-parents-connect-ppc-session/
+permalink: /for-parents/principal-parents-connect-ppc-session/
 variant: markdown
 description: ""
 ---
