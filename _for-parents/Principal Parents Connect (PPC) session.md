@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="font-size:14pt;" align="justify"><b>Principal-Parents-Connect (PPC) Session</b><br><br>
 <b>FAQs</b></div>
-<br>
+
 <div style="font-size:12pt;" align="justify">
 <b>1. Gifted Education Programme (GEP)</b><br><br>
 <b>Q: What are the changes to GEP? How does the school identify High Ability Learners (HALs)? Are there school-based enrichment programmes available?</b><br><br>
