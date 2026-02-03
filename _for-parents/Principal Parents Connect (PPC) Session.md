@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div style="font-size:14pt;" align="justify"><b>Principal-Parents-Connect (PPC) Session</b><br><br>
-<b>FAQs</b></div>
+<b>FAQs</b></div><br>
 
 <div style="font-size:12pt;" align="justify">
 <b>1. Gifted Education Programme (GEP)</b><br><br>
