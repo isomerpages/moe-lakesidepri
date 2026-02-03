@@ -52,7 +52,9 @@ For more information about <b>EFS and Leader in Me at Lakeside Primary School</b
 <b>4. Useful Websites</b><br><br>
 For more information about Singapore's education programmes, visit: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes</a><br><br>
 For useful resources for parents, visit: <a href="https://psg.moe.edu.sg/resources/" target="_blank">https://psg.moe.edu.sg/resources/</a><br><br>
-For subject syllabus and curriculum coverage, visit: <a href="https://www.moe.gov.sg/primary/curriculum/syllabus" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a><br><br>
+For subject syllabus and curriculum coverage, visit: <a href="https://www.moe.gov.sg/primary/curriculum/syllabus" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a><br>
+<br><hr><br>
+<b>This page will be updated after all the&nbsp;PPCs. Do look out for it!</b>
 
 
 
