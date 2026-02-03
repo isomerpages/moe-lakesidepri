@@ -10,22 +10,37 @@ description: ""
 <div style="font-size:12pt;" align="justify">
 <b>1. Gifted Education Programme (GEP)</b><br><br>
 <b>Q: What are the changes to GEP? How does the school identify High Ability Learners (HALs)? Are there school-based enrichment programmes available?</b><br><br>
-From 2027, the Gifted Education Programme (GEP) in its current form will be discontinued. More details on the refreshed approach to supporting higher-ability learners (HALs) at primary level will be shared at a later date.<br><br>
+	<b>A:</b> From 2027, the Gifted Education Programme (GEP) in its current form will be discontinued. More details on the refreshed approach to supporting higher-ability learners (HALs) at primary level will be shared at a later date.<br><br>
 School-Based Enrichment Talent Development Programmes
 We offer school-based provisions such as in-class support and after school programmes such as "Reading and Writing" (English) and E2K (Mathematics) and E2K (Science).<br><br>
 More details of our approach to Talent Development for HALs can be found at <a style="text-decoration: none" href="https://www.lakesidepri.moe.edu.sg/talent-development/" target="_blank">https://www.lakesidepri.moe.edu.sg/talent-development/</a>
 <br><hr><br><br>
 <b>2. Co-Curricular Activities (CCA)</b><br><br>
 <b>Q: When will CCAs start and how do students choose their CCA?</b><br><br>
-	At Term 1 Week 10, P3 students will undergo the CCA Experience which will help them make informed decisions about their co-curricular participation.
-<ul><li>Be exposed to new CCA opportunities</li>
-	<li>Gain awareness of the variety of CCAs offered</li>
-	<li>Learn to work effectively with others during planned activities</li>
-	<li>Develop thinking skills to make informed decisions when selecting a suitable CCA based on their interests</li></ul>
+<b>A:</b> At Term 1 Week 10, P3 students will undergo the CCA Experience which will help them make informed decisions about their co-curricular participation.<br><br>
+• Be exposed to new CCA opportunities<br>
+• Gain awareness of the variety of CCAs offered<br>
+• Learn to work effectively with others during planned activities<br>
+• Develop thinking skills to make informed decisions when selecting a suitable CCA based on their interests<br><br>
 Subsequently, students will make their CCA choices and begin their selected CCA at mid-Term 2. This structured timeline ensures students have adequate exposure and time to consider their options before committing to their chosen co-curricular activity.
 <br><hr><br><br>
 <b>3. Transition Support &amp; Preparation</b><br><br>
-		
+<b>Q: How can I support my child’s transition (e.g. from Primary 2 to Primary 3) in a way that complements the school’s efforts?</b><br><br>
+<b>A:</b> By nurturing Executive Functioning Skills (EFS) and Leader in Me (LiM) habits at home.<br><br>
+The move from Primary 2 to Primary 3 is an exciting milestone for your child. Along with new subjects and richer learning experiences, children also face higher expectations for independence, focus, and responsibility. It’s perfectly normal for them to take some time to adjust—and that’s where home support makes a big difference.<br><br>
+By reinforcing Executive Functioning Skills (EFS) and Leader in Me (LiM) habits at home, you can help your child build confidence and develop routines that align closely with what they are learning in school.<br><br>
+Here are some simple, practical ways to support your child during this transition:<br><br>
+<b>Key Areas to Focus On</b><br><br>
+<b>🗂 Planning &amp; Organisation (Planner Penguin)</b><br><br>
+Help your child establish simple daily routines using visual schedules or checklists. Have short conversations about what needs to be done for the day and encourage them to <b>“Begin with the End in Mind”</b> by setting small, achievable goals. You can even say, “Let’s ask Planner Penguin how we can organise this!”<br><br>
+<b>🎯 Attention &amp; Focus (On-Task Tiger)</b><br><br>
+Create a calm, consistent homework routine with minimal distractions. Encourage your child to <b>“Put First Things First”</b> by completing important tasks before playtime. Start with short focus periods and gradually build stamina—cheering them on as they channel their inner On-Task Tiger.<br><br>
+<b>💛 Emotional Regulation (Dependable Dolphin)</b><br><br>
+As children take on new challenges, emotions may run high at times. Help your child name how they’re feeling (“I am feeling angry right now.”) and practise listening and responding calmly. Using <b>“Seek First to Understand, Then to Be Understood”</b> helps them navigate friendships and classroom situations with empathy. Dependable Dolphin can be a friendly reminder to pause, listen, and manage emotions thoughtfully.<br><br>
+<b>🤝 Problem-Solving &amp; Flexibility (Caring Capybara)</b><br><br>
+When things don’t go as planned, encourage your child to try a different approach rather than giving up. Talk through <b>“Think Win-Win”</b> situations and model flexible thinking. Caring Capybara is a great cue for working together and considering different perspectives.
+	
+	
 
 
 
