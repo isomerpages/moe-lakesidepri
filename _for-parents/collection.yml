@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Principal Parents Connect (PPC) session.md
       - General Information.md
       - School Rules.md
       - Assessment Matters.md
       - Calendar of Events.md
       - Letter to Parents.md
+      - Principal Parents Connect (PPC) session.md
       - MOE Sexuality Education in Schools.md
       - Useful Forms and Links.md
       - School Bus Service.md
