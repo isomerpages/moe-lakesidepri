@@ -4,9 +4,9 @@ permalink: /principal-parents-connect-ppc-session/
 variant: markdown
 description: ""
 ---
-<b>Principal-Parents-Connect (PPC) Session</b><br>
-<b>FAQs</b>
-
+<div style="font-size:14pt;" align="justify"><b>Principal-Parents-Connect (PPC) Session</b><br><br>
+<b>FAQs</b></div>
+<br><br>
 <div style="font-size:12pt;" align="justify">
 <b>1. Gifted Education Programme (GEP)</b><br><br>
 <b>Q: What are the changes to GEP? How does the school identify High Ability Learners (HALs)? Are there school-based enrichment programmes available?</b><br><br>
@@ -55,12 +55,4 @@ For useful resources for parents, visit: <a href="https://psg.moe.edu.sg/resourc
 For subject syllabus and curriculum coverage, visit: <a href="https://www.moe.gov.sg/primary/curriculum/syllabus" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a><br>
 <br><hr><br>
 <b>This page will be updated after all the&nbsp;PPCs. Do look out for it!</b>
-
-
-
-	
-	
-
-
-
 </div>
