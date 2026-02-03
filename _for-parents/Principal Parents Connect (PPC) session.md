@@ -14,7 +14,7 @@ description: ""
 School-Based Enrichment Talent Development Programmes
 We offer school-based provisions such as in-class support and after school programmes such as "Reading and Writing" (English) and E2K (Mathematics) and E2K (Science).<br><br>
 More details of our approach to Talent Development for HALs can be found at <a href="https://www.lakesidepri.moe.edu.sg/talent-development/" target="_blank">https://www.lakesidepri.moe.edu.sg/talent-development/</a><br>
-<br><hr><br><br>
+<br><hr><br>
 <b>2. Co-Curricular Activities (CCA)</b><br><br>
 <b>Q: When will CCAs start and how do students choose their CCA?</b><br><br>
 <b>A:</b> At Term 1 Week 10, P3 students will undergo the CCA Experience which will help them make informed decisions about their co-curricular participation.<br><br>
@@ -23,7 +23,7 @@ More details of our approach to Talent Development for HALs can be found at <a h
 • Learn to work effectively with others during planned activities<br>
 • Develop thinking skills to make informed decisions when selecting a suitable CCA based on their interests<br><br>
 Subsequently, students will make their CCA choices and begin their selected CCA at mid-Term 2. This structured timeline ensures students have adequate exposure and time to consider their options before committing to their chosen co-curricular activity.<br>
-<br><hr><br><br>
+<br><hr><br>
 <b>3. Transition Support &amp; Preparation</b><br><br>
 <b>Q: How can I support my child’s transition (e.g. from Primary 2 to Primary 3) in a way that complements the school’s efforts?</b><br><br>
 <b>A:</b> By nurturing Executive Functioning Skills (EFS) and Leader in Me (LiM) habits at home.<br><br>
@@ -48,7 +48,7 @@ Using the same EFS and LiM language at home helps your child make meaningful con
 When adults at home and in school work hand in hand, children feel supported, capable, and ready to grow into creative thinkers, empathetic leaders and lifelong learners.<br><br>
 For more information about <b>EFS and Leader in Me at Lakeside Primary School</b>, please visit:
 👉 <a href="https://www.lakesidepri.moe.edu.sg/our-lakeside-education/signature-programmes/efs/" target="_blank">https://www.lakesidepri.moe.edu.sg/our-lakeside-education/signature-programmes/efs/</a><br>
-<br><hr><br><br>
+<br><hr><br>
 <b>4. Useful Websites</b><br><br>
 For more information about Singapore's education programmes, visit: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes</a><br><br>
 For useful resources for parents, visit: <a href="https://psg.moe.edu.sg/resources/" target="_blank">https://psg.moe.edu.sg/resources/</a><br><br>
