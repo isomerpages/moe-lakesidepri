@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Principal Parents Connect (PPC) session.md
       - General Information.md
       - School Rules.md
       - Assessment Matters.md
