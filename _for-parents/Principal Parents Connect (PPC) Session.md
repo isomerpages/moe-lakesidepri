@@ -42,7 +42,7 @@ When things don’t go as planned, encourage your child to try a different appro
 <b>🔍 Self-Reflection (Reflective Raccoon):</b><br><br>
 Simple reflection goes a long way. Ask questions like, “What went well today?” or “What might you try differently next time?” This builds metacognitive skills and supports the habit of <b>“Sharpening the Saw”</b>—learning from experience and growing steadily.<br><br>
 <b>🌟 Taking Initiative (Sensible Seal):</b><br><br>
-	Encourage your child to <b>“Be Proactive”</b> by taking responsibility for their belongings, homework, and daily routines. Acknowledge their efforts with specific praise—“I noticed you packed your bag on your own today. That’s being a Sensible Seal! Well done!”<br><br><br>
+Encourage your child to <b>“Be Proactive”</b> by taking responsibility for their belongings, homework, and daily routines. Acknowledge their efforts with specific praise—“I noticed you packed your bag on your own today. That’s being a Sensible Seal! Well done!”<br><br><br>
 <b>Creating Strong Home–School Consistency</b><br><br>
 Using the same EFS and LiM language at home helps your child make meaningful connections across environments. Referencing familiar habits and mascots reassures them and reinforces these skills as part of everyday life—not just schoolwork.<br><br>
 When adults at home and in school work hand in hand, children feel supported, capable, and ready to grow into creative thinkers, empathetic leaders and lifelong learners.<br><br>
