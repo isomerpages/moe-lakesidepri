@@ -54,5 +54,5 @@ For more information about Singapore's education programmes, visit: <a href="htt
 For useful resources for parents, visit: <a href="https://psg.moe.edu.sg/resources/" target="_blank">https://psg.moe.edu.sg/resources/</a><br><br>
 For subject syllabus and curriculum coverage, visit: <a href="https://www.moe.gov.sg/primary/curriculum/syllabus" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a><br>
 <br><hr><br>
-<b>This page will be updated after all the&nbsp;PPCs. Do look out for it!</b>
+<b>This page will be updated after all the PPCs. Do look out for it!</b>
 </div>
