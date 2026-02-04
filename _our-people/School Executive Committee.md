@@ -38,7 +38,7 @@ variant: markdown
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">chow_mun_wai_kimberly@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mr Chan Kok Hong</td>
-<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/Mathematics</td>
+<td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">HOD/ICT<br>HOD/Mathematics (covering)</td>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><i style="font-size:11pt; color: rgb(237, 125, 49);">chan_kok_hong@moe.edu.sg</i></td></tr>
 <tr>
 <td width="279" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Audrey Cheong</td>
