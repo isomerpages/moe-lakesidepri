@@ -42,7 +42,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Form Teachers</b></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">2 Love</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Lara Ang<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ang_gay_suan@moe.edu.sg</i><br>Mr Andy Chow<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chow_yuan_feng@moe.edu.sg</i><br>Ms Chua Ting Ting<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chua_ting_ting@moe.edu.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Lara Ang<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ang_gay_suan@moe.edu.sg</i><br>Mr Andy Chow<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chow_yuan_feng@moe.edu.sg</i><br>Ms Chua Ting Ting<br><i style="font-size:11pt; color: rgb(237, 125, 49);">chua_ting_ting_a@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">2 Perseverance</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Junianah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">junianah_shamsudin@moe.edu.sg</i><br>Ms Clara Loo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">loo_yi_xuan_clara@moe.edu.sg</i></td></tr>
