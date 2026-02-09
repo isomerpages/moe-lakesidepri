@@ -60,6 +60,7 @@ sections:
       description: The Principal and Staff of Lakeside Primary School wish all
         students, parents, and stakeholders
       alt: Image alt text
+      image: /images/Home/Pop Up/CNY_2026.png
   - infobar:
       id: infobar
       button: Check here
