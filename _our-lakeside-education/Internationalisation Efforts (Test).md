@@ -21,11 +21,11 @@ In Lakeside Primary School, they provide opportunities for students to: <br>
 <span><table>
 <tbody>
 <tr>
-<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange">2025</td>
+<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange"> Internationalisation Efforts in Academic Year 2025</td>
 </tr>
 </tbody>
 </table></span>
-<span style="color:blue; float: left; font-size: 16pt">+</span>
+<span style="color:blue; float: left; font-size: 12pt">+ (Click to expand)</span>
 </summary>
 <br>
 <ul>	
@@ -51,7 +51,7 @@ On 23 July, our Lakers had a meaningful online cultural exchange session with st
 <hr><br>
 </ul></details>
 
-<br>
+<br><br>
 	
 <details>
 <summary style="list-style: none;">
@@ -60,11 +60,11 @@ On 23 July, our Lakers had a meaningful online cultural exchange session with st
 <span><table>
 <tbody>
 <tr>
-<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange">2024</td>
+<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange"> Internationalisation Efforts in Academic Year 2024</td>
 </tr>
 </tbody>
 </table></span>
-<span style="color:blue; float: left; font-size: 16pt">+</span>
+<span style="color:blue; float: left; font-size: 12pt">+ (Click to expand)</span>
 </summary>
 <br>
 <ul>
