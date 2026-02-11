@@ -2,7 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Internationalisation Efforts (Test).md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -33,3 +32,4 @@ collections:
       - Internationalisation Efforts/Internationalisation Overview.md
       - Internationalisation Efforts/2024.md
       - Internationalisation Efforts/2025.md
+      - Internationalisation Efforts (Test).md
