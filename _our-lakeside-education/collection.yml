@@ -2,8 +2,8 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - 2024/Internationalisation Efforts.md
-      - 2024/.keep
+      - Internationalisation Efforts/Internationalisation Efforts.md
+      - Internationalisation Efforts/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
