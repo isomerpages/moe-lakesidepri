@@ -62,8 +62,7 @@ Students reflected that the trip was eye-opening, noting both the similarities a
 <center>Suzhou Xiangcheng Experimental Primary School Visiting Programme</center>
 	
 On 7 and 8 August, students from Suzhou Xiangcheng Experimental Primary School visited our school to promote friendship and student exchange, with a focus on environmental awareness and sustainable development. During the visit, they toured our campus, participated in classroom activities, and shared ideas with our students about environmental practices, food, tourist attractions, language learning, and personal interests.
-<br>
-	
+<br><br>
 A highlight of the visit was a poetry recital by the visiting students on 8 August, which added a joyful atmosphere to our National Day celebration. Many students shared that they enjoyed making new friends and learning different perspectives on sustainability, while teachers appreciated how the exchange fostered collaboration and inspired students’ curiosity.
 
 <br><br>
