@@ -40,7 +40,7 @@ Students reflected that the trip was eye-opening, noting both the similarities a
 <br><br>
 <img src="/images/Department/17INT/SHANGHAI2025_1.jpg" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Filled with excitement, the students were ready to set off on their journey.</span>
+<span style="color:blue;">•</span> Filled with excitement, the students were ready to set off on their journey</span>
 <hr><br>
 <img src="/images/Department/17INT/SHANGHAI2025_2.jpg" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
