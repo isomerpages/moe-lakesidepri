@@ -12,7 +12,84 @@ In Lakeside Primary School, they provide opportunities for students to: <br>
 <li>Develop communication and collaboration skills with school mates and international peers</li>
 <li>Deepen their appreciation of Singapore’s context in our region and the world</li></ul>
 <br>
+</div>
+
+<details>
+<summary style="list-style: none;">
+<details>
+<summary style="list-style: none;">
+<span><table>
+<tbody>
+<tr>
+<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange"> Internationalisation Efforts in Academic Year 2025</td>
+</tr>
+</tbody>
+</table></span>
+<span style="color:blue; float: left; font-size: 12pt">+ (Click to expand)</span>
+</summary>
+<br>
+<ul>	
 <b>Key Programmes and Activities of 2025</b>
+<center>Shanghai Cultural Immersion Programme</center>
+	
+From 2 to 6 September 2025, 22 students from Lakeside Primary School embarked on an enriching immersion trip to Shanghai. The programme aimed to broaden students’ global perspectives and deepen their understanding of urban sustainability.
+<br><br>
+Highlights included a vibrant cultural exchange at Penglai No. 2 Primary School, where students experienced local school life and showcased their talents through song and dance performances. Educational visits to the Shanghai Urban Planning Exhibition Center, the Carbon Secret Museum and the Oriental Pearl Tower provided valuable insights into the city’s green initiatives.
+<br><br>
+Students reflected that the trip was eye-opening, noting both the similarities and differences in sustainable development between the two cities.
+<br><br>
+<img src="/images/Department/17INT/SHANGHAI2025_1.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Filled with excitement, the students were ready to set off on their journey</span>
+<hr><br>
+<img src="/images/Department/17INT/SHANGHAI2025_2.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students visited the Oriental Pearl Tower and Yu Garden, and took the Maglev train. They enjoyed the modern city skyline while exploring Shanghai’s history</span>
+<hr><br>
+<img src="/images/Department/17INT/SHANGHAI2025_3.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> At the Carbon Secret Museum, students learned about the environmental impact of human activities and the importance of promoting a low-carbon lifestyle</span>
+<hr><br>
+<img src="/images/Department/17INT/SHANGHAI2025_4.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Through a Virtual Reality (VR) experience, students learned about Shanghai’s urban planning and understood the importance of sustainable development</span>
+<hr><br>
+<img src="/images/Department/17INT/SHANGHAI2025_5.jpg" style="width: 70%; height: 70%;">
+<img src="/images/Department/17INT/SHANGHAI2025_6.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students enjoyed an immersion at Shanghai No. 2 Penglai Road Primary School, where they sang and danced with their hosts, took part in a friendly balance bike race, and participated in science experiments and a Town Hall session at Penglai Town</span>
+<hr><br>
+<center>Suzhou Xiangcheng Experimental Primary School Visiting Programme</center>
+	
+On 7 and 8 August, students from Suzhou Xiangcheng Experimental Primary School visited our school to promote friendship and student exchange, with a focus on environmental awareness and sustainable development. During the visit, they toured our campus, participated in classroom activities, and shared ideas with our students about environmental practices, food, tourist attractions, language learning, and personal interests.
+<br><br>
+A highlight of the visit was a poetry recital by the visiting students on 8 August, which added a joyful atmosphere to our National Day celebration. Many students shared that they enjoyed making new friends and learning different perspectives on sustainability, while teachers appreciated how the exchange fostered collaboration and inspired students’ curiosity.
+
+<br><br>
+<img src="/images/Department/17INT/SUZHOU2025_1.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Welcoming Suzhou Xiangcheng Students to Lakeside Primary School</span>
+<hr><br>
+<img src="/images/Department/17INT/SUZHOU2025_2.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students sharing about places of interest, school life and hobbies during the interaction</span>
+<hr><br>
+<img src="/images/Department/17INT/SUZHOU2025_3.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Our P4 ALP students and the Xiangcheng students shared how they play their part in protecting the environment</span>
+<hr><br>
+<img src="/images/Department/17INT/SUZHOU2025_4.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Participating in Mathematics and English lessons</span>
+<hr><br>
+<img src="/images/Department/17INT/SUZHOU2025_5.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> An enjoyable storytelling session with Ms Dolly</span>
+<hr><br>
+<img src="/images/Department/17INT/SUZHOU2025_6.jpg" style="width: 70%; height: 70%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Xiangcheng students performing at the National Day celebration</span>
+<hr><br>
 <center>Online Overseas Cultural Exchange Programme with Anubansamsen School </center><br>
 On 23 July, our Lakers had a meaningful online cultural exchange session with students from Anubansamsen School, a school in Bangkok, Thailand. During the session, students learned more about the cultural aspects of both Thailand and Singapore, fostering cross-cultural understanding and appreciation. They also gained a deeper understanding of environmental sustainability efforts in both countries and explored how they can contribute to more sustainable practices.
 <br><br>
@@ -32,6 +109,25 @@ On 23 July, our Lakers had a meaningful online cultural exchange session with st
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> A fulfilling and enriching session to wrap up the day!</span>
 <hr><br>
+</ul></details>
+
+<br><br>
+	
+<details>
+<summary style="list-style: none;">
+<details>
+<summary style="list-style: none;">
+<span><table>
+<tbody>
+<tr>
+<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange"> Internationalisation Efforts in Academic Year 2024</td>
+</tr>
+</tbody>
+</table></span>
+<span style="color:blue; float: left; font-size: 12pt">+ (Click to expand)</span>
+</summary>
+<br>
+<ul>
 <b>Key Programmes and Activities of 2024</b><br>
 <center>Overseas Cultural Exchange Programme with Anubansamsen School</center>
 
@@ -105,4 +201,9 @@ Our school conducted a variety of activities to create an engaging and meaningfu
 <hr><br>
 <img src="/images/Department/17INT/IFD2024_4.png" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Prefects teaching their peers to make friendship bands. The colours are related to the 10 countries that make up ASEAN</span><div></div></div>
+<span style="color:blue;">•</span> Prefects teaching their peers to make friendship bands. The colours are related to the 10 countries that make up ASEAN</span><div></div>
+</ul></details>
+
+
+
+</summary></details></summary></details>
