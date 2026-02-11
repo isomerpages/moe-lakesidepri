@@ -44,20 +44,20 @@ Students reflected that the trip was eye-opening, noting both the similarities a
 <hr><br>
 <img src="/images/Department/17INT/SHANGHAI2025_2.jpg" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students visited the Oriental Pearl Tower and Yu Garden, and took the Maglev train. They enjoyed the modern city skyline while exploring Shanghai’s history.</span>
+<span style="color:blue;">•</span> Students visited the Oriental Pearl Tower and Yu Garden, and took the Maglev train. They enjoyed the modern city skyline while exploring Shanghai’s history</span>
 <hr><br>
 <img src="/images/Department/17INT/SHANGHAI2025_3.jpg" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> At the Carbon Secret Museum, students learned about the environmental impact of human activities and the importance of promoting a low-carbon lifestyle.</span>
+<span style="color:blue;">•</span> At the Carbon Secret Museum, students learned about the environmental impact of human activities and the importance of promoting a low-carbon lifestyle</span>
 <hr><br>
 <img src="/images/Department/17INT/SHANGHAI2025_4.jpg" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Through a Virtual Reality (VR) experience, students learned about Shanghai’s urban planning and understood the importance of sustainable development.</span>
+<span style="color:blue;">•</span> Through a Virtual Reality (VR) experience, students learned about Shanghai’s urban planning and understood the importance of sustainable development</span>
 <hr><br>
 <img src="/images/Department/17INT/SHANGHAI2025_5.jpg" style="width: 70%; height: 70%;">
 <img src="/images/Department/17INT/SHANGHAI2025_6.jpg" style="width: 70%; height: 70%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students enjoyed an immersion at Shanghai No. 2 Penglai Road Primary School, where they sang and danced with their hosts, took part in a friendly balance bike race, and participated in science experiments and a Town Hall session at Penglai Town.</span>
+<span style="color:blue;">•</span> Students enjoyed an immersion at Shanghai No. 2 Penglai Road Primary School, where they sang and danced with their hosts, took part in a friendly balance bike race, and participated in science experiments and a Town Hall session at Penglai Town</span>
 <hr><br>
 <center>Suzhou Xiangcheng Experimental Primary School Visiting Programme</center>
 	
