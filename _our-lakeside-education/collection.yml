@@ -2,8 +2,6 @@ collections:
   our-lakeside-education:
     output: true
     order:
-      - Internationalisation Efforts/Internationalisation Efforts.md
-      - Internationalisation Efforts/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -30,3 +28,5 @@ collections:
       - Signature Programmes/Applied Learning Programme – Thinkers With Heart.md
       - Signature Programmes/Programme For Active Learning.md
       - Signature Programmes/Executive Functioning Skills.md
+      - Internationalisation Efforts/.keep
+      - Internationalisation Efforts/Internationalisation Efforts.md
