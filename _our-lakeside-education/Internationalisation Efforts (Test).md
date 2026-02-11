@@ -33,9 +33,9 @@ In Lakeside Primary School, they provide opportunities for students to: <br>
 <center>Shanghai Cultural Immersion Programme</center>
 	
 From 2 to 6 September 2025, 22 students from Lakeside Primary School embarked on an enriching immersion trip to Shanghai. The programme aimed to broaden students’ global perspectives and deepen their understanding of urban sustainability.
-
+<br><br>
 Highlights included a vibrant cultural exchange at Penglai No. 2 Primary School, where students experienced local school life and showcased their talents through song and dance performances. Educational visits to the Shanghai Urban Planning Exhibition Center, the Carbon Secret Museum and the Oriental Pearl Tower provided valuable insights into the city’s green initiatives.
-
+<br><br>
 Students reflected that the trip was eye-opening, noting both the similarities and differences in sustainable development between the two cities.
 <br><br>
 <img src="/images/Department/17INT/SHANGHAI2025_1.jpg" style="width: 70%; height: 70%;">
