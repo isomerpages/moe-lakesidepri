@@ -23,7 +23,7 @@ sections:
       description: The Principal and Staff of Lakeside Primary School wish all
         students, parents, and stakeholders Happy Chinese New Year.
       alt: Image alt text
-      image: /images/Home/Pop Up/CNY_2026.png
+      image: /images/Announcements/2026_LSPS_Happy_Chinese_New_Year_GIF.gif
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
