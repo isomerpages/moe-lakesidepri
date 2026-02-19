@@ -23,11 +23,18 @@ sections:
       description: The Principal and Staff of Lakeside Primary School wish all
         students, parents, and stakeholders Happy Chinese New Year.
       alt: Image alt text
-      image: /images/Announcements/2026_LSPS_Happy_Chinese_New_Year_GIF.gif
+      image: /images/Announcements/2026_LSPS_Happy_Chinese_New_Year_GIF2.gif
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Total Defence Day 2026
+          date: 09 February 2026
+          announcement: In commemoration of Total Defence Day, our school organised a
+            range of activities, such as assembly programmes, recess activities
+            and a simulated power disruption exercise.
+          link_text: Check more here
+          link_url: /total-defence-day-2026/
         - title: Primary 5 Outdoor Adventure Camp 2026
           date: 15 January 2026
           announcement: Our Primary 5 students returned from their first Outdoor Adventure
@@ -54,13 +61,6 @@ sections:
             and Students.
           link_text: Click here to open the page
           link_url: /for-parents/forms-links/
-        - title: Event Highlights of 2025
-          date: 20 November 2025
-          announcement: Thank you for your partnership with the school in your child’s
-            holistic development this year. A video summary of this year’s
-            events is now available for your viewing pleasure!
-          link_text: Check more here
-          link_url: /event-highlights-2025/
   - infobar:
       id: infobar
       button: Check here
