@@ -63,7 +63,7 @@ Students put on their thinking caps as they solve maths questions and crack secr
 <span style="color:blue;">•</span>Experiencing a power disruption in school — learning continues!
 <i style="color:blue;">(above images)</i></span>
 <hr><br>
-<img src="/images/Happenings/TDD2026/TDD2026_12.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/TDD2026/TDD2026_13.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>Students reading and attempting the activities in the A-OK! booklets to know more about the importance of Total Defence Day
 <i style="color:blue;">(above images)</i></span>
