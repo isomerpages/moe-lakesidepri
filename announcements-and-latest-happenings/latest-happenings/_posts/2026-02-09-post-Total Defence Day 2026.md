@@ -16,7 +16,7 @@ variant: markdown
 <hr><br>
 <img src="/images/Happenings/TDD2026/TDD2026_3.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span>The interactive assembly show, Behind the Screen, promoting the importance of speaking up and seeking help when faced with digital challenges. This learning experience is linked to one of the six pillars of Total Defence — Digital Defence<i style="color:blue;">(above image)</i></span>
+<span style="color:blue;">•</span>The interactive assembly show, Behind the Screen, promoting the importance of speaking up and seeking help when faced with digital challenges. This learning experience is linked to one of the six pillars of Total Defence — Digital Defence<i style="color:blue;">(above image)</i>
 <hr><br>
 <img src="/images/Happenings/TDD2026/TDD2026_4.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
@@ -67,4 +67,4 @@ Students put on their thinking caps as they solve maths questions and crack secr
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>Students reading and attempting the activities in the A-OK! booklets to know more about the importance of Total Defence Day
 <i style="color:blue;">(above images)</i></span>
-<hr><br>
+<hr><br></span>
