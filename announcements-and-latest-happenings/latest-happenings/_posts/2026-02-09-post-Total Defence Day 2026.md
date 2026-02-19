@@ -12,7 +12,7 @@ variant: markdown
 <img src="/images/Happenings/TDD2026/TDD2026_1.jpg" style="width: 80%; height: 80%;"><br>
 <img src="/images/Happenings/TDD2026/TDD2026_2.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span>Our student leaders facilitating the presentation about Total Defence Day during PAVE session!<i style="color:blue;">(above images)</i></span>
+<span style="color:blue; line-height: 1.3;">•</span>Our student leaders facilitating the presentation about Total Defence Day during PAVE session!<i style="color:blue;">(above images)</i></span>
 <hr><br>
 <img src="/images/Happenings/TDD2026/TDD2026_3.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
