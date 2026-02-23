@@ -28,6 +28,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Chinese New Year Celebration 2026
+          date: 16 February 2026
+          announcement: To welcome the Year of the Fire Horse, our school celebrated
+            Chinese New Year on 16 February with much joy and excitement.
+          link_text: Check more here
+          link_url: /chinese-new-year-celebration-2026/
         - title: Total Defence Day 2026
           date: 09 February 2026
           announcement: In commemoration of Total Defence Day, our school organised a
@@ -55,12 +61,6 @@ sections:
             school life.
           link_text: Check more here
           link_url: /p1-orientation-programme-2026/
-        - title: Primary 1 Curriculum Briefing Videos
-          date: 02 December 2025
-          announcement: The videos can be found under Primary 1  Information for Parents
-            and Students.
-          link_text: Click here to open the page
-          link_url: /for-parents/forms-links/
   - infobar:
       id: infobar
       button: Check here
