@@ -28,6 +28,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Class EXCO Appointment Ceremony 2026
+          date: 23 February 2026
+          announcement: The Class EXCO Appointment Ceremony emphasised Leading with
+            L-PRIDE while developing empathetic leadership skills.
+          link_text: Check more here
+          link_url: /class-exco-appointment-ceremony-2026/
         - title: Chinese New Year Celebration 2026
           date: 16 February 2026
           announcement: To welcome the Year of the Fire Horse, our school celebrated
@@ -54,13 +60,6 @@ sections:
             confidence and positivity.
           link_text: Check more here
           link_url: /start-right-end-b-right-sreb-programme-for-primary-2-to-6-students/
-        - title: Primary 1 Orientation Programme
-          date: 02 January 2026
-          announcement: Primary 1 Orientation that took place on the 2 January 2026 was a
-            special time where our youngest learners take their first steps into
-            school life.
-          link_text: Check more here
-          link_url: /p1-orientation-programme-2026/
   - infobar:
       id: infobar
       button: Check here
