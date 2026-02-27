@@ -33,7 +33,7 @@ variant: markdown
 <li><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukmjc67Y8Jku75CG8vJnZWI=" target="_blank">NASCANS Student Care Centre @Lakeside Primary Registration form</a></li></details><br>
 <details><summary><b>Finance-related Information</b></summary>
 <li><a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">Information on School Fees</a></li>
-<li><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" target="_blank">For Singapore Citizen Students only – Edusave Standing Order Form</a></li>
+<li><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" target="_blank">For Singapore Citizen Students only – Edusave Standing Order Form</a></li>
 <li><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">Information on MOE Financial Assistance Scheme (FAS)</a></li>
 <li><a href="https://go.gov.sg/moe-efas" target="_blank">MOE Financial Assistance Scheme Application Form</a></li>
 <li><a href="https://eservice.imda.gov.sg/das/homepage" target="_blank"> DigitalAccess@HOME - subsidised broadband and laptops/tablets</a></li>
