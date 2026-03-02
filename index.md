@@ -28,6 +28,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Primary 5 Code For Fun 2026
+          date: 26 February 2026
+          announcement: The Code for Fun programme, a joint initiative by IMDA and MOE,
+            aims to equip primary school students with essential digital skills
+            for the future.
+          link_text: Check more here
+          link_url: /primary-5-code-for-fun/
         - title: Class EXCO Appointment Ceremony 2026
           date: 23 February 2026
           announcement: The Class EXCO Appointment Ceremony emphasised Leading with
@@ -53,13 +60,6 @@ sections:
             Camp with excitement, confidence and unforgettable memories.
           link_text: Check more here
           link_url: /primary-5-outdoor-adventure-camp-2026/
-        - title: Start Right, End B’Right (SREB) Programme for Primary 2 to 6 Students
-          date: 05 January 2026
-          announcement: Start Right, End B’Right (SREB) is a special programme designed to
-            help students ease back into school and begin the year with
-            confidence and positivity.
-          link_text: Check more here
-          link_url: /start-right-end-b-right-sreb-programme-for-primary-2-to-6-students/
   - infobar:
       id: infobar
       button: Check here
