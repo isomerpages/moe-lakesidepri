@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<div style="font-size:14pt;" align="justify">The Code for Fun programme, a joint initiative by IMDA and MOE, aims to equip primary school students with essential digital skills for the future. Through 10 hours of engaging lessons, the P5 students got to explore computational thinking, basic programming concepts, and emerging technologies like Artificial Intelligence (AI).
+<div style="font-size:14pt;" align="justify">The Code for Fun programme, a joint initiative by IMDA and MOE, aims to equip primary school students with essential digital skills for the future. Through 10 hours of engaging lessons, our P5 students got to explore computational thinking, basic programming concepts, and emerging technologies like Artificial Intelligence (AI).
 <br><br>
 Students learned robotics by coding Sphero BOLT+ robots to perform various tasks, including creating simple games like 'rock, paper, scissors' and choreographing group Sphero dances.
 <br><br>
