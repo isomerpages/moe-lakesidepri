@@ -28,7 +28,7 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: Primary 5 Code For Fun
+        - title: Primary 5 Code For Fun 2026
           date: 26 February 2026
           announcement: The Code for Fun programme, a joint initiative by IMDA and MOE,
             aims to equip primary school students with essential digital skills
