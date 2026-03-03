@@ -17,13 +17,6 @@ sections:
           description: ""
           url: https://go.gov.sg/lsps-feedbackform
       variant: center
-  - infopic:
-      title: Happy Chinese New Year!
-      id: infopic
-      description: The Principal and Staff of Lakeside Primary School wish all
-        students, parents, and stakeholders Happy Chinese New Year.
-      alt: Image alt text
-      image: /images/Announcements/2026_LSPS_Happy_Chinese_New_Year_GIF2.gif
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
