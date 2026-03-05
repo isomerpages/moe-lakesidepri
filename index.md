@@ -22,7 +22,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Primary 6 Science Centre Learning Journey
-          date: 19 February 2026
+          date: 26 February 2026
           announcement: P6 students participated in an enrichment lesson at The Ecogarden,
             located at the Singapore Science Centre, exploring the diverse
             organisms in a pond.
