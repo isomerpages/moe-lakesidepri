@@ -25,7 +25,7 @@ Through this hands-on inquiry experience, students developed adaptive thinking b
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>“Is that organism a leech?” <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span>Identifying organisms under the microscope with the help of reference materials. <i style="color:blue;">(right)</i><br></span>
 <hr><br>
-	<img src="/images/Happenings/P6LJSCI/P6LJSCI26_4.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/P6LJSCI/P6LJSCI26_4.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>Transferring the organism onto a petri dish! <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span>Adjusting the focus on the microscope. <i style="color:blue;">(middle)</i><br><span style="color:blue;">•</span>Examining the specimen more closely. <i style="color:blue;">(right)</i></span>
 <hr><br>
