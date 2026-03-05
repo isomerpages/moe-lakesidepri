@@ -15,7 +15,7 @@ Through this hands-on inquiry experience, students developed adaptive thinking b
 <br>
 <img src="/images/Happenings/P6LJSCI/P6LJSCI26_1.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span>A student shared his observation of an organism in the SLS reflection. <i style="color:blue;">(above)</i><br>
+<span style="color:blue;">•</span>A student shared his observation of an organism in the SLS reflection. <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/P6LJSCI/P6LJSCI26_2.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
@@ -29,4 +29,3 @@ Through this hands-on inquiry experience, students developed adaptive thinking b
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span>Transferring the organism onto a petri dish! <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span>Adjusting the focus on the microscope. <i style="color:blue;">(middle)</i><br><span style="color:blue;">•</span>Examining the specimen more closely. <i style="color:blue;">(right)</i></span>
 <hr><br>
-</span>
