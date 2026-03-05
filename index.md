@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Primary 6 Science Centre Learning Journey
+          date: 19 February 2026
+          announcement: P6 students participated in an enrichment lesson at The Ecogarden,
+            located at the Singapore Science Centre, exploring the diverse
+            organisms in a pond.
+          link_text: Check more here
+          link_url: /primary-6-science-centre-learning-journey/
         - title: Primary 5 Code For Fun 2026
           date: 26 February 2026
           announcement: The Code for Fun programme, a joint initiative by IMDA and MOE,
@@ -47,12 +54,6 @@ sections:
             and a simulated power disruption exercise.
           link_text: Check more here
           link_url: /total-defence-day-2026/
-        - title: Primary 5 Outdoor Adventure Camp 2026
-          date: 15 January 2026
-          announcement: Our Primary 5 students returned from their first Outdoor Adventure
-            Camp with excitement, confidence and unforgettable memories.
-          link_text: Check more here
-          link_url: /primary-5-outdoor-adventure-camp-2026/
   - infobar:
       id: infobar
       button: Check here
