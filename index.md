@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: National School Games Opening Ceremony 2026
+          date: 27 February 2026
+          announcement: The National School Games Opening Ceremony was held during PAVE on
+            Friday, 27 February 2026 to celebrate the contributions of
+            student-athletes towards sporting excellence.
+          link_text: Check more here
+          link_url: /national-school-games-opening-ceremony-2026/
         - title: Primary 6 Science Centre Learning Journey
           date: 26 February 2026
           announcement: P6 students participated in an enrichment lesson at The Ecogarden,
@@ -47,13 +54,6 @@ sections:
             Chinese New Year on 16 February with much joy and excitement.
           link_text: Check more here
           link_url: /chinese-new-year-celebration-2026/
-        - title: Total Defence Day 2026
-          date: 09 February 2026
-          announcement: In commemoration of Total Defence Day, our school organised a
-            range of activities, such as assembly programmes, recess activities
-            and a simulated power disruption exercise.
-          link_text: Check more here
-          link_url: /total-defence-day-2026/
   - infobar:
       id: infobar
       button: Check here
