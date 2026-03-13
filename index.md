@@ -19,7 +19,6 @@ sections:
       variant: center
   - infopic:
       title: Eid Mubarak & Selamat Hari Raya Aidilfitri
-      subtitle: Add an image and text
       id: infopic
       description: The Principal and Staff of Lakeside Primary School wish all
         students, parents, and stakeholders Eid Mubarak & Selamat Hari Raya
