@@ -17,6 +17,15 @@ sections:
           description: ""
           url: https://go.gov.sg/lsps-feedbackform
       variant: center
+  - infopic:
+      title: Eid Mubarak & Selamat Hari Raya Aidilfitri
+      subtitle: Add an image and text
+      id: infopic
+      description: The Principal and Staff of Lakeside Primary School wish all
+        students, parents, and stakeholders Eid Mubarak & Selamat Hari Raya
+        Aidilfitri!
+      image: /images/Announcements/2026_LSPS_Hari_Raya_Greetings_V2.png
+      alt: Image alt text
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
