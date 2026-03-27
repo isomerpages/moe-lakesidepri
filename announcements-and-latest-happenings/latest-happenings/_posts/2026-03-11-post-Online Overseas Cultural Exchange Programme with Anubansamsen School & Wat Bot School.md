@@ -16,22 +16,22 @@ The students also discussed environmental sustainability efforts in the two coun
 <br>
 <img src="/images/Happenings/THAI2026/THAI2026_1.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Mrs Liang warmly welcoming students during her opening speech for the cultural exchange <i style="color:blue;">(above)</i><br>
+<span style="color:blue;">•</span> Mrs Liang warmly welcoming students during her opening speech for the cultural exchange <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/THAI2026/THAI2026_2.jpg" style="width: 80%; height: 80%;">
 <img src="/images/Happenings/THAI2026/THAI2026_3.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students sharing about food, tourist attractions, and environmental sustainability efforts  <i style="color:blue;">(above)</i><br>
+<span style="color:blue;">•</span> Students sharing about food, tourist attractions, and environmental sustainability efforts  <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/THAI2026/THAI2026_4.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Anubansamsen School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br>
+<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Anubansamsen School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/THAI2026/THAI2026_5.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Wat Bot School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br>
+<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Wat Bot School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/THAI2026/THAI2026_6.jpg" style="width: 80%; height: 80%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Ending the day with a meaningful and enriching exchange session <i style="color:blue;">(above)</i><br>
-<hr><br></span></span></span></span></span>
+<span style="color:blue;">•</span> Ending the day with a meaningful and enriching exchange session <i style="color:blue;">(above)</i><br></span>
+<hr><br>
