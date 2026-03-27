@@ -29,6 +29,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School &
+            Wat Bot School
+          date: 11 March 2026
+          announcement: Our Lakers participated in a meaningful online cultural exchange
+            with students from Anubansamsen School and Wat Bot School. The two
+            schools are from Thailand, Bangkok.
+          link_text: Check more here
+          link_url: /online-overseas-cultural-exchange-programme-with-anubansamsen-school-wat-bot-school/
         - title: National School Games Opening Ceremony 2026
           date: 27 February 2026
           announcement: The National School Games Opening Ceremony was held during PAVE on
@@ -56,12 +64,6 @@ sections:
             L-PRIDE while developing empathetic leadership skills.
           link_text: Check more here
           link_url: /class-exco-appointment-ceremony-2026/
-        - title: Chinese New Year Celebration 2026
-          date: 16 February 2026
-          announcement: To welcome the Year of the Fire Horse, our school celebrated
-            Chinese New Year on 16 February with much joy and excitement.
-          link_text: Check more here
-          link_url: /chinese-new-year-celebration-2026/
   - infobar:
       id: infobar
       button: Check here
