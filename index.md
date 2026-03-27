@@ -31,7 +31,7 @@ sections:
       announcement_items:
         - title: Online Overseas Cultural Exchange Programme with Anubansamsen School &
             Wat Bot School
-          date: 11 March 2026
+          date: 25 March 2026
           announcement: Our Lakers participated in a meaningful online cultural exchange
             with students from Anubansamsen School and Wat Bot School. The two
             schools are from Thailand, Bangkok.
