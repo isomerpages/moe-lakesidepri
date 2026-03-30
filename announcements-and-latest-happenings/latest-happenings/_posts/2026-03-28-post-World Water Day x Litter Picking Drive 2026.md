@@ -20,23 +20,23 @@ This successful partnership demonstrated how collaborative efforts between schoo
 <img src="/images/Happenings/WWD2026/WWD2026_1.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> United for a cause: Partnership kick-off at Jurong Lake Gardens <i style="color:blue;">(above)</i><br></span>
-<hr>
+<hr><br>
 <img src="/images/Happenings/WWD2026/WWD2026_2.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> PacificLight representatives working alongside our school community <i style="color:blue;">(above)</i><br></span>
-<hr>
+<hr><br>
 <img src="/images/Happenings/WWD2026/WWD2026_3.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Safety briefing by Parent Support Group Chairperson Mdm Hidayah <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Families working together for environmental conservation <i style="color:blue;">(right)</i><br></span>
-<hr>
+<hr><br>
 <img src="/images/Happenings/WWD2026/WWD2026_4.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Young water heroes in Green Take Charge tees ready for action <i style="color:blue;">(above)</i><br></span>
-<hr>
+<hr><br>
 <img src="/images/Happenings/WWD2026/WWD2026_5.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Successful wrap-up activities at Cascade Pavilion <i style="color:blue;">(above)</i><br></span>
-<hr>
+<hr><br>
 <img src="/images/Happenings/WWD2026/WWD2026_6.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Group photo of all World Water Day 2026 participants <i style="color:blue;">(above)</i><br></span>
