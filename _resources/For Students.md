@@ -9,7 +9,7 @@ variant: markdown
 <ul><li><a style="text-decoration: none" href="https://www.youtube.com/watch?v=fP4NH8_Wk8w" target="_blank">Student iCON Onboarding - for Lakers</a></li></ul>
 <li><a style="text-decoration: none" href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a></li>
 <ul><li><a style="text-decoration: none" href="https://go.gov.sg/lakesidesls" target="_blank">SLS School Helpline</a></li></ul>
-<li><a style="text-decoration: none" href="https://workspace.google.com/intl/en_sg/products/meet/?from=gafb-meet-globalnav-en_sg" target="_blank">Google Meet</a></li>
+<li><a style="text-decoration: none" href="https://meet.google.com/" target="_blank">Google Meet</a></li>
 <li><a style="text-decoration: none" href="https://classroom.google.com" target="_blank">Google Classroom</a></li>
 <li><a style="text-decoration: none" href="https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting" target="_blank">MS Teams (join as guest)</a></li>
 <li><a style="text-decoration: none" href="https://portal.mims.moe.gov.sg/sspr/private/login" target="_blank">MIMS Self Service Password Reset</a></li>
