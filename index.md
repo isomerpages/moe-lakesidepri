@@ -29,6 +29,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: World Water Day x Litter Picking Drive 2026 - Clean Up @ Lakeside Gardens
+          date: 28 March 2026
+          announcement: On 28 March 2026, our school community partnered with PacificLight
+            for World Water Day under the theme "Be a Water Hero – Every Action
+            Counts!" at Jurong Lake Gardens.
+          link_text: Check more here
+          link_url: /world-water-day-x-litter-picking-drive-2026/
         - title: Online Overseas Cultural Exchange Programme with Anubansamsen School &
             Wat Bot School
           date: 25 March 2026
@@ -58,12 +65,6 @@ sections:
             for the future.
           link_text: Check more here
           link_url: /primary-5-code-for-fun/
-        - title: Class EXCO Appointment Ceremony 2026
-          date: 23 February 2026
-          announcement: The Class EXCO Appointment Ceremony emphasised Leading with
-            L-PRIDE while developing empathetic leadership skills.
-          link_text: Check more here
-          link_url: /class-exco-appointment-ceremony-2026/
   - infobar:
       id: infobar
       button: Check here
