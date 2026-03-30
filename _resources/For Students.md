@@ -12,8 +12,8 @@ variant: markdown
 <li><a style="text-decoration: none" href="https://workspace.google.com/intl/en_sg/products/meet/?from=gafb-meet-globalnav-en_sg" target="_blank">Google Meet</a></li>
 <li><a style="text-decoration: none" href="https://classroom.google.com" target="_blank">Google Classroom</a></li>
 <li><a style="text-decoration: none" href="https://www.microsoft.com/en-us/microsoft-teams/join-a-meeting" target="_blank">MS Teams (join as guest)</a></li>
-<li><a style="text-decoration: none" href="https://idp.mims.moe.gov.sg/nidp/app/login" target="_blank">MIMS Self Service Password Reset</a></li>
-<li><a style="text-decoration: none" href="https://portal.mims.moe.gov.sg/sspr/private/login" target="_blank">KooBits</a></li>
+<li><a style="text-decoration: none" href="https://portal.mims.moe.gov.sg/sspr/private/login" target="_blank">MIMS Self Service Password Reset</a></li>
+<li><a style="text-decoration: none" href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login" target="_blank">KooBits</a></li>
 <li><a style="text-decoration: none" href="https://www.classpoint.app/" target="_blank">ClassPoint</a></li>
 <li><a style="text-decoration: none" href="https://youngscientist.sscglobal.com.sg/" target="_blank">Young Scientist Badge Scheme</a></li>
 <li><a style="text-decoration: none" href="https://schoolibrary.moe.edu.sg/lakesidepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">School Library Search Engine</a></li>
