@@ -30,7 +30,7 @@ We would like to congratulate the following classes for their achievements in Te
 <br><br>
 	<b>Primary 6:</b><br>
 6 Respect &amp; 6 Excellence
-<br><br><hr>
+<br><hr>
 This term, we would also like to affirm 3 students for displaying the values of respect.	
 <br><br>
 	<b>1. Jonas Goi, 2 Confidence</b><br>
