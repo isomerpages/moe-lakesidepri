@@ -17,18 +17,17 @@ sections:
           description: ""
           url: https://go.gov.sg/lsps-feedbackform
       variant: center
-  - infopic:
-      title: Eid Mubarak & Selamat Hari Raya Aidilfitri
-      id: infopic
-      description: The Principal and Staff of Lakeside Primary School wish all
-        students, parents, and stakeholders Eid Mubarak & Selamat Hari Raya
-        Aidilfitri!
-      image: /images/Announcements/2026_LSPS_Hari_Raya_Greetings_V2.png
-      alt: Image alt text
   - announcements:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Model Class award (Term 1 2026)
+          date: 31 March 2026
+          announcement: The Model Class Awards (MCA) is a school-wide initiative that
+            recognises classes for demonstrating exemplary behaviour, strong
+            attendance, punctuality, and positive class culture.
+          link_text: Check more here
+          link_url: /model-class-award-term-1-2026/
         - title: World Water Day x Litter Picking Drive 2026 - Clean Up @ Lakeside Gardens
           date: 28 March 2026
           announcement: On 28 March 2026, our school community partnered with PacificLight
@@ -58,13 +57,6 @@ sections:
             organisms in a pond.
           link_text: Check more here
           link_url: /primary-6-science-centre-learning-journey/
-        - title: Primary 5 Code For Fun 2026
-          date: 26 February 2026
-          announcement: The Code for Fun programme, a joint initiative by IMDA and MOE,
-            aims to equip primary school students with essential digital skills
-            for the future.
-          link_text: Check more here
-          link_url: /primary-5-code-for-fun/
   - infobar:
       id: infobar
       button: Check here
