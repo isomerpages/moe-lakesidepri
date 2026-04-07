@@ -21,7 +21,7 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: Model Class award (Term 1 2026)
+        - title: Model Class Award (Term 1 2026)
           date: 31 March 2026
           announcement: The Model Class Awards (MCA) is a school-wide initiative that
             recognises classes for demonstrating exemplary behaviour, strong
