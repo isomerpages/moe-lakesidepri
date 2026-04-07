@@ -28,6 +28,13 @@ sections:
             attendance, punctuality, and positive class culture.
           link_text: Check more here
           link_url: /model-class-award-term-1-2026/
+        - title: Hari Raya Concert 2026
+          date: 30 March 2026
+          announcement: On 30 March, our school hall was transformed into a vibrant
+            celebration of culture and community for our annual Hari Raya
+            Concert.
+          link_text: Check more here
+          link_url: /hari-raya-concert-2026/
         - title: World Water Day x Litter Picking Drive 2026 - Clean Up @ Lakeside Gardens
           date: 28 March 2026
           announcement: On 28 March 2026, our school community partnered with PacificLight
@@ -50,13 +57,6 @@ sections:
             student-athletes towards sporting excellence.
           link_text: Check more here
           link_url: /national-school-games-opening-ceremony-2026/
-        - title: Primary 6 Science Centre Learning Journey
-          date: 26 February 2026
-          announcement: P6 students participated in an enrichment lesson at The Ecogarden,
-            located at the Singapore Science Centre, exploring the diverse
-            organisms in a pond.
-          link_text: Check more here
-          link_url: /primary-6-science-centre-learning-journey/
   - infobar:
       id: infobar
       button: Check here
