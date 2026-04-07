@@ -21,15 +21,15 @@ A key highlight was the strong participation of students from various levels and
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our silat performers bring to life a traditional art form rich in heritage and discipline. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> A confident and engaging choral reading, highlighting important values through voice and expression. <i style="color:blue;">(right)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/HARI%20RAYA/HARIRAYA2026_3.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/HARI%20RAYA/HARIRAYA2026_3.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our junior emcees step up with confidence and doing a wonderful job on stage. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Great participation from our students during the interactive Hari Raya quiz. <i style="color:blue;">(right)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/HARI%20RAYA/HARIRAYA2026_4.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/HARI%20RAYA/HARIRAYA2026_4.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Creativity on display as our volunteers styled our teachers in this fun dress-up challenge. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> A delightful showcase by our P1 and P2 pupils, presenting the beauty of traditional Malay attire. <i style="color:blue;">(right)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/HARI%20RAYA/HARIRAYA2026_5.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/HARI%20RAYA/HARIRAYA2026_5.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Our pupils bring Malay culture to life through a graceful and expressive dance. <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Our teachers bring joy and festive spirit with their Hari Raya singing. <i style="color:blue;">(right)</i><br></span>
 <hr><br>
