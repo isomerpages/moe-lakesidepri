@@ -21,6 +21,94 @@ In Lakeside Primary School, they provide opportunities for students to: <br>
 <span><table>
 <tbody>
 <tr>
+<td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange"> Internationalisation Efforts in Academic Year 2026</td>
+</tr>
+</tbody>
+</table></span>
+<span style="color:blue; float: left; font-size: 12pt">+ (Click to expand)</span>
+</summary>
+<br>
+<ul>	
+<b>Key Programmes and Activities of 2026</b>
+<center>International Friendship Day 2026</center>
+	
+The theme for International Friendship Day, <i>Forging Friendships in a Complex World</i>, encourages students to take initiative in building meaningful connections and to appreciate diverse cultures and perspectives. Through these experiences, students develop the understanding and skills needed to contribute to a cohesive and globally connected society.
+<br><br>
+In line with this theme, our school organised a range of activities that provided students with engaging and meaningful opportunities to deepen their understanding of Singapore’s connections with other countries and to strengthen friendships within the school community.
+<br><br>
+<img src="/images/Happenings/IFD/IFD2026_1.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Ready for the march-in, students and staff shine in national and ethnic attire! <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_2.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Learning about ASEAN through student presentation   <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_3.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Our Lakers, staff and school leaders on stage for the opening ceremony <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_4.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Teachers conducting CCE (FTGP) lessons about International Friendship Day
+<i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_5.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students designing kites to learn about kite flying - a traditional recreational activity enjoyed across ASEAN countries <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_6.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students using specially prepared information cards to learn more about ASEAN <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_7.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students exploring ASEAN cultures through traditional games <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/IFD/IFD2026_8.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students presenting their research findings on their chosen ASEAN country with their peers <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<center>Online Overseas Cultural Exchange Programme with Anubansamsen School &amp; Wat Bot School</center>
+	
+Our Lakers participated in a meaningful online cultural exchange with students from Anubansamsen School and Wat Bot School. The two schools are from Thailand, Bangkok.
+<br><br>
+During the sessions, they explored the cultural aspects of Singapore and Thailand, which helped to build greater cross-cultural understanding and appreciation. 
+<br><br>
+The students also discussed environmental sustainability efforts in the two countries and considered ways they could play a part in adopting more sustainable practices.
+<br><br>
+<img src="/images/Happenings/THAI2026/THAI2026_1.jpg" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Mrs Liang warmly welcoming students during her opening speech for the cultural exchange <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/THAI2026/THAI2026_2.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/THAI2026/THAI2026_3.jpg" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Students sharing about food, tourist attractions, and environmental sustainability efforts  <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/THAI2026/THAI2026_4.jpg" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Anubansamsen School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/THAI2026/THAI2026_5.jpg" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Wat Bot School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+<img src="/images/Happenings/THAI2026/THAI2026_6.jpg" style="width: 80%; height: 80%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Ending the day with a meaningful and enriching exchange session <i style="color:blue;">(above)</i><br></span>
+<hr><br>
+</ul></details>
+	
+<br><br>
+
+<details>
+<summary style="list-style: none;">
+<details>
+<summary style="list-style: none;">
+<span><table>
+<tbody>
+<tr>
 <td style="border: 0px solid rgb(42, 42, 42); text-align: center; font-weight: bold; font-size:14pt;" bgcolor="orange"> Internationalisation Efforts in Academic Year 2025</td>
 </tr>
 </tbody>
@@ -206,4 +294,4 @@ Our school conducted a variety of activities to create an engaging and meaningfu
 
 
 
-</summary></details></summary></details>
+</summary></details></summary></details></summary></details>
