@@ -101,7 +101,7 @@ description: ""
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;"><b>Form Teachers</b></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">4 Love</td>
-<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Corinna Lam<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lam_fee_min_corinna@moe.edu.sg</i><br>Mr Dennis Loh<br><i style="font-size:11pt; color: rgb(237, 125, 49);">loh_peng_kee_a@moe.edu.sg</i><br>Mrs Hannah Teo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">Teng_Siok_Khim@schools.gov.sg</i></td></tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Corinna Lam<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lam_fee_min_corinna@moe.edu.sg</i><br>Mr Dennis Loh<br><i style="font-size:11pt; color: rgb(237, 125, 49);">loh_peng_kee_a@moe.edu.sg</i><br>Mrs Hannah Teo<br><i style="font-size:11pt; color: rgb(237, 125, 49);">teng_siok_khim@moe.edu.sg</i></td></tr>
 <tr>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">4 Perseverance</td>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mrs Florence Kong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">ng_wai_fun_florence@moe.edu.sg</i><br>Mdm Sharinah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">sharinah_ahmad@moe.edu.sg</i></td></tr>
