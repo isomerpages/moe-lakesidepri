@@ -50,6 +50,14 @@ sections:
             Counts!" at Jurong Lake Gardens.
           link_text: Check more here
           link_url: /world-water-day-x-litter-picking-drive-2026/
+        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School &
+            Wat Bot School
+          date: 11 March 2026
+          announcement: Our Lakers participated in a meaningful online cultural exchange
+            with students from Anubansamsen School and Wat Bot School. The two
+            schools are from Thailand, Bangkok.
+          link_text: Check more here
+          link_url: /online-overseas-cultural-exchange-programme-with-anubansamsen-school-wat-bot-school/
   - infobar:
       id: infobar
       button: Check here
