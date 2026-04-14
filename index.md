@@ -21,13 +21,6 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: "Tamil Language Competition: Spelling Bee 2026"
-          date: 07 February 2026
-          announcement: Our Primary 5 Tamil Language team participated in the annual
-            Spelling Bee Competition organised by Mediacorp and emerged as one
-            of the semi-finalists.
-          link_text: Check more here
-          link_url: /tamil-language-competition-spelling-bee-2026/
         - title: International Friendship Day 2026
           date: 06 April 2026
           announcement: The theme for International Friendship Day, Forging Friendships in
