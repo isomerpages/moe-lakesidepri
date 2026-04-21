@@ -20,8 +20,9 @@ variant: markdown
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Lee Jiajin<br><i style="font-size:11pt; color: rgb(237, 125, 49);">lee_jiajin@moe.edu.sg</i></td>
 <td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">School Counsellor</td></tr>
-
-
 <tr>
 <td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Mdm Sabariah<br><i style="font-size:11pt; color: rgb(237, 125, 49);">sabariah_bt_mohd_zin@moe.edu.sg</i></td>
-<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Allied Educator (Teaching &amp; Learning)</td></tr></tbody></table>
+<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Allied Educator (Teaching &amp; Learning)</td></tr>
+<tr>
+<td width="258" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Ms Priscilla Cheong<br><i style="font-size:11pt; color: rgb(237, 125, 49);">priscilla_cheong_xin_yee@moe.edu.sg</i></td>
+<td width="257" style="padding: 5px; text-align: center; border: 1px solid rgb(42, 42, 42); vertical-align: middle;">Student Welfare Officer </td></tr></tbody></table>
