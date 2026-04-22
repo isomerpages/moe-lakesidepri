@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Mother Tongue Fortnight and Language Cultural Camp 2026
+          date: 16 April 2026
+          announcement: The Mother Tongue Fortnight and Language Cultural Camp creates an
+            immersive environment where students experience Mother Tongue
+            Languages as "living languages."
+          link_text: Check more here
+          link_url: /mother-tongue-fortnight-and-language-cultural-camp-2026/
         - title: International Friendship Day 2026
           date: 06 April 2026
           announcement: The theme for International Friendship Day, Forging Friendships in
@@ -50,14 +57,6 @@ sections:
             Counts!" at Jurong Lake Gardens.
           link_text: Check more here
           link_url: /world-water-day-x-litter-picking-drive-2026/
-        - title: Online Overseas Cultural Exchange Programme with Anubansamsen School &
-            Wat Bot School
-          date: 11 March 2026
-          announcement: Our Lakers participated in a meaningful online cultural exchange
-            with students from Anubansamsen School and Wat Bot School. The two
-            schools are from Thailand, Bangkok.
-          link_text: Check more here
-          link_url: /online-overseas-cultural-exchange-programme-with-anubansamsen-school-wat-bot-school/
   - infobar:
       id: infobar
       button: Check here
