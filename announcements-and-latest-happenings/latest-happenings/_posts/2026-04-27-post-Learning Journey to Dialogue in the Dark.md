@@ -11,19 +11,19 @@ variant: markdown
 <br><br>
 This valuable experience enhanced our students' understanding of inclusivity and accessibility, encouraging them to appreciate accessible public infrastructure and fostering their commitment to building a more inclusive school community.</div>
 <br>
-<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_1.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_1.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Arrival at Dialogue In The Dark at Ngee Ann Polytechnic <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_2.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_2.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Interactive games before the actual experience <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_3.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_3.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Drawing with blindfold on <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_4.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/LJDIALOGUEINTHEDARK/LJDIALOGUE2026_4.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Completed Dialogue In The Dark experience <i style="color:blue;">(above)</i><br></span>
 <hr><br>
