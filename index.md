@@ -21,6 +21,28 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Learning Journey to Dialogue in the Dark
+          date: 27 April 2026
+          announcement: Our P5 Community Leadership Club students recently participated in
+            an enriching excursion to Dialogue in the Dark, where they were
+            guided by visually impaired facilitators through a unique learning
+            experience.
+          link_text: Check more here
+          link_url: /learning-journey-to-dialogue-in-the-dark/
+        - title: "Malay Language Competition: Juara Baca 2026"
+          date: 25 April 2026
+          announcement: Our Primary 5 and 6 students participated in the Juara Baca
+            Competition organised by BeritaMediacorp, with one of our students
+            achieving an impressive 2nd place.
+          link_text: Check more here
+          link_url: /malay-language-competition-juara-baca-2026/
+        - title: "Green Day 2026: Taking Charge for Our Earth"
+          date: 17 April 2026
+          announcement: On Monday, 20 April, in celebration of Earth Day, our school held
+            Green Day 2026 with engaging activities focused on climate change
+            and energy sustainability.
+          link_text: Check more here
+          link_url: /green-day-2026/
         - title: Mother Tongue Fortnight and Language Cultural Camp 2026
           date: 16 April 2026
           announcement: The Mother Tongue Fortnight and Language Cultural Camp creates an
@@ -36,27 +58,6 @@ sections:
             perspectives.
           link_text: Check more here
           link_url: /international-friendship-day-2026/
-        - title: Model Class Award (Term 1 2026)
-          date: 31 March 2026
-          announcement: The Model Class Awards (MCA) is a school-wide initiative that
-            recognises classes for demonstrating exemplary behaviour, strong
-            attendance, punctuality, and positive class culture.
-          link_text: Check more here
-          link_url: /model-class-award-term-1-2026/
-        - title: Hari Raya Concert 2026
-          date: 30 March 2026
-          announcement: On 30 March, our school hall was transformed into a vibrant
-            celebration of culture and community for our annual Hari Raya
-            Concert.
-          link_text: Check more here
-          link_url: /hari-raya-concert-2026/
-        - title: World Water Day x Litter Picking Drive 2026 - Clean Up @ Lakeside Gardens
-          date: 28 March 2026
-          announcement: On 28 March 2026, our school community partnered with PacificLight
-            for World Water Day under the theme "Be a Water Hero – Every Action
-            Counts!" at Jurong Lake Gardens.
-          link_text: Check more here
-          link_url: /world-water-day-x-litter-picking-drive-2026/
   - infobar:
       id: infobar
       button: Check here
