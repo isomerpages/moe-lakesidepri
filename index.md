@@ -21,16 +21,21 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: New Announcement
-          date: 28 April 2026
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 28 April 2026
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: Learning Journey to Dialogue in the Dark
+          date: 27 April 2026
+          announcement: Our P5 Community Leadership Club students recently participated in
+            an enriching excursion to Dialogue in the Dark, where they were
+            guided by visually impaired facilitators through a unique learning
+            experience.
+          link_text: Check more here
+          link_url: /learning-journey-to-dialogue-in-the-dark/
+        - title: "Malay Language Competition: Juara Baca 2026"
+          date: 25 April 2026
+          announcement: Our Primary 5 and 6 students participated in the Juara Baca
+            Competition organised by BeritaMediacorp, with one of our students
+            achieving an impressive 2nd place.
+          link_text: Check more here
+          link_url: /malay-language-competition-juara-baca-2026/
         - title: "Green Day 2026: Taking Charge for Our Earth"
           date: 17 April 2026
           announcement: On Monday, 20 April, in celebration of Earth Day, our school held
