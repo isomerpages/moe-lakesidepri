@@ -9,7 +9,6 @@ Click the image to view the full article/video
 <script src="//www.instagram.com/embed.js" async=""></script></div>
 <img src="/images/LSPS%20NEWS/berita_27apr2026_1.jpg" style="width: 80%; height: 80%;">
 <hr><br>
-
 <a href="https://berita.mediacorp.sg/singapura/juara-baca-berita-2026-sekolah-rendah-zhenghua-menang-besar-rangkul-juara-individu-dan-keseluruhan-1025546" target="_blank"><br><br>
 <img src="/images/LSPS%20NEWS/berita_27apr2026_2.jpg" style="width: 80%; height: 80%;"></a>
 <hr><br>
