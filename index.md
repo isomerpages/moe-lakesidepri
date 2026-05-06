@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: P6 Learning Journey to Asian Civilisation Museum
+          date: 29 April 2026
+          announcement: Our Primary 6 students visited the Asian Civilisations Museum to
+            deepen their understanding of Singapore’s cultural heritage and
+            national identity.
+          link_text: Check more here
+          link_url: /p6-learning-journey-to-asian-civilisation-museum/
         - title: Learning Journey to Dialogue in the Dark
           date: 27 April 2026
           announcement: Our P5 Community Leadership Club students recently participated in
@@ -50,14 +57,6 @@ sections:
             Languages as "living languages."
           link_text: Check more here
           link_url: /mother-tongue-fortnight-and-language-cultural-camp-2026/
-        - title: International Friendship Day 2026
-          date: 06 April 2026
-          announcement: The theme for International Friendship Day, Forging Friendships in
-            a Complex World, encourages students to take initiative in building
-            meaningful connections and to appreciate diverse cultures and
-            perspectives.
-          link_text: Check more here
-          link_url: /international-friendship-day-2026/
   - infobar:
       id: infobar
       button: Check here
