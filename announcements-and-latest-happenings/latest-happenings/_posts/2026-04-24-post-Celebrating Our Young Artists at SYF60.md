@@ -54,24 +54,24 @@ Let’s celebrate their achievements and are proud to see our Lakers Take Charge
 </div>
 
 <br>
-<img src="/images/Happenings/THAI2026/THAI2026_1.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/SYF2026/SYF2026_1.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Mrs Liang warmly welcoming students during her opening speech for the cultural exchange <i style="color:blue;">(above)</i><br></span>
+	<span style="color:blue;">•</span> Take Charge with <b>Diligence</b>—students perform with focus, discipline, and cultural appreciation. <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/THAI2026/THAI2026_2.jpg" style="width: 80%; height: 80%;">
-<img src="/images/Happenings/THAI2026/THAI2026_3.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/SYF2026/SYF2026_2.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Students sharing about food, tourist attractions, and environmental sustainability efforts  <i style="color:blue;">(above)</i><br></span>
+	<span style="color:blue;">•</span> Take Charge through movement, showing <b>Respect</b> and trust as students collaborate and bring stories to life. <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/THAI2026/THAI2026_4.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/SYF2026/SYF2026_3.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Anubansamsen School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br></span>
+	<span style="color:blue;">•</span> Take Charge of your voice with <b>Integrity</b>—students sing with confidence, unity, and purpose. <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/THAI2026/THAI2026_5.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/SYF2026/SYF2026_4.jpg" style="width: 90%; height: 90%;">
+<img src="/images/Happenings/SYF2026/SYF2026_5.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> A commemorative group photo of the students and staff from Wat Bot School &amp; Lakeside Primary School <i style="color:blue;">(above)</i><br></span>
+<span style="color:blue;">•</span>Take Charge through teamwork and <b>Perseverance</b>—students listen, adapt, and perform with precision and confidence. <i style="color:blue;">(above)</i><br></span>
 <hr><br>
-<img src="/images/Happenings/THAI2026/THAI2026_6.jpg" style="width: 80%; height: 80%;">
+<img src="/images/Happenings/SYF2026/SYF2026_6.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Ending the day with a meaningful and enriching exchange session <i style="color:blue;">(above)</i><br></span>
+	<span style="color:blue;">•</span>Take Charge of ideas with <b>Love</b>—students express, connect, and bring meaningful stories to life. <i style="color:blue;">(above)</i><br></span>
 <hr><br>
