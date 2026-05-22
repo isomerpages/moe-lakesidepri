@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: P4 Applied Learning Programme – Little Explorers Camp 2026
+          date: 19 May 2026
+          announcement: As part of the P4 Applied Learning Programme, students delved into
+            the theme of food sustainability through a range of authentic and
+            engaging learning experiences.
+          link_text: Check more here
+          link_url: /p4-applied-learning-programme-little-explorers-camp-2026/
         - title: Primary 2 Prata Discovery Experience
           date: 14 May 2026
           announcement: The Primary Two Prata Discovery Experience, conducted on 14 and 15
@@ -48,13 +55,6 @@ sections:
             national identity.
           link_text: Check more here
           link_url: /p6-learning-journey-to-asian-civilisation-museum/
-        - title: Shanghai Penglai Road No2 Primary School Visiting Programme
-          date: 27 April 2026
-          announcement: On 27 and 28 April, students and teachers from Shanghai Penglai
-            Primary School visited our school to strengthen friendship and
-            promote student exchange.
-          link_text: Check more here
-          link_url: /shanghai-penglai-road-no2-primary-school-visiting-programme/
   - infobar:
       id: infobar
       button: Check here
