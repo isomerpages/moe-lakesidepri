@@ -27,6 +27,13 @@ sections:
             May, was a meaningful extension of the STELLAR unit on roti prata.
           link_text: Check more here
           link_url: /primary-2-prata-discovery-experience-2026/
+        - title: P3 Little Thinkers Camp, ‘School of Our D.R.E.A.M.S’
+          date: 13 May 2026
+          announcement: The Primary 3 Little Thinkers Camp provided students with an
+            engaging platform to explore the importance of waste management
+            within the school environment.
+          link_text: Check more here
+          link_url: /p3-little-thinkers-camp-school-of-our-d-r-e-a-m-s/
         - title: Learning Journey to City Square Mall and CDL Ecotrain
           date: 04 May 2026
           announcement: Members of the Community Leadership Club embarked on an enriching
@@ -48,14 +55,6 @@ sections:
             promote student exchange.
           link_text: Check more here
           link_url: /shanghai-penglai-road-no2-primary-school-visiting-programme/
-        - title: Learning Journey to Dialogue in the Dark
-          date: 27 April 2026
-          announcement: Our P5 Community Leadership Club students recently participated in
-            an enriching excursion to Dialogue in the Dark, where they were
-            guided by visually impaired facilitators through a unique learning
-            experience.
-          link_text: Check more here
-          link_url: /learning-journey-to-dialogue-in-the-dark/
   - infobar:
       id: infobar
       button: Check here
