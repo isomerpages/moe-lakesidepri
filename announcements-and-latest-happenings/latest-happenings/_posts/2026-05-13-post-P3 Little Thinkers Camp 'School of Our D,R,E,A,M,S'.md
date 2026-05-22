@@ -29,5 +29,4 @@ The camp concluded with group presentations, where students confidently shared t
 <hr><br>
 <img src="/images/Happenings/P3%20ALP/P3ALP2026_4.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Presenting our slides to our friends <i style="color:blue;">(above)</i><br></span>	
-</span>
+<span style="color:blue;">•</span> Presenting our slides to our friends <i style="color:blue;">(above)</i><br></span>	</span>
