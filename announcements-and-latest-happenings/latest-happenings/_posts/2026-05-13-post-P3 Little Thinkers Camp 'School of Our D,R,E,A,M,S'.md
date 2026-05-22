@@ -25,8 +25,8 @@ The camp concluded with group presentations, where students confidently shared t
 <hr><br>
 <img src="/images/Happenings/P3%20ALP/P3ALP2026_3.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span>Working together to create the prototype. Our parent volunteers from our Parent Support Group helped out too! <i style="color:blue;">(left)</i><br><span style="color:blue;">•</span> Our finished product to advocate for good waste management habits in school! <i style="color:blue;">(bottom right)</i><br><span style="color:blue;">•</span> Giving each other helpful feedback for improvement! <i style="color:blue;">(right)</i></span>
+<span style="color:blue;">•</span> Working together to create the prototype. Our parent volunteers from our Parent Support Group helped out too! <i style="color:blue;">(top left)</i><br><span style="color:blue;">•</span> Our finished product to advocate for good waste management habits in school! <i style="color:blue;">(bottom right)</i><br><span style="color:blue;">•</span> Giving each other helpful feedback for improvement <i style="color:blue;">(right)</i></span>
 <hr><br>
 <img src="/images/Happenings/P3%20ALP/P3ALP2026_4.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Presenting our slides to our friends <i style="color:blue;">(above)</i><br></span>	</span>
+<span style="color:blue;">•</span> Showcasing our work through a presentation! <i style="color:blue;">(above)</i><br></span></span>
