@@ -21,6 +21,12 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Primary 2 Prata Discovery Experience
+          date: 14 May 2026
+          announcement: The Primary Two Prata Discovery Experience, conducted on 14 and 15
+            May, was a meaningful extension of the STELLAR unit on roti prata.
+          link_text: Check more here
+          link_url: /primary-2-prata-discovery-experience-2026/
         - title: Learning Journey to City Square Mall and CDL Ecotrain
           date: 04 May 2026
           announcement: Members of the Community Leadership Club embarked on an enriching
@@ -50,13 +56,6 @@ sections:
             experience.
           link_text: Check more here
           link_url: /learning-journey-to-dialogue-in-the-dark/
-        - title: "Malay Language Competition: Juara Baca 2026"
-          date: 25 April 2026
-          announcement: Our Primary 5 and 6 students participated in the Juara Baca
-            Competition organised by BeritaMediacorp, with one of our students
-            achieving an impressive 2nd place.
-          link_text: Check more here
-          link_url: /malay-language-competition-juara-baca-2026/
   - infobar:
       id: infobar
       button: Check here
