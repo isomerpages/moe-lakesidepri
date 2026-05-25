@@ -9,7 +9,7 @@ variant: markdown
 ---
 <div style="font-size:14pt;" align="justify">As part of the P4 Applied Learning Programme, students delved into the theme of food sustainability through a range of authentic and engaging learning experiences. In Science lessons, they planted onions to better understand the conditions needed for crops to thrive, while a Physical Education orienteering activity challenged them to identify suitable spaces within the school for sustainable food-growing efforts.
 <br><br>
-One of the highlights of the Little Explorers Camp was a learning journey to Nippon Koi Farm, where students gained insights into how innovation and sustainable practices contribute to Singapore’s food security efforts. Back in school, students applied the Design Thinking process to develop ideas for sustainable eco-plots, creating LEGO prototypes and presenting their concepts through Google Slides.
+One of the highlights of the Little Explorers Camp was a learning journey to Nippon Koi Farm, where students gained insights into how innovation and sustainable practices contribute to Singapore’s food security efforts. Back in school, students applied the Design Thinking process to develop ideas for sustainable eco-plots, creating LEGO prototypes and presenting their concepts through Google Slides under the facilitation led by our teachers and supported by parent volunteers from our Parents Support Group.
 <br><br>
 Through these interdisciplinary experiences, students strengthened important 21st Century Competencies such as adaptive thinking, collaboration, and communication.</div>
 <br>
