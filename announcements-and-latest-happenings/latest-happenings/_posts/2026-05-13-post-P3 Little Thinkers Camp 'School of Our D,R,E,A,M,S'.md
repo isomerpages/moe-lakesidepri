@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<span style="font-size:15pt;"><b>P3 Little Thinkers Camp, ‘School of Our D.R.E.A.M.S’</b>
+<span style="font-size:15pt;"><b>P3 Little Thinkers Camp, ‘School of Our D.R.E.A.M.S’</b></span>
 	
 <div style="font-size:14pt;" align="justify">The Primary 3 Little Thinkers Camp provided students with an engaging platform to explore the importance of waste management within the school environment. The camp included learning journeys to various sites such as an e-waste recycling facility, paper recycling plant, wood upcycling factory, and Edible Garden City – a social enterprise that champions the Grow-Our-Own-Food movement. 
 <br><br>
@@ -29,4 +29,4 @@ The camp concluded with group presentations, where students confidently shared t
 <hr><br>
 <img src="/images/Happenings/P3%20ALP/P3ALP2026_4.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span> Showcasing our work through a presentation! <i style="color:blue;">(above)</i><br></span></span>
+<span style="color:blue;">•</span> Showcasing our work through a presentation! <i style="color:blue;">(above)</i><br></span>
