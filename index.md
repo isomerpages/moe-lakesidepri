@@ -21,6 +21,17 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: New Announcement
+          date: 29 May 2026
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: P4 Swimsafer 2026
+          date: 22 May 2026
+          announcement: Our Primary 4 students had an enriching and meaningful experience
+            during the SwimSafer Programme 2026.
+          link_text: Check more here
+          link_url: /p4-swimsafer-2026/
         - title: P4 Applied Learning Programme – Little Explorers Camp 2026
           date: 19 May 2026
           announcement: As part of the P4 Applied Learning Programme, students delved into
@@ -41,20 +52,6 @@ sections:
             within the school environment.
           link_text: Check more here
           link_url: /p3-little-thinkers-camp-school-of-our-d-r-e-a-m-s/
-        - title: Learning Journey to City Square Mall and CDL Ecotrain
-          date: 04 May 2026
-          announcement: Members of the Community Leadership Club embarked on an enriching
-            learning journey to City Square Mall and the CDL Ecotrain, where
-            they explored the importance of environmental sustainability.
-          link_text: Check more here
-          link_url: /learning-journey-to-city-square-mall-and-cdl-ecotrain/
-        - title: P6 Learning Journey to Asian Civilisation Museum
-          date: 29 April 2026
-          announcement: Our Primary 6 students visited the Asian Civilisations Museum to
-            deepen their understanding of Singapore’s cultural heritage and
-            national identity.
-          link_text: Check more here
-          link_url: /p6-learning-journey-to-asian-civilisation-museum/
   - infobar:
       id: infobar
       button: Check here
