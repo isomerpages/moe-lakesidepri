@@ -21,11 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
-        - title: New Announcement
-          date: 29 May 2026
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: Primary 6 Inter Class Games (ICG)
+          date: 26 May 2026
+          announcement: The Primary 6 Inter-Class Games (ICG) promoted teamwork, active
+            participation and positive sporting values through friendly
+            competition.
+          link_text: Check more here
+          link_url: /primary-6-inter-class-games-icg/
         - title: P4 Swimsafer 2026
           date: 22 May 2026
           announcement: Our Primary 4 students had an enriching and meaningful experience
