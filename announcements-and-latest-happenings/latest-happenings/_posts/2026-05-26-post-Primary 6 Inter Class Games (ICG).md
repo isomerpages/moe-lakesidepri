@@ -9,7 +9,7 @@ variant: markdown
 ---
 <div style="font-size:14pt;" align="justify">The Primary 6 Inter-Class Games (ICG) promoted teamwork, active participation and positive sporting values through friendly competition. Students demonstrated the LPRIDE values of Love, Respect, Perseverance, Integrity, Diligence and Excellence by encouraging teammates, respecting referees’ decisions and showing graciousness towards opponents before, during and after each match. 
 <br><br>
-A strong emphasis was placed on sportsmanship, with points awarded for fair play, encouragement and respectful behaviour. The event also showcased strong class spirit, with students actively supporting one another throughout the games. Congratulations to 6 Integrity for emerging champions, 6 Love for attaining second place and 6 Respect for securing third place.</div>
+A strong emphasis was placed on sportsmanship, with points awarded for fair play, encouragement and respectful behaviour. The event also showcased strong class spirit, with students actively supporting one another throughout the games. Congratulations to 6 Integrity for emerging champions, 6 Love for attaining second place and 6 Perseverance for securing third place.</div>
 <br>
 <img src="/images/Happenings/P6ICG/P6ICG2026_1.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
