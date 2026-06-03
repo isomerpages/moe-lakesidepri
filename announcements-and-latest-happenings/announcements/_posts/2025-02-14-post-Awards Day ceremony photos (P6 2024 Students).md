@@ -1,6 +1,6 @@
 ---
 title: Awards Day ceremony photos (P6 2024 Students)
-permalink: /awards-day-2024/
+permalink: /awards-day-2024-photo/
 date: 2025-02-14
 layout: post
 description: ""
