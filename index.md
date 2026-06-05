@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: P4 Goalball Experience
+          date: 28 May 2026
+          announcement: The P4 Goalball Experience, a collaborative effort between the PE
+            and EL departments, allowed  students to make connections between
+            their Stellar Unit - The Paralympic Games and inclusive sports.
+          link_text: Check more here
+          link_url: /p4-goalball-experience/
         - title: Primary 6 Inter Class Games (ICG)
           date: 26 May 2026
           announcement: The Primary 6 Inter-Class Games (ICG) promoted teamwork, active
@@ -47,13 +54,6 @@ sections:
             May, was a meaningful extension of the STELLAR unit on roti prata.
           link_text: Check more here
           link_url: /primary-2-prata-discovery-experience-2026/
-        - title: P3 Little Thinkers Camp, ‘School of Our D.R.E.A.M.S’
-          date: 13 May 2026
-          announcement: The Primary 3 Little Thinkers Camp provided students with an
-            engaging platform to explore the importance of waste management
-            within the school environment.
-          link_text: Check more here
-          link_url: /p3-little-thinkers-camp-school-of-our-d-r-e-a-m-s/
   - infobar:
       id: infobar
       button: Check here
