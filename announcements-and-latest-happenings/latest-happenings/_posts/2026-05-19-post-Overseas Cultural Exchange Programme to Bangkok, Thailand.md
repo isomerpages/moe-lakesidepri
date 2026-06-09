@@ -34,6 +34,11 @@ Through this experience, students returned home not just with memories, but with
 From cultural exchanges to sustainability experiences — our Thai friends brought their world to us, and we shared ours right back! <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/THAITRIP2026/THAITRIP2026_8.jpg" style="width: 90%; height: 90%;">
+<span style="font-size:10pt;">
+<span style="color:blue;">•</span> Suan Sampran Organic Farm
+From field to fabric. Learning about the process of harvesting padi, dyeing scarves and decorating tote bags with nature's own colours.
+ <i style="color:blue;">(above)</i><br></span>
+<hr><br>
 <img src="/images/Happenings/THAITRIP2026/THAITRIP2026_9.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
 <span style="color:blue;">•</span> Sweet, graceful, and melodic. At Pattayakul Learning Centre, students tried their hand at making traditional dessert Lao Chuk, learning the art of Thai dance, and playing the Khim — a taste of Thai tradition in every sense. <i style="color:blue;">(above)</i><br></span>
