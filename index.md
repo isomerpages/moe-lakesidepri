@@ -48,8 +48,7 @@ sections:
             engaging learning experiences.
           link_text: Check more here
           link_url: /p4-applied-learning-programme-little-explorers-camp-2026/
-        - title: Overseas Cultural Exchange Programme to Bangkok, Thailand (19 to 22 May
-            2026)
+        - title: Overseas Cultural Exchange Programme to Bangkok, Thailand
           date: 19 May 2026
           announcement: Over four days, students explored Thailand's vibrant culture and
             ancient heritage, connected with local peers, and reflected on how
