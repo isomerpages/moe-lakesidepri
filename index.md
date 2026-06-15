@@ -21,6 +21,13 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: "A Fathers’ Day Event by PSG: The Great Dads Dash!"
+          date: 03 June 2026
+          announcement: On Wednesday, 3 June 2026, the Lakeside Primary School Parent
+            Support Group (LSPS PSG) hosted ‘The Great Dads Dash’, an exciting
+            and lively UNO-inspired Dad-Child Challenge.
+          link_text: Check more here
+          link_url: /a-fathers-day-event-by-psg-the-great-dads-dash/
         - title: P4 Goalball Experience
           date: 28 May 2026
           announcement: The P4 Goalball Experience, a collaborative effort between the PE
@@ -48,13 +55,6 @@ sections:
             engaging learning experiences.
           link_text: Check more here
           link_url: /p4-applied-learning-programme-little-explorers-camp-2026/
-        - title: Overseas Cultural Exchange Programme to Bangkok, Thailand
-          date: 19 May 2026
-          announcement: Over four days, students explored Thailand's vibrant culture and
-            ancient heritage, connected with local peers, and reflected on how
-            everyday choices impact the world around us.
-          link_text: Check more here
-          link_url: /overseas-cultural-exchange-programme-to-bangkok-thailand/
   - infobar:
       id: infobar
       button: Check here
