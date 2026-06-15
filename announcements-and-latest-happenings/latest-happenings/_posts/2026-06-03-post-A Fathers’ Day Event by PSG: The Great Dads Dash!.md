@@ -21,7 +21,7 @@ Thank you to all the wonderful fathers who took the time to join in this event. 
 <hr><br>
 <img src="/images/Happenings/PSGDADSDAY/DADSDASH2026_1.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
-<span style="color:blue;">•</span>Starting easy with the first game: testing our listening skills and secret communication at the 'U-NO MY MATCH?' pre-game station! <i style="color:blue;">(above)</i><br></span>
+<span style="color:blue;">•</span> Starting easy with the first game: testing our listening skills and secret communication at the 'U-NO MY MATCH?' pre-game station! <i style="color:blue;">(above)</i><br></span>
 <hr><br>
 <img src="/images/Happenings/PSGDADSDAY/DADSDASH2026_2.jpg" style="width: 90%; height: 90%;">
 <span style="font-size:10pt;">
