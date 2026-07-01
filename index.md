@@ -21,6 +21,14 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: P6 Education & Career Guidance Talk
+          date: 26 June 2026
+          announcement: Our Primary 6 students gained first-hand insights into a diverse
+            range of professions through engaging conversations with industry
+            professionals. The ECG Career Talks inspired them to explore future
+            possibilities and discover the many pathways that lie ahead.
+          link_text: Check more here
+          link_url: /p6-education-career-guidance-talk/
         - title: "A Fathers’ Day Event by PSG: The Great Dads Dash!"
           date: 03 June 2026
           announcement: On Wednesday, 3 June 2026, the Lakeside Primary School Parent
@@ -48,13 +56,6 @@ sections:
             during the SwimSafer Programme 2026.
           link_text: Check more here
           link_url: /p4-swimsafer-2026/
-        - title: P4 Applied Learning Programme – Little Explorers Camp 2026
-          date: 19 May 2026
-          announcement: As part of the P4 Applied Learning Programme, students delved into
-            the theme of food sustainability through a range of authentic and
-            engaging learning experiences.
-          link_text: Check more here
-          link_url: /p4-applied-learning-programme-little-explorers-camp-2026/
   - infobar:
       id: infobar
       button: Check here
