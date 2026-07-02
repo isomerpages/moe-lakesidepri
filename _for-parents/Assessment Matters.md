@@ -21,6 +21,8 @@ assessments for the respective levels.
 <a style="text-decoration: none" href="/files/Assessment/Annex_A_P5_Assessment_Plan_2026_v2.pdf" target="_blank">• Annex A P5 Assessment Plan 2026</a><br>
 <a style="text-decoration: none" href="/files/Assessment/Annex_A_P6_Assessment_Plan_2026_v2.pdf" target="_blank">• Annex A P6 Assessment Plan 2026</a>
 <br><br>
+
+<br><br>
 EXAMINATION POLICY (FOR PRIMARY 3 TO 6)
 <br>
 Examination is part of teaching and learning to help the students understand their
