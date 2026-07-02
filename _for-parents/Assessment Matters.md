@@ -21,7 +21,10 @@ assessments for the respective levels.
 <a style="text-decoration: none" href="/files/Assessment/Annex_A_P5_Assessment_Plan_2026_v2.pdf" target="_blank">• Annex A P5 Assessment Plan 2026</a><br>
 <a style="text-decoration: none" href="/files/Assessment/Annex_A_P6_Assessment_Plan_2026_v2.pdf" target="_blank">• Annex A P6 Assessment Plan 2026</a>
 <br><br>
-
+<b>P6 Preliminary Examination Letter and Subject Information</b><br>
+<a style="text-decoration: none" href="/files/Assessment/P6_Preliminary_Examination_Letter_to_Parents_2026.pdf" target="_blank">• P6 Preliminary Examination Letter to Parents 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/P6_Prelims_Foundation_Subject_Information_for_Parents_2026.pdf" target="_blank">• P6 Prelims Foundation Subject Information for Parents 2026</a><br>
+<a style="text-decoration: none" href="/files/Assessment/P6_Prelims_Standard___Higher_Mother_Tongue_Subject_Information_for_Parents_2026.pdf" target="_blank">• P6 Prelims Standard &amp; Higher Mother Tongue Subject Information for Parents 2026</a>
 <br><br>
 EXAMINATION POLICY (FOR PRIMARY 3 TO 6)
 <br>
