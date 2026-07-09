@@ -21,6 +21,15 @@ sections:
       title: Announcements and Latest Happenings
       id: announcements
       announcement_items:
+        - title: Model Class Award (Term 2 2026)
+          date: 03 July 2026
+          announcement: Celebrating classes and students that lead by example! The Model
+            Class Awards recognise classes that consistently demonstrate
+            positive behaviour, teamwork, responsibility, and school pride,
+            inspiring others to contribute to a caring and respectful school
+            community.
+          link_text: Check more here
+          link_url: /model-class-award-term-2-2026/
         - title: P6 Education & Career Guidance Talk
           date: 26 June 2026
           announcement: Our Primary 6 students gained first-hand insights into a diverse
@@ -50,12 +59,6 @@ sections:
             competition.
           link_text: Check more here
           link_url: /primary-6-inter-class-games-icg/
-        - title: P4 Swimsafer 2026
-          date: 22 May 2026
-          announcement: Our Primary 4 students had an enriching and meaningful experience
-            during the SwimSafer Programme 2026.
-          link_text: Check more here
-          link_url: /p4-swimsafer-2026/
   - infobar:
       id: infobar
       button: Check here
